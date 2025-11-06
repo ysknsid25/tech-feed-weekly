@@ -9,6 +9,9 @@ on:
 jobs:
   collect-feeds:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required for git push
+      actions: read   # Required for checkout
 
     steps:
     - name: Checkout code
