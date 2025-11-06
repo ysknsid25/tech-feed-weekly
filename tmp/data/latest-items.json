@@ -184,6 +184,11 @@
       "title": "New releases for GitHub Actions – November 2025",
       "link": "https://github.blog/changelog/2025-11-06-new-releases-for-github-actions-november-2025",
       "category": "cloud"
+    },
+    {
+      "title": "GitHub Copilot CLI 101: How to use GitHub Copilot from the command line | The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/",
+      "category": "jsts"
     }
   ]
 }
