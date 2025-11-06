@@ -1,0 +1,617 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>collector: Go Coverage Report</title>
+		<style>
+			body {
+				background: black;
+				color: rgb(80, 80, 80);
+			}
+			body, pre, #legend span {
+				font-family: Menlo, monospace;
+				font-weight: bold;
+			}
+			#topbar {
+				background: black;
+				position: fixed;
+				top: 0; left: 0; right: 0;
+				height: 42px;
+				border-bottom: 1px solid rgb(80, 80, 80);
+			}
+			#content {
+				margin-top: 50px;
+			}
+			#nav, #legend {
+				float: left;
+				margin-left: 10px;
+			}
+			#legend {
+				margin-top: 12px;
+			}
+			#nav {
+				margin-top: 10px;
+			}
+			#legend span {
+				margin: 0 5px;
+			}
+			.cov0 { color: rgb(192, 0, 0) }
+.cov1 { color: rgb(128, 128, 128) }
+.cov2 { color: rgb(116, 140, 131) }
+.cov3 { color: rgb(104, 152, 134) }
+.cov4 { color: rgb(92, 164, 137) }
+.cov5 { color: rgb(80, 176, 140) }
+.cov6 { color: rgb(68, 188, 143) }
+.cov7 { color: rgb(56, 200, 146) }
+.cov8 { color: rgb(44, 212, 149) }
+.cov9 { color: rgb(32, 224, 152) }
+.cov10 { color: rgb(20, 236, 155) }
+
+		</style>
+	</head>
+	<body>
+		<div id="topbar">
+			<div id="nav">
+				<select id="files">
+				
+				<option value="file0">tech-feed-weekly/cmd/collector/main.go (0.0%)</option>
+				
+				<option value="file1">tech-feed-weekly/internal/config/config.go (87.5%)</option>
+				
+				<option value="file2">tech-feed-weekly/internal/feed/fetcher.go (91.8%)</option>
+				
+				<option value="file3">tech-feed-weekly/internal/feed/processor.go (95.3%)</option>
+				
+				<option value="file4">tech-feed-weekly/internal/storage/storage.go (84.6%)</option>
+				
+				</select>
+			</div>
+			<div id="legend">
+				<span>not tracked</span>
+			
+				<span class="cov0">not covered</span>
+				<span class="cov8">covered</span>
+			
+			</div>
+		</div>
+		<div id="content">
+		
+		<pre class="file" id="file0" style="display: none">package main
+
+import (
+        "log"
+        "tech-feed-weekly/internal/config"
+        "tech-feed-weekly/internal/feed"
+        "tech-feed-weekly/internal/storage"
+)
+
+const (
+        ConfigDir         = "config"
+        LatestItemsPath   = "tmp/data/latest-items.json"
+)
+
+func main() <span class="cov0" title="0">{
+        log.Println("Starting feed collector...")
+
+        // Load all configuration files from configs directory
+        log.Println("Loading configuration files...")
+        configMap, err := config.LoadAllConfigs(ConfigDir)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Fatalf("Failed to load configurations: %v", err)
+        }</span>
+
+        <span class="cov0" title="0">totalFeeds := 0
+        for _, configData := range configMap </span><span class="cov0" title="0">{
+                totalFeeds += len(configData.Data)
+        }</span>
+        <span class="cov0" title="0">log.Printf("Loaded %d configuration files with %d total feed configurations", len(configMap), totalFeeds)
+
+        // Load existing latest items
+        log.Println("Loading existing latest items...")
+        existingItems, err := storage.LoadLatestItems(LatestItemsPath)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Fatalf("Failed to load latest items: %v", err)
+        }</span>
+        <span class="cov0" title="0">log.Printf("Loaded %d existing items", len(existingItems.Items))
+
+        // Process all feeds to find new items and update config files
+        log.Println("Processing feeds to find new items...")
+        newItems, err := feed.ProcessAllFeeds(configMap, existingItems)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Printf("Warning: Some feeds failed to process: %v", err)
+                // Continue processing even if some feeds failed
+        }</span>
+
+        <span class="cov0" title="0">if len(newItems) == 0 </span><span class="cov0" title="0">{
+                log.Println("No new items found")
+                return
+        }</span>
+
+        <span class="cov0" title="0">log.Printf("Found %d new items", len(newItems))
+
+        // Add new items to existing items
+        itemsAdded := 0
+        for _, newItem := range newItems </span><span class="cov0" title="0">{
+                if storage.AddLatestItem(existingItems, newItem) </span><span class="cov0" title="0">{
+                        itemsAdded++
+                        log.Printf("Added new item: %s - %s", newItem.Category, newItem.Title)
+                }</span>
+        }
+
+        // Save updated items back to file
+        <span class="cov0" title="0">if itemsAdded &gt; 0 </span><span class="cov0" title="0">{
+                log.Printf("Saving %d new items to %s", itemsAdded, LatestItemsPath)
+                if err := storage.SaveLatestItems(LatestItemsPath, existingItems); err != nil </span><span class="cov0" title="0">{
+                        log.Fatalf("Failed to save latest items: %v", err)
+                }</span>
+                <span class="cov0" title="0">log.Printf("Successfully saved %d new items", itemsAdded)</span>
+        } else<span class="cov0" title="0"> {
+                log.Println("No new items to save")
+        }</span>
+
+        <span class="cov0" title="0">log.Println("Feed collector completed successfully")</span>
+}</pre>
+		
+		<pre class="file" id="file1" style="display: none">package config
+
+import (
+        "encoding/json"
+        "fmt"
+        "io/fs"
+        "os"
+        "path/filepath"
+        "strings"
+        "tech-feed-weekly/pkg/models"
+)
+
+// ConfigFileData represents config file data with filename
+type ConfigFileData struct {
+        FilePath string
+        Category string
+        Data     []models.FeedConfig
+}
+
+// LoadAllConfigs loads all JSON configuration files from the configs directory
+// Returns a map with filename (without extension) as key and ConfigFileData as value
+func LoadAllConfigs(configDir string) (map[string]*ConfigFileData, error) <span class="cov8" title="1">{
+        configMap := make(map[string]*ConfigFileData)
+
+        err := filepath.WalkDir(configDir, func(path string, d fs.DirEntry, err error) error </span><span class="cov8" title="1">{
+                if err != nil </span><span class="cov8" title="1">{
+                        return err
+                }</span>
+
+                // Skip directories and non-JSON files
+                <span class="cov8" title="1">if d.IsDir() || !strings.HasSuffix(strings.ToLower(d.Name()), ".json") </span><span class="cov8" title="1">{
+                        return nil
+                }</span>
+
+                // Get filename without extension for category
+                <span class="cov8" title="1">filename := d.Name()
+                category := strings.TrimSuffix(filename, filepath.Ext(filename))
+
+                // Read and parse JSON file
+                data, err := os.ReadFile(path)
+                if err != nil </span><span class="cov0" title="0">{
+                        return fmt.Errorf("failed to read config file %s: %w", path, err)
+                }</span>
+
+                <span class="cov8" title="1">var feedData models.FeedData
+                if err := json.Unmarshal(data, &amp;feedData); err != nil </span><span class="cov0" title="0">{
+                        return fmt.Errorf("failed to parse JSON file %s: %w", path, err)
+                }</span>
+
+                // Set category for each feed config
+                <span class="cov8" title="1">for i := range feedData.Data </span><span class="cov8" title="1">{
+                        feedData.Data[i].Category = category
+                }</span>
+
+                <span class="cov8" title="1">configMap[category] = &amp;ConfigFileData{
+                        FilePath: path,
+                        Category: category,
+                        Data:     feedData.Data,
+                }
+
+                return nil</span>
+        })
+
+        <span class="cov8" title="1">if err != nil </span><span class="cov8" title="1">{
+                return nil, fmt.Errorf("failed to load configs: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">return configMap, nil</span>
+}
+
+// UpdateConfigFile updates a specific config file with new latest links
+func UpdateConfigFile(configData *ConfigFileData) error <span class="cov8" title="1">{
+        feedData := models.FeedData{
+                Data: configData.Data,
+        }
+
+        data, err := json.MarshalIndent(feedData, "", "  ")
+        if err != nil </span><span class="cov0" title="0">{
+                return fmt.Errorf("failed to marshal config data: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">if err := os.WriteFile(configData.FilePath, data, 0644); err != nil </span><span class="cov0" title="0">{
+                return fmt.Errorf("failed to write config file %s: %w", configData.FilePath, err)
+        }</span>
+
+        <span class="cov8" title="1">return nil</span>
+}
+
+// GetAllFeedConfigs extracts all feed configs from the config map
+func GetAllFeedConfigs(configMap map[string]*ConfigFileData) []models.FeedConfig <span class="cov8" title="1">{
+        var allConfigs []models.FeedConfig
+        for _, configData := range configMap </span><span class="cov8" title="1">{
+                allConfigs = append(allConfigs, configData.Data...)
+        }</span>
+        <span class="cov8" title="1">return allConfigs</span>
+}</pre>
+		
+		<pre class="file" id="file2" style="display: none">package feed
+
+import (
+        "encoding/xml"
+        "fmt"
+        "net/http"
+        "sort"
+        "strings"
+        "tech-feed-weekly/pkg/models"
+        "time"
+)
+
+// FetchLatestItem fetches the latest item from RSS/Atom feed
+func FetchLatestItem(feedConfig models.FeedConfig) (*models.LatestItem, error) <span class="cov8" title="1">{
+        feedURL := getFeedURL(feedConfig)
+        if feedURL == "" </span><span class="cov0" title="0">{
+                return nil, fmt.Errorf("could not generate feed URL for %s", feedConfig.Name)
+        }</span>
+
+        <span class="cov8" title="1">isAtomFormat := isAtomFeed(feedConfig.Type)
+
+        // Fetch the feed
+        resp, err := http.Get(feedURL)
+        if err != nil </span><span class="cov8" title="1">{
+                return nil, fmt.Errorf("failed to fetch feed %s: %w", feedURL, err)
+        }</span>
+        <span class="cov8" title="1">defer resp.Body.Close()
+
+        if resp.StatusCode != http.StatusOK </span><span class="cov8" title="1">{
+                return nil, fmt.Errorf("HTTP error %d when fetching %s", resp.StatusCode, feedURL)
+        }</span>
+
+        <span class="cov8" title="1">if isAtomFormat </span><span class="cov8" title="1">{
+                return parseAtomFeed(resp, feedConfig)
+        }</span>
+        <span class="cov8" title="1">return parseRSSFeed(resp, feedConfig)</span>
+}
+
+// getFeedURL generates the appropriate feed URL based on the feed type
+func getFeedURL(config models.FeedConfig) string <span class="cov8" title="1">{
+        switch config.Type </span>{
+        case "zenn":<span class="cov8" title="1">
+                return fmt.Sprintf("https://zenn.dev/%s/feed", config.FeedURL)</span>
+        case "note":<span class="cov8" title="1">
+                return fmt.Sprintf("https://note.com/%s/rss", config.FeedURL)</span>
+        case "qiita":<span class="cov8" title="1">
+                return fmt.Sprintf("https://qiita.com/%s/feed", config.FeedURL)</span>
+        case "hatena":<span class="cov8" title="1">
+                return fmt.Sprintf("%s/rss", config.FeedURL)</span>
+        case "scrapbox":<span class="cov8" title="1">
+                return fmt.Sprintf("https://scrapbox.io/api/feed/%s", config.FeedURL)</span>
+        case "connpass":<span class="cov8" title="1">
+                return fmt.Sprintf("https://%s.connpass.com/ja.atom", config.FeedURL)</span>
+        case "categoryIsUrl", "categoryIsAtomUrl":<span class="cov8" title="1">
+                return config.FeedURL</span>
+        default:<span class="cov8" title="1">
+                return ""</span>
+        }
+}
+
+// isAtomFeed determines if the feed type is Atom format
+func isAtomFeed(feedType string) bool <span class="cov8" title="1">{
+        return feedType == "qiita" || feedType == "connpass" || feedType == "categoryIsAtomUrl"
+}</span>
+
+// parseRSSFeed parses RSS feed and returns the latest item
+func parseRSSFeed(resp *http.Response, config models.FeedConfig) (*models.LatestItem, error) <span class="cov8" title="1">{
+        var feed models.RSSFeed
+        if err := xml.NewDecoder(resp.Body).Decode(&amp;feed); err != nil </span><span class="cov8" title="1">{
+                return nil, fmt.Errorf("failed to decode RSS feed: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">if len(feed.Channel.Items) == 0 </span><span class="cov8" title="1">{
+                return nil, fmt.Errorf("no items found in RSS feed")
+        }</span>
+
+        // Parse dates and find the latest item
+        <span class="cov8" title="1">var items []models.RSSItem
+        for _, item := range feed.Channel.Items </span><span class="cov8" title="1">{
+                parsedDate, err := parseDate(item.PubDate)
+                if err != nil </span><span class="cov0" title="0">{
+                        // If date parsing fails, skip this item or use current time
+                        parsedDate = time.Now()
+                }</span>
+                <span class="cov8" title="1">item.Date = parsedDate
+                items = append(items, item)</span>
+        }
+
+        // Sort by date (latest first)
+        <span class="cov8" title="1">sort.Slice(items, func(i, j int) bool </span><span class="cov8" title="1">{
+                return items[i].Date.After(items[j].Date)
+        }</span>)
+
+        <span class="cov8" title="1">latestItem := items[0]
+        return &amp;models.LatestItem{
+                Title:    strings.TrimSpace(latestItem.Title),
+                Link:     strings.TrimSpace(latestItem.Link),
+                Category: config.Category,
+        }, nil</span>
+}
+
+// parseAtomFeed parses Atom feed and returns the latest item
+func parseAtomFeed(resp *http.Response, config models.FeedConfig) (*models.LatestItem, error) <span class="cov8" title="1">{
+        var feed models.AtomFeed
+        if err := xml.NewDecoder(resp.Body).Decode(&amp;feed); err != nil </span><span class="cov0" title="0">{
+                return nil, fmt.Errorf("failed to decode Atom feed: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">if len(feed.Entries) == 0 </span><span class="cov0" title="0">{
+                return nil, fmt.Errorf("no entries found in Atom feed")
+        }</span>
+
+        // Parse dates and find the latest entry
+        <span class="cov8" title="1">var entries []models.AtomEntry
+        for _, entry := range feed.Entries </span><span class="cov8" title="1">{
+                parsedDate, err := parseDate(entry.Updated)
+                if err != nil </span><span class="cov0" title="0">{
+                        // If date parsing fails, skip this entry or use current time
+                        parsedDate = time.Now()
+                }</span>
+                <span class="cov8" title="1">entry.Date = parsedDate
+                entries = append(entries, entry)</span>
+        }
+
+        // Sort by date (latest first)
+        <span class="cov8" title="1">sort.Slice(entries, func(i, j int) bool </span><span class="cov8" title="1">{
+                return entries[i].Date.After(entries[j].Date)
+        }</span>)
+
+        <span class="cov8" title="1">latestEntry := entries[0]
+        return &amp;models.LatestItem{
+                Title:    strings.TrimSpace(latestEntry.Title),
+                Link:     strings.TrimSpace(latestEntry.Link.Href),
+                Category: config.Category,
+        }, nil</span>
+}
+
+// parseDate parses various date formats commonly used in RSS/Atom feeds
+func parseDate(dateStr string) (time.Time, error) <span class="cov8" title="1">{
+        dateStr = strings.TrimSpace(dateStr)
+
+        // Common date formats in RSS/Atom feeds
+        formats := []string{
+                time.RFC1123,     // RSS format: Mon, 02 Jan 2006 15:04:05 MST
+                time.RFC1123Z,    // RSS format with numeric timezone
+                time.RFC3339,     // Atom format: 2006-01-02T15:04:05Z07:00
+                time.RFC3339Nano, // Atom format with nanoseconds
+                "2006-01-02T15:04:05Z",
+                "2006-01-02T15:04:05",
+                "2006-01-02 15:04:05",
+                "Mon, 2 Jan 2006 15:04:05 MST",
+                "Mon, 2 Jan 2006 15:04:05 -0700",
+        }
+
+        for _, format := range formats </span><span class="cov8" title="1">{
+                if t, err := time.Parse(format, dateStr); err == nil </span><span class="cov8" title="1">{
+                        return t, nil
+                }</span>
+        }
+
+        <span class="cov8" title="1">return time.Time{}, fmt.Errorf("unable to parse date: %s", dateStr)</span>
+}</pre>
+		
+		<pre class="file" id="file3" style="display: none">package feed
+
+import (
+        "fmt"
+        "log"
+        "tech-feed-weekly/internal/config"
+        "tech-feed-weekly/pkg/models"
+)
+
+// ProcessResult represents the result of processing a feed
+type ProcessResult struct {
+        NewItem       *models.LatestItem
+        ConfigUpdated bool
+        Error         error
+}
+
+// ProcessFeedConfig processes a single feed configuration and returns the latest item if it's new
+// Also updates the config if a new item is found
+func ProcessFeedConfig(config *models.FeedConfig, existingItems *models.LatestItems) *ProcessResult <span class="cov8" title="1">{
+        result := &amp;ProcessResult{}
+
+        // Fetch the latest item from the feed
+        latestItem, err := FetchLatestItem(*config)
+        if err != nil </span><span class="cov8" title="1">{
+                result.Error = fmt.Errorf("failed to fetch latest item for %s: %w", config.Name, err)
+                return result
+        }</span>
+
+        // Check if the latest item URL is different from the recorded latestLink
+        <span class="cov8" title="1">if latestItem.Link == config.LatestLink </span><span class="cov8" title="1">{
+                log.Printf("No new item for %s: latest link unchanged", config.Name)
+                return result // No new item
+        }</span>
+
+        // Check if this item already exists in the existing items
+        <span class="cov8" title="1">for _, item := range existingItems.Items </span><span class="cov8" title="1">{
+                if item.Link == latestItem.Link </span><span class="cov8" title="1">{
+                        log.Printf("Item already exists for %s: %s", config.Name, latestItem.Link)
+                        return result // Item already exists
+                }</span>
+        }
+
+        <span class="cov8" title="1">log.Printf("New item found for %s: %s", config.Name, latestItem.Title)
+
+        // Update the config's LatestLink
+        config.LatestLink = latestItem.Link
+        result.NewItem = latestItem
+        result.ConfigUpdated = true
+
+        return result</span>
+}
+
+// ProcessAllFeeds processes all feed configurations and returns new items
+// Also updates config files when new items are found
+func ProcessAllFeeds(configMap map[string]*config.ConfigFileData, existingItems *models.LatestItems) ([]models.LatestItem, error) <span class="cov8" title="1">{
+        var newItems []models.LatestItem
+        var errors []error
+        updatedConfigs := make(map[string]bool)
+
+        for categoryName, configData := range configMap </span><span class="cov8" title="1">{
+                log.Printf("Processing category: %s", categoryName)
+
+                for i := range configData.Data </span><span class="cov8" title="1">{
+                        feedConfig := &amp;configData.Data[i]
+                        log.Printf("Processing feed: %s", feedConfig.Name)
+
+                        result := ProcessFeedConfig(feedConfig, existingItems)
+                        if result.Error != nil </span><span class="cov8" title="1">{
+                                log.Printf("Error processing %s: %v", feedConfig.Name, result.Error)
+                                errors = append(errors, result.Error)
+                                continue</span>
+                        }
+
+                        <span class="cov8" title="1">if result.NewItem != nil </span><span class="cov8" title="1">{
+                                newItems = append(newItems, *result.NewItem)
+                        }</span>
+
+                        <span class="cov8" title="1">if result.ConfigUpdated </span><span class="cov8" title="1">{
+                                updatedConfigs[categoryName] = true
+                        }</span>
+                }
+        }
+
+        // Update config files that had changes
+        <span class="cov8" title="1">for categoryName := range updatedConfigs </span><span class="cov8" title="1">{
+                if err := config.UpdateConfigFile(configMap[categoryName]); err != nil </span><span class="cov0" title="0">{
+                        log.Printf("Error updating config file for %s: %v", categoryName, err)
+                        errors = append(errors, fmt.Errorf("failed to update config file for %s: %w", categoryName, err))
+                }</span> else<span class="cov8" title="1"> {
+                        log.Printf("Updated config file for category: %s", categoryName)
+                }</span>
+        }
+
+        <span class="cov8" title="1">if len(errors) &gt; 0 </span><span class="cov8" title="1">{
+                log.Printf("Encountered %d errors during processing", len(errors))
+                // Return the first error for simplicity, but log all errors
+                return newItems, fmt.Errorf("encountered errors during processing: %v", errors[0])
+        }</span>
+
+        <span class="cov8" title="1">return newItems, nil</span>
+}</pre>
+		
+		<pre class="file" id="file4" style="display: none">package storage
+
+import (
+        "encoding/json"
+        "fmt"
+        "os"
+        "path/filepath"
+        "tech-feed-weekly/pkg/models"
+)
+
+// LoadLatestItems loads existing latest items from the JSON file
+func LoadLatestItems(filePath string) (*models.LatestItems, error) <span class="cov8" title="1">{
+        // Create directory if it doesn't exist
+        dir := filepath.Dir(filePath)
+        if err := os.MkdirAll(dir, 0755); err != nil </span><span class="cov0" title="0">{
+                return nil, fmt.Errorf("failed to create directory %s: %w", dir, err)
+        }</span>
+
+        // Check if file exists
+        <span class="cov8" title="1">if _, err := os.Stat(filePath); os.IsNotExist(err) </span><span class="cov8" title="1">{
+                // Create empty file with empty items array
+                emptyItems := &amp;models.LatestItems{Items: []models.LatestItem{}}
+                if err := SaveLatestItems(filePath, emptyItems); err != nil </span><span class="cov0" title="0">{
+                        return nil, fmt.Errorf("failed to create new latest items file: %w", err)
+                }</span>
+                <span class="cov8" title="1">return emptyItems, nil</span>
+        }
+
+        // Read existing file
+        <span class="cov8" title="1">data, err := os.ReadFile(filePath)
+        if err != nil </span><span class="cov0" title="0">{
+                return nil, fmt.Errorf("failed to read latest items file: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">var latestItems models.LatestItems
+        if err := json.Unmarshal(data, &amp;latestItems); err != nil </span><span class="cov8" title="1">{
+                return nil, fmt.Errorf("failed to parse latest items JSON: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">return &amp;latestItems, nil</span>
+}
+
+// SaveLatestItems saves latest items to the JSON file
+func SaveLatestItems(filePath string, items *models.LatestItems) error <span class="cov8" title="1">{
+        data, err := json.MarshalIndent(items, "", "  ")
+        if err != nil </span><span class="cov0" title="0">{
+                return fmt.Errorf("failed to marshal latest items: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">if err := os.WriteFile(filePath, data, 0644); err != nil </span><span class="cov8" title="1">{
+                return fmt.Errorf("failed to write latest items file: %w", err)
+        }</span>
+
+        <span class="cov8" title="1">return nil</span>
+}
+
+// AddLatestItem adds a new item to latest items if it doesn't already exist
+func AddLatestItem(items *models.LatestItems, newItem models.LatestItem) bool <span class="cov8" title="1">{
+        // Check if item already exists
+        for _, item := range items.Items </span><span class="cov8" title="1">{
+                if item.Link == newItem.Link </span><span class="cov8" title="1">{
+                        return false // Item already exists
+                }</span>
+        }
+
+        // Add new item
+        <span class="cov8" title="1">items.Items = append(items.Items, newItem)
+        return true</span> // Item was added
+}</pre>
+		
+		</div>
+	</body>
+	<script>
+	(function() {
+		var files = document.getElementById('files');
+		var visible;
+		files.addEventListener('change', onChange, false);
+		function select(part) {
+			if (visible)
+				visible.style.display = 'none';
+			visible = document.getElementById(part);
+			if (!visible)
+				return;
+			files.value = part;
+			visible.style.display = 'block';
+			location.hash = part;
+		}
+		function onChange() {
+			select(files.value);
+			window.scrollTo(0, 0);
+		}
+		if (location.hash != "") {
+			select(location.hash.substr(1));
+		}
+		if (!visible) {
+			select("file0");
+		}
+	})();
+	</script>
+</html>
