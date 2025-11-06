@@ -109,6 +109,11 @@
       "title": "Amazon Connect アップデート まとめ – 2025年10月",
       "link": "https://aws.amazon.com/jp/blogs/news/amazon-connect-update-jp-202510/",
       "category": "cloud"
+    },
+    {
+      "title": "Let’s Build an MCP Server | Semaphore",
+      "link": "https://semaphore.io/blog/build-mcp-server",
+      "category": "jsts"
     }
   ]
 }

@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://tech.newmo.me/entry/eslint-sharding-on-github-actions"
+      "latestLink": "https://semaphore.io/blog/build-mcp-server"
     },
     {
       "name": "TSKaigi",
