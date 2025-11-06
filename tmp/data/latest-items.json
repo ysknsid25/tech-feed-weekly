@@ -134,6 +134,21 @@
       "title": "Open Source AI Editor: Second Milestone",
       "link": "https://code.visualstudio.com/assets/blogs/2025/11/04/copilot-oct-pr.png",
       "category": "cloud"
+    },
+    {
+      "title": "The sweet spot for current generation agentic AI",
+      "link": "https://vercel.com/blog/the-sweet-spot-for-current-generation-agentic-ai",
+      "category": "cloud"
+    },
+    {
+      "title": "Build better software to build software better",
+      "link": "https://slack.engineering/build-better-software-to-build-software-better/",
+      "category": "company"
+    },
+    {
+      "title": "Secret Key の運用とアカウントリカバリ #3",
+      "link": "https://blog.jxck.io/entries/2025-11-07/secret-key.html",
+      "category": "famous"
     }
   ]
 }
