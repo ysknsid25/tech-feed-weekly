@@ -169,6 +169,11 @@
       "title": "TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg | The GitHub Blog",
       "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/",
       "category": "jsts"
+    },
+    {
+      "title": "1,500+ PRs Later: Spotify’s Journey with Our Background Coding Agent (Part 1)",
+      "link": "https://engineering.atspotify.com/2025/11/spotifys-background-coding-agent-part-1/",
+      "category": "company"
     }
   ]
 }
