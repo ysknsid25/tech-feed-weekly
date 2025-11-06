@@ -1,0 +1,106 @@
+name: Tech Feed Publisher
+
+on:
+#  schedule:
+#    # Run every day at 7:30 AM JST (22:30 UTC)
+#    - cron: '30 22 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required for git push
+      actions: read   # Required for checkout
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.23'
+
+    - name: Cache Go modules
+      uses: actions/cache@v4
+      with:
+        path: ~/go/pkg/mod
+        key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+        restore-keys: |
+          ${{ runner.os }}-go-
+
+    - name: Download dependencies
+      run: go mod download
+
+    - name: Check for items to publish
+      id: check-items
+      run: |
+        if [ -f "tmp/data/latest-items.json" ]; then
+          ITEM_COUNT=$(jq '.items | length' tmp/data/latest-items.json)
+          echo "item_count=$ITEM_COUNT" >> $GITHUB_OUTPUT
+          echo "Found $ITEM_COUNT items to publish"
+        else
+          echo "item_count=0" >> $GITHUB_OUTPUT
+          echo "No items file found"
+        fi
+
+    - name: Run publisher
+      if: steps.check-items.outputs.item_count > 0
+      run: go run cmd/publisher/main.go
+
+    - name: Check if newsletter was generated
+      if: steps.check-items.outputs.item_count > 0
+      id: check-newsletter
+      run: |
+        if [ -f "tmp/publisher/newsletter.html" ]; then
+          echo "newsletter_exists=true" >> $GITHUB_OUTPUT
+          echo "Newsletter generated successfully"
+        else
+          echo "newsletter_exists=false" >> $GITHUB_OUTPUT
+          echo "Newsletter not found"
+        fi
+
+    - name: Send email
+      if: steps.check-newsletter.outputs.newsletter_exists == 'true'
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.MAIL_USERNAME }}
+        password: ${{ secrets.MAIL_PASSWORD }}
+        subject: "Tech Feed Weekly - ${{ github.run_id }}"
+        to: ${{ secrets.MAIL_TO }}
+        from: ${{ secrets.MAIL_FROM }}
+        html_body: file://tmp/publisher/newsletter.html
+
+    - name: Upload newsletter as artifact
+      if: steps.check-newsletter.outputs.newsletter_exists == 'true'
+      uses: actions/upload-artifact@v4
+      with:
+        name: newsletter-${{ github.run_number }}
+        path: tmp/publisher/newsletter.html
+        retention-days: 30
+
+    - name: Commit cleanup (remove latest-items.json)
+      if: steps.check-newsletter.outputs.newsletter_exists == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+        # Check if latest-items.json was removed by publisher
+        if [ ! -f "tmp/data/latest-items.json" ]; then
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "Clean up after newsletter publication [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        else
+          echo "latest-items.json still exists, something went wrong"
+        fi
+
+    - name: No items to publish
+      if: steps.check-items.outputs.item_count == 0
+      run: echo "No items found to publish. Skipping newsletter generation."
