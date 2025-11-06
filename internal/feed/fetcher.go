@@ -160,3 +160,67 @@ func parseDate(dateStr string) (time.Time, error) {
 
 	return time.Time{}, fmt.Errorf("unable to parse date: %s", dateStr)
 }
+
+// FetchHatenaBookmarkTechCategoryItems fetches items from Hatena Bookmark tech category RSS
+// and filters them based on bookmark count and site-specific thresholds
+func FetchHatenaBookmarkTechCategoryItems() ([]models.LatestItem, error) {
+	url := "https://b.hatena.ne.jp/hotentry/it.rss"
+
+	resp, err := http.Get(url)
+	if err != nil {
+		return nil, fmt.Errorf("failed to fetch Hatena Bookmark RSS: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP error %d when fetching Hatena Bookmark RSS", resp.StatusCode)
+	}
+
+	var feed models.HatenaBookmarkFeed
+	if err := xml.NewDecoder(resp.Body).Decode(&feed); err != nil {
+		return nil, fmt.Errorf("failed to decode Hatena Bookmark RSS feed: %w", err)
+	}
+
+	if len(feed.Items) == 0 {
+		return []models.LatestItem{}, nil
+	}
+
+	// Interest sites with lower threshold (matches TypeScript implementation)
+	interestedSites := []string{
+		"https://speakerdeck.com/",
+	}
+
+	var filteredItems []models.LatestItem
+	for _, item := range feed.Items {
+		// Filter out Zenn links to avoid duplication (matches TypeScript implementation)
+		if strings.HasPrefix(item.Link, "https://zenn.dev/") {
+			continue
+		}
+
+		// Check bookmark count with site-specific thresholds (matches TypeScript implementation)
+		isInterestedSite := false
+		for _, site := range interestedSites {
+			if strings.HasPrefix(item.Link, site) {
+				isInterestedSite = true
+				break
+			}
+		}
+
+		// Apply different thresholds based on site (matches TypeScript implementation)
+		if isInterestedSite && item.BookmarkCount > 100 {
+			filteredItems = append(filteredItems, models.LatestItem{
+				Title:    strings.TrimSpace(item.Title),
+				Link:     strings.TrimSpace(item.Link),
+				Category: "hatena-bookmark-tech",
+			})
+		} else if !isInterestedSite && item.BookmarkCount > 120 {
+			filteredItems = append(filteredItems, models.LatestItem{
+				Title:    strings.TrimSpace(item.Title),
+				Link:     strings.TrimSpace(item.Link),
+				Category: "hatena-bookmark-tech",
+			})
+		}
+	}
+
+	return filteredItems, nil
+}

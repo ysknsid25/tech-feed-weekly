@@ -1,6 +1,9 @@
 package models
 
-import "time"
+import (
+	"encoding/xml"
+	"time"
+)
 
 // FeedConfig represents a feed configuration loaded from JSON file
 type FeedConfig struct {
@@ -62,4 +65,19 @@ type RSSChannel struct {
 // AtomFeed represents Atom feed structure
 type AtomFeed struct {
 	Entries []AtomEntry `xml:"entry"`
+}
+
+// HatenaBookmarkItem represents an item from Hatena Bookmark RSS feed
+type HatenaBookmarkItem struct {
+	Title         string    `xml:"title"`
+	Link          string    `xml:"link"`
+	PubDate       string    `xml:"pubDate"`
+	BookmarkCount int       `xml:"bookmarkcount"`
+	Date          time.Time `xml:"-"`
+}
+
+// HatenaBookmarkFeed represents Hatena Bookmark RSS feed structure
+type HatenaBookmarkFeed struct {
+	XMLName xml.Name             `xml:"RDF"`
+	Items   []HatenaBookmarkItem `xml:"item"`
 }

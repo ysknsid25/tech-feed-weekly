@@ -250,18 +250,21 @@ func TestProcessAllFeeds(t *testing.T) {
 	}
 
 	// Test ProcessAllFeeds
-	newItems, err := ProcessAllFeeds(configMap, existingItems)
+	newItems, err := ProcessAllFeedsWithOptions(configMap, existingItems, false)
 	require.NoError(t, err)
 	assert.Len(t, newItems, 2)
 
-	// Verify new items
-	assert.Equal(t, "New Article 1", newItems[0].Title)
-	assert.Equal(t, "https://example1.com/new-article", newItems[0].Link)
-	assert.Equal(t, "test1", newItems[0].Category)
+	// Verify new items (order independent)
+	titles := []string{newItems[0].Title, newItems[1].Title}
+	links := []string{newItems[0].Link, newItems[1].Link}
+	categories := []string{newItems[0].Category, newItems[1].Category}
 
-	assert.Equal(t, "New Article 2", newItems[1].Title)
-	assert.Equal(t, "https://example2.com/new-article", newItems[1].Link)
-	assert.Equal(t, "test2", newItems[1].Category)
+	assert.Contains(t, titles, "New Article 1")
+	assert.Contains(t, titles, "New Article 2")
+	assert.Contains(t, links, "https://example1.com/new-article")
+	assert.Contains(t, links, "https://example2.com/new-article")
+	assert.Contains(t, categories, "test1")
+	assert.Contains(t, categories, "test2")
 
 	// Verify configs were updated
 	assert.Equal(t, "https://example1.com/new-article", configMap["test1"].Data[0].LatestLink)
@@ -316,7 +319,7 @@ func TestProcessAllFeeds_NoNewItems(t *testing.T) {
 	}
 
 	// Test ProcessAllFeeds
-	newItems, err := ProcessAllFeeds(configMap, existingItems)
+	newItems, err := ProcessAllFeedsWithOptions(configMap, existingItems, false)
 	require.NoError(t, err)
 	assert.Empty(t, newItems)
 }
@@ -345,7 +348,7 @@ func TestProcessAllFeeds_WithErrors(t *testing.T) {
 	}
 
 	// Test ProcessAllFeeds with error
-	newItems, err := ProcessAllFeeds(configMap, existingItems)
+	newItems, err := ProcessAllFeedsWithOptions(configMap, existingItems, false)
 	assert.Error(t, err)
 	assert.Empty(t, newItems)
 }

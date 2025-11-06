@@ -53,9 +53,39 @@ func ProcessFeedConfig(config *models.FeedConfig, existingItems *models.LatestIt
 // ProcessAllFeeds processes all feed configurations and returns new items
 // Also updates config files when new items are found
 func ProcessAllFeeds(configMap map[string]*config.ConfigFileData, existingItems *models.LatestItems) ([]models.LatestItem, error) {
+	return ProcessAllFeedsWithOptions(configMap, existingItems, true)
+}
+
+// ProcessAllFeedsWithOptions processes all feed configurations with configurable options
+func ProcessAllFeedsWithOptions(configMap map[string]*config.ConfigFileData, existingItems *models.LatestItems, enableHatenaBookmark bool) ([]models.LatestItem, error) {
 	var newItems []models.LatestItem
 	var errors []error
 	updatedConfigs := make(map[string]bool)
+
+	// Process Hatena Bookmark tech category (if enabled)
+	if enableHatenaBookmark {
+		log.Println("Processing Hatena Bookmark tech category...")
+		hatenaItems, err := FetchHatenaBookmarkTechCategoryItems()
+		if err != nil {
+			log.Printf("Error processing Hatena Bookmark: %v", err)
+			errors = append(errors, err)
+		} else {
+			// Filter out items that already exist in latest-items.json
+			for _, hatenaItem := range hatenaItems {
+				itemExists := false
+				for _, existingItem := range existingItems.Items {
+					if existingItem.Link == hatenaItem.Link {
+						itemExists = true
+						break
+					}
+				}
+				if !itemExists {
+					newItems = append(newItems, hatenaItem)
+					log.Printf("New Hatena Bookmark item found: %s", hatenaItem.Title)
+				}
+			}
+		}
+	}
 
 	for categoryName, configData := range configMap {
 		log.Printf("Processing category: %s", categoryName)
