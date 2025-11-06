@@ -189,6 +189,16 @@
       "title": "GitHub Copilot CLI 101: How to use GitHub Copilot from the command line | The GitHub Blog",
       "link": "https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/",
       "category": "jsts"
+    },
+    {
+      "title": "Slackの通知を最適化する技術 - 備忘録",
+      "link": "https://nanami-takemoto.com/entry/2025/11/05/224434",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Practical Guide To Apply Clean Architecture In Go",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59647/",
+      "category": "company"
     }
   ]
 }
