@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Microsoft TypeScript Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://devblogs.microsoft.com/typescript/feed/",
+            "latestLink": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
+        },
+        {
+            "name": "Node.js Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://nodejs.org/en/feed/blog.xml",
+            "latestLink": "https://nodejs.org/en/blog/release/v25.1.0"
+        },
+        {
+            "name": "Effective TypeScript",
+            "type": "categoryIsAtomUrl",
+            "feedUrl": "https://effectivetypescript.com/atom.xml",
+            "latestLink": "https://effectivetypescript.com/2024/10/31/runtime-types/"
+        },
+        {
+            "name": "JSer Info",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://jser.info/rss/",
+            "latestLink": "https://jser.info/2025/11/05/storybook-10-turborepo-2.6microfrontend-redux-toolkit-v2.10.0immer/"
+        },
+        {
+            "name": "JSer Info",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
+            "latestLink": "https://www.m3tech.blog/entry/2025/11/06/110000"
+        },
+        {
+            "name": "TSKaigi",
+            "type": "hatena",
+            "feedUrl": "https://tskaigi.hatenablog.com",
+            "latestLink": "https://tskaigi.hatenablog.com/entry/2025/10/14/140147"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "name": "piyolog",
+            "type": "hatena",
+            "feedUrl": "https://piyolog.hatenadiary.jp",
+            "latestLink": "https://piyolog.hatenadiary.jp/entry/2025/10/04/023247"
+        },
+        {
+            "name": "Kristian Freeman",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://kristianfreeman.com/rss.xml",
+            "latestLink": "https://kristianfreeman.com/about/"
+        },
+        {
+            "name": "うひょ",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://zenn.dev/uhyo/feed",
+            "latestLink": "https://zenn.dev/uhyo/articles/state-update-while-rendering"
+        },
+        {
+            "name": "Anthony Fu",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://antfu.me/feed.xml",
+            "latestLink": "https://antfu.me/posts/categorize-deps"
+        },
+        {
+            "name": "Jxck Web Blog",
+            "type": "categoryIsAtomUrl",
+            "feedUrl": "https://blog.jxck.io/feeds/atom.xml",
+            "latestLink": "https://blog.jxck.io/entries/2025-11-06/create-master-password.html"
+        }
+    ]
+}

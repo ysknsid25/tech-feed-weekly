@@ -1,0 +1,10 @@
+{
+    "data": [
+        {
+            "name": "Golang Weekly",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://cprss.s3.amazonaws.com/golangweekly.com.xml",
+            "latestLink": "https://golangweekly.com/issues/577"
+        }
+    ]
+}

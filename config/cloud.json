@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "name": "Firebase Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://firebase.blog/rss.xml",
+            "latestLink": "https://firebase.blog/posts/2025/10/fpnv-preview-launch"
+        },
+        {
+            "name": "Google Cloud Japan",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
+            "latestLink": "https://zenn.dev/google_cloud_jp/articles/3894e07b0d5198"
+        },
+        {
+            "name": "Vercel",
+            "type": "categoryIsAtomUrl",
+            "feedUrl": "https://vercel.com/atom",
+            "latestLink": "https://vercel.com/changelog/free-botid-deep-analysis"
+        },
+        {
+            "name": "GitHub Actions Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://github.blog/changelog/label/actions/feed/",
+            "latestLink": "https://github.blog/changelog/2025-10-28-upcoming-deprecation-of-codeql-action-v3"
+        },
+
+        {
+            "name": "VSCode Tech Blog",
+            "type": "categoryIsAtomUrl",
+            "feedUrl": "https://code.visualstudio.com/feed.xml",
+            "latestLink": "https://code.visualstudio.com/blogs/2025/11/03/unified-agent-experience"
+        },
+
+        {
+            "name": "AWS Japan Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
+            "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-for-vmware-your-complete-reinvent-2025-guide/"
+        },
+
+        {
+            "name": "SRE Weekly",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://sreweekly.com/feed/",
+            "latestLink": "https://sreweekly.com/sre-weekly-issue-495/"
+        }
+    ]
+}

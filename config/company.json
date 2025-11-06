@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "name": "Netflix Tech blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://netflixtechblog.com/feed",
+            "latestLink": "https://netflixtechblog.com/supercharging-the-ml-and-ai-development-experience-at-netflix-b2d5b95c63eb?source=rss----2615bd06b42e---4"
+        },
+        {
+            "name": "Spotify Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://engineering.atspotify.com/feed",
+            "latestLink": "https://engineering.atspotify.com/2025/9/spotifys-experiments-with-learning-framework/"
+        },
+        {
+            "name": "一休.com Developers Blog",
+            "type": "hatena",
+            "feedUrl": "https://user-first.ikyu.co.jp",
+            "latestLink": "https://user-first.ikyu.co.jp/entry/2025/10/14/102903"
+        },
+        {
+            "name": "DMM Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://developersblog.dmm.com/rss",
+            "latestLink": "https://developersblog.dmm.com/entry/2025/10/31/110000"
+        },
+        {
+            "name": "MIXI Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://zenn.dev/p/mixi/feed",
+            "latestLink": "https://zenn.dev/mixi/articles/982322e8a06e2d"
+        },
+        {
+            "name": "LINE Yahoo Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://techblog.lycorp.co.jp/ja/feed/index.xml",
+            "latestLink": "https://techblog.lycorp.co.jp/ja/20251106a"
+        },
+        {
+            "name": "freee Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://developers.freee.co.jp/rss",
+            "latestLink": "https://developers.freee.co.jp/entry/aws-builders-flash-202511"
+        },
+        {
+            "name": "Cyber Agent Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
+            "latestLink": "https://developers.cyberagent.co.jp/blog/archives/59594/"
+        },
+        {
+            "name": "メルカリ Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://engineering.mercari.com/blog/feed.xml",
+            "latestLink": "https://engineering.mercari.com/blog/entry/20251105-mercarigears2025-enjoy-besides-sessions/"
+        },
+        {
+            "name": "m3 Tech Blog",
+            "type": "hatena",
+            "feedUrl": "https://www.m3tech.blog",
+            "latestLink": "https://www.m3tech.blog/entry/2025/11/06/110000"
+        },
+        {
+            "name": "食べログ Tech Blog",
+            "type": "hatena",
+            "feedUrl": "https://tech-blog.tabelog.com",
+            "latestLink": "https://tech-blog.tabelog.com/entry/expand-thinking-with-ai-through-flaky-tests"
+        },
+        {
+            "name": "Atlassian Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
+            "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/devmate-accelerating-react-native-development-at-atlassian"
+        },
+        {
+            "name": "Slack Tech Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://slack.engineering/feed/",
+            "latestLink": "https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/"
+        },
+        {
+            "name": "はてな開発者ブログ",
+            "type": "hatena",
+            "feedUrl": "https://developer.hatenastaff.com",
+            "latestLink": "https://developer.hatenastaff.com/entry/2025/11/05/110000"
+        }
+    ]
+}

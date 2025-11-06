@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "MDN Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://developer.mozilla.org/en-US/blog/rss.xml",
+            "latestLink": "https://developer.mozilla.org/en-US/blog/image-formats-codecs-compression-tools/"
+        },
+        {
+            "name": "V8 Dev Blog",
+            "type": "categoryIsAtomUrl",
+            "feedUrl": "https://v8.dev/blog.atom",
+            "latestLink": "https://v8.dev/blog/json-stringify"
+        },
+        {
+            "name": "web.dev: Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://web.dev/static/blog/feed.xml",
+            "latestLink": "https://web.dev/blog/baseline-urlpattern?hl=en"
+        }
+    ]
+}

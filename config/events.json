@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "name": "Findy",
+            "type": "connpass",
+            "key": "findy",
+            "latestLink": "https://findy.connpass.com/event/372835/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "TSKaigi",
+            "type": "connpass",
+            "key": "typescript-jpc",
+            "latestLink": "https://typescript-jpc.connpass.com/event/371597/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "Vercel User Community",
+            "type": "connpass",
+            "key": "vercel",
+            "latestLink": "https://vercel.connpass.com/event/342984/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "忘年会議",
+            "type": "connpass",
+            "key": "bonenkaigi",
+            "latestLink": "https://bonenkaigi.connpass.com/event/366073/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "中国地方DB勉強会",
+            "type": "connpass",
+            "key": "dbstudychugoku",
+            "latestLink": "https://dbstudychugoku.connpass.com/event/360703/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "Cloudflare Meetup",
+            "type": "connpass",
+            "key": "cfm-cts",
+            "latestLink": "https://cfm-cts.connpass.com/event/361031/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "東京Node学園",
+            "type": "connpass",
+            "key": "nodejs",
+            "latestLink": "https://nodejs.connpass.com/event/371397/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "四谷ラボ",
+            "type": "connpass",
+            "key": "428lab",
+            "latestLink": "https://428lab.connpass.com/event/368599/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "Kyoto.kt",
+            "type": "connpass",
+            "key": "kyotokt",
+            "latestLink": "https://kyotokt.connpass.com/event/361794/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "Umeda.go",
+            "type": "connpass",
+            "key": "umedago",
+            "latestLink": "https://umedago.connpass.com/event/364294/?utm_campaign=series_events&utm_source=feed&utm_medium=atom"
+        },
+        {
+            "name": "Kyoto.go",
+            "type": "connpass",
+            "key": "kyotogo",
+            "latestLink": ""
+        },
+        {
+            "name": "DevLOVE関西",
+            "type": "connpass",
+            "key": "devkan",
+            "latestLink": ""
+        },
+        {
+            "name": "AIエージェントユーザー会（AIAU）",
+            "type": "connpass",
+            "key": "aiau",
+            "latestLink": ""
+        }
+    ]
+}

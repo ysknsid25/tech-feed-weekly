@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": "IntelliJ IDEA Japanese Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://blog.jetbrains.com/ja/feed/",
+            "latestLink": "https://blog.jetbrains.com/ja/youtrack/2025/11/youtrack-introduces-a-remote-mcp-server-and-new-apps/"
+        },
+        {
+            "name": "JetBrains Kotlin Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://blog.jetbrains.com/kotlin/feed/",
+            "latestLink": "https://blog.jetbrains.com/kotlin/2025/11/growing-kotlin-adoption-in-your-company-2/"
+        },
+        {
+            "name": "JetBrains Ktor Blog",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://blog.jetbrains.com/ktor/feed/",
+            "latestLink": "https://blog.jetbrains.com/kotlin/2025/09/ktor-roadmap-2025/"
+        },
+        {
+            "name": "Koin Developers",
+            "type": "categoryIsUrl",
+            "feedUrl": "https://blog.insert-koin.io/feed",
+            "latestLink": "https://blog.insert-koin.io/koin-annotations-2-2-jsr-330-compatibility-smart-configurations-and-scope-archetypes-5b2f4c8536c1?source=rss----925561f2ecdf---4"
+        }
+    ]
+}
