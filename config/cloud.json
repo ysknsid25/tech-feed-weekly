@@ -22,7 +22,7 @@
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2025-10-28-upcoming-deprecation-of-codeql-action-v3"
+      "latestLink": "https://github.blog/changelog/2025-11-06-new-releases-for-github-actions-november-2025"
     },
     {
       "name": "VSCode Tech Blog",
