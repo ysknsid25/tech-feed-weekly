@@ -57,15 +57,15 @@ jobs:
         path: tmp/data/latest-items.json
         retention-days: 30
 
-    - name: Commit updated config files
+    - name: Commit updated config files and latest items
       if: steps.check-items.outputs.item_count > 0
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add config/*.json
+        git add config/*.json tmp/data/latest-items.json
         if git diff --staged --quiet; then
-          echo "No config changes to commit"
+          echo "No changes to commit"
         else
-          git commit -m "Update latest links in config files [skip ci]"
+          git commit -m "Update latest links and items [skip ci]"
           git push
         fi
