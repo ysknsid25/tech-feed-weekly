@@ -22,7 +22,7 @@
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2025-11-06-new-releases-for-github-actions-november-2025"
+      "latestLink": "https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes"
     },
     {
       "name": "VSCode Tech Blog",

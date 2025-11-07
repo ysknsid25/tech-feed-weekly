@@ -329,6 +329,11 @@
       "title": "NGINX Amplify will shut down on January 31, 2026 | NGINX Community Blog",
       "link": "https://blog.nginx.org/blog/nginx-amplify-endoflife",
       "category": "jsts"
+    },
+    {
+      "title": "Actions pull_request_target and environment branch protections changes",
+      "link": "https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes",
+      "category": "cloud"
     }
   ]
 }
