@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/set-up-proactive-monitoring-for-amazon-rds-for-sql-server-with-real-time-slack-notifications/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/analyze-logs-usage-with-amazon-cloudwatch-enhanced-automatic-dashboard/"
     },
     {
       "name": "SRE Weekly",
