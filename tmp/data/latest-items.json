@@ -219,6 +219,26 @@
       "title": "データ整備の「曖昧さ」に立ち向かう、ドメインエキスパートと協業するための実践的Tips",
       "link": "https://www.m3tech.blog/entry/2025/11/07/100000",
       "category": "company"
+    },
+    {
+      "title": "MCP サーバーの基礎から実践レベルの知識まで",
+      "link": "https://speakerdeck.com/azukiazusa1/mcp-sabanoji-chu-karashi-jian-reberunozhi-shi-made",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MCPサーバー開発大全 | 技術評論社",
+      "link": "https://gihyo.jp/book/2025/978-4-297-15327-4",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Handling Time and Mock Clocks in Tests | Angular Blog - Medium",
+      "link": "https://blog.angular.dev/handling-time-and-mock-clocks-in-tests-5a393b32dd30",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon RDS for SQL Server のプロアクティブ監視をリアルタイム Slack 通知で実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/set-up-proactive-monitoring-for-amazon-rds-for-sql-server-with-real-time-slack-notifications/",
+      "category": "cloud"
     }
   ]
 }

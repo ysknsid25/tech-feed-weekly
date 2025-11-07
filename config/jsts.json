@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://frontendmasters.com/blog/the-scope-creep/"
+      "latestLink": "https://blog.angular.dev/handling-time-and-mock-clocks-in-tests-5a393b32dd30"
     },
     {
       "name": "TSKaigi",
