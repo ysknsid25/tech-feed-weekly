@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/analyze-logs-usage-with-amazon-cloudwatch-enhanced-automatic-dashboard/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/manage-ai-driven-development-by-customer-centric-product-discovery/"
     },
     {
       "name": "SRE Weekly",

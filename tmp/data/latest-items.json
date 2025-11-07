@@ -249,6 +249,16 @@
       "title": "Amazon CloudWatch の強化された自動ダッシュボードでログ使用状況を分析する",
       "link": "https://aws.amazon.com/jp/blogs/news/analyze-logs-usage-with-amazon-cloudwatch-enhanced-automatic-dashboard/",
       "category": "cloud"
+    },
+    {
+      "title": "顧客駆動のチームでAI 駆動の手綱を握る : ML Enablement Workshop による副作用の解消",
+      "link": "https://aws.amazon.com/jp/blogs/news/manage-ai-driven-development-by-customer-centric-product-discovery/",
+      "category": "cloud"
+    },
+    {
+      "title": "自治体業務へのAI活用、まずは“困りごと”を掴むところから。（共創PFキャンプ自治体業務のAI活用編レポート） | デジタル庁ニュース一覧",
+      "link": "https://digital-agency-news.digital.go.jp/articles/2025-11-07",
+      "category": "jsts"
     }
   ]
 }
