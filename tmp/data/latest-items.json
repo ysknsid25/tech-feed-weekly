@@ -239,6 +239,11 @@
       "title": "Amazon RDS for SQL Server のプロアクティブ監視をリアルタイム Slack 通知で実現",
       "link": "https://aws.amazon.com/jp/blogs/news/set-up-proactive-monitoring-for-amazon-rds-for-sql-server-with-real-time-slack-notifications/",
       "category": "cloud"
+    },
+    {
+      "title": "Pythonの非同期処理でasync/awaitがつらい人はWoveを使ってみてはどうだろう? #こまPy｜Atsushi Shibata",
+      "link": "https://note.com/shibats/n/n3e93d1cde923",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
