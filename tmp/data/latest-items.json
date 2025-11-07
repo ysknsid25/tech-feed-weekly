@@ -339,6 +339,11 @@
       "title": "Nx Cloud Release: Enterprise Task Analytics | Nx Blog",
       "link": "https://nx.dev/blog/nx-cloud-release-introducing-enterprise-task-analytics",
       "category": "jsts"
+    },
+    {
+      "title": "How Nous Research used BotID to block automated abuse at scale",
+      "link": "https://vercel.com/blog/how-nous-research-used-botid-to-block-automated-abuse-at-scale",
+      "category": "cloud"
     }
   ]
 }

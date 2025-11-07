@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/blog/what-we-learned-building-agents-at-vercel"
+      "latestLink": "https://vercel.com/blog/how-nous-research-used-botid-to-block-automated-abuse-at-scale"
     },
     {
       "name": "GitHub Actions Blog",
