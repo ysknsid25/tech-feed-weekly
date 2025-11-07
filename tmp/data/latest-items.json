@@ -299,6 +299,21 @@
       "title": "1Password AC #8: 1Password CLI",
       "link": "https://blog.jxck.io/entries/2025-11-11/cli.html",
       "category": "famous"
+    },
+    {
+      "title": "【特集】 「iPhone Air」はなぜ人気がないのか？販売不振を招いた3つの理由",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2061265.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "1Password AC #10: SSH と Git コミット署名",
+      "link": "https://blog.jxck.io/entries/2025-11-13/ssh-signing.html",
+      "category": "famous"
+    },
+    {
+      "title": "Staggered Animation with CSS sibling-* Functions | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/staggered-animation-with-css-sibling-functions/",
+      "category": "jsts"
     }
   ]
 }
