@@ -334,6 +334,11 @@
       "title": "Actions pull_request_target and environment branch protections changes",
       "link": "https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes",
       "category": "cloud"
+    },
+    {
+      "title": "Nx Cloud Release: Enterprise Task Analytics | Nx Blog",
+      "link": "https://nx.dev/blog/nx-cloud-release-introducing-enterprise-task-analytics",
+      "category": "jsts"
     }
   ]
 }
