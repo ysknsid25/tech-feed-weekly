@@ -1,11 +1,15 @@
-# Tech Feed Weekly
+# Tech newsletter Generator
 
 A Go-based feed collector that monitors various tech blogs and RSS feeds to collect the latest articles.
+
+## Sample
+
+<img width="2186" height="1266" alt="image" src="https://github.com/user-attachments/assets/153df87e-2de5-48cc-b7c2-689bd2dc456b" />
 
 ## Project Structure
 
 ```
-tech-feed-weekly/
+tech-newsletter-generator/
 ├── cmd/
 │   └── collector/          # Feed collector executable
 ├── internal/
@@ -43,6 +47,16 @@ Feed configurations are stored in JSON files under the `config/` directory. Each
   ]
 }
 ```
+### GitHub Actions
+
+You have to register GitHub Actions Secret for sending Gmail.
+
+- MAIL_USERNAME
+- MAIL_PASSWORD
+- MAIL_TO
+- MAIL_FROM
+
+`MAIL_PASSWORD` is Gmail App password.
 
 ### Supported Feed Types
 
@@ -65,8 +79,8 @@ Feed configurations are stored in JSON files under the `config/` directory. Each
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tech-feed-weekly.git
-   cd tech-feed-weekly
+   git clone https://github.com/your-username/tech-newsletter-generator.git
+   cd tech-newsletter-generator
    ```
 
 2. Install dependencies:
