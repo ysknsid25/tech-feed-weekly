@@ -424,6 +424,11 @@
       "title": "海外でバズった『Googleを使わずに、最も有名な日本人の名前を挙げてください』を集計してみたら色々と興味深い結果になった",
       "link": "https://togetter.com/li/2625791",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MCP ツールのコンテキスト圧迫の問題とその解決策 | azukiazusa のテックブログ2",
+      "link": "https://azukiazusa.dev/blog/mcp-tool-context-overflow",
+      "category": "jsts"
     }
   ]
 }
