@@ -44,6 +44,11 @@
       "title": "eslint-plugin-import-accessのpackageDirectoryオプション",
       "link": "https://zenn.dev/uhyo/articles/eslint-plugin-import-access-v310",
       "category": "famous"
+    },
+    {
+      "title": "チームのテスト力を総合的に鍛えてシフトレフトを推進する/Shifting Left with Software Testing Improvements",
+      "link": "https://speakerdeck.com/goyoki/shifting-left-with-software-testing-improvements",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
