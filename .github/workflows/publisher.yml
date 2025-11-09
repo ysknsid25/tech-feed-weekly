@@ -1,17 +1,17 @@
 name: Tech Feed Publisher
 
 on:
-#  schedule:
-#    # Run every day at 7:30 AM JST (22:30 UTC)
-#    - cron: '30 22 * * *'
-  workflow_dispatch: # Allow manual trigger
+  schedule:
+    # Run every day at 7:30 AM JST (22:30 UTC)
+    - cron: '30 22 * * *'
+  workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required for git push
-      actions: read   # Required for checkout
+      contents: write
+      actions: read
 
     steps:
     - name: Checkout code
@@ -82,6 +82,10 @@ jobs:
         path: tmp/publisher/newsletter.html
         retention-days: 30
 
+    - name: Clean up newsletter file
+      if: steps.check-newsletter.outputs.newsletter_exists == 'true'
+      run: rm tmp/publisher/newsletter.html
+
     - name: Commit cleanup (remove latest-items.json)
       if: steps.check-newsletter.outputs.newsletter_exists == 'true'
       run: |
@@ -104,3 +108,4 @@ jobs:
     - name: No items to publish
       if: steps.check-items.outputs.item_count == 0
       run: echo "No items found to publish. Skipping newsletter generation."
+      
