@@ -59,6 +59,16 @@
       "title": "週刊生成AI with AWS – 2025/11/3週",
       "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251103/",
       "category": "cloud"
+    },
+    {
+      "title": "例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく #phpconfuk",
+      "link": "https://speakerdeck.com/kajitack/understanding-exceptions-in-php",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "RecSys 2025 参加レポート",
+      "link": "https://techblog.lycorp.co.jp/ja/20251106a",
+      "category": "company"
     }
   ]
 }
