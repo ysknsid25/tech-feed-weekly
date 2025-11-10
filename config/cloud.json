@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/enhance-your-aiops-introducing-amazon-cloudwatch-and-application-signals-mcp-servers/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251103/"
     },
     {
       "name": "SRE Weekly",
