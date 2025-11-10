@@ -169,6 +169,11 @@
       "title": "Perfectly Pointed Tooltips: To The Corners | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/perfectly-pointed-tooltips-to-the-corners/",
       "category": "jsts"
+    },
+    {
+      "title": "Accelerate debugging with Crashlytics MCP Tools",
+      "link": "https://firebase.blog/posts/2025/11/crashlytics-mcp-with-gemini-cli",
+      "category": "cloud"
     }
   ]
 }

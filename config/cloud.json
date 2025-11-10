@@ -4,7 +4,7 @@
       "name": "Firebase Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://firebase.blog/rss.xml",
-      "latestLink": "https://firebase.blog/posts/2025/10/fpnv-preview-launch"
+      "latestLink": "https://firebase.blog/posts/2025/11/crashlytics-mcp-with-gemini-cli"
     },
     {
       "name": "Google Cloud Japan",
