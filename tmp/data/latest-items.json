@@ -144,6 +144,16 @@
       "title": "マイクロサービスアーキテクチャにおける Mastra を活用した AI 基盤設計 | PLAID Engineer Blog - 株式会社プレイド",
       "link": "https://tech.plaid.co.jp/microservice-ai-system-with-mastra",
       "category": "jsts"
+    },
+    {
+      "title": "Amazon CloudWatch Logs の一元化を使用したログ管理の簡素化",
+      "link": "https://aws.amazon.com/jp/blogs/news/simplifying-log-management-using-amazon-cloudwatch-logs-centralization/",
+      "category": "cloud"
+    },
+    {
+      "title": "巨大テーブルにインデックスを追加したい、Flywayで",
+      "link": "https://www.m3tech.blog/entry/2025/11/10/190000",
+      "category": "company"
     }
   ]
 }
