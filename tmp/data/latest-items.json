@@ -114,6 +114,16 @@
       "title": "MCPサーバー不要！ databasemixでMySQLテーブル情報を1ファイル化してAI簡単連携",
       "link": "https://developers.cyberagent.co.jp/blog/archives/59690/",
       "category": "company"
+    },
+    {
+      "title": "Koog × A2A: Kotlin によるコネクテッド AI エージェントの構築",
+      "link": "https://blog.jetbrains.com/ja/ai/2025/11/koog-a2a-building-connected-ai-agents-in-kotlin/",
+      "category": "kotlin"
+    },
+    {
+      "title": "CA Tech JOB参加報告：検索機能付きLLMによる広告文自動生成",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59693/",
+      "category": "company"
     }
   ]
 }
