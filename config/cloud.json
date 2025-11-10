@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251103/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-remote-mcp/"
     },
     {
       "name": "SRE Weekly",

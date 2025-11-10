@@ -104,6 +104,16 @@
       "title": "SRE Weekly Issue #496",
       "link": "https://sreweekly.com/sre-weekly-issue-496/",
       "category": "cloud"
+    },
+    {
+      "title": "Kiro : リモート MCP サーバーの紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-remote-mcp/",
+      "category": "cloud"
+    },
+    {
+      "title": "MCPサーバー不要！ databasemixでMySQLテーブル情報を1ファイル化してAI簡単連携",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59690/",
+      "category": "company"
     }
   ]
 }
