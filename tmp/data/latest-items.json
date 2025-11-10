@@ -164,6 +164,11 @@
       "title": "Web Locks APIでマルチタブのアクセストークン更新競合を防ぐ【AI生成】",
       "link": "https://zenn.dev/uhyo/articles/web-locks-api-refresh-token-ai",
       "category": "famous"
+    },
+    {
+      "title": "Perfectly Pointed Tooltips: To The Corners | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/perfectly-pointed-tooltips-to-the-corners/",
+      "category": "jsts"
     }
   ]
 }
