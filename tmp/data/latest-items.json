@@ -49,6 +49,31 @@
       "title": "Hire Me in Japan | overreacted — A blog by Dan Abramov",
       "link": "https://overreacted.io/hire-me-in-japan/",
       "category": "jsts"
+    },
+    {
+      "title": "ソフトバンク系、コールセンターをAIで代替　安全性と信頼性を確保　外販開始",
+      "link": "https://japan.cnet.com/article/35240276/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "役割と越境とマネージャーと - takanorip blog",
+      "link": "https://blog.takanorip.com/posts/2025-11-10/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Ruby on Railsのテーブル設計とトランザクション処理  LT Night",
+      "link": "https://findy.connpass.com/event/375098/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "新規APIの実装でPATCHメソッドを使用しないようにしました | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2025/11/11/no-patch-in-new-api/",
+      "category": "jsts"
+    },
+    {
+      "title": "[対談記事] 「その AI の精度が 1% 上がったとき、顧客価値は？」 freee が語る、価値創出論と AI ネイティブ組織への変革",
+      "link": "https://aws.amazon.com/jp/blogs/news/freee-ai-native-transformation/",
+      "category": "cloud"
     }
   ]
 }
