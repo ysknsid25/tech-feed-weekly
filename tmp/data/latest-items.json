@@ -119,6 +119,16 @@
       "title": "JetBrains and DMCC AI Centre Announce Strategic Partnership to Accelerate AI Innovation | Company | The JetBrains Blog",
       "link": "https://blog.jetbrains.com/blog/2025/11/11/jetbrains-and-dmcc-ai-centre-announce-strategic-partnership-to-accelerate-ai-innovation/",
       "category": "jsts"
+    },
+    {
+      "title": "SQL課題：月の集合を連続した期間の集合にまとめてください",
+      "link": "https://www.m3tech.blog/entry/extract-continuous-periods-sql",
+      "category": "company"
+    },
+    {
+      "title": "Building AI Agents in Kotlin – Part 1: A Minimal Coding Agent",
+      "link": "https://blog.jetbrains.com/ai/2025/11/building-ai-agents-in-kotlin-part-1-a-minimal-coding-agent/",
+      "category": "kotlin"
     }
   ]
 }
