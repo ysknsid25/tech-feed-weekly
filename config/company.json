@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/devmate-accelerating-react-native-development-at-atlassian"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/migrating-the-jira-and-confluence-applications-to-aws-graviton"
     },
     {
       "name": "Slack Tech Blog",

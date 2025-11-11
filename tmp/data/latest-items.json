@@ -24,6 +24,16 @@
       "title": "Vercel: The anti-vendor-lock-in cloud",
       "link": "https://vercel.com/blog/vercel-the-anti-vendor-lock-in-cloud",
       "category": "cloud"
+    },
+    {
+      "title": "Migrating the Jira and Confluence applications to AWS Graviton",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/migrating-the-jira-and-confluence-applications-to-aws-graviton",
+      "category": "company"
+    },
+    {
+      "title": "VibeCodingの一歩先へ〜 プロダクト開発でつまずきやすいポイントの乗り越え方",
+      "link": "https://findy.connpass.com/event/375414/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
