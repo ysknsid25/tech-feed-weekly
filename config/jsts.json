@@ -10,7 +10,7 @@
       "name": "Node.js Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://nodejs.org/en/feed/blog.xml",
-      "latestLink": "https://nodejs.org/en/blog/release/v25.1.0"
+      "latestLink": "https://nodejs.org/en/blog/release/v24.11.1"
     },
     {
       "name": "Effective TypeScript",
