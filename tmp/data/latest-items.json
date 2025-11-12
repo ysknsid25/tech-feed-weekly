@@ -159,6 +159,16 @@
       "title": "Google releases its agent development kit for Go",
       "link": "https://golangweekly.com/issues/578",
       "category": "go"
+    },
+    {
+      "title": "October 2025 (version 1.106)",
+      "link": "https://code.visualstudio.com/assets/updates/1_106/release-highlights.png",
+      "category": "cloud"
+    },
+    {
+      "title": "How Copilot helps build the GitHub platform | The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-copilot-helps-build-the-github-platform/",
+      "category": "jsts"
     }
   ]
 }
