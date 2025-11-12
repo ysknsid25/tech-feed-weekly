@@ -154,6 +154,11 @@
       "title": "Designing an AI Foundation with Mastra in a Microservices Architecture | PLAID Engineer Blog - 株式会社プレイド",
       "link": "https://tech.plaid.co.jp/microservice-ai-system-with-mastra-en",
       "category": "jsts"
+    },
+    {
+      "title": "Google releases its agent development kit for Go",
+      "link": "https://golangweekly.com/issues/578",
+      "category": "go"
     }
   ]
 }
