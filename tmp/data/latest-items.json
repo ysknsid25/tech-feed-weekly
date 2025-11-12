@@ -54,6 +54,16 @@
       "title": "VibeCodingの一歩先へ〜 プロダクト開発でつまずきやすいポイントの乗り越え方",
       "link": "https://findy.connpass.com/event/375414/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "AWS Wickr が危機的状況で命を救う – アフガニスタン避難からハリケーン救援まで",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-aws-wickrs-encryption-service-is-helping-at-risk-afghan-citizens/",
+      "category": "cloud"
+    },
+    {
+      "title": "複数存在していたGoogle WorkSpaceをメインのGoogle WorkSpaceに統合しました | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2025/11/12/google-workspace-integration/",
+      "category": "jsts"
     }
   ]
 }
