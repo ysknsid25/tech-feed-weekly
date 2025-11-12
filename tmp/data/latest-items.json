@@ -124,6 +124,21 @@
       "title": "Oracleのクエリ実行履歴を網羅的に収集するための実践的アプローチ",
       "link": "https://www.m3tech.blog/entry/2025/11/12/190000",
       "category": "company"
+    },
+    {
+      "title": "ニューレガシーアンチパターン - kawasima",
+      "link": "https://scrapbox.io/kawasima/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%82%AC%E3%82%B7%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Migrating Now in Android to Koin Annotations 2.3",
+      "link": "https://blog.insert-koin.io/migrating-now-in-android-to-koin-annotations-2-3-67d252dbb97d?source=rss----925561f2ecdf---4",
+      "category": "kotlin"
+    },
+    {
+      "title": "株式会社ジェネコム、Amazonの「Working Backwards」手法で顧客体験を起点としたFileMakerソリューション開発の進化を目指す",
+      "link": "https://aws.amazon.com/jp/blogs/news/working-backwards-session-genecom/",
+      "category": "cloud"
     }
   ]
 }
