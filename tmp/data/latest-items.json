@@ -114,6 +114,11 @@
       "title": "AgentCore Gateway の MCP サーバー統合による MCP アーキテクチャの変革",
       "link": "https://aws.amazon.com/jp/blogs/news/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/",
       "category": "cloud"
+    },
+    {
+      "title": "Older Tech In The Browser Stack | Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
+      "category": "jsts"
     }
   ]
 }
