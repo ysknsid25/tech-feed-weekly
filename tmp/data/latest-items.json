@@ -49,6 +49,26 @@
       "title": "YAPC::Fukuoka 2025 を盛り上げていきましょう！",
       "link": "https://developer.hatenastaff.com/entry/2025/11/13/100000",
       "category": "company"
+    },
+    {
+      "title": "自宅のWi-Fiルーターを手軽に診断、「am I infected?」の使い方と結果の見方",
+      "link": "https://internet.watch.impress.co.jp/docs/special/2062038.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "福井県と共同で実現する安全な道路情報提供 – 株式会社ほくつう様の AWS 活用事例",
+      "link": "https://aws.amazon.com/jp/blogs/news/case-study-hokutsu/",
+      "category": "cloud"
+    },
+    {
+      "title": "Observability Conference Tokyo 2025に登壇しました！オブザーバビリティ成熟度モデルの実践事例を共有",
+      "link": "https://developersblog.dmm.com/entry/2025/11/13/110000",
+      "category": "company"
+    },
+    {
+      "title": "LINEギフトの新規キャンペーン「ギフトくじ」のフロントエンド実装（インターンレポート）",
+      "link": "https://techblog.lycorp.co.jp/ja/20251113b",
+      "category": "company"
     }
   ]
 }
