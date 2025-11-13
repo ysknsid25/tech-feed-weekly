@@ -179,6 +179,11 @@
       "title": "GitHub Availability Report: October 2025 | The GitHub Blog",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2025/",
       "category": "jsts"
+    },
+    {
+      "title": "GPT 5.1 models now available in Vercel AI Gateway",
+      "link": "https://vercel.com/changelog/gpt-5-1-models-now-available-in-vercel-ai-gateway",
+      "category": "cloud"
     }
   ]
 }
