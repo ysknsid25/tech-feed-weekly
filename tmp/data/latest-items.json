@@ -69,6 +69,21 @@
       "title": "LINEギフトの新規キャンペーン「ギフトくじ」のフロントエンド実装（インターンレポート）",
       "link": "https://techblog.lycorp.co.jp/ja/20251113b",
       "category": "company"
+    },
+    {
+      "title": "モバイルアプリ開発のためのDesign Doc実践ガイド",
+      "link": "https://techblog.lycorp.co.jp/ja/20251113a",
+      "category": "company"
+    },
+    {
+      "title": "2025-11-13のJS: Node.js v24 LTS、Node.js v25.2.0(Strip typesがStable)、npmのセキュリティアップデート",
+      "link": "https://jser.info/2025/11/13/node.js-v24-lts-node.js-v25.2.0strip-typesstable-npm/",
+      "category": "jsts"
+    },
+    {
+      "title": "PR TIMESのフロントエンド環境に typescript-go を導入し、typecheck を高速化する | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2025/11/13/typescript-go-typecheck-9x-speedup/",
+      "category": "jsts"
     }
   ]
 }

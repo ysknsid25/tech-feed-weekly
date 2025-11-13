@@ -22,13 +22,13 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/rss/",
-      "latestLink": "https://jser.info/2025/11/05/storybook-10-turborepo-2.6microfrontend-redux-toolkit-v2.10.0immer/"
+      "latestLink": "https://jser.info/2025/11/13/node.js-v24-lts-node.js-v25.2.0strip-typesstable-npm/"
     },
     {
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://kaminashi-developer.hatenablog.jp/entry/2025/11/13/monitoring"
+      "latestLink": "https://developers.prtimes.jp/2025/11/13/typescript-go-typecheck-9x-speedup/"
     },
     {
       "name": "TSKaigi",
