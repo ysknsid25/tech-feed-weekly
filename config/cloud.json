@@ -22,7 +22,7 @@
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes"
+      "latestLink": "https://github.blog/changelog/2025-11-13-github-actions-oidc-token-claims-now-include-check_run_id"
     },
     {
       "name": "VSCode Tech Blog",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/fin-reference-arch-v1-6-genai/"
     },
     {
       "name": "SRE Weekly",

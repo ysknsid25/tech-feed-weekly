@@ -149,6 +149,21 @@
       "title": "NTT、「空間ノイズキャンセリング」開発　耳を塞がず静かな空間を作る",
       "link": "https://www.watch.impress.co.jp/docs/news/2062243.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "The Range Syntax Has Come to Container Style Queries and if() | CSS-Tricks",
+      "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
+      "category": "jsts"
+    },
+    {
+      "title": "New GitHub Actions OIDC token claims",
+      "link": "https://github.blog/changelog/2025-11-13-github-actions-oidc-token-claims-now-include-check_run_id",
+      "category": "cloud"
+    },
+    {
+      "title": "金融機関向け生成 AI 活用のリファレンスアーキテクチャとユースケースを公開（金融リファレンスアーキテクチャ日本版 2025）",
+      "link": "https://aws.amazon.com/jp/blogs/news/fin-reference-arch-v1-6-genai/",
+      "category": "cloud"
     }
   ]
 }
