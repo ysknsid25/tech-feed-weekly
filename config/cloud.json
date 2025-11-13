@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/case-study-hokutsu/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/"
     },
     {
       "name": "SRE Weekly",
