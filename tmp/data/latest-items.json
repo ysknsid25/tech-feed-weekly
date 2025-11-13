@@ -29,6 +29,16 @@
       "title": "re:Invent 2025 における AI 駆動のオペレーションとオブザーバビリティの活用",
       "link": "https://aws.amazon.com/jp/blogs/news/embracing-ai-driven-operations-and-observability-jp/",
       "category": "cloud"
+    },
+    {
+      "title": "Platform Engineeringの進め方とコミュニケーション ～組織の壁への向き合い方～",
+      "link": "https://findy.connpass.com/event/375302/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "オブザーバビリティを獲得するためのモニタリングの大切さ | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/11/13/monitoring",
+      "category": "jsts"
     }
   ]
 }
