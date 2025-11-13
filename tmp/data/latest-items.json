@@ -169,6 +169,11 @@
       "title": "TypeScript, Python, and the AI feedback loop changing software development | The GitHub Blog",
       "link": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
       "category": "jsts"
+    },
+    {
+      "title": "Rollbar joins the Vercel Marketplace",
+      "link": "https://vercel.com/changelog/rollbar-joins-the-vercel-marketplace",
+      "category": "cloud"
     }
   ]
 }
