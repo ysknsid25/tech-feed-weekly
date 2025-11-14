@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/awsobservabilityfes2025autumn/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/building-enterprise-ready-hybrid-network-connectivity-on-aws-for-sap-cloud-erp-private-formerly-known-as-rise-with-sap/"
     },
     {
       "name": "SRE Weekly",

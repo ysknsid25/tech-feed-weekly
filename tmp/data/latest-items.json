@@ -59,6 +59,21 @@
       "title": "October 2025 Baseline monthly digest",
       "link": "https://web.dev/blog/baseline-digest-oct-2025?hl=en",
       "category": "web"
+    },
+    {
+      "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
+      "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "行政の未来を切り拓く。デジタル庁「AI班」の奮闘に密着  | デジタル庁ニュース一覧",
+      "link": "https://digital-agency-news.digital.go.jp/articles/2025-10-09",
+      "category": "jsts"
+    },
+    {
+      "title": "SAP Cloud ERP Private（旧RISE with SAP）向けのAWS上でのエンタープライズ対応ハイブリッドネットワーク接続の構築",
+      "link": "https://aws.amazon.com/jp/blogs/news/building-enterprise-ready-hybrid-network-connectivity-on-aws-for-sap-cloud-erp-private-formerly-known-as-rise-with-sap/",
+      "category": "cloud"
     }
   ]
 }
