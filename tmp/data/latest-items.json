@@ -84,6 +84,11 @@
       "title": "AWS Backup での新しい Amazon EKS サポートによる EKS クラスターのセキュア化",
       "link": "https://aws.amazon.com/jp/blogs/news/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/",
       "category": "cloud"
+    },
+    {
+      "title": "SAP アプリケーション開発を Amazon Q Developer でより速く",
+      "link": "https://aws.amazon.com/jp/blogs/news/build-sap-applications-faster-with-amazon-q-developer-2/",
+      "category": "cloud"
     }
   ]
 }

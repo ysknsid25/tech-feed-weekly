@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/build-sap-applications-faster-with-amazon-q-developer-2/"
     },
     {
       "name": "SRE Weekly",
