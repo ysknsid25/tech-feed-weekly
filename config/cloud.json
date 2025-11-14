@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/build-sap-applications-faster-with-amazon-q-developer-2/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/accelerating-sap-cloud-application-programming-with-amazon-q-developer/"
     },
     {
       "name": "SRE Weekly",
