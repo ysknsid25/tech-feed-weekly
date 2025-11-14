@@ -74,6 +74,16 @@
       "title": "SAP Cloud ERP Private（旧RISE with SAP）向けのAWS上でのエンタープライズ対応ハイブリッドネットワーク接続の構築",
       "link": "https://aws.amazon.com/jp/blogs/news/building-enterprise-ready-hybrid-network-connectivity-on-aws-for-sap-cloud-erp-private-formerly-known-as-rise-with-sap/",
       "category": "cloud"
+    },
+    {
+      "title": "【朗報？】Windows、「─」と「─」が入力しやすくなる。英文を打つ人にとっては最高のアプデかも（ライフハッカー・ジャパン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/a77f8dd15bbb956973ead752b04814ded57a95db",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS Backup での新しい Amazon EKS サポートによる EKS クラスターのセキュア化",
+      "link": "https://aws.amazon.com/jp/blogs/news/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/",
+      "category": "cloud"
     }
   ]
 }
