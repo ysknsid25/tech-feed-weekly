@@ -64,6 +64,16 @@
       "title": "なぜThrottleではなくDebounceだったのか？ 700並列リクエストと戦うサーバーサイド実装のすべて",
       "link": "https://speakerdeck.com/yoshiori/nazethrottledehanakudebouncedatutanoka-700bing-lie-rikuesutotozhan-usabasaidoshi-zhuang-nosubete",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "セキュリティを 「ふつう」にやっていく 技術、体制、文化の追求 / YAPC::Fukuoka 2025",
+      "link": "https://speakerdeck.com/hiboma/yapc-fukuoka-2025",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "YAPC::Fukuoka 2025で「読む技術・書く技術・伝える技術 - 15年続けて分かった持続可能なオープンソース開発」という発表をしました | Web Scratch",
+      "link": "https://efcl.info/2025/11/15/yapc-fukuoka/",
+      "category": "jsts"
     }
   ]
 }
