@@ -44,6 +44,16 @@
       "title": "Debugging native crashes on Android just got easier with Crashlytics",
       "link": "https://firebase.blog/posts/2025/11/crashlytics-android-ndk-tombstones",
       "category": "cloud"
+    },
+    {
+      "title": "なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題",
+      "link": "https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Another Round of TEA Protocol Spam Floods npm, But It’s Not a Worm | Socket",
+      "link": "https://socket.dev/blog/tea-protocol-spam-floods-npm-but-its-not-a-worm",
+      "category": "jsts"
     }
   ]
 }
