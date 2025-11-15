@@ -59,6 +59,11 @@
       "title": "Code Wiki",
       "link": "https://codewiki.google/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "なぜThrottleではなくDebounceだったのか？ 700並列リクエストと戦うサーバーサイド実装のすべて",
+      "link": "https://speakerdeck.com/yoshiori/nazethrottledehanakudebouncedatutanoka-700bing-lie-rikuesutotozhan-usabasaidoshi-zhuang-nosubete",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
