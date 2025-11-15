@@ -74,6 +74,11 @@
       "title": "YAPC::Fukuoka 2025で「読む技術・書く技術・伝える技術 - 15年続けて分かった持続可能なオープンソース開発」という発表をしました | Web Scratch",
       "link": "https://efcl.info/2025/11/15/yapc-fukuoka/",
       "category": "jsts"
+    },
+    {
+      "title": "「データ無い！ 腹立つ！ 推論する！」から 「データ無い！ 腹立つ！ データを作る」へ チームでデータを作り、育てられるようにするまで / How can we create, use, and maintain data ourselves?",
+      "link": "https://speakerdeck.com/moznion/how-can-we-create-use-and-maintain-data-ourselves",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
