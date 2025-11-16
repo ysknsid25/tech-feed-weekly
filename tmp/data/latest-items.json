@@ -94,6 +94,11 @@
       "title": "NTTドコモが“脱VPN”で約5万人のテレワーク環境を刷新　「ゼロトラスト」で実現",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2511/14/news017.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策",
+      "link": "https://speakerdeck.com/mizdra/web-frontend-secret-leak",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
