@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "ローカルLLMのPoCに300万円使う前に読んでほしい話｜dx_note",
+      "link": "https://note.com/posi7293/n/n3982b984d308",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "macに移ろうかなって思う",
+      "link": "https://anond.hatelabo.jp/20251115085016",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ChatGPTに｢回答の原産地｣を表示させたら快適だった",
+      "link": "https://www.gizmodo.jp/2025/11/chatgpt_custom_instruction_original_source_note.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Redux → Recoil → Zustand → useSyncExternalStore： 状態管理の10年とReact本来の姿",
+      "link": "https://speakerdeck.com/zozotech/redux-recoil-zustand-usesyncexternalstore-10years-of-react-state-management",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "NTTドコモが“脱VPN”で約5万人のテレワーク環境を刷新　「ゼロトラスト」で実現",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/14/news017.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策",
+      "link": "https://speakerdeck.com/mizdra/web-frontend-secret-leak",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "アーキテクチャと考える迷子にならない開発者テスト",
+      "link": "https://speakerdeck.com/irof/architecture-and-developer-testing",
+      "category": "hatena-bookmark-tech"
+    }
+  ]
+}
