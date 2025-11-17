@@ -10,7 +10,7 @@
       "name": "Node.js Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://nodejs.org/en/feed/blog.xml",
-      "latestLink": "https://nodejs.org/en/blog/release/v24.11.1"
+      "latestLink": "https://nodejs.org/en/blog/release/v25.2.1"
     },
     {
       "name": "Effective TypeScript",
@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://blog.nginx.org/blog/the-ingress-nginx-alternative-open-source-nginx-ingress-controller-for-the-long-term"
+      "latestLink": "https://frontendmasters.com/blog/there-are-a-lot-of-ways-to-break-up-long-tasks-in-javascript/"
     },
     {
       "name": "TSKaigi",

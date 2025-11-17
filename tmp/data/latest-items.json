@@ -189,6 +189,16 @@
       "title": "The Ingress NGINX Alternative: Open Source NGINX Ingress Controller for the Long Term | NGINX Community Blog",
       "link": "https://blog.nginx.org/blog/the-ingress-nginx-alternative-open-source-nginx-ingress-controller-for-the-long-term",
       "category": "jsts"
+    },
+    {
+      "title": "Node.js v25.2.1 (Current)",
+      "link": "https://nodejs.org/en/blog/release/v25.2.1",
+      "category": "jsts"
+    },
+    {
+      "title": "There are a lot of ways to break up long tasks in JavaScript. | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/there-are-a-lot-of-ways-to-break-up-long-tasks-in-javascript/",
+      "category": "jsts"
     }
   ]
 }
