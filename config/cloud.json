@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-cost-optimization-event-2025fall/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/2025-10-aws-blackbelt/"
     },
     {
       "name": "SRE Weekly",
