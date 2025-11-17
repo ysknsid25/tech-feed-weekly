@@ -64,6 +64,11 @@
       "title": "How Quickly Can Chrome Parse HTML Code? | DebugBear Blog",
       "link": "https://www.debugbear.com/blog/html-parser-throughput",
       "category": "jsts"
+    },
+    {
+      "title": "iOSDC2025デモアプリから見る、オンデバイスAI活用における課題と可能性",
+      "link": "https://tech-blog.tabelog.com/entry/iosdc-on-device-ai",
+      "category": "company"
     }
   ]
 }
