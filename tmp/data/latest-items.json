@@ -149,6 +149,11 @@
       "title": "12KBの衝撃。Honoで始める爆速Web開発、ExpressからCloudflare Workersまで",
       "link": "https://zenn.dev/three_dots_inc/articles/c6f2b4cd97c894",
       "category": "hono"
+    },
+    {
+      "title": "Feature Request: Official minimal BaseHandler class for clean, decorator-free route handlers",
+      "link": "https://github.com/honojs/hono/issues/4522",
+      "category": "hono"
     }
   ]
 }

@@ -28,7 +28,7 @@
       "name": "Hono Issues",
       "type": "github-issues",
       "feedUrl": "honojs/hono",
-      "latestLink": ""
+      "latestLink": "https://github.com/honojs/hono/issues/4522"
     },
     {
       "name": "Hono CLI Issues",
