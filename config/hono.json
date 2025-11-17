@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "Hono Zenn Latest",
+      "type": "categoryIsUrl",
+      "feedUrl": "https://zenn.dev/topics/hono/feed",
+      "latestLink": "https://zenn.dev/three_dots_inc/articles/c6f2b4cd97c894"
+    },
+    {
+      "name": "Hono Advent Calendar 2025",
+      "type": "categoryIsUrl",
+      "feedUrl": "https://qiita.com/advent-calendar/2025/hono/feed",
+      "latestLink": ""
+    },
+    {
+      "name": "Hono Middleware Issues",
+      "type": "github-issues",
+      "feedUrl": "honojs/middleware",
+      "latestLink": ""
+    },
+    {
+      "name": "Hono Starter Issues",
+      "type": "github-issues",
+      "feedUrl": "honojs/starter",
+      "latestLink": ""
+    },
+    {
+      "name": "Hono Issues",
+      "type": "github-issues",
+      "feedUrl": "honojs/hono",
+      "latestLink": ""
+    },
+    {
+      "name": "Hono CLI Issues",
+      "type": "github-issues",
+      "feedUrl": "honojs/cli",
+      "latestLink": ""
+    },
+    {
+      "name": "HonoX Issues",
+      "type": "github-issues",
+      "feedUrl": "honojs/honox",
+      "latestLink": ""
+    },
+    {
+      "name": "Hono Node Server Issues",
+      "type": "github-issues",
+      "feedUrl": "honojs/node-server",
+      "latestLink": ""
+    }
+  ]
+}

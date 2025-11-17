@@ -1,6 +1,7 @@
 package feed
 
 import (
+	"encoding/json"
 	"encoding/xml"
 	"fmt"
 	"net/http"
@@ -10,8 +11,12 @@ import (
 	"time"
 )
 
-// FetchLatestItem fetches the latest item from RSS/Atom feed
+// FetchLatestItem fetches the latest item from RSS/Atom feed or GitHub Issues
 func FetchLatestItem(feedConfig models.FeedConfig) (*models.LatestItem, error) {
+	if feedConfig.Type == "github-issues" {
+		return fetchLatestGitHubIssue(feedConfig)
+	}
+
 	feedURL := getFeedURL(feedConfig)
 	if feedURL == "" {
 		return nil, fmt.Errorf("could not generate feed URL for %s", feedConfig.Name)
@@ -36,6 +41,48 @@ func FetchLatestItem(feedConfig models.FeedConfig) (*models.LatestItem, error) {
 	return parseRSSFeed(resp, feedConfig)
 }
 
+// fetchLatestGitHubIssue fetches the latest issue from a GitHub repository
+func fetchLatestGitHubIssue(config models.FeedConfig) (*models.LatestItem, error) {
+	apiURL := getFeedURL(config)
+	if apiURL == "" {
+		return nil, fmt.Errorf("could not generate feed URL for %s", config.Name)
+	}
+
+	req, err := http.NewRequest("GET", apiURL, nil)
+	if err != nil {
+		return nil, fmt.Errorf("failed to create request for %s: %w", apiURL, err)
+	}
+	req.Header.Set("Accept", "application/vnd.github.v3+json")
+
+	client := &http.Client{}
+	resp, err := client.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("failed to fetch github issues %s: %w", apiURL, err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP error %d when fetching %s", resp.StatusCode, apiURL)
+	}
+
+	var issues []models.GitHubIssue
+	if err := json.NewDecoder(resp.Body).Decode(&issues); err != nil {
+		return nil, fmt.Errorf("failed to decode GitHub issues JSON: %w", err)
+	}
+
+	if len(issues) == 0 {
+		return nil, fmt.Errorf("no issues found for %s", config.FeedURL)
+	}
+
+	latestIssue := issues[0]
+
+	return &models.LatestItem{
+		Title:    strings.TrimSpace(latestIssue.Title),
+		Link:     strings.TrimSpace(latestIssue.HTMLURL),
+		Category: config.Category,
+	}, nil
+}
+
 // getFeedURL generates the appropriate feed URL based on the feed type
 func getFeedURL(config models.FeedConfig) string {
 	switch config.Type {
@@ -53,6 +100,8 @@ func getFeedURL(config models.FeedConfig) string {
 		return fmt.Sprintf("https://%s.connpass.com/ja.atom", config.FeedURL)
 	case "categoryIsUrl", "categoryIsAtomUrl":
 		return config.FeedURL
+	case "github-issues":
+		return fmt.Sprintf("https://api.github.com/repos/%s/issues?state=open&sort=created&direction=desc", config.FeedURL)
 	default:
 		return ""
 	}

@@ -69,7 +69,7 @@ jobs:
         server_port: 587
         username: ${{ secrets.MAIL_USERNAME }}
         password: ${{ secrets.MAIL_PASSWORD }}
-        subject: "Tech Feed Weekly - ${{ github.run_id }}"
+        subject: "Tech Feed Daily - ${{ github.run_id }}"
         to: ${{ secrets.MAIL_TO }}
         from: ${{ secrets.MAIL_FROM }}
         html_body: file://tmp/publisher/newsletter.html

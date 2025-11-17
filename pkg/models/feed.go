@@ -77,7 +77,25 @@ type HatenaBookmarkItem struct {
 }
 
 // HatenaBookmarkFeed represents Hatena Bookmark RSS feed structure
+
 type HatenaBookmarkFeed struct {
+
 	XMLName xml.Name             `xml:"RDF"`
+
 	Items   []HatenaBookmarkItem `xml:"item"`
+
+}
+
+
+
+// GitHubIssue represents an issue from the GitHub API
+
+type GitHubIssue struct {
+
+	Title     string    `json:"title"`
+
+	HTMLURL   string    `json:"html_url"`
+
+	CreatedAt time.Time `json:"created_at"`
+
 }
