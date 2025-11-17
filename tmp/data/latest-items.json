@@ -199,6 +199,16 @@
       "title": "There are a lot of ways to break up long tasks in JavaScript. | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/there-are-a-lot-of-ways-to-break-up-long-tasks-in-javascript/",
       "category": "jsts"
+    },
+    {
+      "title": "この文字組み、どっちが正解？ベースライン調整のセンスを磨いておこう",
+      "link": "https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/baseline.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "validator() should mark requestBody.required: true in OpenAPI spec",
+      "link": "https://github.com/honojs/middleware/issues/1562",
+      "category": "hono"
     }
   ]
 }
