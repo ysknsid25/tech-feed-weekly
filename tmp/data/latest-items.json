@@ -54,6 +54,16 @@
       "title": "マネージドKubernetes運用戦記 − AKS・GKE・EKS、それぞれのリアルと最適解",
       "link": "https://findy.connpass.com/event/375232/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "JavaScriptにおけるasync/await呼び出しのスタックトレースの困難と実装",
+      "link": "https://speakerdeck.com/sosukesuzuki/awaithu-bichu-sinosutatukutoresunokun-nan-toshi-zhuang",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "How Quickly Can Chrome Parse HTML Code? | DebugBear Blog",
+      "link": "https://www.debugbear.com/blog/html-parser-throughput",
+      "category": "jsts"
     }
   ]
 }
