@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://frontendmasters.com/blog/there-are-a-lot-of-ways-to-break-up-long-tasks-in-javascript/"
+      "latestLink": "https://www.bram.us/2025/11/17/faking-two-phase-view-transitions-with-the-navigation-apis-precommithandler/"
     },
     {
       "name": "TSKaigi",

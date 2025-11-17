@@ -22,7 +22,7 @@
       "name": "Hono Starter Issues",
       "type": "github-issues",
       "feedUrl": "honojs/starter",
-      "latestLink": ""
+      "latestLink": "https://github.com/honojs/starter/pull/105"
     },
     {
       "name": "Hono Issues",
@@ -34,19 +34,19 @@
       "name": "Hono CLI Issues",
       "type": "github-issues",
       "feedUrl": "honojs/cli",
-      "latestLink": ""
+      "latestLink": "https://github.com/honojs/cli/pull/47"
     },
     {
       "name": "HonoX Issues",
       "type": "github-issues",
       "feedUrl": "honojs/honox",
-      "latestLink": ""
+      "latestLink": "https://github.com/honojs/honox/issues/341"
     },
     {
       "name": "Hono Node Server Issues",
       "type": "github-issues",
       "feedUrl": "honojs/node-server",
-      "latestLink": ""
+      "latestLink": "https://github.com/honojs/node-server/issues/287"
     }
   ]
 }

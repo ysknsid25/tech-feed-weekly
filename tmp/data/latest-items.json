@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "【大刷新】PMBOK®の第8版がでた - Qiita",
+      "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【やじうまミニレビュー】 無料のAffinityってPhotoshopの代わりになる？「やっぱ無理」という結論に達したワケ",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2063469.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「ウェブ魚拓サービスのArchive.todayに圧力をかける団体の実態は非常に怪しい」という調査結果をAdGuard DNSが公表",
+      "link": "https://gigazine.net/news/20251117-suspicious-pressure-on-archive-today/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "この文字組み、どっちが正解？ベースライン調整のセンスを磨いておこう",
+      "link": "https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/baseline.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "やばいアプデきた！グーグル「NotebookLM」Deep Research機能で最強進化",
+      "link": "https://ascii.jp/elem/000/004/350/4350621/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "add vercel.json to fix no entrypoint error in vercel template",
+      "link": "https://github.com/honojs/starter/pull/105",
+      "category": "hono"
+    },
+    {
+      "title": "feat(optimize): introduce `target` option",
+      "link": "https://github.com/honojs/cli/pull/47",
+      "category": "hono"
+    },
+    {
+      "title": "Add helper component for embedding inline scripts",
+      "link": "https://github.com/honojs/honox/issues/341",
+      "category": "hono"
+    },
+    {
+      "title": "Error uploading Chinese files to node-server with Postman",
+      "link": "https://github.com/honojs/node-server/issues/287",
+      "category": "hono"
+    },
+    {
+      "title": "Faking Two-Phase View Transitions with the Navigation API’s precommitHandler | Bram.us",
+      "link": "https://www.bram.us/2025/11/17/faking-two-phase-view-transitions-with-the-navigation-apis-precommithandler/",
+      "category": "jsts"
+    }
+  ]
+}
