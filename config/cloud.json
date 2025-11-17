@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/2025-10-aws-blackbelt/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/guide-to-aws-cloud-resilience-sessions-at-reinvent-2025/"
     },
     {
       "name": "SRE Weekly",
