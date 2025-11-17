@@ -169,6 +169,11 @@
       "title": "Data Connect: Event Triggers and Generated Admin SDKs",
       "link": "https://firebase.blog/posts/2025/11/dataconnect-nov25",
       "category": "cloud"
+    },
+    {
+      "title": "Reachability for Ruby Now in Beta | Socket",
+      "link": "https://socket.dev/blog/reachability-for-ruby-now-in-beta",
+      "category": "jsts"
     }
   ]
 }
