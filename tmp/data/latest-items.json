@@ -139,6 +139,16 @@
       "title": "chore: enable bun isolated install",
       "link": "https://github.com/honojs/hono/pull/4523",
       "category": "hono"
+    },
+    {
+      "title": "Cloudflareで障害　Xも不調",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/18/news128.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Helping Decision‑Makers Say Yes to Kotlin",
+      "link": "https://blog.jetbrains.com/kotlin/2025/11/helping-decision-makers-say-yes-to-kotlin/",
+      "category": "kotlin"
     }
   ]
 }
