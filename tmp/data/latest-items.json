@@ -99,6 +99,11 @@
       "title": "週刊AWS – 2025/11/10週",
       "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20251110/",
       "category": "cloud"
+    },
+    {
+      "title": "Python 初心者が生成AIとともに短期プログラミング開発に挑戦した結果",
+      "link": "https://aws.amazon.com/jp/blogs/news/ana-systems-python-genai/",
+      "category": "cloud"
     }
   ]
 }
