@@ -134,6 +134,11 @@
       "title": "BtoBにおけるフォーム入力者の76.9%が途中で離脱する原因は、運営者の「削れない項目」にあった | Coneのコンテンツ制作所",
       "link": "https://cone-c-slide.com/see-sla/blog/btobform-dropout-reason-solution/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore: enable bun isolated install",
+      "link": "https://github.com/honojs/hono/pull/4523",
+      "category": "hono"
     }
   ]
 }
