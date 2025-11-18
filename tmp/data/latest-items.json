@@ -119,6 +119,16 @@
       "title": "私の個人開発自慢LT #2",
       "link": "https://findy.connpass.com/event/376026/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Draft: Replace commander with @takojs/tako",
+      "link": "https://github.com/honojs/cli/pull/48",
+      "category": "hono"
+    },
+    {
+      "title": "Hatena Engineer Seminar #35 「エンジニアリングマネージャー編」を12月8日にオンライン開催します #hatenatech",
+      "link": "https://developer.hatenastaff.com/entry/engineer-seminar-35",
+      "category": "company"
     }
   ]
 }
