@@ -49,6 +49,16 @@
       "title": "Faking Two-Phase View Transitions with the Navigation API’s precommitHandler | Bram.us",
       "link": "https://www.bram.us/2025/11/17/faking-two-phase-view-transitions-with-the-navigation-apis-precommithandler/",
       "category": "jsts"
+    },
+    {
+      "title": "Kiro CLI の紹介：Kiro エージェントをあなたのターミナルへ",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-cli/",
+      "category": "cloud"
+    },
+    {
+      "title": "AIエージェントの制御を柔軟に。Strands Agents と Amazon Bedrock AgentCore で「Return of Control」を実装してみた | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/try-return-of-control",
+      "category": "jsts"
     }
   ]
 }
