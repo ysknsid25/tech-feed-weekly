@@ -4,7 +4,7 @@
       "name": "Firebase Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://firebase.blog/rss.xml",
-      "latestLink": "https://firebase.blog/posts/2025/11/dataconnect-nov25"
+      "latestLink": "https://firebase.blog/posts/2025/11/gemini-3-firebase-ai-logic"
     },
     {
       "name": "Google Cloud Japan",
@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/support-for-elysia"
+      "latestLink": "https://vercel.com/blog/vercel-collaborates-with-google-for-gemini-3-pro-launch"
     },
     {
       "name": "GitHub Actions Blog",
@@ -28,7 +28,7 @@
       "name": "VSCode Tech Blog",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://code.visualstudio.com/feed.xml",
-      "latestLink": "https://code.visualstudio.com/assets/updates/1_106/release-highlights.png"
+      "latestLink": "https://code.visualstudio.com/assets/blogs/2025/11/18/PrivateMarketplaceHero.png"
     },
     {
       "name": "AWS Japan Blog",
