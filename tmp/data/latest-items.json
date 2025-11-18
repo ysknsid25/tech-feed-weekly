@@ -179,6 +179,16 @@
       "title": "TPAC 2025 参加記録",
       "link": "https://blog.jxck.io/entries/2025-11-18/tpac2025.html",
       "category": "famous"
+    },
+    {
+      "title": "Cloudflare Global Network experiencing issues",
+      "link": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Announcing Socket Certified Patches: One-Click Fixes for Vulnerable Dependencies | Socket",
+      "link": "https://socket.dev/blog/certified-patches",
+      "category": "jsts"
     }
   ]
 }
