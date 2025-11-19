@@ -104,6 +104,21 @@
       "title": "Deep Dive: Amazon ECS マネージドインスタンスのプロビジョニングと最適化",
       "link": "https://aws.amazon.com/jp/blogs/news/deep-dive-amazon-ecs-managed-instances-provisioning-and-optimization/",
       "category": "cloud"
+    },
+    {
+      "title": "「一般人は容量ばかり見て、充電速度を見ない」百均の20000mAhのモバイルバッテリーを買うくらいなら少し高くても急速充電できるものを買った方が良い？",
+      "link": "https://togetter.com/li/2629430",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "SAPの負荷テスト：AWSによるサーバーレスアプローチ",
+      "link": "https://aws.amazon.com/jp/blogs/news/sap-load-testing-a-serverless-approach-with-aws/",
+      "category": "cloud"
+    },
+    {
+      "title": "feat: updated jwt and jwk to match bearerAuth middleware",
+      "link": "https://github.com/honojs/hono/pull/4524",
+      "category": "hono"
     }
   ]
 }
