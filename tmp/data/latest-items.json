@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "仕様駆動開発の理想と現実、そして向き合い方",
+      "link": "https://speakerdeck.com/gotalab555/shi-yang-qu-dong-kai-fa-noli-xiang-toxian-shi-sositexiang-kihe-ifang",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AntigravityはどういうAIエディタなのか",
+      "link": "https://blog.lai.so/antigravity/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "がんばるとろくなことは無い｜牛尾　剛",
+      "link": "https://note.com/simplearchitect/n/n13e6da47bd39",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「家族のために休職中にwebデザインを学んで独立したい」という相談が恐怖を感じる→「全然家族の為になってないからやめたまえ…」「毎日2.3時間の勉強で独立する気なのか…」",
+      "link": "https://posfie.com/@petaritape/p/XsKQTzz",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "“透明なレイヤー”をAndroidスマホに重ね、ピクセル情報を盗む攻撃　30秒で二要素認証コードも窃取",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/18/news029.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Cloudflare outage on November 18, 2025",
+      "link": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Gemini 3 による知性の新時代",
+      "link": "https://blog.google/intl/ja-jp/company-news/technology/gemini-3/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "HonoとPerl 〜 異文化を持ち込む",
+      "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
+      "category": "hono"
+    },
+    {
+      "title": "The Compounding Effect: How Nx Features Multiply Performance Gains | Nx Blog",
+      "link": "https://nx.dev/blog/the-compounding-effect-how-nx-features-multiply-performance-gains",
+      "category": "jsts"
+    },
+    {
+      "title": "ユニットテストに時限爆弾を作らないためのベストプラクティス",
+      "link": "https://developers.freee.co.jp/entry/time-bomb-tests-best-practices",
+      "category": "company"
+    }
+  ]
+}
