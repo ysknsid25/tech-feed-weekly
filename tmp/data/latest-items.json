@@ -119,6 +119,36 @@
       "title": "feat: updated jwt and jwk to match bearerAuth middleware",
       "link": "https://github.com/honojs/hono/pull/4524",
       "category": "hono"
+    },
+    {
+      "title": "“透明なレイヤー”をAndroidスマホに重ね、ピクセル情報を盗む攻撃　30秒で二要素認証コードも窃取",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/18/news029.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Gemini 3 による知性の新時代",
+      "link": "https://blog.google/intl/ja-jp/company-news/technology/gemini-3/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "インターネットが壊れた？　XもChatGPTも使えない　原因の「クラウドフレア」とは",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/18/news131.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon CloudWatch MCP Server と Amazon Q CLI で SAP 運用を効率化 – Part 4",
+      "link": "https://aws.amazon.com/jp/blogs/news/streamline-sap-operation-with-cloudwatch-mcp-server-and-amazon-q-cli-part-4/",
+      "category": "cloud"
+    },
+    {
+      "title": "HonoとPerl 〜 異文化を持ち込む",
+      "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
+      "category": "hono"
+    },
+    {
+      "title": "feat(types): delete type `NotSpecified` and `StrictVerifyOptions`",
+      "link": "https://github.com/honojs/hono/pull/4525",
+      "category": "hono"
     }
   ]
 }
