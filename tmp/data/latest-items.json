@@ -214,6 +214,21 @@
       "title": "Mobile App with AI Meetup Tokyo",
       "link": "https://aiau.connpass.com/event/370094/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Sixteen great years of Go",
+      "link": "https://golangweekly.com/issues/579",
+      "category": "go"
+    },
+    {
+      "title": "What's New in WebGPU (Chrome 143) | developer.chrome.com: Blog",
+      "link": "https://developer.chrome.com/blog/new-in-webgpu-143",
+      "category": "jsts"
+    },
+    {
+      "title": "Web とは何か",
+      "link": "https://blog.jxck.io/entries/2025-11-19/web.html",
+      "category": "famous"
     }
   ]
 }
