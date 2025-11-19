@@ -99,6 +99,11 @@
       "title": "グーグル「Gemini 3」を公開　AIモード検索にも導入　Gemini Agent登場",
       "link": "https://www.watch.impress.co.jp/docs/news/2064371.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Deep Dive: Amazon ECS マネージドインスタンスのプロビジョニングと最適化",
+      "link": "https://aws.amazon.com/jp/blogs/news/deep-dive-amazon-ecs-managed-instances-provisioning-and-optimization/",
+      "category": "cloud"
     }
   ]
 }

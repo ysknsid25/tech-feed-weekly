@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-dms-data-validation-custom-serverless/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/deep-dive-amazon-ecs-managed-instances-provisioning-and-optimization/"
     },
     {
       "name": "SRE Weekly",
