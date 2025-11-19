@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://semaphore.io/blog/jonathan-reimer"
+      "latestLink": "https://socket.dev/blog/announcing-bun-and-vlt-support"
     },
     {
       "name": "TSKaigi",
