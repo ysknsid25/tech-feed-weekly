@@ -64,6 +64,21 @@
       "title": "東京大学 松尾・岩澤研究室主催の AI エンジニアリング実践講座にて、1400 名を超える受講者に AWS 上でのクラウド開発を体験していただきました [ 後片づけ編 ]",
       "link": "https://aws.amazon.com/jp/blogs/news/uot-data-engginering-lecture-multiaccount-challenge-vol3/",
       "category": "cloud"
+    },
+    {
+      "title": "がんばるとろくなことは無い｜牛尾　剛",
+      "link": "https://note.com/simplearchitect/n/n13e6da47bd39",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS DMS データ検証:カスタムサーバーレスアーキテクチャ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-dms-data-validation-custom-serverless/",
+      "category": "cloud"
+    },
+    {
+      "title": "あなたの知らない ”サプライチェーン攻撃”を 語る セキュリティLT Night",
+      "link": "https://findy.connpass.com/event/375960/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
