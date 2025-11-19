@@ -204,6 +204,16 @@
       "title": "2025 年 Django の現状",
       "link": "https://blog.jetbrains.com/ja/pycharm/2025/11/the-state-of-django-2025/",
       "category": "kotlin"
+    },
+    {
+      "title": "Uncaught Error: Only valueType: DOUBLE is supported in Deno when using httpInstrumentationMiddleware",
+      "link": "https://github.com/honojs/middleware/issues/1561",
+      "category": "hono"
+    },
+    {
+      "title": "Mobile App with AI Meetup Tokyo",
+      "link": "https://aiau.connpass.com/event/370094/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
