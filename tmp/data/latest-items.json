@@ -184,6 +184,26 @@
       "title": "Should We add `@deprecated` annotation to `middleware/powered-by`?",
       "link": "https://github.com/honojs/hono/issues/4526",
       "category": "hono"
+    },
+    {
+      "title": "Cloudflare outage on November 18, 2025",
+      "link": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "［速報］マイクロソフト、あらゆるAIエージェントを包括的に管理する「Microsoft Agent 365」発表。Ignite 2025",
+      "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "refactor(zod-openapi): relax types for the latest zod-validator",
+      "link": "https://github.com/honojs/middleware/pull/1566",
+      "category": "hono"
+    },
+    {
+      "title": "2025 年 Django の現状",
+      "link": "https://blog.jetbrains.com/ja/pycharm/2025/11/the-state-of-django-2025/",
+      "category": "kotlin"
     }
   ]
 }
