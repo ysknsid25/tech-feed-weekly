@@ -249,6 +249,11 @@
       "title": "Announcing Bun and vlt Support in Socket | Socket",
       "link": "https://socket.dev/blog/announcing-bun-and-vlt-support",
       "category": "jsts"
+    },
+    {
+      "title": "How to write a great agents.md: Lessons from over 2,500 repositories | The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/",
+      "category": "jsts"
     }
   ]
 }
