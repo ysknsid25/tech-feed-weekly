@@ -149,6 +149,16 @@
       "title": "feat(types): delete type `NotSpecified` and `StrictVerifyOptions`",
       "link": "https://github.com/honojs/hono/pull/4525",
       "category": "hono"
+    },
+    {
+      "title": "12KBの衝撃。Honoで始める爆速Web開発、ExpressからCloudflare Workersまで",
+      "link": "https://zenn.dev/three_dots_inc/articles/c6f2b4cd97c894",
+      "category": "hono"
+    },
+    {
+      "title": "STORES Tech Conf 2025 “What Would You Do?” のお楽しみポイントを紹介！ポスター、zine、スタンプラリー、ブースなど | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/11/19/152206",
+      "category": "jsts"
     }
   ]
 }
