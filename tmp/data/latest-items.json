@@ -254,6 +254,16 @@
       "title": "How to write a great agents.md: Lessons from over 2,500 repositories | The GitHub Blog",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/",
       "category": "jsts"
+    },
+    {
+      "title": "feat(secure-headers): Add CSP report-uri directive support",
+      "link": "https://github.com/honojs/hono/issues/4527",
+      "category": "hono"
+    },
+    {
+      "title": "How we’re making GitHub Copilot smarter with fewer tools | The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
+      "category": "jsts"
     }
   ]
 }
