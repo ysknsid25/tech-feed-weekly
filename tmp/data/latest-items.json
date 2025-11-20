@@ -79,6 +79,16 @@
       "title": "Amazon Q Developer の IDE プラグインから Kiro に乗り換える準備",
       "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-2-q-dev-ide-to-kiro/",
       "category": "cloud"
+    },
+    {
+      "title": "Amazon Aurora PostgreSQL での AWS DMS を使用したデータ移行における test_decoding プラグインと pglogical プラグインの比較",
+      "link": "https://aws.amazon.com/jp/blogs/news/comparison-of-test_decoding-and-pglogical-plugins-in-amazon-aurora-postgresql-for-data-migration-using-aws-dms/",
+      "category": "cloud"
+    },
+    {
+      "title": "Stop Using CustomEvent | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/stop-using-customevent/",
+      "category": "jsts"
     }
   ]
 }
