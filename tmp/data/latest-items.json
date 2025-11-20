@@ -224,6 +224,16 @@
       "title": "Introducing Socket Scanning for OpenVSX Extensions | Socket",
       "link": "https://socket.dev/blog/introducing-socket-scanning-for-openvsx-extensions",
       "category": "jsts"
+    },
+    {
+      "title": "Improved analytics experience now available on the Vercel Firewall",
+      "link": "https://vercel.com/changelog/improved-analytics-experience-now-available-on-the-vercel-firewall",
+      "category": "cloud"
+    },
+    {
+      "title": "Evolving GitHub Copilot’s next edit suggestions through custom model training | The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/",
+      "category": "jsts"
     }
   ]
 }
