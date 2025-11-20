@@ -89,6 +89,16 @@
       "title": "Stop Using CustomEvent | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/stop-using-customevent/",
       "category": "jsts"
+    },
+    {
+      "title": "Claude Code on AWS パターン解説 – Amazon Bedrock / AWS Marketplace",
+      "link": "https://aws.amazon.com/jp/blogs/news/claude-code-on-aws-patterns/",
+      "category": "cloud"
+    },
+    {
+      "title": "推しProposalと広がる夢~Intl.MessageFormatとDomLocalization~ | Saji (@sajikix) on Speaker Deck",
+      "link": "https://speakerdeck.com/sajikix/jsconfjp2025-cybozu-lt",
+      "category": "jsts"
     }
   ]
 }
