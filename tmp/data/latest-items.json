@@ -244,6 +244,21 @@
       "title": "Atlassian Rovo Dev Research: What Types of Code Review Comments Do Developers Most Frequently Resolve?",
       "link": "https://www.atlassian.com/blog/atlassian-engineering/atlassian-rovo-dev-research-what-types-of-code-review-comments-do-developers-most-frequently-resolve",
       "category": "company"
+    },
+    {
+      "title": "プロダクトマネージャーは「この世界をどう変えたいか」さえあればいい",
+      "link": "https://techblog.tebiki.co.jp/2025/11/20/163215",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "You can now invalidate the CDN cache by providing a source image",
+      "link": "https://vercel.com/changelog/you-can-now-invalidate-the-cdn-cache-by-providing-a-source-image",
+      "category": "cloud"
+    },
+    {
+      "title": "GitHub Actions cache size can now exceed 10 GB per repository",
+      "link": "https://github.blog/changelog/2025-11-20-github-actions-cache-size-can-now-exceed-10-gb-per-repository",
+      "category": "cloud"
     }
   ]
 }

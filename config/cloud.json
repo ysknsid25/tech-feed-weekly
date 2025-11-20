@@ -16,13 +16,13 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/improved-analytics-experience-now-available-on-the-vercel-firewall"
+      "latestLink": "https://vercel.com/changelog/you-can-now-invalidate-the-cdn-cache-by-providing-a-source-image"
     },
     {
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2025-11-13-github-actions-oidc-token-claims-now-include-check_run_id"
+      "latestLink": "https://github.blog/changelog/2025-11-20-github-actions-cache-size-can-now-exceed-10-gb-per-repository"
     },
     {
       "name": "VSCode Tech Blog",
