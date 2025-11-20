@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/securing-a-city-sized-event-how-amazon-integrates-physical-and-logical-security-at-reinvent/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-genai-usecases-nttwest-elgana-rag/"
     },
     {
       "name": "SRE Weekly",
