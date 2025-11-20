@@ -144,6 +144,26 @@
       "title": "hatena.go #2 開催レポート",
       "link": "https://developer.hatenastaff.com/entry/2025/11/20/140000",
       "category": "company"
+    },
+    {
+      "title": "Web とは何か | blog.jxck.io",
+      "link": "https://blog.jxck.io/entries/2025-11-19/web.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "都市規模のイベントを守る：AWS re:Invent における物理セキュリティと論理セキュリティの統合アプローチ",
+      "link": "https://aws.amazon.com/jp/blogs/news/securing-a-city-sized-event-how-amazon-integrates-physical-and-logical-security-at-reinvent/",
+      "category": "cloud"
+    },
+    {
+      "title": "WINTICKETにおけるAI-Readyなデータ分析基盤の構築",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59626/",
+      "category": "company"
+    },
+    {
+      "title": "私の個人開発自慢LT #2",
+      "link": "https://findy.connpass.com/event/376026/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
