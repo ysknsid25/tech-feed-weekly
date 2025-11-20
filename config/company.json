@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/migrating-the-jira-and-confluence-applications-to-aws-graviton"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/atlassian-rovo-dev-research-what-types-of-code-review-comments-do-developers-most-frequently-resolve"
     },
     {
       "name": "Slack Tech Blog",
