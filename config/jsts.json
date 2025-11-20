@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://css-tricks.com/should-we-even-have-closed/"
+      "latestLink": "https://socket.dev/blog/introducing-socket-scanning-for-openvsx-extensions"
     },
     {
       "name": "TSKaigi",
