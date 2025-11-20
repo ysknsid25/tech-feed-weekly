@@ -49,6 +49,36 @@
       "title": "ユニットテストに時限爆弾を作らないためのベストプラクティス",
       "link": "https://developers.freee.co.jp/entry/time-bomb-tests-best-practices",
       "category": "company"
+    },
+    {
+      "title": "Apple、日本に緊急警告。「価格は下がらず利益86%が中国企業等へ」欧州DMAの皮肉な結末",
+      "link": "https://gori.me/apple/apple-news/162398",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「業務用のツールでやっていい設計ではない」Adobeのアプリが障害等でサーバとの通信が上手くいかないと基本的な動作すらできなくなるのは問題では？",
+      "link": "https://togetter.com/li/2629592",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【重要】作品投稿に生成AIを利用している方へ、推奨タグ利用のお願い - カクヨムからのお知らせ",
+      "link": "https://kakuyomu.jp/info/entry/geneai_tag",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "GitHub Copilotを使いこなす 実例に学ぶAIコーディング活用術",
+      "link": "https://findy.connpass.com/event/376448/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Announcing Angular v21 | Angular Blog - Medium",
+      "link": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon Q Developer の IDE プラグインから Kiro に乗り換える準備",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-2-q-dev-ide-to-kiro/",
+      "category": "cloud"
     }
   ]
 }

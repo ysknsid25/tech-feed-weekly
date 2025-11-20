@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://nx.dev/blog/the-compounding-effect-how-nx-features-multiply-performance-gains"
+      "latestLink": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b"
     },
     {
       "name": "TSKaigi",
