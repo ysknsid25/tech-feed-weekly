@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "title": "プロダクトマネージャーは「この世界をどう変えたいか」さえあればいい",
+      "link": "https://techblog.tebiki.co.jp/2025/11/20/163215",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "プレミアムフライデーの偽サイトに経産省が注意喚起　手放したドメイン、第三者が利用か",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/20/news093.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Googleが発表したAIエディタ、Antigravityを触ってみた。~指示・実装・動作確認~ - Qiita",
+      "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている - Qiita",
+      "link": "https://qiita.com/rf_p/items/60be12914338447543d3",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Web とは何か | blog.jxck.io",
+      "link": "https://blog.jxck.io/entries/2025-11-19/web.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AI搭載縫いぐるみが性的に露骨な会話をエスカレート、消費者団体の指摘で販売中止に",
+      "link": "https://www.cnn.co.jp/tech/35240689.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Anchor Positioning is transform-aware in Chrome 144+ | Bram.us",
+      "link": "https://www.bram.us/2025/11/20/anchor-positioning-is-transform-aware-in-chrome-144/",
+      "category": "jsts"
+    },
+    {
+      "title": "Grok 4.1 Fast models now available on Vercel AI Gateway",
+      "link": "https://vercel.com/changelog/grok-4-1-fast-models-now-available-on-vercel-ai-gateway",
+      "category": "cloud"
+    }
+  ]
+}
