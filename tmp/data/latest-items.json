@@ -114,6 +114,36 @@
       "title": "社内向けChrome拡張ストアの機能追加（インターンレポート）",
       "link": "https://techblog.lycorp.co.jp/ja/20251120b",
       "category": "company"
+    },
+    {
+      "title": "Googleが発表したAIエディタ、Antigravityを触ってみた。~指示・実装・動作確認~ - Qiita",
+      "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "2025年11月18日のCloudflareの障害",
+      "link": "https://blog.cloudflare.com/ja-jp/18-november-2025-outage/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "PHPカンファレンス福岡2025に協賛・登壇しました！ | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2025/11/20/pr-times-participation-php-conference-fukuoka-2025-2/",
+      "category": "jsts"
+    },
+    {
+      "title": "Kiro : コードは仕様と一致していますか？ 〜プロパティベーステストで「正しさ」を測定する〜",
+      "link": "https://aws.amazon.com/jp/blogs/news/property-based-testing/",
+      "category": "cloud"
+    },
+    {
+      "title": "今週11/21（金）にpmconf 2025 大阪に登壇します！という話など。",
+      "link": "https://www.m3tech.blog/entry/pmconf2025-announcement",
+      "category": "company"
+    },
+    {
+      "title": "hatena.go #2 開催レポート",
+      "link": "https://developer.hatenastaff.com/entry/2025/11/20/140000",
+      "category": "company"
     }
   ]
 }

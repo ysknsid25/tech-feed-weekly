@@ -58,7 +58,7 @@
       "name": "m3 Tech Blog",
       "type": "hatena",
       "feedUrl": "https://www.m3tech.blog",
-      "latestLink": "https://www.m3tech.blog/entry/2025/11/17/170000"
+      "latestLink": "https://www.m3tech.blog/entry/pmconf2025-announcement"
     },
     {
       "name": "食べログ Tech Blog",
@@ -82,7 +82,7 @@
       "name": "はてな開発者ブログ",
       "type": "hatena",
       "feedUrl": "https://developer.hatenastaff.com",
-      "latestLink": "https://developer.hatenastaff.com/entry/engineer-seminar-35"
+      "latestLink": "https://developer.hatenastaff.com/entry/2025/11/20/140000"
     }
   ]
 }
