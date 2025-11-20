@@ -209,6 +209,11 @@
       "title": "Should We Even Have :closed? | CSS-Tricks",
       "link": "https://css-tricks.com/should-we-even-have-closed/",
       "category": "jsts"
+    },
+    {
+      "title": "三遠ネオフェニックス様の AWS 生成 AI 事例「Amazon Bedrock と Step Functions を活用したバスケットボール・スカウティングレポート自動生成システムの構築」のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-san-en-neophoenix/",
+      "category": "cloud"
     }
   ]
 }
