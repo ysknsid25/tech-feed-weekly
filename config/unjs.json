@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "name": "h3 Issues",
+            "type": "github-issues",
+            "feedUrl": "h3js/h3",
+            "latestLink": ""
+        },
+        {
+            "name": "nitro Issues",
+            "type": "github-issues",
+            "feedUrl": "nitrojs/nitro",
+            "latestLink": ""
+        },
+        {
+            "name": "ofetch Issues",
+            "type": "github-issues",
+            "feedUrl": "unjs/ofetch",
+            "latestLink": ""
+        },
+        {
+            "name": "c12 Issues",
+            "type": "github-issues",
+            "feedUrl": "unjs/c12",
+            "latestLink": ""
+        },
+        {
+            "name": "citty Issues",
+            "type": "github-issues",
+            "feedUrl": "unjs/citty",
+            "latestLink": ""
+        }
+    ]
+}
