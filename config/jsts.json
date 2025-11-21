@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://semaphore.io/blog/self-healing-ci"
+      "latestLink": "https://socket.dev/blog/introducing-webhook-events-for-alert-changes"
     },
     {
       "name": "TSKaigi",

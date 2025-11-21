@@ -199,6 +199,11 @@
       "title": "Antigravity and Firebase MCP accelerate app development",
       "link": "https://firebase.blog/posts/2025/11/firebase-mcp-and-antigravity",
       "category": "cloud"
+    },
+    {
+      "title": "Introducing Webhook Events for Alert Changes | Socket",
+      "link": "https://socket.dev/blog/introducing-webhook-events-for-alert-changes",
+      "category": "jsts"
     }
   ]
 }
