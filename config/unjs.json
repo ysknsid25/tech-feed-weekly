@@ -1,34 +1,34 @@
 {
-    "data": [
-        {
-            "name": "h3 Issues",
-            "type": "github-issues",
-            "feedUrl": "h3js/h3",
-            "latestLink": ""
-        },
-        {
-            "name": "nitro Issues",
-            "type": "github-issues",
-            "feedUrl": "nitrojs/nitro",
-            "latestLink": ""
-        },
-        {
-            "name": "ofetch Issues",
-            "type": "github-issues",
-            "feedUrl": "unjs/ofetch",
-            "latestLink": ""
-        },
-        {
-            "name": "c12 Issues",
-            "type": "github-issues",
-            "feedUrl": "unjs/c12",
-            "latestLink": ""
-        },
-        {
-            "name": "citty Issues",
-            "type": "github-issues",
-            "feedUrl": "unjs/citty",
-            "latestLink": ""
-        }
-    ]
+  "data": [
+    {
+      "name": "h3 Issues",
+      "type": "github-issues",
+      "feedUrl": "h3js/h3",
+      "latestLink": "https://github.com/h3js/h3/pull/1242"
+    },
+    {
+      "name": "nitro Issues",
+      "type": "github-issues",
+      "feedUrl": "nitrojs/nitro",
+      "latestLink": "https://github.com/nitrojs/nitro/pull/3810"
+    },
+    {
+      "name": "ofetch Issues",
+      "type": "github-issues",
+      "feedUrl": "unjs/ofetch",
+      "latestLink": "https://github.com/unjs/ofetch/pull/527"
+    },
+    {
+      "name": "c12 Issues",
+      "type": "github-issues",
+      "feedUrl": "unjs/c12",
+      "latestLink": "https://github.com/unjs/c12/pull/285"
+    },
+    {
+      "name": "citty Issues",
+      "type": "github-issues",
+      "feedUrl": "unjs/citty",
+      "latestLink": "https://github.com/unjs/citty/pull/216"
+    }
+  ]
 }

@@ -104,6 +104,41 @@
       "title": "Vercel Meetup #4 - Vercelの内側見せちゃいます special",
       "link": "https://vercel.connpass.com/event/376741/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "「朝食を抜くと頭が働かない」はホント？　食べた人と食べてない人の認知能力を比較、3000人以上を調査",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/21/news039.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "SSM と nZDT を使用した SAP HANA DB HA構成 パッチ適用自動化",
+      "link": "https://aws.amazon.com/jp/blogs/news/automating-sap-hana-db-ha-patch-using-ssm-and-nzdt/",
+      "category": "cloud"
+    },
+    {
+      "title": "feat: allow event callback as parameter to defineWebSocketHandler",
+      "link": "https://github.com/h3js/h3/pull/1242",
+      "category": "unjs"
+    },
+    {
+      "title": "perf: reduce type instantiations on route matching",
+      "link": "https://github.com/nitrojs/nitro/pull/3810",
+      "category": "unjs"
+    },
+    {
+      "title": "chore(deps): update actions/checkout action to v6",
+      "link": "https://github.com/unjs/ofetch/pull/527",
+      "category": "unjs"
+    },
+    {
+      "title": "chore(deps): update actions/checkout action to v6",
+      "link": "https://github.com/unjs/c12/pull/285",
+      "category": "unjs"
+    },
+    {
+      "title": "chore(deps): update actions/checkout action to v6",
+      "link": "https://github.com/unjs/citty/pull/216",
+      "category": "unjs"
     }
   ]
 }
