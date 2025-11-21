@@ -184,6 +184,16 @@
       "title": "Self-driving infrastructure",
       "link": "https://vercel.com/blog/self-driving-infrastructure",
       "category": "cloud"
+    },
+    {
+      "title": "React Router v7 の末尾スラッシュ問題 ── Hono で解決",
+      "link": "https://zenn.dev/coji/articles/react-router-v7-hono-trailing-slash",
+      "category": "hono"
+    },
+    {
+      "title": "pretty-json: support force option",
+      "link": "https://github.com/honojs/hono/pull/4531",
+      "category": "hono"
     }
   ]
 }
