@@ -94,6 +94,16 @@
       "title": "Amazon MWAA Serverless の紹介",
       "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-mwaa-serverless/",
       "category": "cloud"
+    },
+    {
+      "title": "リモートワークを自作ルーター(OpenWrt)で支える",
+      "link": "https://www.m3tech.blog/entry/2025/11/21/153615",
+      "category": "company"
+    },
+    {
+      "title": "Vercel Meetup #4 - Vercelの内側見せちゃいます special",
+      "link": "https://vercel.connpass.com/event/376741/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
