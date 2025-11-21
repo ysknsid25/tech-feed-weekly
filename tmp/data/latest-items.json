@@ -214,6 +214,16 @@
       "title": "feat(secure-headers): Add CSP `report-to` and `report-uri` directive support",
       "link": "https://github.com/honojs/hono/pull/4532",
       "category": "hono"
+    },
+    {
+      "title": "Type `Context\u003cEnv, string, {}\u003e` is not assignable to type `Context\u003cCtx, any, {}\u003e`",
+      "link": "https://github.com/honojs/middleware/issues/1569",
+      "category": "hono"
+    },
+    {
+      "title": "Sketch: A guided tour of Copenhagen | CSS-Tricks",
+      "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
+      "category": "jsts"
     }
   ]
 }
