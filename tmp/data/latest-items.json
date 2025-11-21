@@ -169,6 +169,11 @@
       "title": "Redirects not occuring when triggered from middleware",
       "link": "https://github.com/honojs/hono/issues/4530",
       "category": "hono"
+    },
+    {
+      "title": "The Index: Issue #144 | Piccalilli - Everything",
+      "link": "https://piccalil.li/the-index/144/",
+      "category": "jsts"
     }
   ]
 }
