@@ -139,6 +139,16 @@
       "title": "chore(deps): update actions/checkout action to v6",
       "link": "https://github.com/unjs/citty/pull/216",
       "category": "unjs"
+    },
+    {
+      "title": "参加前にチェック – AWS re:Invent 2025 での Well-Architected とクラウド最適化セッションガイド",
+      "link": "https://aws.amazon.com/jp/blogs/news/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/",
+      "category": "cloud"
+    },
+    {
+      "title": "fix(types): correct types when middleware return Promise\u003cvoid\u003e",
+      "link": "https://github.com/honojs/hono/pull/4529",
+      "category": "hono"
     }
   ]
 }

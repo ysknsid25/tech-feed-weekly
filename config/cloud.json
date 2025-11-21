@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/automating-sap-hana-db-ha-patch-using-ssm-and-nzdt/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/"
     },
     {
       "name": "SRE Weekly",
