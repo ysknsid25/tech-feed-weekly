@@ -164,6 +164,11 @@
       "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
       "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Redirects not occuring when triggered from middleware",
+      "link": "https://github.com/honojs/hono/issues/4530",
+      "category": "hono"
     }
   ]
 }
