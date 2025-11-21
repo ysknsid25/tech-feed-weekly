@@ -149,6 +149,21 @@
       "title": "fix(types): correct types when middleware return Promise\u003cvoid\u003e",
       "link": "https://github.com/honojs/hono/pull/4529",
       "category": "hono"
+    },
+    {
+      "title": "海外「こんな国が存在するはずない…」 日本の日常風景、綺麗すぎてAIだと疑われてしまう",
+      "link": "http://pandora11.com/blog-entry-5547.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "新機能 – AWS Systems Manager for SAP Configuration Management: SAP HANAのベストプラクティス自動検証",
+      "link": "https://aws.amazon.com/jp/blogs/news/new-aws-systems-manager-for-sap-configuration-management-automated-best-practice-validation-for-sap-hana/",
+      "category": "cloud"
+    },
+    {
+      "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
+      "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
