@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/genai-case-study-san-en-neophoenix/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-checkpointing/"
     },
     {
       "name": "SRE Weekly",

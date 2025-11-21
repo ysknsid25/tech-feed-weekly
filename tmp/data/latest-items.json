@@ -64,6 +64,11 @@
       "title": "個人開発におけるセキュリティの極意",
       "link": "https://findy.connpass.com/event/376027/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "道に迷わないために: Kiro のチェックポイント機能の紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-checkpointing/",
+      "category": "cloud"
     }
   ]
 }
