@@ -204,6 +204,16 @@
       "title": "Introducing Webhook Events for Alert Changes | Socket",
       "link": "https://socket.dev/blog/introducing-webhook-events-for-alert-changes",
       "category": "jsts"
+    },
+    {
+      "title": "HonoとPerl 〜 異文化を持ち込む",
+      "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
+      "category": "hono"
+    },
+    {
+      "title": "feat(secure-headers): Add CSP `report-to` and `report-uri` directive support",
+      "link": "https://github.com/honojs/hono/pull/4532",
+      "category": "hono"
     }
   ]
 }
