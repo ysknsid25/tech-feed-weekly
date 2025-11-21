@@ -194,6 +194,11 @@
       "title": "pretty-json: support force option",
       "link": "https://github.com/honojs/hono/pull/4531",
       "category": "hono"
+    },
+    {
+      "title": "Antigravity and Firebase MCP accelerate app development",
+      "link": "https://firebase.blog/posts/2025/11/firebase-mcp-and-antigravity",
+      "category": "cloud"
     }
   ]
 }
