@@ -119,6 +119,21 @@
       "title": "feat(client): add buildSearchParams option to customize query serialization",
       "link": "https://github.com/honojs/hono/pull/4535",
       "category": "hono"
+    },
+    {
+      "title": "Gemini 3.0 Pro要緊急対策のご提言",
+      "link": "https://paste.ssig33.com/8a22a6e9-a91d-4368-9b2f-a3d4567c7798",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Making Myself Irrelevant Was the Easy Part | @dlhck — David Höck",
+      "link": "https://dlhck.com/thoughts/making-myself-irrelevant-was-the-easy-part",
+      "category": "jsts"
+    },
+    {
+      "title": "Request lifecycle proble, `Server entry` not run before `Routes`",
+      "link": "https://github.com/nitrojs/nitro/issues/3813",
+      "category": "unjs"
     }
   ]
 }
