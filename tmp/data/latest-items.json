@@ -79,6 +79,11 @@
       "title": "fix: add JSX type for hono/jsx/dom",
       "link": "https://github.com/honojs/hono/pull/4534",
       "category": "hono"
+    },
+    {
+      "title": "ソフトウェア設計の課題・原則・実践技法",
+      "link": "https://speakerdeck.com/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
