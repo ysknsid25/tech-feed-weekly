@@ -74,6 +74,11 @@
       "title": "chore: Add JSR publishing configuration and instructions",
       "link": "https://github.com/unjs/ofetch/pull/528",
       "category": "unjs"
+    },
+    {
+      "title": "fix: add JSX type for hono/jsx/dom",
+      "link": "https://github.com/honojs/hono/pull/4534",
+      "category": "hono"
     }
   ]
 }
