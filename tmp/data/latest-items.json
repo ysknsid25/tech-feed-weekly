@@ -29,6 +29,21 @@
       "title": "React Router v7 の末尾スラッシュ問題 ── Hono で解決",
       "link": "https://zenn.dev/coji/articles/react-router-v7-hono-trailing-slash",
       "category": "hono"
+    },
+    {
+      "title": "速習 AIエージェント入門",
+      "link": "https://speakerdeck.com/legalontechnologies/aiagent-introduction",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "『にじボイス』サービス終了に関するお知らせ",
+      "link": "https://algomatic.jp/news/notice_nijivoice_20251121",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "エキスパートとしてのキャリア 「AIに淘汰されない存在になるために」",
+      "link": "https://findy.connpass.com/event/376670/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
