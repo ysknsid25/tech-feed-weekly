@@ -28,13 +28,13 @@
       "name": "Hono Issues",
       "type": "github-issues",
       "feedUrl": "honojs/hono",
-      "latestLink": "https://github.com/honojs/hono/pull/4534"
+      "latestLink": "https://github.com/honojs/hono/pull/4532"
     },
     {
       "name": "Hono CLI Issues",
       "type": "github-issues",
       "feedUrl": "honojs/cli",
-      "latestLink": "https://github.com/honojs/cli/pull/48"
+      "latestLink": "https://github.com/honojs/cli/pull/49"
     },
     {
       "name": "HonoX Issues",

@@ -94,6 +94,21 @@
       "title": "docs(arktype-validator): add JSDoc for enhancing JSR Score",
       "link": "https://github.com/honojs/middleware/pull/1571",
       "category": "hono"
+    },
+    {
+      "title": "feat(secure-headers): Add CSP `report-to` and `report-uri` directive support",
+      "link": "https://github.com/honojs/hono/pull/4532",
+      "category": "hono"
+    },
+    {
+      "title": "[PoC] feat(optimize): enable to remove request body APIs if they are not needed",
+      "link": "https://github.com/honojs/cli/pull/49",
+      "category": "hono"
+    },
+    {
+      "title": "v3: Disable logging of unhandled errors",
+      "link": "https://github.com/nitrojs/nitro/issues/3811",
+      "category": "unjs"
     }
   ]
 }
