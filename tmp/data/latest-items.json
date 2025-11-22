@@ -134,6 +134,16 @@
       "title": "Request lifecycle proble, `Server entry` not run before `Routes`",
       "link": "https://github.com/nitrojs/nitro/issues/3813",
       "category": "unjs"
+    },
+    {
+      "title": "事務作業をパートさん、生成ＡＩで代替できる仕事なので契約満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた→「ご本人はAIを使いこなしていた」",
+      "link": "https://posfie.com/@petaritape/p/tLMALrs",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MCP におけるインタラクティブな UI を標準化する拡張機能 MCP Apps の提案 | azukiazusa のテックブログ2",
+      "link": "https://azukiazusa.dev/blog/mcp-standard-ui-extension",
+      "category": "jsts"
     }
   ]
 }
