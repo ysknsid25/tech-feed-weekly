@@ -109,6 +109,16 @@
       "title": "v3: Disable logging of unhandled errors",
       "link": "https://github.com/nitrojs/nitro/issues/3811",
       "category": "unjs"
+    },
+    {
+      "title": "add nitro config `serverDir`",
+      "link": "https://github.com/nitrojs/nitro/pull/3812",
+      "category": "unjs"
+    },
+    {
+      "title": "feat(client): add buildSearchParams option to customize query serialization",
+      "link": "https://github.com/honojs/hono/pull/4535",
+      "category": "hono"
     }
   ]
 }
