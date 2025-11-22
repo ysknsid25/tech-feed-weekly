@@ -44,6 +44,11 @@
       "title": "エキスパートとしてのキャリア 「AIに淘汰されない存在になるために」",
       "link": "https://findy.connpass.com/event/376670/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "chore(ua-blocker): update robots.json from upstream",
+      "link": "https://github.com/honojs/middleware/pull/1570",
+      "category": "hono"
     }
   ]
 }
