@@ -4,7 +4,7 @@
       "name": "Hono Zenn Latest",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/topics/hono/feed",
-      "latestLink": "https://zenn.dev/coji/articles/react-router-v7-hono-trailing-slash"
+      "latestLink": "https://zenn.dev/rit/articles/improving-dx-at-scale-hono-type-performance"
     },
     {
       "name": "Hono Advent Calendar 2025",

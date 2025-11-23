@@ -79,6 +79,11 @@
       "title": "【Gmailを使用している要注意】個人情報がAIモデルに学習させられる可能性があるという話。理由は、初期設定ですべてのメッセージと添付ファイルにアクセスすることを自動的に許可されているから",
       "link": "https://posfie.com/@taimport/p/vP3ym9e",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "アプリケーションの拡大に伴う開発者体験の悪化をなんとかする",
+      "link": "https://zenn.dev/rit/articles/improving-dx-at-scale-hono-type-performance",
+      "category": "hono"
     }
   ]
 }
