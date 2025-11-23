@@ -44,6 +44,11 @@
       "title": "fix(aws-lambda-streaming): handle empty response body in streaming handler",
       "link": "https://github.com/nitrojs/nitro/pull/3814",
       "category": "unjs"
+    },
+    {
+      "title": "ソフトウェア設計の課題・原則・実践技法",
+      "link": "https://speakerdeck.com/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
