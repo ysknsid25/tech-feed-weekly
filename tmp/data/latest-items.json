@@ -54,6 +54,16 @@
       "title": "Type instantiation is excessively deep and possibly infinite. ts(2589)",
       "link": "https://github.com/honojs/middleware/issues/1574",
       "category": "hono"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/unjs/ofetch/pull/529",
+      "category": "unjs"
+    },
+    {
+      "title": "インフラエンジニアのあなたも！Shell スクリプト開発で Kiro を使ってみよう",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-5-kiro-for-shell-scripting/",
+      "category": "cloud"
     }
   ]
 }
