@@ -59,6 +59,11 @@
       "title": "feat(request): add watch option to request command",
       "link": "https://github.com/honojs/cli/pull/50",
       "category": "hono"
+    },
+    {
+      "title": "Amazon Q Developer CLI から Kiro CLI へ : 知っておくべき変更点",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-6-amazon-q-developer-cli-to-kiro-cli/",
+      "category": "cloud"
     }
   ]
 }
