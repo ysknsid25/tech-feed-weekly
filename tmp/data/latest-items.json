@@ -159,6 +159,16 @@
       "title": "You can now configure advanced sampling rules for Vercel Drains",
       "link": "https://vercel.com/changelog/you-can-now-configure-advanced-sampling-rules-for-vercel-drains",
       "category": "cloud"
+    },
+    {
+      "title": "Vercel deploy Issue. I cannot deploy OpenAPIHono instance",
+      "link": "https://github.com/honojs/middleware/issues/1582",
+      "category": "hono"
+    },
+    {
+      "title": "Security through design: Creating the improved Firewall experience",
+      "link": "https://vercel.com/blog/security-through-design-improved-firewall-experience",
+      "category": "cloud"
     }
   ]
 }
