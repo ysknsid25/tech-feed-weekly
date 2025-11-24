@@ -129,6 +129,11 @@
       "title": "Amper Update, November 2025 – Extensibility Preview",
       "link": "https://blog.jetbrains.com/amper/2025/11/amper-update-november-2025/",
       "category": "kotlin"
+    },
+    {
+      "title": "chore(deps): bump actions/checkout from 5 to 6",
+      "link": "https://github.com/honojs/middleware/pull/1581",
+      "category": "hono"
     }
   ]
 }
