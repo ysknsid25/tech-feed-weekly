@@ -64,6 +64,16 @@
       "title": "Amazon Q Developer CLI から Kiro CLI へ : 知っておくべき変更点",
       "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-6-amazon-q-developer-cli-to-kiro-cli/",
       "category": "cloud"
+    },
+    {
+      "title": "Make `getContext` softer",
+      "link": "https://github.com/honojs/hono/issues/4536",
+      "category": "hono"
+    },
+    {
+      "title": "アクセント学: \"エムスリー\"のアクセントは-3型なのか平板型なのかの謎に迫る",
+      "link": "https://www.m3tech.blog/entry/accent",
+      "category": "company"
     }
   ]
 }
