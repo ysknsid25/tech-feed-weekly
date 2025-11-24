@@ -49,6 +49,16 @@
       "title": "SRE Weekly Issue #498",
       "link": "https://sreweekly.com/sre-weekly-issue-498/",
       "category": "cloud"
+    },
+    {
+      "title": "Nano Banana ProがヤバかったのでAIマンガ家目線で解説します｜けいすけ",
+      "link": "https://note.com/konho/n/na8dbea133158",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat(request): add watch option to request command",
+      "link": "https://github.com/honojs/cli/pull/50",
+      "category": "hono"
     }
   ]
 }
