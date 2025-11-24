@@ -99,6 +99,21 @@
       "title": "Background Coding Agents: Context Engineering (Part 2)",
       "link": "https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2/",
       "category": "company"
+    },
+    {
+      "title": "おい、本を読め - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/24/043314",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Hono attempts to set headers even when headers are already sent",
+      "link": "https://github.com/honojs/hono/issues/4537",
+      "category": "hono"
+    },
+    {
+      "title": "On Inheriting and Sharing Property Values | CSS-Tricks",
+      "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
+      "category": "jsts"
     }
   ]
 }
