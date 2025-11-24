@@ -154,6 +154,11 @@
       "title": "Streamdown 1.6 is now available to run faster and ship less code",
       "link": "https://vercel.com/changelog/streamdown-1-6-is-now-available-to-run-faster-and-ship-less-code",
       "category": "cloud"
+    },
+    {
+      "title": "You can now configure advanced sampling rules for Vercel Drains",
+      "link": "https://vercel.com/changelog/you-can-now-configure-advanced-sampling-rules-for-vercel-drains",
+      "category": "cloud"
     }
   ]
 }

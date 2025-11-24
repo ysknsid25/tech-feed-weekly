@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/streamdown-1-6-is-now-available-to-run-faster-and-ship-less-code"
+      "latestLink": "https://vercel.com/changelog/you-can-now-configure-advanced-sampling-rules-for-vercel-drains"
     },
     {
       "name": "GitHub Actions Blog",
