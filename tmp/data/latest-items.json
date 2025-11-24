@@ -114,6 +114,21 @@
       "title": "On Inheriting and Sharing Property Values | CSS-Tricks",
       "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
       "category": "jsts"
+    },
+    {
+      "title": "Fix: Bun adapter: TypeError: null is not an object (#4429)",
+      "link": "https://github.com/honojs/hono/pull/4538",
+      "category": "hono"
+    },
+    {
+      "title": "Developers still need the right to challenge junk patents | The GitHub Blog",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/",
+      "category": "jsts"
+    },
+    {
+      "title": "Amper Update, November 2025 – Extensibility Preview",
+      "link": "https://blog.jetbrains.com/amper/2025/11/amper-update-november-2025/",
+      "category": "kotlin"
     }
   ]
 }
