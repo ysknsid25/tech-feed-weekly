@@ -134,6 +134,26 @@
       "title": "chore(deps): bump actions/checkout from 5 to 6",
       "link": "https://github.com/honojs/middleware/pull/1581",
       "category": "hono"
+    },
+    {
+      "title": "Allow middleware to redirect after downstream errors",
+      "link": "https://github.com/honojs/hono/pull/4540",
+      "category": "hono"
+    },
+    {
+      "title": "The Ultimate KMP Watchlist: Level Up Your Skills in 10 Talks",
+      "link": "https://blog.jetbrains.com/kotlin/2025/11/the-ultimate-kmp-watchlist/",
+      "category": "kotlin"
+    },
+    {
+      "title": "What TypeScript \u0026 Elixir Can Learn from each Other (Advent of Code 2024)",
+      "link": "https://effectivetypescript.com/2025/11/24/advent2024-elixir/",
+      "category": "jsts"
+    },
+    {
+      "title": "Streamdown 1.6 is now available to run faster and ship less code",
+      "link": "https://vercel.com/changelog/streamdown-1-6-is-now-available-to-run-faster-and-ship-less-code",
+      "category": "cloud"
     }
   ]
 }
