@@ -29,6 +29,26 @@
       "title": "November 2025 Insiders (version 1.107)",
       "link": "https://code.visualstudio.com/assets/updates/1_107/release-highlights.webp",
       "category": "cloud"
+    },
+    {
+      "title": "X、「アカウント所在地」表示を開始　接続元の国・地域を確認",
+      "link": "https://www.watch.impress.co.jp/docs/news/2065781.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Removing dependency tangles in the Atlassian Platform for increased reliability and recoverability",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/removing-dependency-tangles-in-the-atlassian-platform-for-increased-reliability-and-recoverability",
+      "category": "company"
+    },
+    {
+      "title": "【正社員とフリーランスの違い】2025年に働き方を変えた意思決定の裏側",
+      "link": "https://findy.connpass.com/event/376028/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "How we built the v0 iOS app",
+      "link": "https://vercel.com/blog/how-we-built-the-v0-ios-app",
+      "category": "cloud"
     }
   ]
 }
