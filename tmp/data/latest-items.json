@@ -109,6 +109,31 @@
       "title": "週刊AWS – 2025/11/17週",
       "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20251117/",
       "category": "cloud"
+    },
+    {
+      "title": "アプリケーションの拡大に伴う開発者体験の悪化をなんとかする",
+      "link": "https://zenn.dev/rit/articles/improving-dx-at-scale-hono-type-performance",
+      "category": "hono"
+    },
+    {
+      "title": "Documentation on what JWK middleware validates",
+      "link": "https://github.com/honojs/hono/issues/4542",
+      "category": "hono"
+    },
+    {
+      "title": "AI ワークロードのパフォーマンスとコストの一致に役立つ新しい Amazon Bedrock サービスティア",
+      "link": "https://aws.amazon.com/jp/blogs/news/new-amazon-bedrock-service-tiers-help-you-match-ai-workload-performance-with-cost/",
+      "category": "cloud"
+    },
+    {
+      "title": "AIによる手動QAの自動化：自動テストコーディングのAI化でテスト実行工数を52%削減",
+      "link": "https://tech-blog.tabelog.com/entry/ai-for-qa-automation-test",
+      "category": "company"
+    },
+    {
+      "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
+      "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
