@@ -189,6 +189,21 @@
       "title": "Recursive schemas",
       "link": "https://github.com/open-circle/valibot/issues/1362",
       "category": "valibot"
+    },
+    {
+      "title": "個人でつくった「キャラガチャ無料」RPGが、大手ソシャゲひしめく市場で7年戦えている理由【モンスターカンパニー】 レバテックラボ（レバテックLAB）",
+      "link": "https://levtech.jp/media/article/focus/detail_761/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat(context): export the Context class publicly",
+      "link": "https://github.com/honojs/hono/pull/4543",
+      "category": "hono"
+    },
+    {
+      "title": "Post-hoc Rationalization: LLMの推論は「言い訳」か？ | TECH BLOG | 株式会社AI Shift",
+      "link": "https://www.ai-shift.co.jp/techblog/6406",
+      "category": "jsts"
     }
   ]
 }
