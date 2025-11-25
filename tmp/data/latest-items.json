@@ -59,6 +59,16 @@
       "title": "AWS MarketplaceでSAP BTPのデプロイを簡素化",
       "link": "https://aws.amazon.com/jp/blogs/news/aws-blog-simplify-deployment-of-sap-btp-with-aws-marketplace/",
       "category": "cloud"
+    },
+    {
+      "title": "AWS CodeCommit の今後について",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-codecommit-returns-to-general-availability/",
+      "category": "cloud"
+    },
+    {
+      "title": "コンピュータビジョンの最難関国際会議 ICCV 2025 に論文およびワークショップが採択されました（参加報告レポート）",
+      "link": "https://techblog.lycorp.co.jp/ja/20251125b",
+      "category": "company"
     }
   ]
 }
