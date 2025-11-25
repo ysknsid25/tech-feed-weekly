@@ -99,6 +99,16 @@
       "title": "フロントエンドエキスパートチームについて Node学園47時限目",
       "link": "https://nodejs.connpass.com/event/377035/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "【Hono + Cloudflare Workers + Supabase】でAPIを作ってCRUDする",
+      "link": "https://zenn.dev/gemcook/articles/48c368723e21e6",
+      "category": "hono"
+    },
+    {
+      "title": "週刊AWS – 2025/11/17週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20251117/",
+      "category": "cloud"
     }
   ]
 }
