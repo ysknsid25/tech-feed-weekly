@@ -229,6 +229,16 @@
       "title": "Gemini 3 Pro＋Nano Banana ProでAWS構成図をどこまで読み書きできるか試してみた | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/gemini-3-pro-nano-banana-pro-aws-diagram",
       "category": "jsts"
+    },
+    {
+      "title": "FLUX.2 Pro image model is now available on Vercel AI Gateway",
+      "link": "https://vercel.com/changelog/flux-2-pro-image-model-is-now-available-on-vercel-ai-gateway",
+      "category": "cloud"
+    },
+    {
+      "title": "AI SDK と Workflow DevKit を眺め、Agent 抽象の行く末に思いを馳せる | LayerXのフィード",
+      "link": "https://zenn.dev/layerx/articles/ca93d8a80b05f1",
+      "category": "jsts"
     }
   ]
 }
