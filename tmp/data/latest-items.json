@@ -239,6 +239,16 @@
       "title": "AI SDK と Workflow DevKit を眺め、Agent 抽象の行く末に思いを馳せる | LayerXのフィード",
       "link": "https://zenn.dev/layerx/articles/ca93d8a80b05f1",
       "category": "jsts"
+    },
+    {
+      "title": "Node.js 24 LTS is now generally available for builds and functions",
+      "link": "https://vercel.com/changelog/node-js-24-lts-is-now-generally-available-for-builds-and-functions",
+      "category": "cloud"
+    },
+    {
+      "title": "Code scanning default setup bypasses GitHub Actions policy blocks",
+      "link": "https://github.blog/changelog/2025-11-25-code-scanning-default-setup-bypasses-github-actions-policy-blocks",
+      "category": "cloud"
     }
   ]
 }

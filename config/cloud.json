@@ -16,13 +16,13 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/flux-2-pro-image-model-is-now-available-on-vercel-ai-gateway"
+      "latestLink": "https://vercel.com/changelog/node-js-24-lts-is-now-generally-available-for-builds-and-functions"
     },
     {
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2025-11-20-github-actions-cache-size-can-now-exceed-10-gb-per-repository"
+      "latestLink": "https://github.blog/changelog/2025-11-25-code-scanning-default-setup-bypasses-github-actions-policy-blocks"
     },
     {
       "name": "VSCode Tech Blog",
