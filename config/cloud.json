@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/modern-observability-frameworks-for-sap-a-solution-to-monitoring-challenges-with-powerconnect-and-dynatrace/"
     },
     {
       "name": "SRE Weekly",
