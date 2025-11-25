@@ -10,7 +10,7 @@
       "name": "Node.js Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://nodejs.org/en/feed/blog.xml",
-      "latestLink": "https://nodejs.org/en/blog/release/v25.2.1"
+      "latestLink": "https://nodejs.org/en/blog/release/v20.19.6"
     },
     {
       "name": "Effective TypeScript",
@@ -22,7 +22,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/rss/",
-      "latestLink": "https://jser.info/2025/11/13/node.js-v24-lts-node.js-v25.2.0strip-typesstable-npm/"
+      "latestLink": "https://jser.info/2025/11/25/webpack-v5.103.0-prisma-7-angular-21/"
     },
     {
       "name": "JSer Info",
