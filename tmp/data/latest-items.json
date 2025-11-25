@@ -84,6 +84,21 @@
       "title": "Hot reload not working consistently on Bun",
       "link": "https://github.com/honojs/honox/issues/342",
       "category": "hono"
+    },
+    {
+      "title": "Suicaの新コード決済は「テッペイ」 2万円超え対応でモバイルPASMOも",
+      "link": "https://www.watch.impress.co.jp/docs/news/2065890.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "週刊生成AI with AWS – 2025/11/17 週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251117/",
+      "category": "cloud"
+    },
+    {
+      "title": "フロントエンドエキスパートチームについて Node学園47時限目",
+      "link": "https://nodejs.connpass.com/event/377035/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
