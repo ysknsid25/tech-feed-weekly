@@ -69,6 +69,21 @@
       "title": "コンピュータビジョンの最難関国際会議 ICCV 2025 に論文およびワークショップが採択されました（参加報告レポート）",
       "link": "https://techblog.lycorp.co.jp/ja/20251125b",
       "category": "company"
+    },
+    {
+      "title": "Google Antigravity のスタートガイド  |  Google Codelabs",
+      "link": "https://codelabs.developers.google.com/getting-started-google-antigravity?hl=ja",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "jsx - metadata hoisting skips title if already present",
+      "link": "https://github.com/honojs/hono/issues/4541",
+      "category": "hono"
+    },
+    {
+      "title": "Hot reload not working consistently on Bun",
+      "link": "https://github.com/honojs/honox/issues/342",
+      "category": "hono"
     }
   ]
 }
