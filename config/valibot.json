@@ -1,16 +1,16 @@
 {
-    "data": [
-        {
-            "name": "Valibot Zenn Latest",
-            "type": "categoryIsUrl",
-            "feedUrl": "https://zenn.dev/topics/valibot/feed",
-            "latestLink": ""
-        },
-        {
-            "name": "Valibot Issues",
-            "type": "github-issues",
-            "feedUrl": "open-circle/valibot",
-            "latestLink": ""
-        }
-    ]
+  "data": [
+    {
+      "name": "Valibot Zenn Latest",
+      "type": "categoryIsUrl",
+      "feedUrl": "https://zenn.dev/topics/valibot/feed",
+      "latestLink": "https://zenn.dev/m_noto/articles/a2c09f741ba65e"
+    },
+    {
+      "name": "Valibot Issues",
+      "type": "github-issues",
+      "feedUrl": "open-circle/valibot",
+      "latestLink": "https://github.com/open-circle/valibot/issues/1362"
+    }
+  ]
 }

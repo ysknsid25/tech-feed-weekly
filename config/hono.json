@@ -34,7 +34,7 @@
       "name": "Hono CLI Issues",
       "type": "github-issues",
       "feedUrl": "honojs/cli",
-      "latestLink": "https://github.com/honojs/cli/pull/50"
+      "latestLink": "https://github.com/honojs/cli/issues/51"
     },
     {
       "name": "HonoX Issues",
@@ -46,7 +46,7 @@
       "name": "Hono Node Server Issues",
       "type": "github-issues",
       "feedUrl": "honojs/node-server",
-      "latestLink": "https://github.com/honojs/node-server/issues/287"
+      "latestLink": "https://github.com/honojs/node-server/issues/288"
     }
   ]
 }

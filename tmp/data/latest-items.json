@@ -169,6 +169,26 @@
       "title": "SAPモダンオブザーバビリティフレームワーク：PowerConnectとDynatraceによる監視課題の解決策",
       "link": "https://aws.amazon.com/jp/blogs/news/modern-observability-frameworks-for-sap-a-solution-to-monitoring-challenges-with-powerconnect-and-dynatrace/",
       "category": "cloud"
+    },
+    {
+      "title": "Improve `hono request` output",
+      "link": "https://github.com/honojs/cli/issues/51",
+      "category": "hono"
+    },
+    {
+      "title": "Hono attempts to set headers even when headers are already sent",
+      "link": "https://github.com/honojs/node-server/issues/288",
+      "category": "hono"
+    },
+    {
+      "title": "Zodに対抗するバリデーションライブラリ（Valibot・ArkType）を比較検証",
+      "link": "https://zenn.dev/m_noto/articles/a2c09f741ba65e",
+      "category": "valibot"
+    },
+    {
+      "title": "Recursive schemas",
+      "link": "https://github.com/open-circle/valibot/issues/1362",
+      "category": "valibot"
     }
   ]
 }
