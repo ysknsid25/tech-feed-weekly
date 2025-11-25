@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "「社員よりAIを守る国、アメリカ」Z世代のMLエンジニアonoderaが見た“AIの国”の働き方 - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/29732/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AIによる手動QAの自動化：自動テストコーディングのAI化でテスト実行工数を52%削減 - Tabelog Tech Blog",
+      "link": "https://tech-blog.tabelog.com/entry/ai-for-qa-automation-test",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Suicaの新コード決済は「テッペイ」 2万円超え対応でモバイルPASMOも",
+      "link": "https://www.watch.impress.co.jp/docs/news/2065890.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "営業にアジャイルをどう理解してもらったのか？ ダイキン工業の内製化チームの試み - Agile Journey",
+      "link": "https://agilejourney.uzabase.com/entry/2025/11/25/103000",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Microsoft、とうとう「WINS」を廃止 ～「Windows Server 2025」が最後のサポートOS／2034年11月までに後継・代替サービスへ移行を",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2065825.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "個人でつくった「キャラガチャ無料」RPGが、大手ソシャゲひしめく市場で7年戦えている理由【モンスターカンパニー】 レバテックラボ（レバテックLAB）",
+      "link": "https://levtech.jp/media/article/focus/detail_761/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ChatGPTの能力を“最大化”するプロンプト設計術10選：誰でも回答品質を劇的に引き上げられる理由 - Smart Watch Life｜日本初のスマートウォッチ専門メディア",
+      "link": "https://www.smartwatchlife.jp/60201/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【Hono + Cloudflare Workers + Supabase】でAPIを作ってCRUDする",
+      "link": "https://zenn.dev/gemcook/articles/48c368723e21e6",
+      "category": "hono"
+    },
+    {
+      "title": "chore(deps-dev): bump zod from 3.23.8 to 4.1.13",
+      "link": "https://github.com/honojs/middleware/pull/1580",
+      "category": "hono"
+    }
+  ]
+}
