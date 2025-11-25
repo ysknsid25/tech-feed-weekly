@@ -144,6 +144,26 @@
       "title": "ローコードツールから Playwright 移行への道 2025",
       "link": "https://www.m3tech.blog/entry/qubota_ep2",
       "category": "company"
+    },
+    {
+      "title": "Introducing Claude Opus 4.5",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【再放送】仕様駆動開発〜新たな開発手法の可能性と実践〜",
+      "link": "https://findy.connpass.com/event/376401/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Mobile App with AI Meetup Tokyo",
+      "link": "https://aiau.connpass.com/event/370094/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "複数の組織にわたる AWS 請求とコストを一元管理するための新しい AWS Billing Transfer",
+      "link": "https://aws.amazon.com/jp/blogs/news/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/",
+      "category": "cloud"
     }
   ]
 }

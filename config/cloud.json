@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/monitor-network-performance-and-traffic-across-your-eks-clusters-with-container-network-observability/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/"
     },
     {
       "name": "SRE Weekly",
