@@ -134,6 +134,16 @@
       "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
       "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Container Network Observability を使用して、EKS クラスター全体のネットワークパフォーマンスとトラフィックをモニタリング",
+      "link": "https://aws.amazon.com/jp/blogs/news/monitor-network-performance-and-traffic-across-your-eks-clusters-with-container-network-observability/",
+      "category": "cloud"
+    },
+    {
+      "title": "ローコードツールから Playwright 移行への道 2025",
+      "link": "https://www.m3tech.blog/entry/qubota_ep2",
+      "category": "company"
     }
   ]
 }

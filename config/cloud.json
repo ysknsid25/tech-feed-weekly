@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/new-amazon-bedrock-service-tiers-help-you-match-ai-workload-performance-with-cost/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/monitor-network-performance-and-traffic-across-your-eks-clusters-with-container-network-observability/"
     },
     {
       "name": "SRE Weekly",
