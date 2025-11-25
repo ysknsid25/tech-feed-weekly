@@ -219,6 +219,11 @@
       "title": "2025-11-25のJS: webpack v5.103.0、Prisma 7、Angular 21",
       "link": "https://jser.info/2025/11/25/webpack-v5.103.0-prisma-7-angular-21/",
       "category": "jsts"
+    },
+    {
+      "title": "proxyRequest does not work correctly with Bun",
+      "link": "https://github.com/h3js/h3/issues/1246",
+      "category": "unjs"
     }
   ]
 }
