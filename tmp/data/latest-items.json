@@ -224,6 +224,11 @@
       "title": "proxyRequest does not work correctly with Bun",
       "link": "https://github.com/h3js/h3/issues/1246",
       "category": "unjs"
+    },
+    {
+      "title": "Gemini 3 Pro＋Nano Banana ProでAWS構成図をどこまで読み書きできるか試してみた | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/gemini-3-pro-nano-banana-pro-aws-diagram",
+      "category": "jsts"
     }
   ]
 }
