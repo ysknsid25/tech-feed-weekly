@@ -174,6 +174,26 @@
       "title": "Hono + Next.js の紹介と導入",
       "link": "https://zenn.dev/b13o/articles/hono-with-nextjs",
       "category": "hono"
+    },
+    {
+      "title": "「Postgres で試した？」と聞き返せるようになるまでもしくはなぜ私は雰囲気で技術を語るのか？ — Just use Postgres 読書感想文 - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/25/135220",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWSのコスト削減・最適化手法とコスト管理の勘所 - Qiita",
+      "link": "https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Kodee’s Kotlin Roundup: Too Many News to Keep Quiet About",
+      "link": "https://blog.jetbrains.com/kotlin/2025/11/kodees-kotlin-roundup-november-edition/",
+      "category": "kotlin"
+    },
+    {
+      "title": "Setup example for web sockets in AWS Lambda",
+      "link": "https://github.com/honojs/hono/issues/4549",
+      "category": "hono"
     }
   ]
 }
