@@ -239,6 +239,16 @@
       "title": "Sign in with Vercel now generally available",
       "link": "https://vercel.com/changelog/sign-in-with-vercel",
       "category": "cloud"
+    },
+    {
+      "title": "グラフデータを使用した Network Digital Twin と Agentic AI を活用した被疑箇所の特定",
+      "link": "https://aws.amazon.com/jp/blogs/news/beyond-correlation-finding-root-causes-using-a-network-digital-twin-graph-and-agentic-ai/",
+      "category": "cloud"
+    },
+    {
+      "title": "refactor(types): replace schema-based path tracking with CurrentPath parameter",
+      "link": "https://github.com/honojs/hono/pull/4552",
+      "category": "hono"
     }
   ]
 }
