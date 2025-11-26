@@ -109,6 +109,16 @@
       "title": "n8nをAWS ECS上にセキュアにデプロイして業務自動化を実現した話 | Adwaysエンジニアブログ",
       "link": "https://blog.engineer.adways.net/entry/2025/11/26/130000",
       "category": "jsts"
+    },
+    {
+      "title": "chore(deps): update dependency chokidar to v5",
+      "link": "https://github.com/unjs/c12/pull/286",
+      "category": "unjs"
+    },
+    {
+      "title": "fix: allow middleware to override error responses with redirects",
+      "link": "https://github.com/honojs/hono/pull/4546",
+      "category": "hono"
     }
   ]
 }
