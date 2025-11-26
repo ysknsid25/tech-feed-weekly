@@ -164,6 +164,16 @@
       "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
       "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "自然物から人工物へ - 16年目のピクシブ百科事典を支える最新の技術基盤 | pixiv inside",
+      "link": "https://inside.pixiv.blog/2025/11/26/190000",
+      "category": "jsts"
+    },
+    {
+      "title": "Hono + Next.js の紹介と導入",
+      "link": "https://zenn.dev/b13o/articles/hono-with-nextjs",
+      "category": "hono"
     }
   ]
 }
