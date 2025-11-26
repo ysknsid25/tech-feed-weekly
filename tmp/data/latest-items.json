@@ -124,6 +124,31 @@
       "title": "CODESYSプロジェクトをAIで読み解く | ABEJA Tech Blog",
       "link": "https://tech-blog.abeja.asia/entry/codesys-project-ai-analysis-202511",
       "category": "jsts"
+    },
+    {
+      "title": "Oracle Database から Amazon Aurora PostgreSQL への移行を加速する生成 AI エージェント",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-agent-accelerating-oracle-to-aurora-postgresql-migration/",
+      "category": "cloud"
+    },
+    {
+      "title": "Claude Codeを手懐けてAndroidアプリ高速リファクタリング",
+      "link": "https://www.m3tech.blog/entry/2025/11/26/170000",
+      "category": "company"
+    },
+    {
+      "title": "実装の 9 割を AI に任せる。食べログのジュニアエンジニアが構築した AI 連携開発フロー",
+      "link": "https://tech-blog.tabelog.com/entry/optimized_ai_development_flow",
+      "category": "company"
+    },
+    {
+      "title": "Add `.examples()` support to `@valibot/to-json-schema`",
+      "link": "https://github.com/open-circle/valibot/issues/1365",
+      "category": "valibot"
+    },
+    {
+      "title": "fix(1573): allow custom http exception status code for node-ws",
+      "link": "https://github.com/honojs/middleware/pull/1583",
+      "category": "hono"
     }
   ]
 }

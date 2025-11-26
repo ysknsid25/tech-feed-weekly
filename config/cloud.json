@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-8-spec-bps/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/ai-agent-accelerating-oracle-to-aurora-postgresql-migration/"
     },
     {
       "name": "SRE Weekly",
