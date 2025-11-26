@@ -194,6 +194,16 @@
       "title": "Setup example for web sockets in AWS Lambda",
       "link": "https://github.com/honojs/hono/issues/4549",
       "category": "hono"
+    },
+    {
+      "title": "feat: add AWS Lambda WebSocket example",
+      "link": "https://github.com/honojs/hono/pull/4550",
+      "category": "hono"
+    },
+    {
+      "title": "AIエージェント × Power Apps Code Apps開発記（Part 1） | 分析屋",
+      "link": "https://note.com/bunsekiya_tech/n/n7188c8a5903d",
+      "category": "jsts"
     }
   ]
 }
