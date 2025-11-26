@@ -64,6 +64,11 @@
       "title": "AWS Organizations における全ポリシーを整理して理解する (2025年11月版) | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/aws-organization-policies-2025",
       "category": "jsts"
+    },
+    {
+      "title": "Kiro における負債にならない Spec ファイルの扱い方",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-8-spec-bps/",
+      "category": "cloud"
     }
   ]
 }
