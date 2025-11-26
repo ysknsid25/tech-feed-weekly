@@ -219,6 +219,26 @@
       "title": "[Feature request] renderer can be false to skip default render",
       "link": "https://github.com/nitrojs/nitro/issues/3818",
       "category": "unjs"
+    },
+    {
+      "title": "【海外記事紹介】Rustにはガッカリしている",
+      "link": "https://techfeed.io/entries/69261dbc2020c64b2242f9eb",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "The current state of cryptography in Go",
+      "link": "https://golangweekly.com/issues/580",
+      "category": "go"
+    },
+    {
+      "title": "Hono + Node.js で UNIX ドメインソケットを使う",
+      "link": "https://zenn.dev/odan/articles/036f4a1133e0d6",
+      "category": "hono"
+    },
+    {
+      "title": "Sign in with Vercel now generally available",
+      "link": "https://vercel.com/changelog/sign-in-with-vercel",
+      "category": "cloud"
     }
   ]
 }
