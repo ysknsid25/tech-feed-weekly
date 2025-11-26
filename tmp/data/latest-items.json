@@ -204,6 +204,21 @@
       "title": "AIエージェント × Power Apps Code Apps開発記（Part 1） | 分析屋",
       "link": "https://note.com/bunsekiya_tech/n/n7188c8a5903d",
       "category": "jsts"
+    },
+    {
+      "title": "feat(secure-headers): Add CSP report-to and report-uri directive support",
+      "link": "https://github.com/honojs/hono/pull/4551",
+      "category": "hono"
+    },
+    {
+      "title": "Suggestion: add `-n --number` option to `request` command",
+      "link": "https://github.com/honojs/cli/issues/52",
+      "category": "hono"
+    },
+    {
+      "title": "[Feature request] renderer can be false to skip default render",
+      "link": "https://github.com/nitrojs/nitro/issues/3818",
+      "category": "unjs"
     }
   ]
 }
