@@ -119,6 +119,11 @@
       "title": "fix: allow middleware to override error responses with redirects",
       "link": "https://github.com/honojs/hono/pull/4546",
       "category": "hono"
+    },
+    {
+      "title": "CODESYSプロジェクトをAIで読み解く | ABEJA Tech Blog",
+      "link": "https://tech-blog.abeja.asia/entry/codesys-project-ai-analysis-202511",
+      "category": "jsts"
     }
   ]
 }
