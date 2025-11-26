@@ -44,6 +44,26 @@
       "title": "chore(deps-dev): bump zod from 3.23.8 to 4.1.13",
       "link": "https://github.com/honojs/middleware/pull/1580",
       "category": "hono"
+    },
+    {
+      "title": "『ATOK Passport』新プランのご案内 | お知らせ |【公式】ATOK.com",
+      "link": "https://atok.com/new_plan/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "福岡大学 公開NTPサービス アップデート",
+      "link": "https://speakerdeck.com/tanyorg/fu-gang-da-xue-gong-kai-ntpsabisu-atupudeto",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AIセキュリティリスクを防ぐ 徳丸さんに聞く 2025年の教訓と2026年への備え",
+      "link": "https://findy.connpass.com/event/377046/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "AWS Organizations における全ポリシーを整理して理解する (2025年11月版) | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/aws-organization-policies-2025",
+      "category": "jsts"
     }
   ]
 }
