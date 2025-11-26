@@ -84,6 +84,16 @@
       "title": "問い合わせ対応自動化：ノーコード×RAGでつくるAIチャットの裏側",
       "link": "https://techblog.lycorp.co.jp/ja/20251126b",
       "category": "company"
+    },
+    {
+      "title": "Use `eslint-plugin-redos`",
+      "link": "https://github.com/open-circle/valibot/pull/1364",
+      "category": "valibot"
+    },
+    {
+      "title": "いよいよ開幕！every Tech Blog Advent Calendar 2025 | every Tech Blog",
+      "link": "https://tech.every.tv/entry/2025/11/26/120000",
+      "category": "jsts"
     }
   ]
 }
