@@ -149,6 +149,21 @@
       "title": "fix(1573): allow custom http exception status code for node-ws",
       "link": "https://github.com/honojs/middleware/pull/1583",
       "category": "hono"
+    },
+    {
+      "title": "1 つの Lambda 関数でテナントごとに実行環境を分離する新機能を試してみた | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/_lambda-tenant-isolate",
+      "category": "jsts"
+    },
+    {
+      "title": "Building AI Agents in Kotlin – Part 2: A Deeper Dive Into Tools",
+      "link": "https://blog.jetbrains.com/ai/2025/11/building-ai-agents-in-kotlin-part-2-a-deeper-dive-into-tools/",
+      "category": "kotlin"
+    },
+    {
+      "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
+      "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
