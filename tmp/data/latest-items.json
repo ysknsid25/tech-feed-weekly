@@ -29,6 +29,31 @@
       "title": "ガチ中国人が解説…中国ではVPNを刺さないとTwitterに繋がらないのでVPNなしの現在地CHINA表記のツイッタラーは100％工作員になる話",
       "link": "https://togetter.com/li/2632049",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "読んだ本は忘れていい ― 年間300冊読む私の読書術",
+      "link": "https://azukiazusa.dev/blog/my-reading-techniques-300-books-a-year/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "実装の 9 割を AI に任せる。食べログのジュニアエンジニアが構築した AI 連携開発フロー - Tabelog Tech Blog",
+      "link": "https://tech-blog.tabelog.com/entry/optimized_ai_development_flow",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "慶應義塾大学出版会 | 生成AIを活用したレポート・論文の書き方 | 伊藤貴之",
+      "link": "https://www.keio-up.co.jp/np/isbn/9784766430837/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "《後編》人間味あるリアルな会話を。目指したのは、傾聴し、アトラクトまで担うAI面接官  | SHIFT Group 技術ブログ",
+      "link": "https://note.shiftinc.jp/n/n8d62de090641",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon Elastic VMware Service と VMware HCX を活用して、AWS への VMware 移行を加速する",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-vmware-migration-to-aws-leveraging-amazon-elastic-vmware-service-and-hcx/",
+      "category": "cloud"
     }
   ]
 }
