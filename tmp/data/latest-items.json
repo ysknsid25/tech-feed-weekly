@@ -59,6 +59,16 @@
       "title": "『AIを使って開発』から『AI主体の開発プロセス』へ AWS AI-DLC Unicorn Gym ワークショップで見えた、次世代の開発スタイル",
       "link": "https://tech-blog.tabelog.com/entry/aws-ai-dlc-unicorn-gym",
       "category": "company"
+    },
+    {
+      "title": "2025年12月の技術系イベント予定",
+      "link": "https://techblog.lycorp.co.jp/ja/20251127b",
+      "category": "company"
+    },
+    {
+      "title": "fix(validator): no return in middleware",
+      "link": "https://github.com/honojs/hono/pull/4553",
+      "category": "hono"
     }
   ]
 }
