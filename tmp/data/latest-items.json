@@ -114,6 +114,16 @@
       "title": "AWS IAM アウトバウンド ID フェデレーションを使用して、外部サービスへのアクセスを簡素化",
       "link": "https://aws.amazon.com/jp/blogs/news/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/",
       "category": "cloud"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio の新しいワンクリックオンボーディングと組み込み AI エージェントを含むノートブック",
+      "link": "https://aws.amazon.com/jp/blogs/news/new-one-click-onboarding-and-notebooks-with-ai-agent-in-amazon-sagemaker-unified-studio/",
+      "category": "cloud"
+    },
+    {
+      "title": "【デスクツアー】ワンキャリアエンジニアの在宅環境を調査してみた④ | ONE CAREER Tech Blog",
+      "link": "https://note.com/dev_onecareer/n/nbd9a62f20aa1",
+      "category": "jsts"
     }
   ]
 }
