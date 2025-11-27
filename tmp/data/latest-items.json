@@ -159,6 +159,31 @@
       "title": "RAGの精度向上戦略 in 2025〜PoCの壁を越える評価と改善〜",
       "link": "https://findy.connpass.com/event/376554/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "CSSで最近よく使うOKLCHカラーについて理解を深めよう、異なる色でトーンを合わせたり、単色のシェードも簡単",
+      "link": "https://coliss.com/articles/build-websites/operation/design/about-oklch-color.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「コードは設計書だ」と本気で思い直したきっかけ - Qiita",
+      "link": "https://qiita.com/tomo19950806/items/cafe6f78776d4bc45252",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Ruby 並列処理を比較！ | Zenet Tech Blog",
+      "link": "https://media.zenet-web.co.jp/entry/2025/11/27/184932",
+      "category": "jsts"
+    },
+    {
+      "title": "perf!: resolve virtual templates with single plugin",
+      "link": "https://github.com/nitrojs/nitro/pull/3819",
+      "category": "unjs"
+    },
+    {
+      "title": "feat(validator): infer the context type in validation func",
+      "link": "https://github.com/honojs/hono/pull/4554",
+      "category": "hono"
     }
   ]
 }
