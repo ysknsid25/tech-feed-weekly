@@ -109,6 +109,11 @@
       "title": "SansanのAI戦略：MCPサーバーとAIエージェントが切り拓くビジネスの未来 | Sansan Tech Blog",
       "link": "https://buildersbox.corp-sansan.com/entry/2025/11/27/131625",
       "category": "jsts"
+    },
+    {
+      "title": "AWS IAM アウトバウンド ID フェデレーションを使用して、外部サービスへのアクセスを簡素化",
+      "link": "https://aws.amazon.com/jp/blogs/news/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/",
+      "category": "cloud"
     }
   ]
 }

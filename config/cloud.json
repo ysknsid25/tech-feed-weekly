@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/"
     },
     {
       "name": "SRE Weekly",
