@@ -204,6 +204,11 @@
       "title": "エンジニア組織で推進してきたAI導入までの振り返り | トラストバンクテックブログ",
       "link": "https://tech.trustbank.co.jp/entry/2025/11/27/212056",
       "category": "jsts"
+    },
+    {
+      "title": "Default-exported classes anywhere under `server/modules` break with \"Class constructor … cannot be invoked without 'new'\"",
+      "link": "https://github.com/nitrojs/nitro/issues/3821",
+      "category": "unjs"
     }
   ]
 }
