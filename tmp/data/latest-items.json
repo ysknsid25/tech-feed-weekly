@@ -74,6 +74,21 @@
       "title": "就業型インターン「Booost!!!」：【お悩み相談室】コラム記事の新規アプリケーション移植 | エキサイト TechBlog.",
       "link": "https://tech.excite.co.jp/entry/2025/11/27/120624",
       "category": "jsts"
+    },
+    {
+      "title": "GitHub ActionsにおけるGitHub-hosted runnerとSelf-hosted runnerのパフォーマンス比較(CPU編)",
+      "link": "https://developer.hatenastaff.com/entry/2025/11/27/123119",
+      "category": "company"
+    },
+    {
+      "title": "Honoの7つのコンセプト",
+      "link": "https://zenn.dev/yusukebe/articles/1f3ac394f31f3b",
+      "category": "hono"
+    },
+    {
+      "title": "AWS Japan の新卒が Kiro でマネコン上の操作を支援する Chrome 拡張機能をチーム開発してみた！",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-9-team-development/",
+      "category": "cloud"
     }
   ]
 }
