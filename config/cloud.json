@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-9-team-development/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/"
     },
     {
       "name": "SRE Weekly",

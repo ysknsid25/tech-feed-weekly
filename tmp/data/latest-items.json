@@ -89,6 +89,26 @@
       "title": "AWS Japan の新卒が Kiro でマネコン上の操作を支援する Chrome 拡張機能をチーム開発してみた！",
       "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-9-team-development/",
       "category": "cloud"
+    },
+    {
+      "title": "「ヤングジャンプ新人漫画大賞」の月間ベスト賞受賞作にAI疑惑、ストーリー構成やセリフ回しにも違和感",
+      "link": "https://togetter.com/li/2632343",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS Lambda のテナント分離モードによるマルチテナントアプリケーション開発の効率化",
+      "link": "https://aws.amazon.com/jp/blogs/news/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/",
+      "category": "cloud"
+    },
+    {
+      "title": "Hono + Node.js で UNIX ドメインソケットを使う",
+      "link": "https://zenn.dev/odan/articles/036f4a1133e0d6",
+      "category": "hono"
+    },
+    {
+      "title": "SansanのAI戦略：MCPサーバーとAIエージェントが切り拓くビジネスの未来 | Sansan Tech Blog",
+      "link": "https://buildersbox.corp-sansan.com/entry/2025/11/27/131625",
+      "category": "jsts"
     }
   ]
 }
