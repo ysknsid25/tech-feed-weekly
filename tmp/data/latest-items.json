@@ -54,6 +54,11 @@
       "title": "Amazon Elastic VMware Service と VMware HCX を活用して、AWS への VMware 移行を加速する",
       "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-vmware-migration-to-aws-leveraging-amazon-elastic-vmware-service-and-hcx/",
       "category": "cloud"
+    },
+    {
+      "title": "『AIを使って開発』から『AI主体の開発プロセス』へ AWS AI-DLC Unicorn Gym ワークショップで見えた、次世代の開発スタイル",
+      "link": "https://tech-blog.tabelog.com/entry/aws-ai-dlc-unicorn-gym",
+      "category": "company"
     }
   ]
 }
