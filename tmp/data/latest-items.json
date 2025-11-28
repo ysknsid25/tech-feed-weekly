@@ -164,6 +164,21 @@
       "title": "【再放送】Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践-",
       "link": "https://findy.connpass.com/event/377356/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "GitHub を組織的に使いこなすために ソニーが実践した全社展開のプラクティス",
+      "link": "https://speakerdeck.com/sony/github-wozu-zhi-de-nishi-ikonasutameni-sonigashi-jian-sitaquan-she-zhan-kai-nopurakuteisu",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "[TIP] inversifyを使用してDIを本格化する（前回の続き）",
+      "link": "https://zenn.dev/ncdc/articles/128a3cbef61bd0",
+      "category": "hono"
+    },
+    {
+      "title": "低運用負荷でコンプライアンス強化：AWS ConfigルールでEBSデフォルト暗号化設定を自動修復する | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/configrule-ebs-default-encrypt",
+      "category": "jsts"
     }
   ]
 }
