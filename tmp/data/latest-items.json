@@ -79,6 +79,16 @@
       "title": "chore(ua-blocker): update robots.json from upstream",
       "link": "https://github.com/honojs/middleware/pull/1585",
       "category": "hono"
+    },
+    {
+      "title": "なあ兄弟、 余白の意味を考えてから UI実装してくれ！",
+      "link": "https://speakerdeck.com/ktcryomm/naaxiong-di-yu-bai-noyi-wei-wokao-etekara-uishi-zhuang-sitekure",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "LayerX Tech Advent Calendar 2025 今年もやります！ #LayerXテックアドカレ | LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/tech-advent-calendar-2025",
+      "category": "jsts"
     }
   ]
 }
