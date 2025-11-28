@@ -119,6 +119,26 @@
       "title": "「Security.any #07 がんばったセキュリティLT」がSmartHRで開催されました＆登壇しました！ | SmartHR Tech Blog",
       "link": "https://tech.smarthr.jp/entry/2025/11/28/151320",
       "category": "jsts"
+    },
+    {
+      "title": "AIが仕事を奪ったら、誰が製品を買うのか？「それをCEOたちは考えていない」 | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2511-geoffrey-hinton-the-ceos-arent-ready-for-future-few-jobs/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "今年もエムスリーアドベントカレンダー開幕します！",
+      "link": "https://www.m3tech.blog/entry/start-advent-calender-2025",
+      "category": "company"
+    },
+    {
+      "title": "fix(proxy): strip transfer-encoding header from proxied response",
+      "link": "https://github.com/h3js/h3/pull/1248",
+      "category": "unjs"
+    },
+    {
+      "title": "私物PCのマルウェア感染起因とみられる業務利用Slackへの不正ログイン事案についてまとめてみた",
+      "link": "https://piyolog.hatenadiary.jp/entry/2025/11/28/170613",
+      "category": "famous"
     }
   ]
 }
