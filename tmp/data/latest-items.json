@@ -54,6 +54,16 @@
       "title": "番組との「良質な出会い」をつくるために――”新人ばかり”のショート動画機能開発チームが語る、リリースの裏側とこれから | TVer Tech Blog",
       "link": "https://techblog.tver.co.jp/entry/2025/11/28/080000",
       "category": "jsts"
+    },
+    {
+      "title": "Cisco と Citrix のゼロデイ脆弱性を悪用する APT を Amazon が発見",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-discovers-apt-exploiting-cisco-and-citrix-zero-days/",
+      "category": "cloud"
+    },
+    {
+      "title": "RevenueCat でサブスクリプション管理を効率化 | every Tech Blog",
+      "link": "https://tech.every.tv/entry/2025/11/28/101425",
+      "category": "jsts"
     }
   ]
 }
