@@ -89,6 +89,16 @@
       "title": "LayerX Tech Advent Calendar 2025 今年もやります！ #LayerXテックアドカレ | LayerX エンジニアブログ",
       "link": "https://tech.layerx.co.jp/entry/tech-advent-calendar-2025",
       "category": "jsts"
+    },
+    {
+      "title": "東京海上日動システムズ株式会社様の AWS 生成 AI 事例：全社生成 AI 実行基盤とエンタープライズ RAG システムの構築",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-tmn-systems-3/",
+      "category": "cloud"
+    },
+    {
+      "title": "社内AI活用を“見える化”するランキング機能をリリースしました",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59930/",
+      "category": "company"
     }
   ]
 }
