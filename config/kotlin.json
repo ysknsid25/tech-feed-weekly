@@ -10,7 +10,7 @@
       "name": "JetBrains Kotlin Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://blog.jetbrains.com/kotlin/feed/",
-      "latestLink": "https://blog.jetbrains.com/kotlin/2025/11/kodees-kotlin-roundup-november-edition/"
+      "latestLink": "https://blog.jetbrains.com/kotlin/2025/11/advent-of-code-in-kotlin-2025/"
     },
     {
       "name": "JetBrains Ktor Blog",
