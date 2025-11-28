@@ -184,6 +184,21 @@
       "title": "t-wadaが説く、今あえて“自分の手”でコードを書く理由「バイブコーディングは、エンジニアのためのものではない」 - エンジニアtype | 転職type",
       "link": "https://type.jp/et/feature/29773/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "認証認可学習のすゝめ - カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/11/28/how-i-learned-authn-and-authz",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat(secure-headers): Add CSP report-to and report-uri directive support",
+      "link": "https://github.com/honojs/hono/pull/4555",
+      "category": "hono"
+    },
+    {
+      "title": "[参加レポート]re:Invent2024に初＆単独参戦！一週間の感動を振り返る | DENET 技術ブログ",
+      "link": "https://blog.denet.co.jp/participation-report-aws-reinvent-2024/",
+      "category": "jsts"
     }
   ]
 }
