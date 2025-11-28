@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-discovers-apt-exploiting-cisco-and-citrix-zero-days/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/"
     },
     {
       "name": "SRE Weekly",

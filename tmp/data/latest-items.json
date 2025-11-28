@@ -64,6 +64,21 @@
       "title": "RevenueCat でサブスクリプション管理を効率化 | every Tech Blog",
       "link": "https://tech.every.tv/entry/2025/11/28/101425",
       "category": "jsts"
+    },
+    {
+      "title": "コード全体を自動解析して常時更新する「Code Wiki」公開　開発者の未来はどう変わるのか",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/27/news068.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon Route 53 がパブリック DNS レコードを管理するための高速復旧をリリース",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/",
+      "category": "cloud"
+    },
+    {
+      "title": "chore(ua-blocker): update robots.json from upstream",
+      "link": "https://github.com/honojs/middleware/pull/1585",
+      "category": "hono"
     }
   ]
 }
