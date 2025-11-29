@@ -89,6 +89,16 @@
       "title": "Hono \"だけ\" で作るミニマルな SPA",
       "link": "https://zenn.dev/yasu888/articles/3075e8d7c93afa",
       "category": "hono"
+    },
+    {
+      "title": "【Python/Powershell】仮想環境を全然activateできなくて沼った | ヘッドウォータースのフィード",
+      "link": "https://zenn.dev/headwaters/articles/fc24dfd749d876",
+      "category": "jsts"
+    },
+    {
+      "title": "[TIP] inversifyを使用してDIを本格化する（前回の続き）",
+      "link": "https://zenn.dev/ncdc/articles/128a3cbef61bd0",
+      "category": "hono"
     }
   ]
 }
