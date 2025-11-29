@@ -59,6 +59,11 @@
       "title": "Swift Observationフレームワークの利点と動作 | every Tech Blog",
       "link": "https://tech.every.tv/entry/2025/11/29/120000",
       "category": "jsts"
+    },
+    {
+      "title": "【Android】KotlinネイティブアプリからUnityアプリを呼び出してみた | NCDCエンジニアブログのフィード",
+      "link": "https://zenn.dev/ncdc/articles/android_call_unity",
+      "category": "jsts"
     }
   ]
 }
