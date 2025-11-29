@@ -99,6 +99,11 @@
       "title": "[TIP] inversifyを使用してDIを本格化する（前回の続き）",
       "link": "https://zenn.dev/ncdc/articles/128a3cbef61bd0",
       "category": "hono"
+    },
+    {
+      "title": "Wildcard routes not working correctly for root URL",
+      "link": "https://github.com/h3js/h3/issues/1249",
+      "category": "unjs"
     }
   ]
 }
