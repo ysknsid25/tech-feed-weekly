@@ -74,6 +74,16 @@
       "title": "feat(renderer): allow disabling renderer",
       "link": "https://github.com/nitrojs/nitro/pull/3822",
       "category": "unjs"
+    },
+    {
+      "title": "Claude の新機能：Tool Serarch Tool / Programmatic Tool Callingについて解説します | ヘッドウォータースのフィード",
+      "link": "https://zenn.dev/headwaters/articles/4a04a696fa7218",
+      "category": "jsts"
+    },
+    {
+      "title": "docs: add integration testing guide",
+      "link": "https://github.com/honojs/honox/pull/343",
+      "category": "hono"
     }
   ]
 }
