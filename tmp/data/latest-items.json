@@ -84,6 +84,11 @@
       "title": "docs: add integration testing guide",
       "link": "https://github.com/honojs/honox/pull/343",
       "category": "hono"
+    },
+    {
+      "title": "Hono \"だけ\" で作るミニマルな SPA",
+      "link": "https://zenn.dev/yasu888/articles/3075e8d7c93afa",
+      "category": "hono"
     }
   ]
 }
