@@ -64,6 +64,16 @@
       "title": "【Android】KotlinネイティブアプリからUnityアプリを呼び出してみた | NCDCエンジニアブログのフィード",
       "link": "https://zenn.dev/ncdc/articles/android_call_unity",
       "category": "jsts"
+    },
+    {
+      "title": "アサグループへのサイバー攻撃に関する会見で「最後に一言申し上げたい」から社長が現状を語りまくる様子→特に印象に残った発言たちへの反応",
+      "link": "https://togetter.com/li/2633257",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat(renderer): allow disabling renderer",
+      "link": "https://github.com/nitrojs/nitro/pull/3822",
+      "category": "unjs"
     }
   ]
 }
