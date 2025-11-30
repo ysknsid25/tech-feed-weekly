@@ -84,6 +84,21 @@
       "title": "ANA 国際線の Wi-Fi はどうなのか試してみた | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/tried-ana-international-wifi",
       "category": "jsts"
+    },
+    {
+      "title": "UIデザインに役立つ 2025年の最新CSS / The Latest CSS for UI Design 2025",
+      "link": "https://speakerdeck.com/clockmaker/the-latest-css-for-ui-design-2025",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Tabelog Advent Calendar 2025 食べログ20周年 食べログのこれまでと、これからの未来",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251201",
+      "category": "company"
+    },
+    {
+      "title": "feat(client): Add  `ApplyGlobalResponse` type helper for RPC Client",
+      "link": "https://github.com/honojs/hono/pull/4556",
+      "category": "hono"
     }
   ]
 }
