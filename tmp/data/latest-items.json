@@ -184,6 +184,16 @@
       "title": "Docker環境でのNetskope証明書設定とファイル共有のセキュリティリスク | CloudNative Inc. BLOGs",
       "link": "https://blog.cloudnative.co.jp/29543/",
       "category": "jsts"
+    },
+    {
+      "title": "Google Cloud Japan Advent Calendar 2025",
+      "link": "https://zenn.dev/google_cloud_jp/articles/ba1f810503bfd2",
+      "category": "cloud"
+    },
+    {
+      "title": "Application Load Balancer と Amazon API Gateway プライベート統合を使用したスケーラブルな REST API の構築",
+      "link": "https://aws.amazon.com/jp/blogs/news/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/",
+      "category": "cloud"
     }
   ]
 }
