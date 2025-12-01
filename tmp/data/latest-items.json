@@ -84,6 +84,41 @@
       "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
       "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Proxmox VEで学ぶcloud-init",
+      "link": "https://developersblog.dmm.com/entry/2025/12/01/113000",
+      "category": "company"
+    },
+    {
+      "title": "Post-hoc Rationalization: LLMの推論は「言い訳」か？",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60127/",
+      "category": "company"
+    },
+    {
+      "title": "PHPのセッション管理入門",
+      "link": "https://www.m3tech.blog/entry/2025/12/01/110000",
+      "category": "company"
+    },
+    {
+      "title": "データアウトプットの“信頼性レベル”の定義と保守対象の明確化 | Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/2025/12/01/105429",
+      "category": "jsts"
+    },
+    {
+      "title": "情シス・セキュリティ担当者向けWebプログラミングハンズオン「Hono + JSX + SQLiteで作る掲示板」",
+      "link": "https://zenn.dev/micin/articles/1ef3e689e29ffc",
+      "category": "hono"
+    },
+    {
+      "title": "chore(ua-blocker): update robots.json from upstream",
+      "link": "https://github.com/honojs/middleware/pull/1590",
+      "category": "hono"
+    },
+    {
+      "title": "test(serve): Add mock for Port Validation",
+      "link": "https://github.com/honojs/cli/pull/53",
+      "category": "hono"
     }
   ]
 }
