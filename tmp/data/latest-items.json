@@ -304,6 +304,11 @@
       "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
       "link": "https://github.com/honojs/middleware/pull/1594",
       "category": "hono"
+    },
+    {
+      "title": "APIアーキテクチャ選定の比較：個人開発で検証した6構成の技術評価まとめ",
+      "link": "https://zenn.dev/bysontech/articles/b91270b42f734e",
+      "category": "hono"
     }
   ]
 }
