@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/removing-dependency-tangles-in-the-atlassian-platform-for-increased-reliability-and-recoverability"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/automating-customer-support-with-jsm-virtual-agent"
     },
     {
       "name": "Slack Tech Blog",
