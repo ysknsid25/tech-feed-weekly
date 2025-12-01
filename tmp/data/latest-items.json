@@ -54,6 +54,36 @@
       "title": "【謎解き】freee 技術の日 2025 イベント周遊謎のアーカイブ【問題・解答付き】",
       "link": "https://developers.freee.co.jp/entry/bomb-squad",
       "category": "company"
+    },
+    {
+      "title": "無料でLinuxカーネルの仕組みを学習できる「Linuxカーネルエクスプローラー」",
+      "link": "https://gigazine.net/news/20251130-linux-kernel-explorer/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix(valibot-validator, standard-validator): Fix undefined response",
+      "link": "https://github.com/honojs/middleware/pull/1589",
+      "category": "hono"
+    },
+    {
+      "title": "今年もQAエンジニア採用インターンを実施しました",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day1",
+      "category": "company"
+    },
+    {
+      "title": "BigQueryの便利な機能を知ろう！コンソールツアー",
+      "link": "https://zenn.dev/google_cloud_jp/articles/255d0eb18f33f4",
+      "category": "cloud"
+    },
+    {
+      "title": "週刊AWS – 2025/11/24週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20251124/",
+      "category": "cloud"
+    },
+    {
+      "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
+      "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
