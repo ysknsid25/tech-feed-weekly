@@ -119,6 +119,26 @@
       "title": "test(serve): Add mock for Port Validation",
       "link": "https://github.com/honojs/cli/pull/53",
       "category": "hono"
+    },
+    {
+      "title": "AIセキュリティリスクを防ぐ 徳丸さんに聞く 2025年の教訓と2026年への備え",
+      "link": "https://findy.connpass.com/event/377046/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "[WIP] chore: resolve lint warning",
+      "link": "https://github.com/honojs/cli/pull/54",
+      "category": "hono"
+    },
+    {
+      "title": "SRE Weekly Issue #499",
+      "link": "https://sreweekly.com/sre-weekly-issue-499/",
+      "category": "cloud"
+    },
+    {
+      "title": "RSpec の allow のコードを読んでみよう",
+      "link": "https://developers.freee.co.jp/entry/rspec-allow-code-reading",
+      "category": "company"
     }
   ]
 }
