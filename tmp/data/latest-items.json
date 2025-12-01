@@ -194,6 +194,16 @@
       "title": "Application Load Balancer と Amazon API Gateway プライベート統合を使用したスケーラブルな REST API の構築",
       "link": "https://aws.amazon.com/jp/blogs/news/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/",
       "category": "cloud"
+    },
+    {
+      "title": "AWS SDK for SAP ABAPをプラグアンドプレイでご体験ください",
+      "link": "https://aws.amazon.com/jp/blogs/news/towards-a-plug-n-play-experience-for-the-aws-sdk-for-sap-abap/",
+      "category": "cloud"
+    },
+    {
+      "title": "エンジニア組織の中間管理職がAI活用で1年間試行錯誤してみた | TechRacho",
+      "link": "https://techracho.bpsinc.jp/morimorihoge/2025_12_01/154835",
+      "category": "jsts"
     }
   ]
 }

@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/towards-a-plug-n-play-experience-for-the-aws-sdk-for-sap-abap/"
     },
     {
       "name": "SRE Weekly",
