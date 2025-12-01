@@ -249,6 +249,16 @@
       "title": "来年のMicrosoft Ignite 2026に向けて | Alternative Architecture DOJO",
       "link": "https://aadojo.alterbooth.com/entry/2025/12/01/212937",
       "category": "jsts"
+    },
+    {
+      "title": "パスキー(FIDO)の安全性と脆弱性と破滅的欠陥 - falsandtruのメモ帳",
+      "link": "https://falsandtru.hatenablog.com/entry/passkey-fido-security-and-vulnerability-and-catastrophic-defect",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat: Implement tracing channels",
+      "link": "https://github.com/h3js/h3/pull/1251",
+      "category": "unjs"
     }
   ]
 }
