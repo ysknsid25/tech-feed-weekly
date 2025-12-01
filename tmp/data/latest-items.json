@@ -299,6 +299,11 @@
       "title": "AWS Databases coming to the Vercel Marketplace",
       "link": "https://vercel.com/blog/aws-databases-coming-to-the-vercel-marketplace",
       "category": "cloud"
+    },
+    {
+      "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
+      "link": "https://github.com/honojs/middleware/pull/1594",
+      "category": "hono"
     }
   ]
 }
