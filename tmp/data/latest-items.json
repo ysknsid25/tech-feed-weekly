@@ -259,6 +259,16 @@
       "title": "feat: Implement tracing channels",
       "link": "https://github.com/h3js/h3/pull/1251",
       "category": "unjs"
+    },
+    {
+      "title": "アドバイスは素直に、実践は愚直に──設計と要求明確化のブレイクスルー",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251202",
+      "category": "company"
+    },
+    {
+      "title": "BizサイドとPrdサイドが「同じ解像度で同じ顧客」を見るためにこの1年で取り組んだこと | READYFORテックブログのフィード",
+      "link": "https://zenn.dev/readyfor_blog/articles/5b000694f0878c",
+      "category": "jsts"
     }
   ]
 }
