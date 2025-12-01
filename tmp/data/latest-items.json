@@ -309,6 +309,11 @@
       "title": "APIアーキテクチャ選定の比較：個人開発で検証した6構成の技術評価まとめ",
       "link": "https://zenn.dev/bysontech/articles/b91270b42f734e",
       "category": "hono"
+    },
+    {
+      "title": "nitro/vite strips `mappings` when generating sourcemaps",
+      "link": "https://github.com/nitrojs/nitro/issues/3826",
+      "category": "unjs"
     }
   ]
 }
