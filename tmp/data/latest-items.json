@@ -294,6 +294,11 @@
       "title": "Automating Customer Support with JSM Virtual Agent",
       "link": "https://www.atlassian.com/blog/atlassian-engineering/automating-customer-support-with-jsm-virtual-agent",
       "category": "company"
+    },
+    {
+      "title": "AWS Databases coming to the Vercel Marketplace",
+      "link": "https://vercel.com/blog/aws-databases-coming-to-the-vercel-marketplace",
+      "category": "cloud"
     }
   ]
 }
