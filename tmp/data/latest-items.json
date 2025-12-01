@@ -269,6 +269,16 @@
       "title": "BizサイドとPrdサイドが「同じ解像度で同じ顧客」を見るためにこの1年で取り組んだこと | READYFORテックブログのフィード",
       "link": "https://zenn.dev/readyfor_blog/articles/5b000694f0878c",
       "category": "jsts"
+    },
+    {
+      "title": "Streamlining Security Investigations with Agents",
+      "link": "https://slack.engineering/streamlining-security-investigations-with-agents/",
+      "category": "company"
+    },
+    {
+      "title": "フルマネージド Amazon EKS MCP Server (プレビュー) の紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-the-fully-managed-amazon-eks-mcp-server-preview/",
+      "category": "cloud"
     }
   ]
 }

@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/announcing-unused-nat-gateway-recommendations-in-aws-compute-optimizer/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-the-fully-managed-amazon-eks-mcp-server-preview/"
     },
     {
       "name": "SRE Weekly",
