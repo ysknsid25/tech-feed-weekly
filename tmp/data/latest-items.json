@@ -209,6 +209,21 @@
       "title": "Amazon Quick AutomateでAI駆動のSAP自動化をシームレスに構築",
       "link": "https://aws.amazon.com/jp/blogs/news/sap-automations-with-amazon-quick-automate/",
       "category": "cloud"
+    },
+    {
+      "title": "AI相場で下克上　OpenAI失速、Google陣営に資金シフト - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB269EB0W5A121C2000000/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "STORES Tech Conf 2025 “What Would You Do?” 開催レポート | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/01/192203",
+      "category": "jsts"
+    },
+    {
+      "title": "AWS Compute Optimizer での未使用の NAT ゲートウェイの推奨事項を発表",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-unused-nat-gateway-recommendations-in-aws-compute-optimizer/",
+      "category": "cloud"
     }
   ]
 }

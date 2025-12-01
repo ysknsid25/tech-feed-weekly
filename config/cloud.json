@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/sap-automations-with-amazon-quick-automate/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/announcing-unused-nat-gateway-recommendations-in-aws-compute-optimizer/"
     },
     {
       "name": "SRE Weekly",
