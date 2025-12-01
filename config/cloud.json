@@ -10,7 +10,7 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/google-workspace-flows-getting-started"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/703890e264751f"
     },
     {
       "name": "Vercel",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-the-fully-managed-amazon-eks-mcp-server-preview/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/nissan-sdv-development-acceleration/"
     },
     {
       "name": "SRE Weekly",

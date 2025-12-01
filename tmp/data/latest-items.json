@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "パスキー(FIDO)の安全性と脆弱性と破滅的欠陥 - falsandtruのメモ帳",
+      "link": "https://falsandtru.hatenablog.com/entry/passkey-fido-security-and-vulnerability-and-catastrophic-defect",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "客先のDBを間違えて削除した話 - Qiita",
+      "link": "https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "動画の倍速視聴、理解できるのは何倍まで？　高齢者と若者の違いを米UCLAが研究報告",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/01/news021.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Kubernetes History Inspector(KHI)を使って入門する本格的なKubernetesの障害原因調査(RCA)",
+      "link": "https://zenn.dev/google_cloud_jp/articles/703890e264751f",
+      "category": "cloud"
+    },
+    {
+      "title": "日産自動車、AWS と連携し SDV 実現に向けたソフトウェア開発を加速",
+      "link": "https://aws.amazon.com/jp/blogs/news/nissan-sdv-development-acceleration/",
+      "category": "cloud"
+    },
+    {
+      "title": "情シス・セキュリティ担当者向けWebプログラミングハンズオン「Hono + JSX + SQLiteで作る掲示板」",
+      "link": "https://zenn.dev/micin/articles/1ef3e689e29ffc",
+      "category": "hono"
+    },
+    {
+      "title": "細粒度リアクティブステートのスコープ設計",
+      "link": "https://user-first.ikyu.co.jp/entry/2025/12/02/072749",
+      "category": "company"
+    },
+    {
+      "title": "人生は決断の連続である。故に私は麻雀牌を切った。",
+      "link": "https://developers.freee.co.jp/entry/mahjong-nanikiru",
+      "category": "company"
+    },
+    {
+      "title": "本番で死なないキューコンシューマー設計論",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59938/",
+      "category": "company"
+    },
+    {
+      "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
+      "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    }
+  ]
+}
