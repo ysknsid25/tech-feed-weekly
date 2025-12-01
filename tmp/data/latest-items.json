@@ -229,6 +229,26 @@
       "title": "動画の倍速視聴、理解できるのは何倍まで？　高齢者と若者の違いを米UCLAが研究報告",
       "link": "https://www.itmedia.co.jp/news/articles/2512/01/news021.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「本番DBで1行のデータ更新するだけなのに毎回手順書作ってレビューする意味あります？」と2年目の人に聞かれて（意味ありすぎるだろ…）と思ったのだけど令和最新版は違ってたりするのか？→「ぶっ壊した経験があるとわかる」",
+      "link": "https://posfie.com/@petaritape/p/pWYcreX",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Google Workspace Flows ことはじめ - メールから自動でタスク作成も？Gemini で仕事が楽になる新サービス",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-flows-getting-started",
+      "category": "cloud"
+    },
+    {
+      "title": "add `qwik` example",
+      "link": "https://github.com/nitrojs/nitro/pull/3825",
+      "category": "unjs"
+    },
+    {
+      "title": "来年のMicrosoft Ignite 2026に向けて | Alternative Architecture DOJO",
+      "link": "https://aadojo.alterbooth.com/entry/2025/12/01/212937",
+      "category": "jsts"
     }
   ]
 }
