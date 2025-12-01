@@ -4,7 +4,7 @@
       "name": "Hono Zenn Latest",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/topics/hono/feed",
-      "latestLink": "https://zenn.dev/micin/articles/1ef3e689e29ffc"
+      "latestLink": "https://zenn.dev/sweetfish/articles/0bf6f33223d509"
     },
     {
       "name": "Hono Advent Calendar 2025",
@@ -16,7 +16,7 @@
       "name": "Hono Middleware Issues",
       "type": "github-issues",
       "feedUrl": "honojs/middleware",
-      "latestLink": "https://github.com/honojs/middleware/pull/1590"
+      "latestLink": "https://github.com/honojs/middleware/pull/1591"
     },
     {
       "name": "Hono Starter Issues",

@@ -139,6 +139,26 @@
       "title": "RSpec の allow のコードを読んでみよう",
       "link": "https://developers.freee.co.jp/entry/rspec-allow-code-reading",
       "category": "company"
+    },
+    {
+      "title": "生成AI10日チャレンジ 1日目 AIチャットアプリ",
+      "link": "https://zenn.dev/sweetfish/articles/0bf6f33223d509",
+      "category": "hono"
+    },
+    {
+      "title": "Version Packages",
+      "link": "https://github.com/honojs/middleware/pull/1591",
+      "category": "hono"
+    },
+    {
+      "title": "週刊生成AI with AWS – 2025/11/24週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251124/",
+      "category": "cloud"
+    },
+    {
+      "title": "π0.5 × SO-101 実験レポート：セットアップから追加学習・推論・RTC評価まで解説 | ABEJA Tech Blog",
+      "link": "https://tech-blog.abeja.asia/entry/advent-2025-day1",
+      "category": "jsts"
     }
   ]
 }
