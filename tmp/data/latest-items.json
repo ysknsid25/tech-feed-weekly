@@ -279,6 +279,11 @@
       "title": "フルマネージド Amazon EKS MCP Server (プレビュー) の紹介",
       "link": "https://aws.amazon.com/jp/blogs/news/introducing-the-fully-managed-amazon-eks-mcp-server-preview/",
       "category": "cloud"
+    },
+    {
+      "title": "Runtime Logs now appear in the dashboard 6x faster",
+      "link": "https://vercel.com/changelog/runtime-logs-now-appear-in-the-dashboard-6x-faster",
+      "category": "cloud"
     }
   ]
 }
