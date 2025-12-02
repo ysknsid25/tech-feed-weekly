@@ -139,6 +139,16 @@
       "title": "Webhook を AWS Lambda で受け取り SQS へ流す 〜設計から監視まで〜 | BASEプロダクトチームブログ",
       "link": "https://devblog.thebase.in/entry/2025/12/02/120147",
       "category": "jsts"
+    },
+    {
+      "title": "PdMがAI×Databricksで5分待ちの外注システムからデータを取り戻すまで | KAKEHASHI Tech Blog",
+      "link": "https://kakehashi-dev.hatenablog.com/entry/2025/12/02/133000",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon Bedrock Knowledge BasesでSAPおよびエンタープライズデータから新たな可能性を解き放つ",
+      "link": "https://aws.amazon.com/jp/blogs/news/uncover-new-possibilities-from-your-sap-and-enterprise-data-with-amazon-bedrock-knowledge-bases/",
+      "category": "cloud"
     }
   ]
 }
