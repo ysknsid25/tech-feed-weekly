@@ -269,6 +269,21 @@
       "title": "「要件が決まらない」と嘆くのをやめて、企画と一緒に「業務」を作りに行こう",
       "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251203",
       "category": "company"
+    },
+    {
+      "title": "OpenShift Virtualization(KubeVirt)で誰がDHCPのアドレスを配っているか | 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/kubevirt-dhcp-server",
+      "category": "jsts"
+    },
+    {
+      "title": "add back deno nodejs compatibility for backwards compatibility",
+      "link": "https://github.com/nitrojs/nitro/issues/3832",
+      "category": "unjs"
+    },
+    {
+      "title": "Zodに対抗するバリデーションライブラリ（Valibot・ArkType）を比較検証",
+      "link": "https://zenn.dev/m_noto/articles/a2c09f741ba65e",
+      "category": "valibot"
     }
   ]
 }
