@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "適職探索トップ | job tag（職業情報提供サイト（日本版O-NET））",
+      "link": "https://shigoto.mhlw.go.jp/User/Search/Top",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【特集】 モバイルバッテリ処分2025、楽になったよ。ありがとう環境省",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2067713.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "もしAI素人が「明日からAIエージェント作ってくれ」と言われたら｜Moriya",
+      "link": "https://note.com/moriya_gekko/n/n47aa474cf658",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "京大理系がPythonで「最強の株AI」を作ろうとしたら、結論が「ニュースを見て寝なさい」になった話｜もんげー",
+      "link": "https://note.com/mongee0792/n/n1006007b1cb4",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "DB分割系 gem を撤去して ActiveRecord 7.2 にしました",
+      "link": "https://zenn.dev/mixi/articles/4188973536b183",
+      "category": "company"
+    },
+    {
+      "title": "Atlantis導入でTerraform運用を”見える化” ─ 属人化した知識を組織力に変える",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60102/",
+      "category": "company"
+    },
+    {
+      "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
+      "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
+      "category": "valibot"
+    }
+  ]
+}
