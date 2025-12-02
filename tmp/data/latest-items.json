@@ -239,6 +239,16 @@
       "title": "Notionという概念を使いこなす | CloudNative Inc. BLOGs",
       "link": "https://blog.cloudnative.co.jp/29583/",
       "category": "jsts"
+    },
+    {
+      "title": "Antigravity を使うときは DevContainer で安全に使おう | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Error uploading Chinese files to node-server with Postman",
+      "link": "https://github.com/honojs/node-server/issues/287",
+      "category": "hono"
     }
   ]
 }
