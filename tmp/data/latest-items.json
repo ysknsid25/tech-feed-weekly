@@ -204,6 +204,21 @@
       "title": "IME: azooKeyというかな漢字変換を導入してみました | TechRacho",
       "link": "https://techracho.bpsinc.jp/hachi8833/2025_12_02/154490",
       "category": "jsts"
+    },
+    {
+      "title": "Writing a good CLAUDE.md",
+      "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "defineCachedEventHandler serializes Buffer to JSON, breaking binary responses",
+      "link": "https://github.com/nitrojs/nitro/issues/3831",
+      "category": "unjs"
+    },
+    {
+      "title": "Google ADK for Go で作る AI エージェント",
+      "link": "https://zenn.dev/google_cloud_jp/articles/22636d4c02a701",
+      "category": "cloud"
     }
   ]
 }
