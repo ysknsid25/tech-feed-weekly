@@ -119,6 +119,26 @@
       "title": "【re:Invent 2025】コードからIAMポリシーを生成するIAM Policy Autopilotを試してみました | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/aws-release-iam-policy-autopilot",
       "category": "jsts"
+    },
+    {
+      "title": "「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる",
+      "link": "https://gigazine.net/news/20251202-stop-hacklore/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3828",
+      "category": "unjs"
+    },
+    {
+      "title": "AWS Database Migration Service で PostgreSQL のテーブルをグループ毎にタスク化",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-dms-table-group/",
+      "category": "cloud"
+    },
+    {
+      "title": "Webhook を AWS Lambda で受け取り SQS へ流す 〜設計から監視まで〜 | BASEプロダクトチームブログ",
+      "link": "https://devblog.thebase.in/entry/2025/12/02/120147",
+      "category": "jsts"
     }
   ]
 }
