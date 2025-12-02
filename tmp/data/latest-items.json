@@ -224,6 +224,11 @@
       "title": "会議を動かし成果を出すファシリテーション術 | SHIFT Group 技術ブログ",
       "link": "https://note.shiftinc.jp/n/n302d9be7ccb8",
       "category": "jsts"
+    },
+    {
+      "title": "Google Workspace Flows のテンプレートを使ってみる - メールの拡張",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-flows-templates-mail",
+      "category": "cloud"
     }
   ]
 }
