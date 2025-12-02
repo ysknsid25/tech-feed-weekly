@@ -159,6 +159,21 @@
       "title": "chore(security): bump expressjs",
       "link": "https://github.com/nitrojs/nitro/pull/3830",
       "category": "unjs"
+    },
+    {
+      "title": "Panda CSS でデザインシステムのメンタルモデルを確立する",
+      "link": "https://user-first.ikyu.co.jp/entry/2025/12/02/155144",
+      "category": "company"
+    },
+    {
+      "title": "バッチ処理の動作確認で開発環境を占有しないようにした話 | LIVESENSE ENGINEER BLOG",
+      "link": "https://made.livesense.co.jp/entry/2025/12/02/150000",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon S3によるHA対応の持続可能で耐久性の高いSAPドキュメントおよびデータアーカイブ – Part2",
+      "link": "https://aws.amazon.com/jp/blogs/news/sustainable-and-durable-sap-document-and-data-archiving-with-amazon-s3-with-ha-part2/",
+      "category": "cloud"
     }
   ]
 }

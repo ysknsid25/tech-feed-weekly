@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/end-to-end-observability-for-sap-on-aws-part-3-amazon-cloudwatch-internet-monitor-for-sap-2/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/sustainable-and-durable-sap-document-and-data-archiving-with-amazon-s3-with-ha-part2/"
     },
     {
       "name": "SRE Weekly",
