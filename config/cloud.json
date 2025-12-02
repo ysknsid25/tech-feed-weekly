@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/uncover-new-possibilities-from-your-sap-and-enterprise-data-with-amazon-bedrock-knowledge-bases/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/end-to-end-observability-for-sap-on-aws-part-3-amazon-cloudwatch-internet-monitor-for-sap-2/"
     },
     {
       "name": "SRE Weekly",

@@ -149,6 +149,16 @@
       "title": "Amazon Bedrock Knowledge BasesでSAPおよびエンタープライズデータから新たな可能性を解き放つ",
       "link": "https://aws.amazon.com/jp/blogs/news/uncover-new-possibilities-from-your-sap-and-enterprise-data-with-amazon-bedrock-knowledge-bases/",
       "category": "cloud"
+    },
+    {
+      "title": "SAP on AWSのエンドツーエンド・オブザーバビリティ: Part-3 Amazon CloudWatch Internet Monitor for SAP",
+      "link": "https://aws.amazon.com/jp/blogs/news/end-to-end-observability-for-sap-on-aws-part-3-amazon-cloudwatch-internet-monitor-for-sap-2/",
+      "category": "cloud"
+    },
+    {
+      "title": "chore(security): bump expressjs",
+      "link": "https://github.com/nitrojs/nitro/pull/3830",
+      "category": "unjs"
     }
   ]
 }
