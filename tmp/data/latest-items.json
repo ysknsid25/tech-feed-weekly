@@ -284,6 +284,11 @@
       "title": "Zodに対抗するバリデーションライブラリ（Valibot・ArkType）を比較検証",
       "link": "https://zenn.dev/m_noto/articles/a2c09f741ba65e",
       "category": "valibot"
+    },
+    {
+      "title": "Progress on TypeScript 7 – December 2025",
+      "link": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
+      "category": "jsts"
     }
   ]
 }
