@@ -299,6 +299,21 @@
       "title": "DB分割系 gem を撤去して ActiveRecord 7.2 にしました",
       "link": "https://zenn.dev/mixi/articles/4188973536b183",
       "category": "company"
+    },
+    {
+      "title": "Securing AI agents and tool calls",
+      "link": "https://firebase.blog/posts/2025/12/securing-ai-agents",
+      "category": "cloud"
+    },
+    {
+      "title": "チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間",
+      "link": "https://zenn.dev/mixi/articles/8ec03e546072af",
+      "category": "company"
+    },
+    {
+      "title": "Cloudflare D1 + Hono + Reactでサプリ管理PWAを個人開発した話【維持費ほぼ0円】",
+      "link": "https://zenn.dev/pav/articles/66c6bc9a0d6219",
+      "category": "hono"
     }
   ]
 }
