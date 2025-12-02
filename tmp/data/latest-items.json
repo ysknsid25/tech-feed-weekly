@@ -89,6 +89,36 @@
       "title": "【開催報告】セキュリティと生成AI について学ぶ GameDay with AWS Partners",
       "link": "https://aws.amazon.com/jp/blogs/news/20251014-security-gameday/",
       "category": "cloud"
+    },
+    {
+      "title": "OCR技術の変遷と日本語対応モデルの性能検証 - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/2025/12/01/161913",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore ゲートウェイインターセプター: きめ細かなアクセス制御の実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/",
+      "category": "cloud"
+    },
+    {
+      "title": "Datadogダッシュボードを目的別に再設計した話",
+      "link": "https://developersblog.dmm.com/entry/2025/12/02/113000",
+      "category": "company"
+    },
+    {
+      "title": "広告ターゲティング機能における機械学習モデルの精度改善（インターンレポート）",
+      "link": "https://techblog.lycorp.co.jp/ja/20251202b",
+      "category": "company"
+    },
+    {
+      "title": "APIアーキテクチャ選定の比較：個人開発で検証した6構成の技術評価まとめ",
+      "link": "https://zenn.dev/bysontech/articles/b91270b42f734e",
+      "category": "hono"
+    },
+    {
+      "title": "【re:Invent 2025】コードからIAMポリシーを生成するIAM Policy Autopilotを試してみました | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/aws-release-iam-policy-autopilot",
+      "category": "jsts"
     }
   ]
 }
