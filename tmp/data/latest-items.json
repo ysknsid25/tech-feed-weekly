@@ -189,6 +189,21 @@
       "title": "Hot reload not working consistently on Bun",
       "link": "https://github.com/honojs/honox/issues/342",
       "category": "hono"
+    },
+    {
+      "title": "もしAI素人が「明日からAIエージェント作ってくれ」と言われたら｜Moriya",
+      "link": "https://note.com/moriya_gekko/n/n47aa474cf658",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix: updated the package versions in hono/mcp",
+      "link": "https://github.com/honojs/middleware/pull/1596",
+      "category": "hono"
+    },
+    {
+      "title": "IME: azooKeyというかな漢字変換を導入してみました | TechRacho",
+      "link": "https://techracho.bpsinc.jp/hachi8833/2025_12_02/154490",
+      "category": "jsts"
     }
   ]
 }
