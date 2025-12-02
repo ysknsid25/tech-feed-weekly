@@ -289,6 +289,16 @@
       "title": "Progress on TypeScript 7 – December 2025",
       "link": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
       "category": "jsts"
+    },
+    {
+      "title": "Investing in the Python ecosystem",
+      "link": "https://vercel.com/blog/investing-in-the-python-ecosystem",
+      "category": "cloud"
+    },
+    {
+      "title": "DB分割系 gem を撤去して ActiveRecord 7.2 にしました",
+      "link": "https://zenn.dev/mixi/articles/4188973536b183",
+      "category": "company"
     }
   ]
 }
