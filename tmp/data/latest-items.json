@@ -249,6 +249,26 @@
       "title": "Error uploading Chinese files to node-server with Postman",
       "link": "https://github.com/honojs/node-server/issues/287",
       "category": "hono"
+    },
+    {
+      "title": "Announcing Baseline in action",
+      "link": "https://web.dev/blog/announcing-baseline-in-action?hl=en",
+      "category": "web"
+    },
+    {
+      "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
+      "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
+      "category": "valibot"
+    },
+    {
+      "title": "Geminiのレスポンスを爆速に！ Fastly AI Accelerator でセマンティック キャッシュを試してみた",
+      "link": "https://zenn.dev/google_cloud_jp/articles/89b1e04bc1229a",
+      "category": "cloud"
+    },
+    {
+      "title": "「要件が決まらない」と嘆くのをやめて、企画と一緒に「業務」を作りに行こう",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251203",
+      "category": "company"
     }
   ]
 }
