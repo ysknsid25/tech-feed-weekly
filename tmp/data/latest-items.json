@@ -79,6 +79,36 @@
       "title": "新しい Amazon API Gateway Portal で API の発見性を向上させる",
       "link": "https://aws.amazon.com/jp/blogs/news/improve-api-discoverability-with-the-new-amazon-api-gateway-portal/",
       "category": "cloud"
+    },
+    {
+      "title": "AI で再注目された技術やツールたち - ぽ靴な缶",
+      "link": "https://blog.pokutuna.com/entry/ai-rediscovered-tech-and-tools",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "コンタクトセンターにリアルタイム文字起こしを導入した話",
+      "link": "https://developersblog.dmm.com/entry/2025/12/03/113000",
+      "category": "company"
+    },
+    {
+      "title": "カスタマージャーニー分析による認証済OA数増加のための施策提案（インターンレポート）",
+      "link": "https://techblog.lycorp.co.jp/ja/20251203d",
+      "category": "company"
+    },
+    {
+      "title": "引数でアスキーアートが変化するSwift Quineの仕組みをフローチャートで解説",
+      "link": "https://www.m3tech.blog/entry/swift-quine",
+      "category": "company"
+    },
+    {
+      "title": "エンジニアがエンジニアに力を与えるプロジェクトの紹介 | NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202512-about-eepj/entry",
+      "category": "jsts"
+    },
+    {
+      "title": "Vercel Agent can now install Web Analytics and Speed insights for you",
+      "link": "https://vercel.com/changelog/vercel-agent-installation",
+      "category": "cloud"
     }
   ]
 }
