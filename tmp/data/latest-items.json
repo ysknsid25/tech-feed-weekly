@@ -34,6 +34,21 @@
       "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
       "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
       "category": "valibot"
+    },
+    {
+      "title": "AWS re:Invent2025 Keynote現地速報 | 電通総研 テックブログ",
+      "link": "https://tech.dentsusoken.com/entry/2025/12/03/aws_reinvent_2025_keynote",
+      "category": "jsts"
+    },
+    {
+      "title": "SAP証明書管理のオーバーヘッドをAWS Certificate Managerで削減",
+      "link": "https://aws.amazon.com/jp/blogs/news/reducing-sap-certificate-management-overhead-with-aws-certificate-manager/",
+      "category": "cloud"
+    },
+    {
+      "title": "こんにちは！PHPの布教に来ました！",
+      "link": "https://developers.freee.co.jp/entry/php-missionary-work",
+      "category": "company"
     }
   ]
 }

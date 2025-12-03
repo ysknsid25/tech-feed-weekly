@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/sustainable-and-durable-sap-document-and-data-archiving-with-amazon-s3-with-ha-part2/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/reducing-sap-certificate-management-overhead-with-aws-certificate-manager/"
     },
     {
       "name": "SRE Weekly",
