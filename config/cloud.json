@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-transform-announces-full-stack-windows-modernization-capabilities/"
     },
     {
       "name": "SRE Weekly",

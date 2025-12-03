@@ -249,6 +249,21 @@
       "title": "AWS Lambda マネージドインスタンスのご紹介：サーバーレスの簡単さと EC2 の柔軟性",
       "link": "https://aws.amazon.com/jp/blogs/news/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/",
       "category": "cloud"
+    },
+    {
+      "title": "chore(conform-validator): bump zod from v3 to v4",
+      "link": "https://github.com/honojs/middleware/pull/1603",
+      "category": "hono"
+    },
+    {
+      "title": "AWS Transform がフルスタック Windows モダナイゼーション機能を発表",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-transform-announces-full-stack-windows-modernization-capabilities/",
+      "category": "cloud"
+    },
+    {
+      "title": "オンプレOpenShiftのインストール練習を爆速で回す！環境構築・破棄ツール ocp_create_vm の紹介 | 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/2025/12/03/183942",
+      "category": "jsts"
     }
   ]
 }
