@@ -289,6 +289,26 @@
       "title": "📝 Add docstrings to `main`",
       "link": "https://github.com/nitrojs/nitro/pull/3835",
       "category": "unjs"
+    },
+    {
+      "title": "「要件が決まらない」と嘆くのをやめて、企画と一緒に「業務」を作りに行こう - Tabelog Tech Blog",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251203",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Reddit's migration from Python to Go",
+      "link": "https://golangweekly.com/issues/581",
+      "category": "go"
+    },
+    {
+      "title": "食べログアプリのXcode 26/iOS 26対応 〜実例集〜",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251204",
+      "category": "company"
+    },
+    {
+      "title": "feat: support additional entry exports",
+      "link": "https://github.com/nitrojs/nitro/pull/3834",
+      "category": "unjs"
     }
   ]
 }
