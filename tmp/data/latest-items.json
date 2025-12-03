@@ -279,6 +279,16 @@
       "title": "レバレジーズ株式会社様が運営するフリーランスHubにて、弊社テックブログをご紹介いただきました。 | ニフティライフスタイル Tech Blog",
       "link": "https://tech.niftylifestyle.co.jp/entry/2309",
       "category": "jsts"
+    },
+    {
+      "title": "Octus が Amazon OpenSearch Service へのゼロダウンタイム移行でインフラストラクチャコストを 85% 削減した方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-octus-achieved-85-infrastructure-cost-reduction-with-zero-downtime-migration-to-amazon-opensearch-service/",
+      "category": "cloud"
+    },
+    {
+      "title": "📝 Add docstrings to `main`",
+      "link": "https://github.com/nitrojs/nitro/pull/3835",
+      "category": "unjs"
     }
   ]
 }

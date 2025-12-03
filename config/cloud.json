@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-transform-announces-full-stack-windows-modernization-capabilities/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/how-octus-achieved-85-infrastructure-cost-reduction-with-zero-downtime-migration-to-amazon-opensearch-service/"
     },
     {
       "name": "SRE Weekly",
