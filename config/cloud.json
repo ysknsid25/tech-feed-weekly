@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/migration-case-study-abelsoft/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/"
     },
     {
       "name": "SRE Weekly",

@@ -224,6 +224,31 @@
       "title": "fix(capnweb): build node-ws reference",
       "link": "https://github.com/honojs/middleware/pull/1600",
       "category": "hono"
+    },
+    {
+      "title": "AIを楽観視する日本　「脅威ではない」44%、先進国では異例 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC133YR0T11C25A1000000/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(mcp): include in typescript build",
+      "link": "https://github.com/honojs/middleware/pull/1602",
+      "category": "hono"
+    },
+    {
+      "title": "feat(middleware): Support async `IsAllowedSecFetchSiteHandler`",
+      "link": "https://github.com/honojs/hono/pull/4559",
+      "category": "hono"
+    },
+    {
+      "title": "[v3]: Allow the `server.ts` entry to export other content.",
+      "link": "https://github.com/nitrojs/nitro/issues/3833",
+      "category": "unjs"
+    },
+    {
+      "title": "AWS Lambda マネージドインスタンスのご紹介：サーバーレスの簡単さと EC2 の柔軟性",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/",
+      "category": "cloud"
     }
   ]
 }
