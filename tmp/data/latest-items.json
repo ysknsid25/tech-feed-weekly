@@ -334,6 +334,11 @@
       "title": "New npm package for automatic recovery of broken streaming markdown",
       "link": "https://vercel.com/changelog/new-npm-package-for-automatic-recovery-of-broken-streaming-markdown",
       "category": "cloud"
+    },
+    {
+      "title": "build: update zod",
+      "link": "https://github.com/honojs/middleware/pull/1606",
+      "category": "hono"
     }
   ]
 }
