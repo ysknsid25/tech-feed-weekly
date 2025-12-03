@@ -199,6 +199,31 @@
       "title": "fix(cookie): update outdated RFC links",
       "link": "https://github.com/honojs/hono/pull/4557",
       "category": "hono"
+    },
+    {
+      "title": "窓なし部屋でも「朝」は作れる。カメラマン×エンジニアが教える『光のデスク設計術』｜reny🌻",
+      "link": "https://note.com/reni1chang/n/n84ae6af50436",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "あっ停電 〜 そのとき、おうちKubernetesは",
+      "link": "https://zenn.dev/google_cloud_jp/articles/4c0e55e7e7040a",
+      "category": "cloud"
+    },
+    {
+      "title": "株式会社アーベルソフト様の AWS 事例「社内システムをオンプレミスから AWS へ 2 週間で移行、運用工数の 9 割以上を削減」のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/migration-case-study-abelsoft/",
+      "category": "cloud"
+    },
+    {
+      "title": "VFXgraphと遊ぼう！ | Aiming 開発者ブログ",
+      "link": "https://developer.aiming-inc.com/study/post-13237/",
+      "category": "jsts"
+    },
+    {
+      "title": "fix(capnweb): build node-ws reference",
+      "link": "https://github.com/honojs/middleware/pull/1600",
+      "category": "hono"
     }
   ]
 }

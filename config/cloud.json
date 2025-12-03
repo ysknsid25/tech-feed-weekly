@@ -10,7 +10,7 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/89b1e04bc1229a"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/4c0e55e7e7040a"
     },
     {
       "name": "Vercel",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/top-announcements-of-aws-reinvent-2025/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/migration-case-study-abelsoft/"
     },
     {
       "name": "SRE Weekly",
