@@ -309,6 +309,21 @@
       "title": "feat: support additional entry exports",
       "link": "https://github.com/nitrojs/nitro/pull/3834",
       "category": "unjs"
+    },
+    {
+      "title": "RPC Client types are too tightly coupled to native fetch API, making custom fetch clients impractical",
+      "link": "https://github.com/honojs/hono/issues/4560",
+      "category": "hono"
+    },
+    {
+      "title": "Z80ビギナーが『ザイログZ80伝説』を読んで世界が広がった話 | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/2025/12/04/001049",
+      "category": "jsts"
+    },
+    {
+      "title": "Summary of CVE-2025-55182",
+      "link": "https://vercel.com/changelog/cve-2025-55182",
+      "category": "cloud"
     }
   ]
 }

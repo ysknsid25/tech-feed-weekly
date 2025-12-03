@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/vercel-agent-installation"
+      "latestLink": "https://vercel.com/changelog/cve-2025-55182"
     },
     {
       "name": "GitHub Actions Blog",
