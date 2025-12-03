@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/blog/investing-in-the-python-ecosystem"
+      "latestLink": "https://vercel.com/blog/bfcm-2025"
     },
     {
       "name": "GitHub Actions Blog",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/reducing-sap-certificate-management-overhead-with-aws-certificate-manager/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/improve-api-discoverability-with-the-new-amazon-api-gateway-portal/"
     },
     {
       "name": "SRE Weekly",

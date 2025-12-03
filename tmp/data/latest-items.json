@@ -49,6 +49,36 @@
       "title": "こんにちは！PHPの布教に来ました！",
       "link": "https://developers.freee.co.jp/entry/php-missionary-work",
       "category": "company"
+    },
+    {
+      "title": "アサヒビール｢形だけのセキュリティ対策｣が招いた大混乱､\"基本のキ\"でつまずき大規模な障害に…サイバー攻撃から2カ月何が間違っていたのか",
+      "link": "https://toyokeizai.net/articles/-/921207?display=b",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "32歳ITエンジニアが休職になるまでのノート｜NPOS",
+      "link": "https://note.com/npostring/n/n56e58d1783b3",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Agile QA の 1 年をふりかえる",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day3",
+      "category": "company"
+    },
+    {
+      "title": "DataGrip 2025.3: 「コンソール」から「クエリファイル」への移行、クラウドプロバイダーへの接続、Amazon Redshift のイントロスペクションレベルなど新機能多数！",
+      "link": "https://blog.jetbrains.com/ja/datagrip/2025/12/03/datagrip-2025-3-amazon-redshift/",
+      "category": "kotlin"
+    },
+    {
+      "title": "Billions of requests: Black Friday-Cyber Monday 2025",
+      "link": "https://vercel.com/blog/bfcm-2025",
+      "category": "cloud"
+    },
+    {
+      "title": "新しい Amazon API Gateway Portal で API の発見性を向上させる",
+      "link": "https://aws.amazon.com/jp/blogs/news/improve-api-discoverability-with-the-new-amazon-api-gateway-portal/",
+      "category": "cloud"
     }
   ]
 }
