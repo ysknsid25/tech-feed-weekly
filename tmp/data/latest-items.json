@@ -109,6 +109,31 @@
       "title": "Vercel Agent can now install Web Analytics and Speed insights for you",
       "link": "https://vercel.com/changelog/vercel-agent-installation",
       "category": "cloud"
+    },
+    {
+      "title": "おしゃべりAIリバーシ",
+      "link": "https://reversi.nabettu.com/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "goroutineを作ってみる。Rustで - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/build-your-own-goroutine-in-rust",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon VPC Latticeによる堅牢なSAPランドスケープ分離の実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/achieving-robust-sap-landscape-segregation-with-amazon-vpc-lattice/",
+      "category": "cloud"
+    },
+    {
+      "title": "Apache Commons Poolの機能 | ENGINEER TECH BLOG",
+      "link": "https://note.com/wa_tr/n/n332d48c90f43",
+      "category": "jsts"
+    },
+    {
+      "title": "Shai-Hulud 2.0 サプライチェーン攻撃を受けて、GitHub認証をPATからSSHへ移行する",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60093/",
+      "category": "company"
     }
   ]
 }
