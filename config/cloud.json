@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/cve-2025-55182"
+      "latestLink": "https://vercel.com/changelog/new-npm-package-for-automatic-recovery-of-broken-streaming-markdown"
     },
     {
       "name": "GitHub Actions Blog",

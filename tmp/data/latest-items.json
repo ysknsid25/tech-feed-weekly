@@ -329,6 +329,11 @@
       "title": "Amazon DynamoDB のグローバルセカンダリインデックスにおけるマルチキーサポート",
       "link": "https://aws.amazon.com/jp/blogs/news/multi-key-support-for-global-secondary-index-in-amazon-dynamodb/",
       "category": "cloud"
+    },
+    {
+      "title": "New npm package for automatic recovery of broken streaming markdown",
+      "link": "https://vercel.com/changelog/new-npm-package-for-automatic-recovery-of-broken-streaming-markdown",
+      "category": "cloud"
     }
   ]
 }
