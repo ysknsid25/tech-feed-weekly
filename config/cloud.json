@@ -4,7 +4,7 @@
       "name": "Firebase Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://firebase.blog/rss.xml",
-      "latestLink": "https://firebase.blog/posts/2025/12/securing-ai-agents"
+      "latestLink": "https://firebase.blog/posts/2025/12/server-prompt-templates-ai-logic"
     },
     {
       "name": "Google Cloud Japan",
