@@ -184,6 +184,21 @@
       "title": "expo-agent-cliというツールを作った話 | テラーノベル テックブログのフィード",
       "link": "https://zenn.dev/tellernovel_inc/articles/83bbda3cf29156",
       "category": "jsts"
+    },
+    {
+      "title": "AWS re:Invent 2025 での注目の発表",
+      "link": "https://aws.amazon.com/jp/blogs/news/top-announcements-of-aws-reinvent-2025/",
+      "category": "cloud"
+    },
+    {
+      "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
+      "link": "https://github.com/honojs/middleware/pull/1594",
+      "category": "hono"
+    },
+    {
+      "title": "fix(cookie): update outdated RFC links",
+      "link": "https://github.com/honojs/hono/pull/4557",
+      "category": "hono"
     }
   ]
 }
