@@ -324,6 +324,11 @@
       "title": "Summary of CVE-2025-55182",
       "link": "https://vercel.com/changelog/cve-2025-55182",
       "category": "cloud"
+    },
+    {
+      "title": "Amazon DynamoDB のグローバルセカンダリインデックスにおけるマルチキーサポート",
+      "link": "https://aws.amazon.com/jp/blogs/news/multi-key-support-for-global-secondary-index-in-amazon-dynamodb/",
+      "category": "cloud"
     }
   ]
 }

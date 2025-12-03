@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/how-octus-achieved-85-infrastructure-cost-reduction-with-zero-downtime-migration-to-amazon-opensearch-service/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/multi-key-support-for-global-secondary-index-in-amazon-dynamodb/"
     },
     {
       "name": "SRE Weekly",
