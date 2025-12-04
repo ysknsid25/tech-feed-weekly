@@ -214,6 +214,11 @@
       "title": "【re:Inent 2025】Implementing observability at scale: A blueprint for success (COP328) 参加レポート | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/reinvent2025-cop328-observability-blueprint",
       "category": "jsts"
+    },
+    {
+      "title": "[docs] Request to add a Northflank deployment guide",
+      "link": "https://github.com/nitrojs/nitro/issues/3837",
+      "category": "unjs"
     }
   ]
 }
