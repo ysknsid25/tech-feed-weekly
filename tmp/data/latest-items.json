@@ -169,6 +169,21 @@
       "title": "Support Escaping Colons in Routes to Allow Google-Style Custom Methods",
       "link": "https://github.com/honojs/hono/issues/4562",
       "category": "hono"
+    },
+    {
+      "title": "米国でプライムビデオ解約祭りが勃発、引き金は日本アニメ「BANANA FISH」のAI吹き替え【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2068514.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Allow customizing the island directory with islandDir without specifying ISLAND_FILES",
+      "link": "https://github.com/honojs/honox/issues/344",
+      "category": "hono"
+    },
+    {
+      "title": "映像でつなぐ、500人の知恵と熱量。社内動画メディア『空フク』で試行錯誤した話 | Safie Engineers' Blog!",
+      "link": "https://engineers.safie.link/entry/internal-video-media",
+      "category": "jsts"
     }
   ]
 }
