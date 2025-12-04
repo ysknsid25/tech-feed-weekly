@@ -159,6 +159,16 @@
       "title": "Active Directoryユーザーの「ユーザーは次回ログオン時にパスワード変更が必要」にチェックを入れるコマンドレット | JBS Tech Blog",
       "link": "https://blog.jbs.co.jp/entry/2025/12/04/131054",
       "category": "jsts"
+    },
+    {
+      "title": "【再放送】Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践-",
+      "link": "https://findy.connpass.com/event/377356/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Support Escaping Colons in Routes to Allow Google-Style Custom Methods",
+      "link": "https://github.com/honojs/hono/issues/4562",
+      "category": "hono"
     }
   ]
 }
