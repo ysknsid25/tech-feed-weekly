@@ -269,6 +269,16 @@
       "title": "Error handling for fetch with invalid input",
       "link": "https://github.com/h3js/h3/issues/1254",
       "category": "unjs"
+    },
+    {
+      "title": "serveStatic in @hono/node-server serves symlink path instead of resolved file content",
+      "link": "https://github.com/honojs/hono/issues/4563",
+      "category": "hono"
+    },
+    {
+      "title": "Rovo Dev CLI and Mutation Testing to Write Better Tests",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/rovo-dev-cli-and-mutation-testing-to-write-better-tests",
+      "category": "company"
     }
   ]
 }

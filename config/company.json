@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/how-rovo-embraces-multi-agent-orchestration"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/rovo-dev-cli-and-mutation-testing-to-write-better-tests"
     },
     {
       "name": "Slack Tech Blog",
