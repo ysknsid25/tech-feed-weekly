@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day4"
+      "latestLink": "https://developers.freee.co.jp/entry/vector-log-tool"
     },
     {
       "name": "Cyber Agent Tech Blog",
@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/under-the-hood-of-confluence-race-mode"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/how-rovo-embraces-multi-agent-orchestration"
     },
     {
       "name": "Slack Tech Blog",

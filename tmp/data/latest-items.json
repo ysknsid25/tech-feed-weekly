@@ -79,6 +79,31 @@
       "title": "GitHub のマージ方式を人間に毎回選ばせるのは、もうやめよう（やめた）",
       "link": "https://www.m3tech.blog/entry/github-auto-merge",
       "category": "company"
+    },
+    {
+      "title": "高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。 - Qiita",
+      "link": "https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "データエージェントのためのメタデータカタログを目指すDataplexの機能アップデートご紹介！",
+      "link": "https://zenn.dev/google_cloud_jp/articles/ed28433f19023f",
+      "category": "cloud"
+    },
+    {
+      "title": "Vectorの魅力を語る！ログ収集ツールとしての可能性について",
+      "link": "https://developers.freee.co.jp/entry/vector-log-tool",
+      "category": "company"
+    },
+    {
+      "title": "How Rovo Chat embraces multi-agent orchestration",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/how-rovo-embraces-multi-agent-orchestration",
+      "category": "company"
+    },
+    {
+      "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
+      "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
