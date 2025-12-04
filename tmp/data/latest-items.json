@@ -219,6 +219,16 @@
       "title": "[docs] Request to add a Northflank deployment guide",
       "link": "https://github.com/nitrojs/nitro/issues/3837",
       "category": "unjs"
+    },
+    {
+      "title": "Geminiに会社のチラシを作ってもらったら、嫁から「全部クソダサい」と言われ、ChatGPTになおしてもらった話｜桜花一門",
+      "link": "https://note.com/oukaichimon/n/nd8aadfb9caed",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
+      "link": "https://github.com/honojs/middleware/pull/1594",
+      "category": "hono"
     }
   ]
 }
