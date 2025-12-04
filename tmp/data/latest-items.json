@@ -289,6 +289,11 @@
       "title": "fix(publish): set access public with cli args",
       "link": "https://github.com/honojs/middleware/pull/1611",
       "category": "hono"
+    },
+    {
+      "title": "catch all route not as expected",
+      "link": "https://github.com/nitrojs/nitro/issues/3838",
+      "category": "unjs"
     }
   ]
 }
