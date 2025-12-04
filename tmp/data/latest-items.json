@@ -199,6 +199,16 @@
       "title": "chore(mcp): include in typescript build",
       "link": "https://github.com/honojs/middleware/pull/1602",
       "category": "hono"
+    },
+    {
+      "title": "「Gemini 3」で誰でもAIエージェントが作れる「Google Workspace Studio」が一般提供、「Gmail」や「Google ドライブ」とも深く統合／コーディングの必要なし、GASによるカスタマイズもOK",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2068480.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix(publish): set access public",
+      "link": "https://github.com/honojs/middleware/pull/1610",
+      "category": "hono"
     }
   ]
 }
