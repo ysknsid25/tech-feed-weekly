@@ -254,6 +254,16 @@
       "title": "自然言語でAzureを操作！Azure MCP Server 構築＆使ってみたレポート | APC 技術ブログ",
       "link": "https://techblog.ap-com.co.jp/entry/2025/12/04/223522",
       "category": "jsts"
+    },
+    {
+      "title": "【Hono x Cloudflare】爆速で起動するHttpbin互換APIを作って公開した",
+      "link": "https://zenn.dev/yoshinani_dev/articles/e450eed2064a75",
+      "category": "hono"
+    },
+    {
+      "title": "BigQuery Streaming Insert したデータは最大 90 分間 UPDATE/DELETE できない | 株式会社ZOZOのフィード",
+      "link": "https://zenn.dev/zozotech/articles/e083013ff64406",
+      "category": "jsts"
     }
   ]
 }
