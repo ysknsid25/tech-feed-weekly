@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "「Gemini 3」で誰でもAIエージェントが作れる「Google Workspace Studio」が一般提供、「Gmail」や「Google ドライブ」とも深く統合／コーディングの必要なし、GASによるカスタマイズもOK",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2068480.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Geminiに会社のチラシを作ってもらったら、嫁から「全部クソダサい」と言われ、ChatGPTになおしてもらった話｜桜花一門",
+      "link": "https://note.com/oukaichimon/n/nd8aadfb9caed",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "米国でプライムビデオ解約祭りが勃発、引き金は日本アニメ「BANANA FISH」のAI吹き替え【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2068514.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "JSONにケツカンマを求めるのは間違っているだろうか - An Epicurean",
+      "link": "https://blog.song.mu/entry/is-it-strange-to-want-a-trailing-comma-in-json",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "GitHub のマージ方式を人間に毎回選ばせるのは、もうやめよう（やめた） - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/github-auto-merge",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "米半導体大手Micron、消費者向けのメモリ・SSD事業から撤退を決定。29年続いた「Crucial（クルーシャル）」ブランドが終了へ。AI主導によるデータセンター向けの需要が爆発的に拡大していることを受け、今後は成長著しい企業向け分野へ注力する方針に",
+      "link": "https://news.denfaminicogamer.jp/news/251204a",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Terraform Module を PR ベースで自動更新してバージョンを管理する",
+      "link": "https://zenn.dev/mixi/articles/618c97ef93831f",
+      "category": "company"
+    },
+    {
+      "title": "Tombi で便利な Python/Rust のワークスペース管理",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59998/",
+      "category": "company"
+    },
+    {
+      "title": "How Rovo Chat embraces multi-agent orchestration",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/how-rovo-embraces-multi-agent-orchestration",
+      "category": "company"
+    },
+    {
+      "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
+      "link": "https://github.com/honojs/middleware/pull/1594",
+      "category": "hono"
+    }
+  ]
+}
