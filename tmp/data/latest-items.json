@@ -264,6 +264,11 @@
       "title": "BigQuery Streaming Insert したデータは最大 90 分間 UPDATE/DELETE できない | 株式会社ZOZOのフィード",
       "link": "https://zenn.dev/zozotech/articles/e083013ff64406",
       "category": "jsts"
+    },
+    {
+      "title": "Error handling for fetch with invalid input",
+      "link": "https://github.com/h3js/h3/issues/1254",
+      "category": "unjs"
     }
   ]
 }
