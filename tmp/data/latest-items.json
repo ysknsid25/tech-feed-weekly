@@ -229,6 +229,21 @@
       "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
       "link": "https://github.com/honojs/middleware/pull/1594",
       "category": "hono"
+    },
+    {
+      "title": "JSONにケツカンマを求めるのは間違っているだろうか - An Epicurean",
+      "link": "https://blog.song.mu/entry/is-it-strange-to-want-a-trailing-comma-in-json",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Micron、AI需要ひっ迫で消費者向けSSD/メモリ事業撤退。Crucialブランド終了",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2068489.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "bug: `ERR_PNPM_TRUST_DOWNGRADE` caused by `chokidar@4.0.3` warning when installing with new `pnpm@10.24.0`",
+      "link": "https://github.com/unjs/c12/issues/287",
+      "category": "unjs"
     }
   ]
 }
