@@ -104,6 +104,31 @@
       "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
       "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "米半導体大手Micron、消費者向けのメモリ・SSD事業から撤退を決定。29年続いた「Crucial（クルーシャル）」ブランドが終了へ。AI主導によるデータセンター向けの需要が爆発的に拡大していることを受け、今後は成長著しい企業向け分野へ注力する方針に",
+      "link": "https://news.denfaminicogamer.jp/news/251204a",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Claude Code“が”作った ZOZO TECH BLOG のカバー画像ジェネレーター | 株式会社ZOZOのフィード",
+      "link": "https://zenn.dev/zozotech/articles/ba37cc1cc70725",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon S3 Vectors がスケールとパフォーマンスを向上させて一般提供開始",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/",
+      "category": "cloud"
+    },
+    {
+      "title": "BigQuery自動キャンセルで社内データ基盤のコスト最適化",
+      "link": "https://developersblog.dmm.com/entry/2025/12/04/113000",
+      "category": "company"
+    },
+    {
+      "title": "chore(ua-blocker): update robots.json from upstream",
+      "link": "https://github.com/honojs/middleware/pull/1607",
+      "category": "hono"
     }
   ]
 }
