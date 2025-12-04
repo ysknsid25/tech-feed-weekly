@@ -244,6 +244,16 @@
       "title": "bug: `ERR_PNPM_TRUST_DOWNGRADE` caused by `chokidar@4.0.3` warning when installing with new `pnpm@10.24.0`",
       "link": "https://github.com/unjs/c12/issues/287",
       "category": "unjs"
+    },
+    {
+      "title": "コードレビューの新たな役割：ナレッジの蓄積とチーム成長のための時間に",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251205",
+      "category": "company"
+    },
+    {
+      "title": "自然言語でAzureを操作！Azure MCP Server 構築＆使ってみたレポート | APC 技術ブログ",
+      "link": "https://techblog.ap-com.co.jp/entry/2025/12/04/223522",
+      "category": "jsts"
     }
   ]
 }
