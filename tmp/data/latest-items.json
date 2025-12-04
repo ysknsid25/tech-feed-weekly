@@ -279,6 +279,16 @@
       "title": "Rovo Dev CLI and Mutation Testing to Write Better Tests",
       "link": "https://www.atlassian.com/blog/atlassian-engineering/rovo-dev-cli-and-mutation-testing-to-write-better-tests",
       "category": "company"
+    },
+    {
+      "title": "Domains must now be managed at the team level",
+      "link": "https://vercel.com/changelog/domains-must-now-be-managed-at-the-team-level",
+      "category": "cloud"
+    },
+    {
+      "title": "fix(publish): set access public with cli args",
+      "link": "https://github.com/honojs/middleware/pull/1611",
+      "category": "hono"
     }
   ]
 }
