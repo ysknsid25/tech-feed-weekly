@@ -184,6 +184,21 @@
       "title": "映像でつなぐ、500人の知恵と熱量。社内動画メディア『空フク』で試行錯誤した話 | Safie Engineers' Blog!",
       "link": "https://engineers.safie.link/entry/internal-video-media",
       "category": "jsts"
+    },
+    {
+      "title": "Liquid Glass 対応が決済アプリへ与える影響について | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/04/172349",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon API Gateway レスポンスストリーミングによる応答性の高い API の構築",
+      "link": "https://aws.amazon.com/jp/blogs/news/building-responsive-apis-with-amazon-api-gateway-response-streaming/",
+      "category": "cloud"
+    },
+    {
+      "title": "chore(mcp): include in typescript build",
+      "link": "https://github.com/honojs/middleware/pull/1602",
+      "category": "hono"
     }
   ]
 }
