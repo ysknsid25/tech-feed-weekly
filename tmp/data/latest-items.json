@@ -129,6 +129,16 @@
       "title": "chore(ua-blocker): update robots.json from upstream",
       "link": "https://github.com/honojs/middleware/pull/1607",
       "category": "hono"
+    },
+    {
+      "title": "DBの「詰まり」をハードウェアで解決する —— 開発者の「インフラ視点」 | Wantedly Engineer Blog",
+      "link": "https://www.wantedly.com/companies/wantedly/post_articles/1026022",
+      "category": "jsts"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies (v1)",
+      "link": "https://github.com/h3js/h3/pull/1253",
+      "category": "unjs"
     }
   ]
 }
