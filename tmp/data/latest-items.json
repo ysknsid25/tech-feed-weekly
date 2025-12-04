@@ -44,6 +44,41 @@
       "title": "誰でも今からでも追いつけるパスキー - Qiita",
       "link": "https://qiita.com/kkoiwai/items/4a1d438642ed5a050669",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MCP Serverで大量のヘルプページを爆速で作る | SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2025/12/04/081310",
+      "category": "jsts"
+    },
+    {
+      "title": "Nova 2 Lite now available on Vercel AI Gateway",
+      "link": "https://vercel.com/changelog/nova-2-lite-now-available-on-vercel-ai-gateway",
+      "category": "cloud"
+    },
+    {
+      "title": "AWS Transform for mainframe は Reimagine 機能と自動テスト機能を導入します",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-transform-for-mainframe-introduces-reimagine-capabilities-and-automated-testing-functionality/",
+      "category": "cloud"
+    },
+    {
+      "title": "【機械学習エンジニア特集】 データ活用の最前線と機械学習エンジニアの役割",
+      "link": "https://findy.connpass.com/event/374782/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "1年かけてE2Eの実装基盤と実行基盤をリプレイスした話",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day4",
+      "category": "company"
+    },
+    {
+      "title": "TypeScript CompilerはLinterの夢を見るか？",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/59821/",
+      "category": "company"
+    },
+    {
+      "title": "GitHub のマージ方式を人間に毎回選ばせるのは、もうやめよう（やめた）",
+      "link": "https://www.m3tech.blog/entry/github-auto-merge",
+      "category": "company"
     }
   ]
 }

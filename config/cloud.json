@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/new-npm-package-for-automatic-recovery-of-broken-streaming-markdown"
+      "latestLink": "https://vercel.com/changelog/nova-2-lite-now-available-on-vercel-ai-gateway"
     },
     {
       "name": "GitHub Actions Blog",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/multi-key-support-for-global-secondary-index-in-amazon-dynamodb/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-transform-for-mainframe-introduces-reimagine-capabilities-and-automated-testing-functionality/"
     },
     {
       "name": "SRE Weekly",
