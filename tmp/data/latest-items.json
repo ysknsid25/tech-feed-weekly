@@ -94,6 +94,26 @@
       "title": "V8 JavaScript engineで寒い冬を暖かく過ごしたい | iimon TECH BLOG",
       "link": "https://tech.iimon.co.jp/entry/2025/12/05",
       "category": "jsts"
+    },
+    {
+      "title": "AI開発マニア",
+      "link": "https://developers.freee.co.jp/entry/ai-development-mania",
+      "category": "company"
+    },
+    {
+      "title": "【re:Invent 2025】2日目Keynoteの全アップデートをNano Banana Proで漫画にしました | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/reinvent2025-keynote-day2-update-all",
+      "category": "jsts"
+    },
+    {
+      "title": "社内オペレーション改善のためのTypeScript",
+      "link": "https://zenn.dev/moshjp/articles/898f87176edb5c",
+      "category": "hono"
+    },
+    {
+      "title": "Gemini 3 Pro 到来：エージェント時代の幕開けと Gemini 2.5 からの飛躍的進化",
+      "link": "https://zenn.dev/google_cloud_jp/articles/6282a75c5b109e",
+      "category": "cloud"
     }
   ]
 }
