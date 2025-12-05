@@ -194,6 +194,26 @@
       "title": "Amazon Aurora MySQLのストレージ使用量を理解する",
       "link": "https://aws.amazon.com/jp/blogs/news/understanding-amazon-aurora-mysql-storage-space-utilization/",
       "category": "cloud"
+    },
+    {
+      "title": "マネージャーは何が楽しくてやれる仕事なの？ - だいくしー(@daiksy)のはてなブログ",
+      "link": "https://daiksy.hatenablog.jp/entry/2025/12/05/081740",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Improve output type of `nonEmpty`",
+      "link": "https://github.com/open-circle/valibot/issues/1369",
+      "category": "valibot"
+    },
+    {
+      "title": "セキュリティアセスメントシートに高度精密な回答をもたらす生成AI",
+      "link": "https://www.m3tech.blog/entry/2025/12/05/183000",
+      "category": "company"
+    },
+    {
+      "title": "YAPC::Fukuoka 2025 にはてなのスタッフが登壇しました！ #yapcjapan",
+      "link": "https://developer.hatenastaff.com/entry/2025/12/05/190000",
+      "category": "company"
     }
   ]
 }
