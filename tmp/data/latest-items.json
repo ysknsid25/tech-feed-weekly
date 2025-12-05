@@ -289,6 +289,11 @@
       "title": "Introducing Platform Elements",
       "link": "https://vercel.com/changelog/introducing-platform-elements",
       "category": "cloud"
+    },
+    {
+      "title": "What's the best way to configure healthz endpoints for kubernetes",
+      "link": "https://github.com/nitrojs/nitro/issues/3840",
+      "category": "unjs"
     }
   ]
 }
