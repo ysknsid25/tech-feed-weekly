@@ -144,6 +144,21 @@
       "title": "Add TypeDriver Validator",
       "link": "https://github.com/honojs/middleware/pull/1613",
       "category": "hono"
+    },
+    {
+      "title": "docker-buildのチューニングTips全部書く【Go×GitHubActions】",
+      "link": "https://karamaru-alpha.com/posts/docker-build-2025/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "株式会社アプリズムが Amazon SageMaker AI と AWS IoT Core で実現した馬の見守りシステム「aiba」の開発と運用",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-case-study-apprhythm-2/",
+      "category": "cloud"
+    },
+    {
+      "title": "【re:Invent 2025】PreviewになったAWS MCP Serverのアクセス制御の考え方 | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/2025/12/05/145719",
+      "category": "jsts"
     }
   ]
 }
