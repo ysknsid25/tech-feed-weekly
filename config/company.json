@@ -40,13 +40,13 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/bank-transaction-classification"
+      "latestLink": "https://developers.freee.co.jp/entry/remote-2025"
     },
     {
       "name": "Cyber Agent Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
-      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/60344/"
+      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/60442/"
     },
     {
       "name": "メルカリ Tech Blog",
