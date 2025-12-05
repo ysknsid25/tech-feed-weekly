@@ -139,6 +139,11 @@
       "title": "BigQueryのSQLいろいろ (4) ARRAY型・STRUCT型 | Wantedly Engineer Blog",
       "link": "https://www.wantedly.com/companies/wantedly/post_articles/1020507",
       "category": "jsts"
+    },
+    {
+      "title": "Add TypeDriver Validator",
+      "link": "https://github.com/honojs/middleware/pull/1613",
+      "category": "hono"
     }
   ]
 }
