@@ -284,6 +284,11 @@
       "title": "GPT 5.1 Codex Max now available on Vercel AI Gateway",
       "link": "https://vercel.com/changelog/gpt-5-1-codex-max-now-available-on-vercel-ai-gateway",
       "category": "cloud"
+    },
+    {
+      "title": "Introducing Platform Elements",
+      "link": "https://vercel.com/changelog/introducing-platform-elements",
+      "category": "cloud"
     }
   ]
 }
