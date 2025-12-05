@@ -274,6 +274,11 @@
       "title": "入社3ヶ月で見えた、食べログSREの大規模インフラ改善の最前線",
       "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251206",
       "category": "company"
+    },
+    {
+      "title": "ProjectRefからGitHub Packagesへ：社内Scalaライブラリの管理を改善した話 | 株式会社ZOZOのフィード",
+      "link": "https://zenn.dev/zozotech/articles/f39b8e67c99102387da1",
+      "category": "jsts"
     }
   ]
 }
