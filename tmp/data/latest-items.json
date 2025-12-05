@@ -254,6 +254,11 @@
       "title": "Kyoto.kt #6",
       "link": "https://kyotokt.connpass.com/event/378146/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "ストレージ管理者のためのOpenShift Virtualization入門【OpenShift環境におけるストレージの基本】 | 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/openshift-basic-for-storage-admin-01",
+      "category": "jsts"
     }
   ]
 }
