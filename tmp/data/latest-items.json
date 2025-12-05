@@ -279,6 +279,11 @@
       "title": "ProjectRefからGitHub Packagesへ：社内Scalaライブラリの管理を改善した話 | 株式会社ZOZOのフィード",
       "link": "https://zenn.dev/zozotech/articles/f39b8e67c99102387da1",
       "category": "jsts"
+    },
+    {
+      "title": "GPT 5.1 Codex Max now available on Vercel AI Gateway",
+      "link": "https://vercel.com/changelog/gpt-5-1-codex-max-now-available-on-vercel-ai-gateway",
+      "category": "cloud"
     }
   ]
 }
