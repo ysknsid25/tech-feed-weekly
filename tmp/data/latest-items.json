@@ -159,6 +159,21 @@
       "title": "【re:Invent 2025】PreviewになったAWS MCP Serverのアクセス制御の考え方 | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/2025/12/05/145719",
       "category": "jsts"
+    },
+    {
+      "title": "fix(mcp): Change content type to json",
+      "link": "https://github.com/honojs/middleware/pull/1614",
+      "category": "hono"
+    },
+    {
+      "title": "操作から意味へ ─ Haskell が変えた私のメンタルモデル",
+      "link": "https://user-first.ikyu.co.jp/entry/2025/12/05/163724",
+      "category": "company"
+    },
+    {
+      "title": "【AI-Lab】銀行取引明細の自動分類の改善",
+      "link": "https://developers.freee.co.jp/entry/bank-transaction-classification",
+      "category": "company"
     }
   ]
 }
