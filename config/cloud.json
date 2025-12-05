@@ -22,7 +22,7 @@
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2025-11-25-code-scanning-default-setup-bypasses-github-actions-policy-blocks"
+      "latestLink": "https://github.blog/changelog/2025-12-04-actions-workflow-dispatch-workflows-now-support-25-inputs"
     },
     {
       "name": "VSCode Tech Blog",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/building-responsive-apis-with-amazon-api-gateway-response-streaming/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-autonomous-agent/"
     },
     {
       "name": "SRE Weekly",

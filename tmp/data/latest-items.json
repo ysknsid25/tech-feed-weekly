@@ -49,6 +49,31 @@
       "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
       "link": "https://github.com/honojs/middleware/pull/1594",
       "category": "hono"
+    },
+    {
+      "title": "Actions workflow dispatch workflows now support 25 inputs",
+      "link": "https://github.blog/changelog/2025-12-04-actions-workflow-dispatch-workflows-now-support-25-inputs",
+      "category": "cloud"
+    },
+    {
+      "title": "Kiro autonomous agent の紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-autonomous-agent/",
+      "category": "cloud"
+    },
+    {
+      "title": "上流工程から関わる前のめりQA活動",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day5",
+      "category": "company"
+    },
+    {
+      "title": "10年目のサービスで挑んだ、インシデント対応の民主化",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60344/",
+      "category": "company"
+    },
+    {
+      "title": "chore(yarn): update to v4.12.0",
+      "link": "https://github.com/honojs/middleware/pull/1612",
+      "category": "hono"
     }
   ]
 }
