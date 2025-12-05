@@ -259,6 +259,11 @@
       "title": "ストレージ管理者のためのOpenShift Virtualization入門【OpenShift環境におけるストレージの基本】 | 赤帽エンジニアブログ",
       "link": "https://rheb.hatenablog.com/entry/openshift-basic-for-storage-admin-01",
       "category": "jsts"
+    },
+    {
+      "title": "v3: boolean in .env resolves to string",
+      "link": "https://github.com/nitrojs/nitro/issues/3839",
+      "category": "unjs"
     }
   ]
 }
