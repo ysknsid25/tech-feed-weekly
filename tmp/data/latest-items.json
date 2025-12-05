@@ -74,6 +74,11 @@
       "title": "chore(yarn): update to v4.12.0",
       "link": "https://github.com/honojs/middleware/pull/1612",
       "category": "hono"
+    },
+    {
+      "title": "【開催予告】JAPAN BUILD TOKYO 建設DX展への出展お知らせ",
+      "link": "https://aws.amazon.com/jp/blogs/news/japan-build-tokyo-cre-booth-and-sessions/",
+      "category": "cloud"
     }
   ]
 }
