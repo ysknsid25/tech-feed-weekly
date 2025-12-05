@@ -264,6 +264,16 @@
       "title": "v3: boolean in .env resolves to string",
       "link": "https://github.com/nitrojs/nitro/issues/3839",
       "category": "unjs"
+    },
+    {
+      "title": "農園が障害者を雇い、企業がその障害者に金銭を支払うことにより障害者を雇っていることにするシステム、今までグレーだったがようやく問題という流れになってきた",
+      "link": "https://togetter.com/li/2635634",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "入社3ヶ月で見えた、食べログSREの大規模インフラ改善の最前線",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251206",
+      "category": "company"
     }
   ]
 }
