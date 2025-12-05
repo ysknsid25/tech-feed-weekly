@@ -294,6 +294,11 @@
       "title": "What's the best way to configure healthz endpoints for kubernetes",
       "link": "https://github.com/nitrojs/nitro/issues/3840",
       "category": "unjs"
+    },
+    {
+      "title": "Resources for protecting against 'React2Shell'",
+      "link": "https://vercel.com/blog/resources-for-protecting-against-react2shell",
+      "category": "cloud"
     }
   ]
 }

@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/introducing-platform-elements"
+      "latestLink": "https://vercel.com/blog/resources-for-protecting-against-react2shell"
     },
     {
       "name": "GitHub Actions Blog",
