@@ -79,6 +79,21 @@
       "title": "【開催予告】JAPAN BUILD TOKYO 建設DX展への出展お知らせ",
       "link": "https://aws.amazon.com/jp/blogs/news/japan-build-tokyo-cre-booth-and-sessions/",
       "category": "cloud"
+    },
+    {
+      "title": "AIで本当に開発効率よくなった？私たちのチームでのAI活用事例とその効果",
+      "link": "https://developersblog.dmm.com/entry/2025/12/05/113000",
+      "category": "company"
+    },
+    {
+      "title": "お金になりにくい SRE 業務をお金にするには",
+      "link": "https://zenn.dev/mixi/articles/sre-work-along-with-business",
+      "category": "company"
+    },
+    {
+      "title": "V8 JavaScript engineで寒い冬を暖かく過ごしたい | iimon TECH BLOG",
+      "link": "https://tech.iimon.co.jp/entry/2025/12/05",
+      "category": "jsts"
     }
   ]
 }

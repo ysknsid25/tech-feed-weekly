@@ -22,13 +22,13 @@
       "name": "DMM Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developersblog.dmm.com/rss",
-      "latestLink": "https://developersblog.dmm.com/entry/2025/12/04/113000"
+      "latestLink": "https://developersblog.dmm.com/entry/2025/12/05/113000"
     },
     {
       "name": "MIXI Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/mixi/feed",
-      "latestLink": "https://zenn.dev/mixi/articles/618c97ef93831f"
+      "latestLink": "https://zenn.dev/mixi/articles/sre-work-along-with-business"
     },
     {
       "name": "LINE Yahoo Tech Blog",
