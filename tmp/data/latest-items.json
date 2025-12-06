@@ -194,6 +194,16 @@
       "title": "PMBOKガイド®第8版（の目次）から読み解く これからの時代のPjM | BABY JOB  テックブログのフィード",
       "link": "https://zenn.dev/babyjob/articles/15ecf9a5bbf6ee",
       "category": "jsts"
+    },
+    {
+      "title": "chore: bump linter and formatter",
+      "link": "https://github.com/honojs/hono/pull/4568",
+      "category": "hono"
+    },
+    {
+      "title": "Fix for hono issue 4563",
+      "link": "https://github.com/honojs/node-server/pull/290",
+      "category": "hono"
     }
   ]
 }
