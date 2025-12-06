@@ -54,6 +54,16 @@
       "title": "社内オペレーション改善のためのTypeScript",
       "link": "https://zenn.dev/moshjp/articles/898f87176edb5c",
       "category": "hono"
+    },
+    {
+      "title": "なぜ日本のSaaSスタートアップは「稼げない」のか",
+      "link": "https://forma.welldirection.jp/posts/japanese-saas-monetization-challenges",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "BucketeerにおけるK8s不要の開発環境設計",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60317/",
+      "category": "company"
     }
   ]
 }
