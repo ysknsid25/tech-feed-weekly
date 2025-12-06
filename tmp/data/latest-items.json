@@ -94,6 +94,11 @@
       "title": "fix(release): empty npm token",
       "link": "https://github.com/honojs/middleware/pull/1615",
       "category": "hono"
+    },
+    {
+      "title": "React不要。HonoだけでOpenAI Apps SDKのウィジェット構築",
+      "link": "https://zenn.dev/mavericks/articles/f71bb67d3a9a03",
+      "category": "hono"
     }
   ]
 }
