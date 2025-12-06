@@ -149,6 +149,11 @@
       "title": "Kodakの超小型カメラ「Charmera」が楽しい　毎日の記録にちょうどいい【いつモノコト】",
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2067229.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Cloudflare Workers × Hono プロジェクトで Zod から Valibot に移行してバンドルサイズを89%削減した話",
+      "link": "https://zenn.dev/pav/articles/b542d84fd80758",
+      "category": "valibot"
     }
   ]
 }
