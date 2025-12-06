@@ -139,6 +139,11 @@
       "title": "fix(mcp): Change content type to json",
       "link": "https://github.com/honojs/middleware/pull/1614",
       "category": "hono"
+    },
+    {
+      "title": "SmartHRに開発組織のイネーブリングユニット「DevEnable」を新設しました | SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2025/12/06/180159",
+      "category": "jsts"
     }
   ]
 }
