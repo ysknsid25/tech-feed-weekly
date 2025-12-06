@@ -204,6 +204,11 @@
       "title": "Fix for hono issue 4563",
       "link": "https://github.com/honojs/node-server/pull/290",
       "category": "hono"
+    },
+    {
+      "title": "chore: bump github actions",
+      "link": "https://github.com/honojs/hono/pull/4569",
+      "category": "hono"
     }
   ]
 }
