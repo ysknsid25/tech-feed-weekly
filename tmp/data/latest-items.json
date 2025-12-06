@@ -209,6 +209,11 @@
       "title": "chore: bump github actions",
       "link": "https://github.com/honojs/hono/pull/4569",
       "category": "hono"
+    },
+    {
+      "title": "Google Workspace Studio のテンプレートを使ってみる - タスク・アクションアイテム",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-templates-action-items",
+      "category": "cloud"
     }
   ]
 }
