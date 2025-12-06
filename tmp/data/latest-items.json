@@ -124,6 +124,16 @@
       "title": "2025-12-06のJS: AnthropicがBunを買収、React Server  Componentsの脆弱性、Vite 8 Betaリリース",
       "link": "https://jser.info/2025/12/06/anthropicbun-react-server-components-vite-8-beta/",
       "category": "jsts"
+    },
+    {
+      "title": "feat(request): Improve hono request output",
+      "link": "https://github.com/honojs/cli/pull/58",
+      "category": "hono"
+    },
+    {
+      "title": "【AWS re:Invent 2025】[NEW LAUNCH] Retire technical debt at scale with automated code transformation [REPEAT] (DVT338-R) 参加レポート | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/2025/12/06/150638",
+      "category": "jsts"
     }
   ]
 }
