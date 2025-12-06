@@ -99,6 +99,16 @@
       "title": "React不要。HonoだけでOpenAI Apps SDKのウィジェット構築",
       "link": "https://zenn.dev/mavericks/articles/f71bb67d3a9a03",
       "category": "hono"
+    },
+    {
+      "title": "LLMのプロダクト利用とAI破産を回避する運用体制 | IVRyテックブログのフィード",
+      "link": "https://zenn.dev/ivry/articles/databricks-ai-query-cost-management",
+      "category": "jsts"
+    },
+    {
+      "title": "Suggestion: `hono request` response save to file",
+      "link": "https://github.com/honojs/cli/issues/57",
+      "category": "hono"
     }
   ]
 }

@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://medium.com/eureka-engineering/rollplay-as-software-design-training-b4e39e6ffabd"
+      "latestLink": "https://zenn.dev/ivry/articles/databricks-ai-query-cost-management"
     },
     {
       "name": "TSKaigi",
