@@ -164,6 +164,21 @@
       "title": "最近AIエージェントにやらせて良かったこと ３選 | wwwave's Techblogのフィード",
       "link": "https://zenn.dev/wwwave/articles/5e2bbf31353f86",
       "category": "jsts"
+    },
+    {
+      "title": "fix(linear-router): prevent false matches between static and params",
+      "link": "https://github.com/honojs/hono/pull/4567",
+      "category": "hono"
+    },
+    {
+      "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
+      "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
+      "category": "valibot"
+    },
+    {
+      "title": "食べログにおけるDevinブラウザテストの実現に向けた取り組み",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251207",
+      "category": "company"
     }
   ]
 }
