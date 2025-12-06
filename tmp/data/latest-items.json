@@ -84,6 +84,11 @@
       "title": "ソフトウェアデザインスキルの促成を求めて、試しに模擬タスクでロールプレイしてもらってみた。 | Pairs Engineering - Medium",
       "link": "https://medium.com/eureka-engineering/rollplay-as-software-design-training-b4e39e6ffabd",
       "category": "jsts"
+    },
+    {
+      "title": "gokartで実現する、ステートレスで低コストなLLMタグ付けバッチ",
+      "link": "https://www.m3tech.blog/entry/2025/12/06/120000",
+      "category": "company"
     }
   ]
 }
