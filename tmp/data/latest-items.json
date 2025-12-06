@@ -134,6 +134,11 @@
       "title": "【AWS re:Invent 2025】[NEW LAUNCH] Retire technical debt at scale with automated code transformation [REPEAT] (DVT338-R) 参加レポート | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/2025/12/06/150638",
       "category": "jsts"
+    },
+    {
+      "title": "fix(mcp): Change content type to json",
+      "link": "https://github.com/honojs/middleware/pull/1614",
+      "category": "hono"
     }
   ]
 }
