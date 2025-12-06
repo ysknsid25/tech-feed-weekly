@@ -109,6 +109,21 @@
       "title": "Suggestion: `hono request` response save to file",
       "link": "https://github.com/honojs/cli/issues/57",
       "category": "hono"
+    },
+    {
+      "title": "止めずに移行　メルカリの40TB超・50台MySQLからTiDB Cloudへ | PingCAP株式会社",
+      "link": "https://pingcap.co.jp/case-study/mercari-tidb-cloud/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Update zod comparison for zod mini",
+      "link": "https://github.com/open-circle/valibot/issues/1371",
+      "category": "valibot"
+    },
+    {
+      "title": "2025-12-06のJS: AnthropicがBunを買収、React Server  Componentsの脆弱性、Vite 8 Betaリリース",
+      "link": "https://jser.info/2025/12/06/anthropicbun-react-server-components-vite-8-beta/",
+      "category": "jsts"
     }
   ]
 }
