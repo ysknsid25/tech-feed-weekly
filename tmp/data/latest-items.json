@@ -119,6 +119,16 @@
       "title": "CloudflareとmdBookとHonoでMarkdownドキュメントをちゃんと限定公開する",
       "link": "https://zenn.dev/aishift/articles/a5e765597f4a51",
       "category": "hono"
+    },
+    {
+      "title": "The setCookie method executes twice to set the same set-cookie header.",
+      "link": "https://github.com/h3js/h3/issues/1257",
+      "category": "unjs"
+    },
+    {
+      "title": "ADK 公式プラグイン「BigQuery Agent Analytics」ではじめる AI エージェントの行動分析",
+      "link": "https://zenn.dev/google_cloud_jp/articles/adk-bigquery-agent-analytics",
+      "category": "cloud"
     }
   ]
 }
