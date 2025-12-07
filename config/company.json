@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day7"
+      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day8"
     },
     {
       "name": "Cyber Agent Tech Blog",
@@ -64,7 +64,7 @@
       "name": "食べログ Tech Blog",
       "type": "hatena",
       "feedUrl": "https://tech-blog.tabelog.com",
-      "latestLink": "https://tech-blog.tabelog.com/entry/advent-calendar-20251207"
+      "latestLink": "https://tech-blog.tabelog.com/entry/advent-calendar-20251206_5"
     },
     {
       "name": "Atlassian Tech Blog",
