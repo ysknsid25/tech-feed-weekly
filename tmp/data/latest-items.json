@@ -109,6 +109,16 @@
       "title": "feature request: `fetch` preset",
       "link": "https://github.com/nitrojs/nitro/issues/3842",
       "category": "unjs"
+    },
+    {
+      "title": "【re:Invent 2025】ワークショップ「Rapid Prototyping with Kiro CLI」参加レポート | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/rapid-prototyping-with-kiro-cli",
+      "category": "jsts"
+    },
+    {
+      "title": "CloudflareとmdBookとHonoでMarkdownドキュメントをちゃんと限定公開する",
+      "link": "https://zenn.dev/aishift/articles/a5e765597f4a51",
+      "category": "hono"
     }
   ]
 }
