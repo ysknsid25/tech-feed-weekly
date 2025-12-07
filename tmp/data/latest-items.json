@@ -74,6 +74,16 @@
       "title": "Kubernetes/OpenShiftの権限管理・ガバナンス初心者向けガイド：RBAC, VAP, Gatekeeperの使い分けと実機検証 | 赤帽エンジニアブログ",
       "link": "https://rheb.hatenablog.com/entry/2025/12/07/135323",
       "category": "jsts"
+    },
+    {
+      "title": "Deno,Honoを使ってGraphql,ReactなモノシリックなSPAアプリケーションを作る",
+      "link": "https://zenn.dev/webshoten/articles/f97c2b6fbc1cb3",
+      "category": "hono"
+    },
+    {
+      "title": "テンソル次元の整合性を静的検査するmypyプラグインを実装しようとした話 | NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202512-advent-calendar-day7/entry",
+      "category": "jsts"
     }
   ]
 }
