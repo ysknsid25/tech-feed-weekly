@@ -99,6 +99,16 @@
       "title": "AIワークフローに必要なのは「丁稚奉公」だった | CADDi Tech Blog",
       "link": "https://caddi.tech/2025/12/07/175703",
       "category": "jsts"
+    },
+    {
+      "title": "fix(linear-router): prevent false matches between static and params",
+      "link": "https://github.com/honojs/hono/pull/4567",
+      "category": "hono"
+    },
+    {
+      "title": "feature request: `fetch` preset",
+      "link": "https://github.com/nitrojs/nitro/issues/3842",
+      "category": "unjs"
     }
   ]
 }
