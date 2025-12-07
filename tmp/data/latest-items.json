@@ -69,6 +69,11 @@
       "title": "Kyash入社3カ月目 | Kyash Product Blog",
       "link": "https://blog.kyash.co/entry/2025/12/07/124255",
       "category": "jsts"
+    },
+    {
+      "title": "Kubernetes/OpenShiftの権限管理・ガバナンス初心者向けガイド：RBAC, VAP, Gatekeeperの使い分けと実機検証 | 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/2025/12/07/135323",
+      "category": "jsts"
     }
   ]
 }
