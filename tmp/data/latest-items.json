@@ -24,6 +24,31 @@
       "title": "Cloudflare Workers × Hono プロジェクトで Zod から Valibot に移行してバンドルサイズを89%削減した話",
       "link": "https://zenn.dev/pav/articles/b542d84fd80758",
       "category": "hono"
+    },
+    {
+      "title": "ヨドバシ通販は「高還元率で偽物リスク低い」──コレが“脱Amazon”した人の本音か",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2512/06/news029.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「私たちのログ配送、コストかかりすぎ？」fluentdのログ配送に関するコスト削減に取り組んだお話",
+      "link": "https://developers.freee.co.jp/entry/cost-down-fluentd",
+      "category": "company"
+    },
+    {
+      "title": "GuardDutyの通知を仕分けたい。特にサンプル大量通知問題をなんとかしたい。",
+      "link": "https://www.m3tech.blog/entry/2025/12/07/090000",
+      "category": "company"
+    },
+    {
+      "title": "ログインヒントで実現する“安全でスマートな”ログインUX改善 | 株式会社ログラス テックブログのフィード",
+      "link": "https://zenn.dev/loglass/articles/2975037985d4b5",
+      "category": "jsts"
+    },
+    {
+      "title": "chore(cloudflare): fix typo",
+      "link": "https://github.com/nitrojs/nitro/pull/3841",
+      "category": "unjs"
     }
   ]
 }
