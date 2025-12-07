@@ -129,6 +129,16 @@
       "title": "ADK 公式プラグイン「BigQuery Agent Analytics」ではじめる AI エージェントの行動分析",
       "link": "https://zenn.dev/google_cloud_jp/articles/adk-bigquery-agent-analytics",
       "category": "cloud"
+    },
+    {
+      "title": "「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話",
+      "link": "https://speakerdeck.com/panda728/kodohashang-karaxia-hedu-munoga-fan-tosi-tutashi-ni-si-ichu-sitehosiihua",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "React Native でヘルスケアを利用する設計パターンについて考えてみた | Ubie テックブログのフィード",
+      "link": "https://zenn.dev/ubie_dev/articles/2940bc9cdc4658",
+      "category": "jsts"
     }
   ]
 }
