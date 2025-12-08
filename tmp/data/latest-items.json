@@ -114,6 +114,16 @@
       "title": "タスク分割と進捗管理：なぜ「ほぼ終わり」が続くのか？",
       "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251208",
       "category": "company"
+    },
+    {
+      "title": "Static preset doesn't work [Nitro 3.0.1-alpha.1]",
+      "link": "https://github.com/nitrojs/nitro/issues/3843",
+      "category": "unjs"
+    },
+    {
+      "title": "【出社時には調査完了！】Amazon Quick Suite Flows で脆弱性調査を自動化する | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/quick-suite-flows-vulnerability-check",
+      "category": "jsts"
     }
   ]
 }
