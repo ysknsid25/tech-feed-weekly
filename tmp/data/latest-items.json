@@ -269,6 +269,11 @@
       "title": "Rust runtime now in public beta for Vercel Functions",
       "link": "https://vercel.com/changelog/rust-runtime-now-in-public-beta-for-vercel-functions",
       "category": "cloud"
+    },
+    {
+      "title": "AI-powered React2Shell vulnerability upgrades are now available",
+      "link": "https://vercel.com/changelog/ai-powered-react2shell-vulnerability-upgrades-are-now-available",
+      "category": "cloud"
     }
   ]
 }
