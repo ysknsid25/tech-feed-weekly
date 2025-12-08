@@ -244,6 +244,16 @@
       "title": "docs(vercel): fix ISR wording",
       "link": "https://github.com/nitrojs/nitro/pull/3845",
       "category": "unjs"
+    },
+    {
+      "title": "chore(deps-dev): bump vitest from 3.2.4 to 4.0.15",
+      "link": "https://github.com/honojs/middleware/pull/1622",
+      "category": "hono"
+    },
+    {
+      "title": "Junie が AI チャットに統合されました",
+      "link": "https://blog.jetbrains.com/ja/ai/2025/12/junie-now-integrated-into-the-ai-chat/",
+      "category": "kotlin"
     }
   ]
 }
