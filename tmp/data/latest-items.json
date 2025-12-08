@@ -189,6 +189,16 @@
       "title": "グーグル検索が目指すものと、それでは見つからない個人サイトについて。 - 世界のねじを巻くブログ",
       "link": "https://www.nejimakiblog.com/entry/kojin-site-blog-google-search-eeat",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Error uploading Chinese files to node-server with Postman",
+      "link": "https://github.com/honojs/node-server/issues/287",
+      "category": "hono"
+    },
+    {
+      "title": "モノレポに `git subtree` で別リポジトリを統合・運用する | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/08/204455",
+      "category": "jsts"
     }
   ]
 }
