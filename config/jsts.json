@@ -10,7 +10,7 @@
       "name": "Node.js Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://nodejs.org/en/feed/blog.xml",
-      "latestLink": "https://nodejs.org/en/blog/release/v20.19.6"
+      "latestLink": "https://nodejs.org/en/blog/vulnerability/december-2025-security-releases"
     },
     {
       "name": "Effective TypeScript",

@@ -254,6 +254,21 @@
       "title": "Junie が AI チャットに統合されました",
       "link": "https://blog.jetbrains.com/ja/ai/2025/12/junie-now-integrated-into-the-ai-chat/",
       "category": "kotlin"
+    },
+    {
+      "title": "スキルと業務を体系的に引き継ぐ全手順。余裕が無いときの応急措置も【パウリ】 | レバテックラボ（レバテックLAB）",
+      "link": "https://levtech.jp/media/article/column/detail_765/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Monday, December 15, 2025 Security Releases",
+      "link": "https://nodejs.org/en/blog/vulnerability/december-2025-security-releases",
+      "category": "jsts"
+    },
+    {
+      "title": "Rust runtime now in public beta for Vercel Functions",
+      "link": "https://vercel.com/changelog/rust-runtime-now-in-public-beta-for-vercel-functions",
+      "category": "cloud"
     }
   ]
 }
