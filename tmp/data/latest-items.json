@@ -199,6 +199,16 @@
       "title": "モノレポに `git subtree` で別リポジトリを統合・運用する | STORES Product Blog",
       "link": "https://product.st.inc/entry/2025/12/08/204455",
       "category": "jsts"
+    },
+    {
+      "title": "chore(deps-dev): bump hono from 4.10.3 to 4.10.7",
+      "link": "https://github.com/honojs/middleware/pull/1594",
+      "category": "hono"
+    },
+    {
+      "title": "[Vercel] ISR caching ignores route parameters in dynamic routes",
+      "link": "https://github.com/nitrojs/nitro/issues/3844",
+      "category": "unjs"
     }
   ]
 }
