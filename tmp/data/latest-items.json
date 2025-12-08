@@ -34,6 +34,26 @@
       "title": "【機械学習エンジニア特集】 データ活用の最前線と機械学習エンジニアの役割",
       "link": "https://findy.connpass.com/event/374782/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "49歳と53歳で転職した元ソフトウェアエンジニアの紆余曲折 - Qiita",
+      "link": "https://qiita.com/segavvy/items/a39c75a2eba932585af0",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon SageMaker HyperPodでのチェックポイントなしかつ弾力的なトレーニングの紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/",
+      "category": "cloud"
+    },
+    {
+      "title": "Rails アプリケーションへの型導入検討",
+      "link": "https://www.m3tech.blog/entry/typed-rails-application",
+      "category": "company"
+    },
+    {
+      "title": "Valibot `toJsonSchema` v1.5",
+      "link": "https://github.com/open-circle/valibot/pull/1372",
+      "category": "valibot"
     }
   ]
 }
