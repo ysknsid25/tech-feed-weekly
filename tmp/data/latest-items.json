@@ -229,6 +229,21 @@
       "title": "CREを5年続けても、まだ 「CREとは何か」悩んでいた話 | LayerX エンジニアブログ",
       "link": "https://tech.layerx.co.jp/entry/2025/12/08/220037",
       "category": "jsts"
+    },
+    {
+      "title": "【特集】 Micronが捨てるコンシューマ向けメモリ/SSD事業。Crucialブランドはなぜ潰えるのか？",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2069270.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Expand and Contract パターンによる破壊的変更の段階的適用 | BABY JOB  テックブログのフィード",
+      "link": "https://zenn.dev/babyjob/articles/4bfe61d366c6c0",
+      "category": "jsts"
+    },
+    {
+      "title": "docs(vercel): fix ISR wording",
+      "link": "https://github.com/nitrojs/nitro/pull/3845",
+      "category": "unjs"
     }
   ]
 }
