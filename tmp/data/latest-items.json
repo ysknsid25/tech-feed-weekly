@@ -209,6 +209,26 @@
       "title": "[Vercel] ISR caching ignores route parameters in dynamic routes",
       "link": "https://github.com/nitrojs/nitro/issues/3844",
       "category": "unjs"
+    },
+    {
+      "title": "Kubernetes Made Simple: A Guide for JVM Developers",
+      "link": "https://blog.jetbrains.com/kotlin/2025/12/kubernetes-made-simple-a-guide-for-jvm-developers/",
+      "category": "kotlin"
+    },
+    {
+      "title": "音声入力 + Cursor で設計を効率化する方法。思考プロセスの記録を利用し、タイピングほぼなしで作業時間を短縮する",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251209",
+      "category": "company"
+    },
+    {
+      "title": "Background Fetch API が消えそうだった話",
+      "link": "https://blog.jxck.io/entries/2025-12-08/deprecating-background-fetch.html",
+      "category": "famous"
+    },
+    {
+      "title": "CREを5年続けても、まだ 「CREとは何か」悩んでいた話 | LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/2025/12/08/220037",
+      "category": "jsts"
     }
   ]
 }
