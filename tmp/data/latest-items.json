@@ -139,6 +139,21 @@
       "title": "Bundler 4.0.0とRubyGems 4.0.0にアップグレードするときの注意点 | TechRacho",
       "link": "https://techracho.bpsinc.jp/hachi8833/2025_12_08/155098",
       "category": "jsts"
+    },
+    {
+      "title": "「アサヒがファイアウォールではなくFAXに救われた事実を考えよ」――キンドリル、サイバーレジリエンスの重要性を強調",
+      "link": "https://cloud.watch.impress.co.jp/docs/news/2069244.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "小売業の未来を読み解く：AI ショッピングエージェントの活用",
+      "link": "https://aws.amazon.com/jp/blogs/news/decoding-the-future-of-retail-embracing-ai-shopping-agents/",
+      "category": "cloud"
+    },
+    {
+      "title": "Idempotency-Key Header Draft を Hono Middleware として実装し理解を深める",
+      "link": "https://zenn.dev/sushichaaaan/articles/5b8318db98dde5",
+      "category": "hono"
     }
   ]
 }
