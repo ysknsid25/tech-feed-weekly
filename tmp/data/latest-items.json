@@ -154,6 +154,26 @@
       "title": "Idempotency-Key Header Draft を Hono Middleware として実装し理解を深める",
       "link": "https://zenn.dev/sushichaaaan/articles/5b8318db98dde5",
       "category": "hono"
+    },
+    {
+      "title": "AI時代は哲学専攻ひっぱりだこ？　LinkedIn肩書に「倫理」5年で6倍 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC04A660U5A101C2000000/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Hatena Engineer Seminar  #35「エンジニアリングマネージャー編」をオンラインで開催しました #hatenatech",
+      "link": "https://developer.hatenastaff.com/entry/engineer-seminar-35-report",
+      "category": "company"
+    },
+    {
+      "title": "CloudflareとmdBookとHonoでMarkdownドキュメントをちゃんと限定公開する",
+      "link": "https://zenn.dev/aishift/articles/a5e765597f4a51",
+      "category": "hono"
+    },
+    {
+      "title": "ウーマンエキサイトで連載中！AIコミックの制作フローを公開します | エキサイト TechBlog.",
+      "link": "https://tech.excite.co.jp/entry/2025/12/08/191729",
+      "category": "jsts"
     }
   ]
 }
