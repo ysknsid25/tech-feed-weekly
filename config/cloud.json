@@ -34,13 +34,13 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/"
     },
     {
       "name": "SRE Weekly",
       "type": "categoryIsUrl",
       "feedUrl": "https://sreweekly.com/feed/",
-      "latestLink": "https://sreweekly.com/sre-weekly-issue-499/"
+      "latestLink": "https://sreweekly.com/sre-weekly-issue-500/"
     }
   ]
 }

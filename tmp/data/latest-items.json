@@ -54,6 +54,31 @@
       "title": "Valibot `toJsonSchema` v1.5",
       "link": "https://github.com/open-circle/valibot/pull/1372",
       "category": "valibot"
+    },
+    {
+      "title": "Amazon SageMaker AI の新しいサーバーレスカスタマイズにより、モデルのファインチューニングが加速します",
+      "link": "https://aws.amazon.com/jp/blogs/news/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/",
+      "category": "cloud"
+    },
+    {
+      "title": "SRE Weekly Issue #500",
+      "link": "https://sreweekly.com/sre-weekly-issue-500/",
+      "category": "cloud"
+    },
+    {
+      "title": "失敗を武器に変える。決済手段追加でチームの開発効率に再現性をもたらすまで",
+      "link": "https://developersblog.dmm.com/entry/2025/12/08/113000",
+      "category": "company"
+    },
+    {
+      "title": "React Server Componentsの脆弱性 CVE-2025-55182（React2Shell）についてまとめてみた。",
+      "link": "https://piyolog.hatenadiary.jp/entry/2025/12/08/113316",
+      "category": "famous"
+    },
+    {
+      "title": "ROS2を使ってシミュレーション環境にてロボットアームをVLAで動かす (on Mac) | ABEJA Tech Blog",
+      "link": "https://tech-blog.abeja.asia/entry/advent-2025-day08",
+      "category": "jsts"
     }
   ]
 }
