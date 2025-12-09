@@ -144,6 +144,11 @@
       "title": "Cap'n Webについて",
       "link": "https://zenn.dev/yusukebe/articles/3c18e280eaa490",
       "category": "hono"
+    },
+    {
+      "title": "【Snowflake】SQL不要で“Why”に即答：Snowflake Intelligenceが変えるアドホック分析 | インテージテクノスフィア技術ブログ",
+      "link": "https://www.intage-ts.com/entry/2025/12/09/130000",
+      "category": "jsts"
     }
   ]
 }
