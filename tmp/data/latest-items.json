@@ -224,6 +224,31 @@
       "title": "sudoをパスワードレス認証で使いたい | IIJ Engineers Blog",
       "link": "https://eng-blog.iij.ad.jp/archives/33282",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ワールドトリガー29巻読んだら面白すぎて感情が暴走したので感想を書かせてくれ",
+      "link": "https://blog.tinect.jp/?p=90555",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AIを「メンター」にしたQAチームの変革：セルフレビューの質を劇的に向上させたContext Engineering",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251210",
+      "category": "company"
+    },
+    {
+      "title": "IntelliJ IDEA の統合: 無料機能の追加、開発体験の向上、フローのさらなる円滑化",
+      "link": "https://blog.jetbrains.com/ja/idea/2025/12/intellij-idea-unified-release/",
+      "category": "kotlin"
+    },
+    {
+      "title": "November 2025 Baseline monthly digest",
+      "link": "https://web.dev/blog/baseline-digest-nov-2025?hl=en",
+      "category": "web"
+    },
+    {
+      "title": "適切なAI利用のヒント | Kyash Product Blog",
+      "link": "https://blog.kyash.co/entry/2025/12/09/223829",
+      "category": "jsts"
     }
   ]
 }
