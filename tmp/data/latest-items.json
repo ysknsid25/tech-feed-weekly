@@ -84,6 +84,36 @@
       "title": "AIよりも手戻りに効く、たったひとつの冴えたやりかた",
       "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day9",
       "category": "company"
+    },
+    {
+      "title": "明治ホールディングス株式会社様における Amazon Q Developer 導入事例：段階的展開により 80-90% の生産性向上を実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/meiji-amazon-q-developer/",
+      "category": "cloud"
+    },
+    {
+      "title": "Featureタスクをすべてモブプロで実施したらベロシティが安定した話 | Hacobell Developers Blogのフィード",
+      "link": "https://zenn.dev/hacobell_dev/articles/75a1ced1b297a5",
+      "category": "jsts"
+    },
+    {
+      "title": "アクティべ式・心理的安全性のつくり方——今日から試せる3つの習慣　多拠点・リモートワークでも心理的安全性を高める方法とは——",
+      "link": "https://developersblog.dmm.com/entry/2025/12/09/113000",
+      "category": "company"
+    },
+    {
+      "title": "LINEギフトのレビューデータにおける基礎分析およびCV関係性分析（インターンレポート）",
+      "link": "https://techblog.lycorp.co.jp/ja/20251209a",
+      "category": "company"
+    },
+    {
+      "title": "AIを使って雑にアプリを作る企画の振り返り",
+      "link": "https://developers.freee.co.jp/entry/advent-calendar-2025-9",
+      "category": "company"
+    },
+    {
+      "title": "TSKaigi Mashup #3 Type Challenges ハンズオン",
+      "link": "https://typescript-jpc.connpass.com/event/377810/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }

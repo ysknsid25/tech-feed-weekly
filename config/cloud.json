@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-catalog-federation-for-apache-iceberg-tables-in-the-aws-glue-data-catalog/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/meiji-amazon-q-developer/"
     },
     {
       "name": "SRE Weekly",
