@@ -269,6 +269,16 @@
       "title": "Google Workspace Studio のテンプレートを使ってみる - カスタマーサポート",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-templates-customer",
       "category": "cloud"
+    },
+    {
+      "title": "Background Fetch API が消えそうだった話 | blog.jxck.io",
+      "link": "https://blog.jxck.io/entries/2025-12-08/deprecating-background-fetch.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Cloudflare Workers + HonoでIP制限を実装する際にはまったポイント",
+      "link": "https://zenn.dev/kawase95/articles/011bb89461021f",
+      "category": "hono"
     }
   ]
 }
