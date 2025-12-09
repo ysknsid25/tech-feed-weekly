@@ -279,6 +279,11 @@
       "title": "Cloudflare Workers + HonoでIP制限を実装する際にはまったポイント",
       "link": "https://zenn.dev/kawase95/articles/011bb89461021f",
       "category": "hono"
+    },
+    {
+      "title": "feat: lib chunks",
+      "link": "https://github.com/nitrojs/nitro/pull/3849",
+      "category": "unjs"
     }
   ]
 }
