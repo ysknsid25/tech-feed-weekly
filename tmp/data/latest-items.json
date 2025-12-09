@@ -114,6 +114,21 @@
       "title": "TSKaigi Mashup #3 Type Challenges ハンズオン",
       "link": "https://typescript-jpc.connpass.com/event/377810/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "TSKaigi Hokuriku後日談 ~どのようにHTMLを型で表現しているか~",
+      "link": "https://www.m3tech.blog/entry/2025/12/09/120000",
+      "category": "company"
+    },
+    {
+      "title": "10Xで活躍中のid:syou6162さんを訪問 | はてな卒業生訪問企画 [#18]",
+      "link": "https://developer.hatenastaff.com/entry/2025/12/09/120000",
+      "category": "company"
+    },
+    {
+      "title": "JavaScriptで文字列の長さを取得するときの差を言語仕様から深掘りしてみる | kubell Creator's Note",
+      "link": "https://creators-note.chatwork.com/entry/2025/12/09/121214",
+      "category": "jsts"
     }
   ]
 }
