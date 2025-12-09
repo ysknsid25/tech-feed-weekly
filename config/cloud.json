@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/unified-security-actions-dashboard"
+      "latestLink": "https://vercel.com/changelog/fastapi-lifespan-events-are-now-supported-on-vercel"
     },
     {
       "name": "GitHub Actions Blog",

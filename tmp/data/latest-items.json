@@ -284,6 +284,11 @@
       "title": "feat: lib chunks",
       "link": "https://github.com/nitrojs/nitro/pull/3849",
       "category": "unjs"
+    },
+    {
+      "title": "FastAPI Lifespan Events are now supported on Vercel",
+      "link": "https://vercel.com/changelog/fastapi-lifespan-events-are-now-supported-on-vercel",
+      "category": "cloud"
     }
   ]
 }
