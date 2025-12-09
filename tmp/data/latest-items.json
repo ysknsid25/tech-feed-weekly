@@ -249,6 +249,26 @@
       "title": "適切なAI利用のヒント | Kyash Product Blog",
       "link": "https://blog.kyash.co/entry/2025/12/09/223829",
       "category": "jsts"
+    },
+    {
+      "title": "【生成AI】回答の精度を上げたい！そんな時はContext7 MCP Serverを使おう | RecoChoku Engineering Blog",
+      "link": "https://techblog.recochoku.jp/12580",
+      "category": "jsts"
+    },
+    {
+      "title": "`server/routes/[filename].txt.ts` creates an overly permissive catch-all route (in nuxt app)",
+      "link": "https://github.com/nitrojs/nitro/issues/3846",
+      "category": "unjs"
+    },
+    {
+      "title": "Background Coding Agents: Predictable Results Through Strong Feedback Loops (Part 3)",
+      "link": "https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/",
+      "category": "company"
+    },
+    {
+      "title": "Google Workspace Studio のテンプレートを使ってみる - カスタマーサポート",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-templates-customer",
+      "category": "cloud"
     }
   ]
 }
