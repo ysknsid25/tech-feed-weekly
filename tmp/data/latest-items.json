@@ -29,6 +29,36 @@
       "title": "Rust runtime now in public beta for Vercel Functions",
       "link": "https://vercel.com/changelog/rust-runtime-now-in-public-beta-for-vercel-functions",
       "category": "cloud"
+    },
+    {
+      "title": "文字も図解も思いのまま！Nano Banana Pro の凄さと、今すぐ使える活用術｜Gemini - Google の AI",
+      "link": "https://note.com/google_gemini/n/n064d03afe2c0",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "良いドキュメントは、伝えたいことを、最も削ぎ落とした文章で伝える - $shibayu36-\u003eblog;",
+      "link": "https://blog.shibayu36.org/entry/2025/12/08/170000",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS Transform discovery tool の紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-the-aws-transform-discovery-tool/",
+      "category": "cloud"
+    },
+    {
+      "title": "Claude Code GitHub Actions で Dependabot が作成した PR を自動マージ",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60598/",
+      "category": "company"
+    },
+    {
+      "title": "Rovo Dev CLI and Mutation Testing to Write Better Tests",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/rovo-dev-cli-and-mutation-testing-to-write-better-tests",
+      "category": "company"
+    },
+    {
+      "title": "【Excelのタイパな話 】Excel専用AI「Copilot in Excel」でExcel作業を自動化する方法とは | SHIFT Group 技術ブログ",
+      "link": "https://note.shiftinc.jp/n/n31616313e911",
+      "category": "jsts"
     }
   ]
 }

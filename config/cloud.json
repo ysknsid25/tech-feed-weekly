@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/decoding-the-future-of-retail-embracing-ai-shopping-agents/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-the-aws-transform-discovery-tool/"
     },
     {
       "name": "SRE Weekly",
