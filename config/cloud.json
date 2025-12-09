@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/rust-runtime-now-in-public-beta-for-vercel-functions"
+      "latestLink": "https://vercel.com/changelog/unified-security-actions-dashboard"
     },
     {
       "name": "GitHub Actions Blog",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/meiji-amazon-q-developer/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/healthcare-local-hospital-challenge-to-initiate-inhouse-generative-ai-acceleration/"
     },
     {
       "name": "SRE Weekly",

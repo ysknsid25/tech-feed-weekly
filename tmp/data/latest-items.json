@@ -129,6 +129,21 @@
       "title": "JavaScriptで文字列の長さを取得するときの差を言語仕様から深掘りしてみる | kubell Creator's Note",
       "link": "https://creators-note.chatwork.com/entry/2025/12/09/121214",
       "category": "jsts"
+    },
+    {
+      "title": "Unified security actions dashboard",
+      "link": "https://vercel.com/changelog/unified-security-actions-dashboard",
+      "category": "cloud"
+    },
+    {
+      "title": "地方病院がシステムの内製化に挑戦!?  IT 知識ゼロから始めた生成 AI による業務効率化への 90 日",
+      "link": "https://aws.amazon.com/jp/blogs/news/healthcare-local-hospital-challenge-to-initiate-inhouse-generative-ai-acceleration/",
+      "category": "cloud"
+    },
+    {
+      "title": "Cap'n Webについて",
+      "link": "https://zenn.dev/yusukebe/articles/3c18e280eaa490",
+      "category": "hono"
     }
   ]
 }
