@@ -159,6 +159,21 @@
       "title": "fix(node-ws): fix WebSocket not working with app.route()",
       "link": "https://github.com/honojs/middleware/pull/1623",
       "category": "hono"
+    },
+    {
+      "title": "グーグル、「アカウント乗っ取り」防御を呼びかけ――今すぐChromeのこの設定を変更せよ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/86589",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS Security Hub CSPM で「EC2.182」のコントロールが(恐らく)追加された件 | DENET 技術ブログ",
+      "link": "https://blog.denet.co.jp/aws-security-hub-cspm-ec2-182/",
+      "category": "jsts"
+    },
+    {
+      "title": "Merging URL Components",
+      "link": "https://github.com/unjs/ofetch/issues/530",
+      "category": "unjs"
     }
   ]
 }
