@@ -289,6 +289,16 @@
       "title": "FastAPI Lifespan Events are now supported on Vercel",
       "link": "https://vercel.com/changelog/fastapi-lifespan-events-are-now-supported-on-vercel",
       "category": "cloud"
+    },
+    {
+      "title": "家買った - がんばるぞ",
+      "link": "https://y-ahiru.hatenadiary.jp/entry/2025/12/09/090000",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWSマネジメントコンソールのログイン状況を判別するブラウザ拡張機能を作ってみた",
+      "link": "https://zenn.dev/mixi/articles/8d5495bd6e7244",
+      "category": "company"
     }
   ]
 }
