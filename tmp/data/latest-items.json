@@ -149,6 +149,16 @@
       "title": "【Snowflake】SQL不要で“Why”に即答：Snowflake Intelligenceが変えるアドホック分析 | インテージテクノスフィア技術ブログ",
       "link": "https://www.intage-ts.com/entry/2025/12/09/130000",
       "category": "jsts"
+    },
+    {
+      "title": "エスツーアイ株式会社様の AWS 生成 AI 事例「Kiro を活用した経費精算システムの迅速な開発」のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-s2i/",
+      "category": "cloud"
+    },
+    {
+      "title": "fix(node-ws): fix WebSocket not working with app.route()",
+      "link": "https://github.com/honojs/middleware/pull/1623",
+      "category": "hono"
     }
   ]
 }
