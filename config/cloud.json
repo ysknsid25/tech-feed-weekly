@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-3-transaction-processing/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/connect-to-amazon-rds-for-db2-using-aws-cloudshell/"
     },
     {
       "name": "SRE Weekly",

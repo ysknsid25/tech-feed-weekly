@@ -169,6 +169,16 @@
       "title": "Amazon Aurora DSQL の裏側：知っておくとおもしろい技術解説 Part 3 トランザクション処理",
       "link": "https://aws.amazon.com/jp/blogs/news/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-3-transaction-processing/",
       "category": "cloud"
+    },
+    {
+      "title": "AI自動化あそび - 大西ブログ",
+      "link": "https://onishi.hatenablog.com/entry/2025/12/10/084714",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS CloudShell を使用して Amazon RDS for Db2 に接続する",
+      "link": "https://aws.amazon.com/jp/blogs/news/connect-to-amazon-rds-for-db2-using-aws-cloudshell/",
+      "category": "cloud"
     }
   ]
 }
