@@ -179,6 +179,21 @@
       "title": "AWS CloudShell を使用して Amazon RDS for Db2 に接続する",
       "link": "https://aws.amazon.com/jp/blogs/news/connect-to-amazon-rds-for-db2-using-aws-cloudshell/",
       "category": "cloud"
+    },
+    {
+      "title": "NotebookLMでのスライド生成で結果を自在にコントロールする方法①｜FUJI / Presentation designer",
+      "link": "https://note.com/yoshifujidesign/n/nd9c8db0b55b8",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS Weekly Roundup: AWS re:Invent 基調講演のまとめ、オンデマンド動画など (2025 年 12 月 8 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/",
+      "category": "cloud"
+    },
+    {
+      "title": "個人開発でKiroを4ヶ月使ってみた感想 | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/kiro-4months-impression",
+      "category": "jsts"
     }
   ]
 }
