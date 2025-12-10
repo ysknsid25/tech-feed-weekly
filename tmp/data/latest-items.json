@@ -69,6 +69,21 @@
       "title": "Active Directoryにおけるコンピューターアカウントの脆弱なパスワード問題 | ラック・セキュリティごった煮ブログ",
       "link": "https://devblog.lac.co.jp/entry/20251210",
       "category": "jsts"
+    },
+    {
+      "title": "Performance Testing 101: The Importance of Performance Testing",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day10%2810%E3%81%AF%E6%8B%85%E5%BD%93%E6%97%A5%E4%BB%98%29",
+      "category": "company"
+    },
+    {
+      "title": "gitの履歴を維持したまま、リポジトリを1つに統合する",
+      "link": "https://www.m3tech.blog/entry/git-merge-repos-preserve-history",
+      "category": "company"
+    },
+    {
+      "title": "How Backend Development Teams Use Kotlin in 2025: Insights from a Certified Trainer",
+      "link": "https://blog.jetbrains.com/kotlin/2025/12/how-backend-development-teams-use-kotlin-in-2025/",
+      "category": "kotlin"
     }
   ]
 }
