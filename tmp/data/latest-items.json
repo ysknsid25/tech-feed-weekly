@@ -254,6 +254,11 @@
       "title": "Shhh.. Go's getting a 'secret mode'",
       "link": "https://golangweekly.com/issues/582",
       "category": "go"
+    },
+    {
+      "title": "Node.js v24.12.0 (LTS)",
+      "link": "https://nodejs.org/en/blog/release/v24.12.0",
+      "category": "jsts"
     }
   ]
 }
