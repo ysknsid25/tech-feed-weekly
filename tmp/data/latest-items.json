@@ -144,6 +144,16 @@
       "title": "ESLint と oxlint の併用構成への移行を行いました | コドモン Product Team Blog",
       "link": "https://tech.codmon.com/entry/2025/12/10/123046",
       "category": "jsts"
+    },
+    {
+      "title": "ADK でエージェントを開発して Gemini Enterprise で利用してみよう with Agent Starter Pack",
+      "link": "https://zenn.dev/google_cloud_jp/articles/adk-on-gemini-ent-with-asp",
+      "category": "cloud"
+    },
+    {
+      "title": "エキスパートとしてのキャリア 「AIに淘汰されない存在になるために」",
+      "link": "https://findy.connpass.com/event/376670/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
