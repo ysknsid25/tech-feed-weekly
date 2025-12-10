@@ -219,6 +219,21 @@
       "title": "【re:Invent 2025】セッションレポート Build AI your way with Amazon Nova customization (AIM382) | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/session-report-AIM382",
       "category": "jsts"
+    },
+    {
+      "title": "モンストWebショップにおける継続決済プラットフォームの設計と実装",
+      "link": "https://zenn.dev/mixi/articles/b89c59eec31906",
+      "category": "company"
+    },
+    {
+      "title": "新卒2年目でインバウンド向け新規アプリ開発に携わった話 - 立ち上げからリリースまで",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251211",
+      "category": "company"
+    },
+    {
+      "title": "新規発行した AWS アカウントは請求情報への IAM アクセスができない、に対する気づき | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/iamuser-access-to-billing",
+      "category": "jsts"
     }
   ]
 }
