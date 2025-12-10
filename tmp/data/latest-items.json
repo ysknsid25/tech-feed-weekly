@@ -84,6 +84,36 @@
       "title": "How Backend Development Teams Use Kotlin in 2025: Insights from a Certified Trainer",
       "link": "https://blog.jetbrains.com/kotlin/2025/12/how-backend-development-teams-use-kotlin-in-2025/",
       "category": "kotlin"
+    },
+    {
+      "title": "Tailscaleを社内VPNとして採用できるかという観点で試してみた - Qiita",
+      "link": "https://qiita.com/ryoma-debari/items/225bb4843510619a2f64",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "データ組織へのClaude Code導入と、その後の利用状況",
+      "link": "https://developersblog.dmm.com/entry/2025/12/10/113000",
+      "category": "company"
+    },
+    {
+      "title": "Web開発の知見が交わる技術交流のリアルな現場を体感！JSConf JP 2025 参加レポート",
+      "link": "https://techblog.lycorp.co.jp/ja/20251210a",
+      "category": "company"
+    },
+    {
+      "title": "200万同接を目指して：ABEMAの広告配信システム負荷試験環境を1ヶ月で構築した話",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60666/",
+      "category": "company"
+    },
+    {
+      "title": "ETL差分転送の落とし穴 - Django ORM利用時の注意点と対策 | Nealle Developer's Blog",
+      "link": "https://nealle-dev.hatenablog.com/entry/2025/12/10/103955",
+      "category": "jsts"
+    },
+    {
+      "title": "There is an issue with using Redis to store data",
+      "link": "https://github.com/nitrojs/nitro/issues/3853",
+      "category": "unjs"
     }
   ]
 }

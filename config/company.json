@@ -22,7 +22,7 @@
       "name": "DMM Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developersblog.dmm.com/rss",
-      "latestLink": "https://developersblog.dmm.com/entry/2025/12/09/113000"
+      "latestLink": "https://developersblog.dmm.com/entry/2025/12/10/113000"
     },
     {
       "name": "MIXI Tech Blog",
@@ -34,7 +34,7 @@
       "name": "LINE Yahoo Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://techblog.lycorp.co.jp/ja/feed/index.xml",
-      "latestLink": "https://techblog.lycorp.co.jp/ja/20251209a"
+      "latestLink": "https://techblog.lycorp.co.jp/ja/20251210a"
     },
     {
       "name": "freee Tech Blog",
@@ -46,7 +46,7 @@
       "name": "Cyber Agent Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
-      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/60618/"
+      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/60666/"
     },
     {
       "name": "メルカリ Tech Blog",
