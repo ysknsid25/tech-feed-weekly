@@ -114,6 +114,16 @@
       "title": "There is an issue with using Redis to store data",
       "link": "https://github.com/nitrojs/nitro/issues/3853",
       "category": "unjs"
+    },
+    {
+      "title": "「ン」と「ソ」の認識境界ってどこ？｜原因地",
+      "link": "https://note.com/genninnchi/n/n94b39f0903a0",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Google OAuth検証（審査）準備編 | TalentX Tech Blog",
+      "link": "https://tech.talentx.co.jp/entry/2025/12/10/120442",
+      "category": "jsts"
     }
   ]
 }
