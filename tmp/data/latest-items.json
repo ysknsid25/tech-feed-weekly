@@ -194,6 +194,16 @@
       "title": "個人開発でKiroを4ヶ月使ってみた感想 | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/kiro-4months-impression",
       "category": "jsts"
+    },
+    {
+      "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
+      "link": "https://www.publickey1.jp/blog/25/open_source_summit_japan.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS Glue zero-ETLによるSAPデータの取り込みとレプリケーション",
+      "link": "https://aws.amazon.com/jp/blogs/news/sap-data-ingestion-and-replication-with-aws-glue-zero-etl/",
+      "category": "cloud"
     }
   ]
 }

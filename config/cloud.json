@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/sap-data-ingestion-and-replication-with-aws-glue-zero-etl/"
     },
     {
       "name": "SRE Weekly",
