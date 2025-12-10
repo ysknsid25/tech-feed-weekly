@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/advent-calendar-2025-9"
+      "latestLink": "https://developers.freee.co.jp/entry/2025/12/10/090000"
     },
     {
       "name": "Cyber Agent Tech Blog",
@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/rovo-dev-cli-and-mutation-testing-to-write-better-tests"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/taming-test-flakiness-how-we-built-a-scalable-tool-to-detect-and-manage-flaky-tests"
     },
     {
       "name": "Slack Tech Blog",
