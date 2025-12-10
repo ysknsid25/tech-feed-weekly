@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-cgc2025/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-3-transaction-processing/"
     },
     {
       "name": "SRE Weekly",
