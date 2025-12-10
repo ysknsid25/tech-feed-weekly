@@ -204,6 +204,11 @@
       "title": "AWS Glue zero-ETLによるSAPデータの取り込みとレプリケーション",
       "link": "https://aws.amazon.com/jp/blogs/news/sap-data-ingestion-and-replication-with-aws-glue-zero-etl/",
       "category": "cloud"
+    },
+    {
+      "title": "Hardhat 3 と Dev Container で Solidity の開発 | SIOS Tech Lab",
+      "link": "https://tech-lab.sios.jp/archives/50400",
+      "category": "jsts"
     }
   ]
 }
