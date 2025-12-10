@@ -134,6 +134,16 @@
       "title": "統合、モダナイズ、変革：現代の小売業におけるエッジコンピューティング",
       "link": "https://aws.amazon.com/jp/blogs/news/consolidate-modernize-transform-edge-computing-for-modern-retail/",
       "category": "cloud"
+    },
+    {
+      "title": "AWS で実現するゲーム開発コンペティション",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-cgc2025/",
+      "category": "cloud"
+    },
+    {
+      "title": "ESLint と oxlint の併用構成への移行を行いました | コドモン Product Team Blog",
+      "link": "https://tech.codmon.com/entry/2025/12/10/123046",
+      "category": "jsts"
     }
   ]
 }
