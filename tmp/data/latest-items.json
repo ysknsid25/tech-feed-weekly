@@ -259,6 +259,21 @@
       "title": "Node.js v24.12.0 (LTS)",
       "link": "https://nodejs.org/en/blog/release/v24.12.0",
       "category": "jsts"
+    },
+    {
+      "title": "ブラウザの中にサーバーを、Hono Service Worker Adapter + Wasmで実現する真のスタンドアロンなVOICEVOX",
+      "link": "https://zenn.dev/yamachu/articles/e6fc24d8104e9e",
+      "category": "hono"
+    },
+    {
+      "title": "refactor(vite): remove `noExternal` rule",
+      "link": "https://github.com/nitrojs/nitro/pull/3854",
+      "category": "unjs"
+    },
+    {
+      "title": "November 2025 (version 1.107)",
+      "link": "https://code.visualstudio.com/assets/updates/1_107/release-highlights-stable.webp",
+      "category": "cloud"
     }
   ]
 }
