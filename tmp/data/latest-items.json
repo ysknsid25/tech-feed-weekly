@@ -234,6 +234,16 @@
       "title": "新規発行した AWS アカウントは請求情報への IAM アクセスができない、に対する気づき | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/iamuser-access-to-billing",
       "category": "jsts"
+    },
+    {
+      "title": "Google Workspace Studio のテンプレートを使ってみる - 日々の情報のキャッチアップ",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-templates-catchup",
+      "category": "cloud"
+    },
+    {
+      "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
+      "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
