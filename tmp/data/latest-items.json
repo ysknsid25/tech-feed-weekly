@@ -124,6 +124,16 @@
       "title": "DMM.博士 通信 Vol.3 - RAGシステム環境の落とし穴",
       "link": "https://developersblog.dmm.com/entry/2025/12/11/140000",
       "category": "company"
+    },
+    {
+      "title": "【特集】 不要PC処分2025。実は「あの方法」が一番おすすめ！",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2070201.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore には、信頼できる AI エージェントをデプロイするための品質評価とポリシーコントロールが追加されました",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/",
+      "category": "cloud"
     }
   ]
 }

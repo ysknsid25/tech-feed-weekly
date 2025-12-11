@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/sap-data-ingestion-and-replication-with-aws-glue-zero-etl/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/"
     },
     {
       "name": "SRE Weekly",
