@@ -49,6 +49,21 @@
       "title": "Dart公式のAnalyzer Pluginsで独自Lintルールを実装する",
       "link": "https://developers.cyberagent.co.jp/blog/archives/60618/",
       "category": "company"
+    },
+    {
+      "title": "DatadogのRust製オブザーバビリティデータパイプラインVectorを本番導入した",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60707/",
+      "category": "company"
+    },
+    {
+      "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
+      "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "バリデーションとパースの分離。Goで実装する「変更に強い」CSV 処理の設計 | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/go-csv-import-design",
+      "category": "jsts"
     }
   ]
 }
