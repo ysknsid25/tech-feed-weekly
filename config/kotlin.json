@@ -4,13 +4,13 @@
       "name": "IntelliJ IDEA Japanese Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://blog.jetbrains.com/ja/feed/",
-      "latestLink": "https://blog.jetbrains.com/ja/idea/2025/12/intellij-idea-unified-release/"
+      "latestLink": "https://blog.jetbrains.com/ja/dataspell/2025/12/dataspell-2025-3-visualization-cells-multi-agent-support-jupyter-improvements/"
     },
     {
       "name": "JetBrains Kotlin Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://blog.jetbrains.com/kotlin/feed/",
-      "latestLink": "https://blog.jetbrains.com/kotlin/2025/12/how-backend-development-teams-use-kotlin-in-2025/"
+      "latestLink": "https://blog.jetbrains.com/kotlin/2025/12/a-better-way-to-explore-kotlinx-benchmark-results-with-kotlin-notebooks/"
     },
     {
       "name": "JetBrains Ktor Blog",

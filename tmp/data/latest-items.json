@@ -244,6 +244,31 @@
       "title": "Devinを食べログの組織内に広めるためにやったことと、その学び",
       "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251212",
       "category": "company"
+    },
+    {
+      "title": "なぜ「フォント」が重要なの？ 米国務省が公的文書を「Times New Roman」に",
+      "link": "https://japan.cnet.com/article/35241534/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Kubeflow Pipelines v2をGCP上に構築する | MIXI DEVELOPERS Tech Blogのフィード",
+      "link": "https://zenn.dev/mixi/articles/kubeflow_gcp_infra",
+      "category": "jsts"
+    },
+    {
+      "title": "docs: add guide for listening to UNIX domain socket",
+      "link": "https://github.com/honojs/node-server/pull/292",
+      "category": "hono"
+    },
+    {
+      "title": "DataSpell 2025.3: 可視化セル、複数エージェントのサポート、Jupyter の改善",
+      "link": "https://blog.jetbrains.com/ja/dataspell/2025/12/dataspell-2025-3-visualization-cells-multi-agent-support-jupyter-improvements/",
+      "category": "kotlin"
+    },
+    {
+      "title": "A Better Way to Explore kotlinx-benchmark Results with Kotlin Notebooks",
+      "link": "https://blog.jetbrains.com/kotlin/2025/12/a-better-way-to-explore-kotlinx-benchmark-results-with-kotlin-notebooks/",
+      "category": "kotlin"
     }
   ]
 }
