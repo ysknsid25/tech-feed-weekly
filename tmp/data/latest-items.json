@@ -199,6 +199,31 @@
       "title": "月刊AWS製造 2025年12月号",
       "link": "https://aws.amazon.com/jp/blogs/news/%E6%9C%88%E5%88%8Aaws%E8%A3%BD%E9%80%A0-2025%E5%B9%B412%E6%9C%88%E5%8F%B7/",
       "category": "cloud"
+    },
+    {
+      "title": "AI時代の超読書術の試行錯誤の話｜miyasaka",
+      "link": "https://note.com/mmiya/n/n5f3a4644469f",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "DataSpell 2025.3: 可視化セル、複数エージェントのサポート、Jupyter の改善",
+      "link": "https://blog.jetbrains.com/ja/dataspell/2025/12/dataspell-2025-3-jupyter/",
+      "category": "kotlin"
+    },
+    {
+      "title": "fix: consume ReadableStream in serverless environments",
+      "link": "https://github.com/h3js/h3/pull/1260",
+      "category": "unjs"
+    },
+    {
+      "title": "BASIC認証は「+αでの利用」がおすすめ！ | コラボスタイル Developersのフィード",
+      "link": "https://zenn.dev/collabostyle/articles/aef07054bc0e9d",
+      "category": "jsts"
+    },
+    {
+      "title": "update esbuild to version 0.27.1",
+      "link": "https://github.com/honojs/hono/pull/4571",
+      "category": "hono"
     }
   ]
 }
