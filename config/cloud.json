@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/using-mcp-with-amazon-connect-to-monitor-operational-readiness/"
     },
     {
       "name": "SRE Weekly",

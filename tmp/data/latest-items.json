@@ -134,6 +134,26 @@
       "title": "Amazon Bedrock AgentCore には、信頼できる AI エージェントをデプロイするための品質評価とポリシーコントロールが追加されました",
       "link": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/",
       "category": "cloud"
+    },
+    {
+      "title": "「手書き vs. タイピング」　どちらでノートを取った方が成績が良くなる？　学生3000人以上を分析",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/11/news030.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MCP を用いた Amazon Connect の監視運用準備",
+      "link": "https://aws.amazon.com/jp/blogs/news/using-mcp-with-amazon-connect-to-monitor-operational-readiness/",
+      "category": "cloud"
+    },
+    {
+      "title": "そう言えばTiDB Cloudを検証していた話",
+      "link": "https://developer.hatenastaff.com/entry/2025/12/11/152842",
+      "category": "company"
+    },
+    {
+      "title": "OCR × LLM。明細表を読み解く新しい一段 | RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20251211/aiocr",
+      "category": "jsts"
     }
   ]
 }
