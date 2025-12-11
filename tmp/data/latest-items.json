@@ -269,6 +269,21 @@
       "title": "A Better Way to Explore kotlinx-benchmark Results with Kotlin Notebooks",
       "link": "https://blog.jetbrains.com/kotlin/2025/12/a-better-way-to-explore-kotlinx-benchmark-results-with-kotlin-notebooks/",
       "category": "kotlin"
+    },
+    {
+      "title": "2025年、日本語の新作フリーフォントのまとめ！ 今年も新しいフリーフォントがたくさんリリースされました",
+      "link": "https://coliss.com/articles/freebies/japanese-free-fonts-dec-2025.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Vote for the web features you want to see",
+      "link": "https://web.dev/blog/upvote-features?hl=en",
+      "category": "web"
+    },
+    {
+      "title": "`handleCacheHeaders` compares modifiedTime with millisecond precision causing false mismatches",
+      "link": "https://github.com/h3js/h3/issues/1261",
+      "category": "unjs"
     }
   ]
 }
