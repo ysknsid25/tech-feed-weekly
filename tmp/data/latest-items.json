@@ -234,6 +234,16 @@
       "title": "deno command is wrong",
       "link": "https://github.com/nitrojs/nitro/issues/3858",
       "category": "unjs"
+    },
+    {
+      "title": "IntelliJ IDEA の統合: 無料機能の追加、開発体験の向上、フローのさらなる円滑化",
+      "link": "https://blog.jetbrains.com/ja/idea/2025/12/intellij-idea-unified-release/",
+      "category": "kotlin"
+    },
+    {
+      "title": "Devinを食べログの組織内に広めるためにやったことと、その学び",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251212",
+      "category": "company"
     }
   ]
 }
