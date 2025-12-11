@@ -159,6 +159,21 @@
       "title": "「君らはAIネイティブ世代だから」と背中を押された新卒が、AIモブプロでチームのAI活用の促進に取り組んだ話",
       "link": "https://developers.freee.co.jp/entry/ai-native-new-grad-promoting-ai-adoption",
       "category": "company"
+    },
+    {
+      "title": "DDR5を中心にメモリの暴騰が止まらず、64GB×2枚組で248,000円の例も [12月前半のメモリ価格]",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2070296.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "GitLab CI: Docker のレイヤーキャッシュを利用して gem のキャッシュを取る | TechRacho",
+      "link": "https://techracho.bpsinc.jp/konaga/2025_12_11/155358",
+      "category": "jsts"
+    },
+    {
+      "title": "適切にQuotaを管理して、サービスをリリースする",
+      "link": "https://zenn.dev/google_cloud_jp/articles/82871f842ca8aa",
+      "category": "cloud"
     }
   ]
 }
