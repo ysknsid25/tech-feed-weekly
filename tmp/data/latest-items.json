@@ -224,6 +224,16 @@
       "title": "update esbuild to version 0.27.1",
       "link": "https://github.com/honojs/hono/pull/4571",
       "category": "hono"
+    },
+    {
+      "title": "月刊AWS製造 2025年12月号",
+      "link": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202512/",
+      "category": "cloud"
+    },
+    {
+      "title": "deno command is wrong",
+      "link": "https://github.com/nitrojs/nitro/issues/3858",
+      "category": "unjs"
     }
   ]
 }
