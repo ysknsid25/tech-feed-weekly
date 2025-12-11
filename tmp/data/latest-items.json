@@ -284,6 +284,11 @@
       "title": "`handleCacheHeaders` compares modifiedTime with millisecond precision causing false mismatches",
       "link": "https://github.com/h3js/h3/issues/1261",
       "category": "unjs"
+    },
+    {
+      "title": "Vercel launches partner certification",
+      "link": "https://vercel.com/blog/vercel-launches-partner-certification",
+      "category": "cloud"
     }
   ]
 }
