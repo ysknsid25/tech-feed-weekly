@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day10%2810%E3%81%AF%E6%8B%85%E5%BD%93%E6%97%A5%E4%BB%98%29"
+      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day11"
     },
     {
       "name": "Cyber Agent Tech Blog",
@@ -58,7 +58,7 @@
       "name": "m3 Tech Blog",
       "type": "hatena",
       "feedUrl": "https://www.m3tech.blog",
-      "latestLink": "https://www.m3tech.blog/entry/git-merge-repos-preserve-history"
+      "latestLink": "https://www.m3tech.blog/entry/golang-quine"
     },
     {
       "name": "食べログ Tech Blog",

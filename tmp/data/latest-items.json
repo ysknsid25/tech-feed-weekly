@@ -64,6 +64,31 @@
       "title": "バリデーションとパースの分離。Goで実装する「変更に強い」CSV 処理の設計 | カミナシ エンジニアブログ",
       "link": "https://kaminashi-developer.hatenablog.jp/entry/go-csv-import-design",
       "category": "jsts"
+    },
+    {
+      "title": "【無料】アドビが｢Photoshop for ChatGPT｣を発表。誰でも“フォトショ職人”は新時代すぎ",
+      "link": "https://www.gizmodo.jp/2025/12/photoshop_for_chatgpt.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "catnoseの個人開発者という生き方。自由に、好きなものだけ作った先で、人はなにを思うのか | LIFE DRAFT",
+      "link": "https://life.job-draft.jp/2025/12/10/1124/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "新卒で配属されたSEQからアプリケーションエンジニアに異動して1年経ったので振り返ってみる",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day11",
+      "category": "company"
+    },
+    {
+      "title": "Goでgo fmtしたくないコードを書いた（Go版Quine）",
+      "link": "https://www.m3tech.blog/entry/golang-quine",
+      "category": "company"
+    },
+    {
+      "title": "Hello LT world『2026年これやる宣言！書き初め LT Night』",
+      "link": "https://findy.connpass.com/event/377744/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
