@@ -199,6 +199,31 @@
       "title": "YAPC::Fukuoka 2025 参加レポート | inSmartBank",
       "link": "https://blog.smartbank.co.jp/entry/2025/12/12/150000",
       "category": "jsts"
+    },
+    {
+      "title": "AIで生成した「やたら長文だが内容は薄い情報」とか「意味のある情報が抜けた要約文」を上司や同僚に送りつけるのはやめようね、の話。 - フジイユウジ::ドットネット",
+      "link": "https://fujii-yuji.net/2025/12/12/085414",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix typo",
+      "link": "https://github.com/h3js/h3/pull/1263",
+      "category": "unjs"
+    },
+    {
+      "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
+      "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Error uploading Chinese files to node-server with Postman",
+      "link": "https://github.com/honojs/node-server/issues/287",
+      "category": "hono"
+    },
+    {
+      "title": "メモリを多用するワークロード向けの第 5 世代 AMD EPYC プロセッサを搭載した Amazon EC2 X8aedz インスタンスの紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+      "category": "cloud"
     }
   ]
 }

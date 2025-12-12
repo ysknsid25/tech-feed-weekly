@@ -46,7 +46,7 @@
       "name": "Hono Node Server Issues",
       "type": "github-issues",
       "feedUrl": "honojs/node-server",
-      "latestLink": "https://github.com/honojs/node-server/pull/292"
+      "latestLink": "https://github.com/honojs/node-server/issues/287"
     }
   ]
 }

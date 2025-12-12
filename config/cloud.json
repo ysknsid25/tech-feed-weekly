@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/building-anomaly-detection-analysis-system-solar-power-generation-data-using-amazon-bedrock/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/"
     },
     {
       "name": "SRE Weekly",
