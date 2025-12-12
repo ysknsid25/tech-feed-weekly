@@ -224,6 +224,16 @@
       "title": "メモリを多用するワークロード向けの第 5 世代 AMD EPYC プロセッサを搭載した Amazon EC2 X8aedz インスタンスの紹介",
       "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
       "category": "cloud"
+    },
+    {
+      "title": "Amazon Nova 2 Sonic の紹介: 会話型 AI 向けの新しい音声変換モデル",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-nova-2-sonic-next-generation-speech-to-speech-model-for-conversational-ai/",
+      "category": "cloud"
+    },
+    {
+      "title": "JBoss EAP XP 6.0 on OpenShift ではじめる OpenTelemetry 可観測性基盤の構築 | 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/otel-xp6-ocp",
+      "category": "jsts"
     }
   ]
 }

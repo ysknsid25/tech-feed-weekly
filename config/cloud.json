@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-nova-2-sonic-next-generation-speech-to-speech-model-for-conversational-ai/"
     },
     {
       "name": "SRE Weekly",
