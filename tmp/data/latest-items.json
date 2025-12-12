@@ -69,6 +69,31 @@
       "title": "動画広告配信におけるAd Creative ID Framework(ACIF)について",
       "link": "https://developers.cyberagent.co.jp/blog/archives/60664/",
       "category": "company"
+    },
+    {
+      "title": "ディズニー、OpenAIに1500億円出資　動画AI「Sora」にキャラ提供 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN11CN50R11C25A2000000/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "マックのAI生成広告に「魂が感じられない」と批判殺到➡︎取り下げに。制作側は「7週間ほとんど眠らず...」と擁護【オランダ】",
+      "link": "https://www.huffingtonpost.jp/entry/story_jp_693a2272e4b053d6e8ed67cc",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "新卒QAエンジニアの育成を振り返って",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day12",
+      "category": "company"
+    },
+    {
+      "title": "新しい環境から私のこれまでの蓄積を振り返ってみる",
+      "link": "https://www.m3tech.blog/entry/2025/12/12/100000",
+      "category": "company"
+    },
+    {
+      "title": "`\u003cSuspense\u003e` renders escaped `fallback` when child evaluates to a falsy value (`null`) in `hono/jsx/streaming`",
+      "link": "https://github.com/honojs/hono/issues/4572",
+      "category": "hono"
     }
   ]
 }

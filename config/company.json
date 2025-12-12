@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/ruby-deadcode-detection-system"
+      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day12"
     },
     {
       "name": "Cyber Agent Tech Blog",
@@ -58,7 +58,7 @@
       "name": "m3 Tech Blog",
       "type": "hatena",
       "feedUrl": "https://www.m3tech.blog",
-      "latestLink": "https://www.m3tech.blog/entry/golang-quine"
+      "latestLink": "https://www.m3tech.blog/entry/2025/12/12/100000"
     },
     {
       "name": "食べログ Tech Blog",
