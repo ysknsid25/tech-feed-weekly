@@ -119,6 +119,26 @@
       "title": "Kubernetes Gateway API の成り立ちを調べてみた",
       "link": "https://developersblog.dmm.com/entry/2025/12/12/113000",
       "category": "company"
+    },
+    {
+      "title": "dbtプロジェクトのmodelsのディレクトリ構造を再構築してみた | Yappli Tech Blog",
+      "link": "https://tech.yappli.io/entry/dbt-models-restructure",
+      "category": "jsts"
+    },
+    {
+      "title": "Update zod comparison for zod mini",
+      "link": "https://github.com/open-circle/valibot/issues/1371",
+      "category": "valibot"
+    },
+    {
+      "title": "Hello LT world『2026年これやる宣言！書き初め LT Night』",
+      "link": "https://findy.connpass.com/event/377744/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "HonoのRPCとNext.js Route Handlersで手軽に型共有する",
+      "link": "https://zenn.dev/sencorp/articles/861d50a1b5dad4",
+      "category": "hono"
     }
   ]
 }
