@@ -254,6 +254,21 @@
       "title": "refactor: vite@8",
       "link": "https://github.com/nitrojs/nitro/pull/3867",
       "category": "unjs"
+    },
+    {
+      "title": "Building AI Agents in Kotlin – Part 3: Under Observation",
+      "link": "https://blog.jetbrains.com/ai/2025/12/building-ai-agents-in-kotlin-part-3-under-observation/",
+      "category": "kotlin"
+    },
+    {
+      "title": "nitro/vite in node preset should serve public assets from the server folder and not going up to the public directory",
+      "link": "https://github.com/nitrojs/nitro/issues/3868",
+      "category": "unjs"
+    },
+    {
+      "title": "ホームルーターを新しくしたらwsl2のネットワークが遅くなった? | NCDC テックブログのフィード",
+      "link": "https://zenn.dev/ncdc/articles/24835966279d86",
+      "category": "jsts"
     }
   ]
 }
