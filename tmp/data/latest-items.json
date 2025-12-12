@@ -294,6 +294,11 @@
       "title": "“citty” “c12” を使って, 設定ファイルベースで Vite Server が立ち上がる CLI ツールを作ってみる | hacomono TECH BLOG",
       "link": "https://techblog.hacomono.jp/entry/2025/12/13/000000",
       "category": "jsts"
+    },
+    {
+      "title": "Google Workspace Studio を使ってメールに添付された質問表を Google Drive にコピーする",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-qa-copy",
+      "category": "cloud"
     }
   ]
 }
