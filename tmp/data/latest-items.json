@@ -139,6 +139,21 @@
       "title": "HonoのRPCとNext.js Route Handlersで手軽に型共有する",
       "link": "https://zenn.dev/sencorp/articles/861d50a1b5dad4",
       "category": "hono"
+    },
+    {
+      "title": "“DRAMパニック”はなぜ起きたか、価格はいつ落ち着くのか？　狂騒の裏で起きていること",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/12/news051.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ブラウザの中にサーバーを、Hono Service Worker Adapter + Wasmで実現する真のスタンドアロンなVOICEVOX",
+      "link": "https://zenn.dev/yamachu/articles/e6fc24d8104e9e",
+      "category": "hono"
+    },
+    {
+      "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
+      "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
