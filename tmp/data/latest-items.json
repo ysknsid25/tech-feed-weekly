@@ -169,6 +169,21 @@
       "title": "IT系アドバンスド・コーヒーマイスターが語る「コーヒーとIT」 | IIJ Engineers Blog",
       "link": "https://eng-blog.iij.ad.jp/archives/33973",
       "category": "jsts"
+    },
+    {
+      "title": "Nano Banana Proで遊ぼう！公開プロンプトまとめ｜てんねん｜AIイラストクリエイター",
+      "link": "https://note.com/munou_ac/n/nabe19ef84227",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon RDS for SQL Server と Amazon RDS for Oracle のコストを最適化し、スケーラビリティを向上させる新機能",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-rds-for-oracle-and-rds-for-sql-server-add-new-capabilities-to-enhance-performance-and-optimize-costs/",
+      "category": "cloud"
+    },
+    {
+      "title": "2025/12/11 Coalesce on the road Tokyo 「dbt platform導入前の不安を解消する───リアルな一ヶ月検証記」登壇資料",
+      "link": "https://developers.freee.co.jp/entry/2025/12/12/144701",
+      "category": "company"
     }
   ]
 }
