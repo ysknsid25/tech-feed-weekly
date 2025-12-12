@@ -94,6 +94,31 @@
       "title": "`\u003cSuspense\u003e` renders escaped `fallback` when child evaluates to a falsy value (`null`) in `hono/jsx/streaming`",
       "link": "https://github.com/honojs/hono/issues/4572",
       "category": "hono"
+    },
+    {
+      "title": "脆弱性診断の取り組み | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/12/104033",
+      "category": "jsts"
+    },
+    {
+      "title": "fix(cache): normalize modifiedTime to seconds precision in handleCacheHeaders",
+      "link": "https://github.com/h3js/h3/pull/1262",
+      "category": "unjs"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3866",
+      "category": "unjs"
+    },
+    {
+      "title": "ほぼリアルタイムの分析とリスクの優先順位付けが可能な AWS Security Hub が一般公開されました",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-security-hub-now-generally-available-with-near-real-time-analytics-and-risk-prioritization/",
+      "category": "cloud"
+    },
+    {
+      "title": "Kubernetes Gateway API の成り立ちを調べてみた",
+      "link": "https://developersblog.dmm.com/entry/2025/12/12/113000",
+      "category": "company"
     }
   ]
 }
