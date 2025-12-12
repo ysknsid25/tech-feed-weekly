@@ -269,6 +269,26 @@
       "title": "ホームルーターを新しくしたらwsl2のネットワークが遅くなった? | NCDC テックブログのフィード",
       "link": "https://zenn.dev/ncdc/articles/24835966279d86",
       "category": "jsts"
+    },
+    {
+      "title": "シェア9割越え。家庭用3Dプリンター市場を中国勢が制した理由 | レバテックラボ（レバテックLAB）",
+      "link": "https://levtech.jp/media/article/column/detail_770/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "年表で振り返る食べログ20年の歴史 〜20年分の感謝を込めて〜",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251213",
+      "category": "company"
+    },
+    {
+      "title": "Referer now available in Runtime Logs",
+      "link": "https://vercel.com/changelog/referer-now-available-in-runtime-logs",
+      "category": "cloud"
+    },
+    {
+      "title": "Better diagnostics for VNET injected runners and required self-hosted runner upgrades",
+      "link": "https://github.blog/changelog/2025-12-12-better-diagnostics-for-vnet-injected-runners-and-required-self-hosted-runner-upgrades",
+      "category": "cloud"
     }
   ]
 }
