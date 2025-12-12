@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/referer-now-available-in-runtime-logs"
+      "latestLink": "https://vercel.com/changelog/add-cache-tags-from-function-responses-regardless-of-framework"
     },
     {
       "name": "GitHub Actions Blog",

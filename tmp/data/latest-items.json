@@ -299,6 +299,16 @@
       "title": "Google Workspace Studio を使ってメールに添付された質問表を Google Drive にコピーする",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-qa-copy",
       "category": "cloud"
+    },
+    {
+      "title": "Add cache tags from Function responses, regardless of framework",
+      "link": "https://vercel.com/changelog/add-cache-tags-from-function-responses-regardless-of-framework",
+      "category": "cloud"
+    },
+    {
+      "title": "アジャイル開発で準備した五目並べAI対戦イベントが盛り上がった話",
+      "link": "https://www.m3tech.blog/entry/gomoku-team-building",
+      "category": "company"
     }
   ]
 }
