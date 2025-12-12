@@ -154,6 +154,21 @@
       "title": "個人開発忘年会 by 運営者ギルド × Findy Freelance",
       "link": "https://findy.connpass.com/event/375655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "高速で費用対効果の高い推論モデル、Amazon Nova 2 Lite の紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-nova-2-lite-a-fast-cost-effective-reasoning-model/",
+      "category": "cloud"
+    },
+    {
+      "title": "ボットからのアクセスで負荷が偏るケースを発見しました",
+      "link": "https://developersblog.dmm.com/entry/2025/12/12/140000",
+      "category": "company"
+    },
+    {
+      "title": "IT系アドバンスド・コーヒーマイスターが語る「コーヒーとIT」 | IIJ Engineers Blog",
+      "link": "https://eng-blog.iij.ad.jp/archives/33973",
+      "category": "jsts"
     }
   ]
 }

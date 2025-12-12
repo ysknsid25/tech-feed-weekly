@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-security-hub-now-generally-available-with-near-real-time-analytics-and-risk-prioritization/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-nova-2-lite-a-fast-cost-effective-reasoning-model/"
     },
     {
       "name": "SRE Weekly",
