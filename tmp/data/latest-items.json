@@ -184,6 +184,21 @@
       "title": "2025/12/11 Coalesce on the road Tokyo 「dbt platform導入前の不安を解消する───リアルな一ヶ月検証記」登壇資料",
       "link": "https://developers.freee.co.jp/entry/2025/12/12/144701",
       "category": "company"
+    },
+    {
+      "title": "Amazon Bedrock を活用した太陽光発電データの異常検知・分析システムの構築事例",
+      "link": "https://aws.amazon.com/jp/blogs/news/building-anomaly-detection-analysis-system-solar-power-generation-data-using-amazon-bedrock/",
+      "category": "cloud"
+    },
+    {
+      "title": "Hono + Next.js に RPC と hono-openapi と valibot を付けて快適に開発する",
+      "link": "https://zenn.dev/reyura/articles/660efff6ce6786",
+      "category": "hono"
+    },
+    {
+      "title": "YAPC::Fukuoka 2025 参加レポート | inSmartBank",
+      "link": "https://blog.smartbank.co.jp/entry/2025/12/12/150000",
+      "category": "jsts"
     }
   ]
 }

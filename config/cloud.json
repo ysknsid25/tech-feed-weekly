@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-rds-for-oracle-and-rds-for-sql-server-add-new-capabilities-to-enhance-performance-and-optimize-costs/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/building-anomaly-detection-analysis-system-solar-power-generation-data-using-amazon-bedrock/"
     },
     {
       "name": "SRE Weekly",
