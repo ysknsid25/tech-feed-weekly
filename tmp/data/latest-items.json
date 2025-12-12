@@ -234,6 +234,16 @@
       "title": "JBoss EAP XP 6.0 on OpenShift ではじめる OpenTelemetry 可観測性基盤の構築 | 赤帽エンジニアブログ",
       "link": "https://rheb.hatenablog.com/entry/otel-xp6-ocp",
       "category": "jsts"
+    },
+    {
+      "title": "fix(hono/jsx): display blank when children is nullish",
+      "link": "https://github.com/honojs/hono/pull/4573",
+      "category": "hono"
+    },
+    {
+      "title": "MyJCBアプリの新機能「パスキー」について | JCB Tech Blog",
+      "link": "https://tech.jcblab.jp/entry/2025/12/12/190425",
+      "category": "jsts"
     }
   ]
 }
