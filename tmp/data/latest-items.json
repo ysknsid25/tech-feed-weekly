@@ -244,6 +244,16 @@
       "title": "MyJCBアプリの新機能「パスキー」について | JCB Tech Blog",
       "link": "https://tech.jcblab.jp/entry/2025/12/12/190425",
       "category": "jsts"
+    },
+    {
+      "title": "OpenAI、「GPT-5.2」発表　「Gemini 3」の“コードレッド”後、性能を大幅強化",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news064.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "refactor: vite@8",
+      "link": "https://github.com/nitrojs/nitro/pull/3867",
+      "category": "unjs"
     }
   ]
 }
