@@ -154,6 +154,16 @@
       "title": "New Relicで始めるクラウド監視～3大プラットフォームの接続方法とデータ収集の特徴～ | サーバーワークスエンジニアブログ",
       "link": "https://blog.serverworks.co.jp/newrelic-aws-gcp-azure-integration",
       "category": "jsts"
+    },
+    {
+      "title": "ランサムウェア攻撃の影響調査結果および安全性強化に向けた取り組みのご報告（ランサムウェア攻撃によるシステム障害関連・第 13 報）",
+      "link": "https://prtimes.jp/main/html/rd/p/000000500.000021550.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Expo Bare workflow から Development Build \u0026amp;amp; CNG へ移行した | スタフェステックブログのフィード",
+      "link": "https://zenn.dev/stafes_blog/articles/nano72mkn-bare-to-devbuild",
+      "category": "jsts"
     }
   ]
 }
