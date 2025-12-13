@@ -184,6 +184,11 @@
       "title": "スクラムにスターフィッシュを取り入れてチームの中長期的成長をコミットする | BABY JOB  テックブログのフィード",
       "link": "https://zenn.dev/babyjob/articles/70801c702ba30a",
       "category": "jsts"
+    },
+    {
+      "title": "feat(cookie): add RFC 6265 compliant cookie deduplication",
+      "link": "https://github.com/honojs/hono/pull/4576",
+      "category": "hono"
     }
   ]
 }
