@@ -114,6 +114,11 @@
       "title": "GCSToSFTPOperatorでハマった | エニグモ開発者ブログ",
       "link": "https://tech.enigmo.co.jp/entry/2025/12/13/143421",
       "category": "jsts"
+    },
+    {
+      "title": "Next",
+      "link": "https://github.com/honojs/hono/pull/4574",
+      "category": "hono"
     }
   ]
 }
