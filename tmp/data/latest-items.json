@@ -79,6 +79,21 @@
       "title": "【生成 AI 時代の LLMOps】評価ことはじめ | Google Cloud Japanのフィード",
       "link": "https://zenn.dev/google_cloud_jp/articles/a268706ca62ed2",
       "category": "jsts"
+    },
+    {
+      "title": "個人開発のEC2が乗っ取られてMoneroを掘られていた話【CVE-2025-55182】｜ねころこ",
+      "link": "https://note.com/nekoroko/n/n729421e1cf8d",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Windows ライセンス認証における電話認証手順の変更について",
+      "link": "https://jpwinsup.github.io/blog/2025/12/11/Activation/PhoneActivation-changed/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Claude Code導入時にチーム予算のうち約90%を1人で使い切った話 | レバテック開発部のフィード",
+      "link": "https://zenn.dev/levtech/articles/82c996559811dc",
+      "category": "jsts"
     }
   ]
 }
