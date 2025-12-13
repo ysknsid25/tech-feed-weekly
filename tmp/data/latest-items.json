@@ -139,6 +139,11 @@
       "title": "AWS DevOpsAgentのワークショップに参加してみて | NCDC テックブログのフィード",
       "link": "https://zenn.dev/ncdc/articles/cc82be5edb8bf1",
       "category": "jsts"
+    },
+    {
+      "title": "feat: open dev server in browser",
+      "link": "https://github.com/nitrojs/nitro/pull/3871",
+      "category": "unjs"
     }
   ]
 }
