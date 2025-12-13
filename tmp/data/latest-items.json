@@ -94,6 +94,26 @@
       "title": "Claude Code導入時にチーム予算のうち約90%を1人で使い切った話 | レバテック開発部のフィード",
       "link": "https://zenn.dev/levtech/articles/82c996559811dc",
       "category": "jsts"
+    },
+    {
+      "title": "キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊",
+      "link": "https://bookplus.nikkei.com/atcl/column/051200507/120900004/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "v4.10.0 で強化された Hono RPC を試しつつネットワークエラーの型を注入してみる",
+      "link": "https://zenn.dev/matsudai_dev/articles/7f1ce5deabef5e",
+      "category": "hono"
+    },
+    {
+      "title": "Support Escaping Colons in Routes to Allow Google-Style Custom Methods",
+      "link": "https://github.com/honojs/hono/issues/4562",
+      "category": "hono"
+    },
+    {
+      "title": "GCSToSFTPOperatorでハマった | エニグモ開発者ブログ",
+      "link": "https://tech.enigmo.co.jp/entry/2025/12/13/143421",
+      "category": "jsts"
     }
   ]
 }
