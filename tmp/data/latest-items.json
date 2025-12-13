@@ -164,6 +164,16 @@
       "title": "Expo Bare workflow から Development Build \u0026amp;amp; CNG へ移行した | スタフェステックブログのフィード",
       "link": "https://zenn.dev/stafes_blog/articles/nano72mkn-bare-to-devbuild",
       "category": "jsts"
+    },
+    {
+      "title": "docs(hono-mcp): fix variable name mismatch in Streamable HTTP example",
+      "link": "https://github.com/honojs/middleware/pull/1624",
+      "category": "hono"
+    },
+    {
+      "title": "Google Workspace Studio を使って Google Chat でメンションされたメッセージをタスク化する",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-chat-to-task",
+      "category": "cloud"
     }
   ]
 }
