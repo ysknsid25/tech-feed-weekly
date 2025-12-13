@@ -189,6 +189,11 @@
       "title": "feat(cookie): add RFC 6265 compliant cookie deduplication",
       "link": "https://github.com/honojs/hono/pull/4576",
       "category": "hono"
+    },
+    {
+      "title": "Customization of generated CSS classname",
+      "link": "https://github.com/honojs/hono/issues/4577",
+      "category": "hono"
     }
   ]
 }
