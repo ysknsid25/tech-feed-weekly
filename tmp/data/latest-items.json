@@ -174,6 +174,16 @@
       "title": "Google Workspace Studio を使って Google Chat でメンションされたメッセージをタスク化する",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-chat-to-task",
       "category": "cloud"
+    },
+    {
+      "title": "Spec駆動開発におけるコンテキストエンジニアリングとCustom Slash Commandsのベストプラクティス",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60229/",
+      "category": "company"
+    },
+    {
+      "title": "スクラムにスターフィッシュを取り入れてチームの中長期的成長をコミットする | BABY JOB  テックブログのフィード",
+      "link": "https://zenn.dev/babyjob/articles/70801c702ba30a",
+      "category": "jsts"
     }
   ]
 }
