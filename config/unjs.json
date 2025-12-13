@@ -4,13 +4,13 @@
       "name": "h3 Issues",
       "type": "github-issues",
       "feedUrl": "h3js/h3",
-      "latestLink": "https://github.com/h3js/h3/pull/1262"
+      "latestLink": "https://github.com/h3js/h3/pull/1265"
     },
     {
       "name": "nitro Issues",
       "type": "github-issues",
       "feedUrl": "nitrojs/nitro",
-      "latestLink": "https://github.com/nitrojs/nitro/issues/3869"
+      "latestLink": "https://github.com/nitrojs/nitro/pull/3870"
     },
     {
       "name": "ofetch Issues",

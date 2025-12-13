@@ -59,6 +59,21 @@
       "title": "File uploads larger than 1 MiB crashes app",
       "link": "https://github.com/nitrojs/nitro/issues/3869",
       "category": "unjs"
+    },
+    {
+      "title": "AI で営業データの構造化を完全自動化する 〜基盤編〜 | Speee DEVELOPER BLOG",
+      "link": "https://tech.speee.jp/entry/ai-hearing-summary",
+      "category": "jsts"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies (v1)",
+      "link": "https://github.com/h3js/h3/pull/1265",
+      "category": "unjs"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3870",
+      "category": "unjs"
     }
   ]
 }
