@@ -49,6 +49,16 @@
       "title": "Lean Six Sigma: Testing Software and Cooking a Masterpiece",
       "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day13",
       "category": "company"
+    },
+    {
+      "title": "心理的安全性は作らない",
+      "link": "https://speakerdeck.com/akiowatanabe/xin-li-de-an-quan-xing-hazuo-ranai",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "File uploads larger than 1 MiB crashes app",
+      "link": "https://github.com/nitrojs/nitro/issues/3869",
+      "category": "unjs"
     }
   ]
 }
