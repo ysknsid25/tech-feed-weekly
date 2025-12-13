@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "AWS設計ガイドラインを公開しました | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20251212a/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊",
+      "link": "https://bookplus.nikkei.com/atcl/column/051200507/120900004/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "『日本のロボットが「剣」で戦うのは、海外でかなり不思議がられる』…から始まる大議論。かっこいいからは説明になるか？ケレンとは？リアリティとは？",
+      "link": "https://posfie.com/@OOEDO4/p/NGQH8r6",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ランサムウェア攻撃の影響調査結果および安全性強化に向けた取り組みのご報告（ランサムウェア攻撃によるシステム障害関連・第 13 報）",
+      "link": "https://prtimes.jp/main/html/rd/p/000000500.000021550.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "個人開発のEC2が乗っ取られてMoneroを掘られていた話【CVE-2025-55182】｜ねころこ",
+      "link": "https://note.com/nekoroko/n/n729421e1cf8d",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Web APIをMCP化してAgent-readyにした話",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60687/",
+      "category": "company"
+    }
+  ]
+}
