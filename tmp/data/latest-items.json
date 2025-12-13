@@ -29,6 +29,26 @@
       "title": "Hono + Next.js に RPC と hono-openapi と valibot を付けて快適に開発する",
       "link": "https://zenn.dev/reyura/articles/660efff6ce6786",
       "category": "valibot"
+    },
+    {
+      "title": "【速報】官邸偽サイト、設計コードにロシア語",
+      "link": "https://www.47news.jp/13588157.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat: add support for ISRC",
+      "link": "https://github.com/open-circle/valibot/pull/1373",
+      "category": "valibot"
+    },
+    {
+      "title": "Next.js + Storybook + PlaywrightをChromaticでビジュアルテスト自動化する | SIOS Tech Lab",
+      "link": "https://tech-lab.sios.jp/archives/50577",
+      "category": "jsts"
+    },
+    {
+      "title": "Lean Six Sigma: Testing Software and Cooking a Masterpiece",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day13",
+      "category": "company"
     }
   ]
 }
