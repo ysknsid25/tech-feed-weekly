@@ -144,6 +144,16 @@
       "title": "feat: open dev server in browser",
       "link": "https://github.com/nitrojs/nitro/pull/3871",
       "category": "unjs"
+    },
+    {
+      "title": "AWS設計ガイドラインを公開しました | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20251212a/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "New Relicで始めるクラウド監視～3大プラットフォームの接続方法とデータ収集の特徴～ | サーバーワークスエンジニアブログ",
+      "link": "https://blog.serverworks.co.jp/newrelic-aws-gcp-azure-integration",
+      "category": "jsts"
     }
   ]
 }
