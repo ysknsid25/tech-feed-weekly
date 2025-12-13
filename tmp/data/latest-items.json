@@ -74,6 +74,11 @@
       "title": "chore(deps): update all non-major dependencies",
       "link": "https://github.com/nitrojs/nitro/pull/3870",
       "category": "unjs"
+    },
+    {
+      "title": "【生成 AI 時代の LLMOps】評価ことはじめ | Google Cloud Japanのフィード",
+      "link": "https://zenn.dev/google_cloud_jp/articles/a268706ca62ed2",
+      "category": "jsts"
     }
   ]
 }
