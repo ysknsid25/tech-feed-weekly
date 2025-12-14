@@ -74,6 +74,11 @@
       "title": "スターの多いOSSは、どのようなAGENTS.mdを記述しているのか調べてみました - freee Developers Hub",
       "link": "https://developers.freee.co.jp/entry/oss-agents-md",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "The dist/cli.js file in 0.1.3 may be incorrect.",
+      "link": "https://github.com/honojs/cli/issues/59",
+      "category": "hono"
     }
   ]
 }
