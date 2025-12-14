@@ -79,6 +79,16 @@
       "title": "The dist/cli.js file in 0.1.3 may be incorrect.",
       "link": "https://github.com/honojs/cli/issues/59",
       "category": "hono"
+    },
+    {
+      "title": "予約処理で結果整合を実現するための実装パターン - 一休.com Developers Blog",
+      "link": "https://user-first.ikyu.co.jp/entry/2025/12/13/185316",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix(node-ws): fix WebSocket not working with app.route()",
+      "link": "https://github.com/honojs/middleware/pull/1623",
+      "category": "hono"
     }
   ]
 }
