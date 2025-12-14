@@ -124,6 +124,11 @@
       "title": "http keep-alive connection",
       "link": "https://github.com/honojs/hono/issues/4580",
       "category": "hono"
+    },
+    {
+      "title": "Cloudflare Email Routing で予約完了メールから予定を自動作成する",
+      "link": "https://zenn.dev/ao_ringo_uni/articles/046e54001c7562",
+      "category": "hono"
     }
   ]
 }
