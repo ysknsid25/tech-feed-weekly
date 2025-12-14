@@ -64,6 +64,11 @@
       "title": "腕で始めるフィジカルAI | newmo 技術ブログ",
       "link": "https://tech.newmo.me/entry/2025/12/14/120000",
       "category": "jsts"
+    },
+    {
+      "title": "v4.10.0 で強化された Hono RPC を試しつつネットワークエラーの型を注入してみる",
+      "link": "https://zenn.dev/matsudai_dev/articles/7f1ce5deabef5e",
+      "category": "hono"
     }
   ]
 }
