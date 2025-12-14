@@ -89,6 +89,11 @@
       "title": "fix(node-ws): fix WebSocket not working with app.route()",
       "link": "https://github.com/honojs/middleware/pull/1623",
       "category": "hono"
+    },
+    {
+      "title": "fix(utils): trim trailing whitespace from base URLs (resolves #530)",
+      "link": "https://github.com/unjs/ofetch/pull/531",
+      "category": "unjs"
     }
   ]
 }
