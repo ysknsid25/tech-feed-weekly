@@ -28,7 +28,7 @@
       "name": "MIXI Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/mixi/feed",
-      "latestLink": "https://zenn.dev/mixi/articles/kubeflow_gcp_infra"
+      "latestLink": "https://zenn.dev/mixi/articles/8901f322d942eb"
     },
     {
       "name": "LINE Yahoo Tech Blog",
@@ -46,7 +46,7 @@
       "name": "Cyber Agent Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
-      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/60687/"
+      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/60762/"
     },
     {
       "name": "メルカリ Tech Blog",
