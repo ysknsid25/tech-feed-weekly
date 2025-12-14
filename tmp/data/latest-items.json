@@ -129,6 +129,11 @@
       "title": "Cloudflare Email Routing で予約完了メールから予定を自動作成する",
       "link": "https://zenn.dev/ao_ringo_uni/articles/046e54001c7562",
       "category": "hono"
+    },
+    {
+      "title": "feat(request): Improve hono request output",
+      "link": "https://github.com/honojs/cli/pull/58",
+      "category": "hono"
     }
   ]
 }
