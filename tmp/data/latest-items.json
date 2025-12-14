@@ -119,6 +119,11 @@
       "title": "Google Workspace Studio を使って Google Forms の回答結果に応じたアドバイスを得る",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-event-advisor",
       "category": "cloud"
+    },
+    {
+      "title": "http keep-alive connection",
+      "link": "https://github.com/honojs/hono/issues/4580",
+      "category": "hono"
     }
   ]
 }
