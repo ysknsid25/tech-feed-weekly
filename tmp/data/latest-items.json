@@ -94,6 +94,11 @@
       "title": "fix(utils): trim trailing whitespace from base URLs (resolves #530)",
       "link": "https://github.com/unjs/ofetch/pull/531",
       "category": "unjs"
+    },
+    {
+      "title": "Notebook LM に Kindle 本を突っ込む - set setting reset",
+      "link": "https://rriifftt.hatenablog.com/entry/2025/12/04/102528",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
