@@ -134,6 +134,16 @@
       "title": "feat(request): Improve hono request output",
       "link": "https://github.com/honojs/cli/pull/58",
       "category": "hono"
+    },
+    {
+      "title": "無料のWebサービス「画像減色ツール」公開！　高精度なドット絵変換機能搭載、商用利用可",
+      "link": "https://cgworld.jp/flashnews/01-202512-ColorQuantizer.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "HonoでConnect RPCを動かす",
+      "link": "https://zenn.dev/king/articles/2f894872ec6e0e",
+      "category": "hono"
     }
   ]
 }
