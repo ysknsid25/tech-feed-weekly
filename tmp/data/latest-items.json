@@ -214,6 +214,11 @@
       "title": "cannot register path containing `:`",
       "link": "https://github.com/h3js/h3/issues/1266",
       "category": "unjs"
+    },
+    {
+      "title": "Google Workspace Studio のテンプレートを使ってみる - ミーティングの支援",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-templates-meeting",
+      "category": "cloud"
     }
   ]
 }
