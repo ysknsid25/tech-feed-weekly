@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251208/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/migrating-from-aws-codedeploy-to-amazon-ecs-for-blue-green-deployments/"
     },
     {
       "name": "SRE Weekly",
