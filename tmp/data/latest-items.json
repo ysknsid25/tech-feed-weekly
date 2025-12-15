@@ -219,6 +219,26 @@
       "title": "Google Workspace Studio のテンプレートを使ってみる - ミーティングの支援",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-templates-meeting",
       "category": "cloud"
+    },
+    {
+      "title": "【アドベントカレンダー2025】【NotebookLM × Gemini】仕様書からテスト項目書を自動生成する「専門家AI」の育て方 -ぐるなび組織間連携の事例- - ぐるなびをちょっと良くするエンジニアブログ",
+      "link": "https://developers.gnavi.co.jp/entry/adventcalendar-251215-1/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(deps-dev): bump jsonwebtoken from 9.0.2 to 9.0.3",
+      "link": "https://github.com/honojs/middleware/pull/1630",
+      "category": "hono"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies (v1)",
+      "link": "https://github.com/h3js/h3/pull/1265",
+      "category": "unjs"
+    },
+    {
+      "title": "事業部をまたいだ全社SRE共有会をはじめて気づけば3年経っていた",
+      "link": "https://zenn.dev/mixi/articles/20251216-sre-sharing-meeting-3years",
+      "category": "company"
     }
   ]
 }
