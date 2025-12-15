@@ -10,7 +10,7 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-event-advisor"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/b4351198d999ff"
     },
     {
       "name": "Vercel",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-nova-2-sonic-next-generation-speech-to-speech-model-for-conversational-ai/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/iot-case-study-brother/"
     },
     {
       "name": "SRE Weekly",
