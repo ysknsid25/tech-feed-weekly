@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/taming-test-flakiness-how-we-built-a-scalable-tool-to-detect-and-manage-flaky-tests"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/building-a-multi-region-compliant-customer-data-lake-at-scale"
     },
     {
       "name": "Slack Tech Blog",

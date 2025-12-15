@@ -239,6 +239,16 @@
       "title": "事業部をまたいだ全社SRE共有会をはじめて気づけば3年経っていた",
       "link": "https://zenn.dev/mixi/articles/20251216-sre-sharing-meeting-3years",
       "category": "company"
+    },
+    {
+      "title": "Errors thrown in the 'request' hook are silently ignored",
+      "link": "https://github.com/nitrojs/nitro/issues/3873",
+      "category": "unjs"
+    },
+    {
+      "title": "Building a Multi Region Compliant Customer Data Lake at Scale",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/building-a-multi-region-compliant-customer-data-lake-at-scale",
+      "category": "company"
     }
   ]
 }
