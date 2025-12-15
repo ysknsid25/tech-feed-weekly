@@ -164,6 +164,16 @@
       "title": "寄稿：SCRIPTS Asia における生成 AI を活用 した決算説明会等スクリプトの自動翻訳 ～ Amazon Bedrock とナレッジの融合 ～",
       "link": "https://aws.amazon.com/jp/blogs/news/jpxi-scriptsasia-ai-translation/",
       "category": "cloud"
+    },
+    {
+      "title": "Amazon、一部のKindle本がEPUBまたはPDF形式でのダウンロードに対応へ。2026年1月20日から【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2071209.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat: load app with sourcemap at request command",
+      "link": "https://github.com/honojs/cli/pull/62",
+      "category": "hono"
     }
   ]
 }
