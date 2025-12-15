@@ -10,7 +10,7 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/b4351198d999ff"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/d8f4ac42deaa26"
     },
     {
       "name": "Vercel",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/jpxi-scriptsasia-ai-translation/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/accelerating-cmmc-readiness-how-aws-and-wiz-help-public-sector-organizations/"
     },
     {
       "name": "SRE Weekly",

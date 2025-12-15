@@ -179,6 +179,16 @@
       "title": "RUMCG – A year in review | Web Performance Calendar",
       "link": "https://calendar.perfplanet.com/2025/rumcg-a-year-in-review/",
       "category": "jsts"
+    },
+    {
+      "title": "ADK Visual Builder と Gemini Enterprise で実現する「全社員が使える」エージェント開発",
+      "link": "https://zenn.dev/google_cloud_jp/articles/d8f4ac42deaa26",
+      "category": "cloud"
+    },
+    {
+      "title": "CMMC 対応の加速: AWS と Wiz がパブリックセクター組織を支援する方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerating-cmmc-readiness-how-aws-and-wiz-help-public-sector-organizations/",
+      "category": "cloud"
     }
   ]
 }
