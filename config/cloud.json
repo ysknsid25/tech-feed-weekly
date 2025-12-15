@@ -34,13 +34,13 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/iot-case-study-brother/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251208/"
     },
     {
       "name": "SRE Weekly",
       "type": "categoryIsUrl",
       "feedUrl": "https://sreweekly.com/feed/",
-      "latestLink": "https://sreweekly.com/sre-weekly-issue-500/"
+      "latestLink": "https://sreweekly.com/sre-weekly-issue-501/"
     }
   ]
 }

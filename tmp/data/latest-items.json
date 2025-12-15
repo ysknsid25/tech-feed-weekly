@@ -99,6 +99,16 @@
       "title": "Coding Agentと幾何学アルゴリズムを活用した地図上の滑らかなピン操作の実現 | newmo 技術ブログ",
       "link": "https://tech.newmo.me/entry/geometry-pin-moving",
       "category": "jsts"
+    },
+    {
+      "title": "週刊生成AI with AWS – 2025/12/08 週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20251208/",
+      "category": "cloud"
+    },
+    {
+      "title": "SRE Weekly Issue #501",
+      "link": "https://sreweekly.com/sre-weekly-issue-501/",
+      "category": "cloud"
     }
   ]
 }
