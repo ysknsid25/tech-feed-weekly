@@ -44,6 +44,26 @@
       "title": "Customization of generated CSS classname",
       "link": "https://github.com/honojs/hono/issues/4577",
       "category": "hono"
+    },
+    {
+      "title": "トランプの悪夢の制裁　メールアカウント削除、Kindle書籍消滅、クレジットカードは使用不能 | INODS UNVEIL",
+      "link": "https://inods.co.jp/topics/news/8230/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Langfuse のバージョンアップに伴い ClickHouse を社内初導入した話",
+      "link": "https://developers.freee.co.jp/entry/langfuse-v3-clickhouse-migration",
+      "category": "company"
+    },
+    {
+      "title": "実用 Algebraic Effects and Handlers ~本番環境で OCaml を利用するために~",
+      "link": "https://www.m3tech.blog/entry/2025/12/15/090000",
+      "category": "company"
+    },
+    {
+      "title": "HonoでConnect RPCを動かす",
+      "link": "https://zenn.dev/king/articles/2f894872ec6e0e",
+      "category": "hono"
     }
   ]
 }
