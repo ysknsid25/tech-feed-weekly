@@ -189,6 +189,16 @@
       "title": "CMMC 対応の加速: AWS と Wiz がパブリックセクター組織を支援する方法",
       "link": "https://aws.amazon.com/jp/blogs/news/accelerating-cmmc-readiness-how-aws-and-wiz-help-public-sector-organizations/",
       "category": "cloud"
+    },
+    {
+      "title": "【Go言語】死なないジョブワーカー処理～数万並行処理でも落ちない設計～",
+      "link": "https://levtech.jp/media/article/column/detail_767/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "理想の Workflow Platform という“聖杯”に、n8n でついに手が届くかもしれない | メルカリエンジニアリング",
+      "link": "https://engineering.mercari.com/blog/entry/20251211-cf3b67a5a7/",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
