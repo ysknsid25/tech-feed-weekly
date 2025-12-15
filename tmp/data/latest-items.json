@@ -124,6 +124,11 @@
       "title": "データと語るグロースハックの裏側 - 食べログは何故、20年間成長し続けられているのか。",
       "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251215",
       "category": "company"
+    },
+    {
+      "title": "オブザーバビリティ成熟度モデルをGitHub公開！明日から使える評価フレームワーク",
+      "link": "https://developersblog.dmm.com/entry/2025/12/15/140000",
+      "category": "company"
     }
   ]
 }
