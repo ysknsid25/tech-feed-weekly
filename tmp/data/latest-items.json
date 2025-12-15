@@ -154,6 +154,16 @@
       "title": "週刊AWS – 2025/12/8週",
       "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20251208/",
       "category": "cloud"
+    },
+    {
+      "title": "技術書の読み放題サービス「TechLib」が開始、インプレス、オーム社、翔泳社など10社が参加／本文も含めた全文検索機能アリ、ソースコードはコピペ可能【Book Watch/ニュース】",
+      "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2070645.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "寄稿：SCRIPTS Asia における生成 AI を活用 した決算説明会等スクリプトの自動翻訳 ～ Amazon Bedrock とナレッジの融合 ～",
+      "link": "https://aws.amazon.com/jp/blogs/news/jpxi-scriptsasia-ai-translation/",
+      "category": "cloud"
     }
   ]
 }
