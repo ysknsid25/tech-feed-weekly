@@ -129,6 +129,26 @@
       "title": "chore(deps): update all non-major dependencies",
       "link": "https://github.com/nitrojs/nitro/pull/3874",
       "category": "unjs"
+    },
+    {
+      "title": "ベテランプログラマは生成AIをどう活用しているのか？そして初学者は生成AIをどう活用すべきか？ - give IT a try",
+      "link": "https://blog.jnito.com/entry/2025/12/15/073604",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon GuardDuty が Amazon EC2 と Amazon ECS に Extended Threat Detection 機能を追加",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-guardduty-adds-extended-threat-detection-for-amazon-ec2-and-amazon-ecs/",
+      "category": "cloud"
+    },
+    {
+      "title": "【AWS re:Invent 2025】ThreatForestを使用した脅威モデリング実行編 | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/12/16/125349",
+      "category": "jsts"
+    },
+    {
+      "title": "Think! FrontEnd #9 開催レポート",
+      "link": "https://developersblog.dmm.com/entry/2025/12/16/140000",
+      "category": "company"
     }
   ]
 }

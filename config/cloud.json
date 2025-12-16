@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/accelerating-cmmc-readiness-how-aws-and-wiz-help-public-sector-organizations/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-guardduty-adds-extended-threat-detection-for-amazon-ec2-and-amazon-ecs/"
     },
     {
       "name": "SRE Weekly",
