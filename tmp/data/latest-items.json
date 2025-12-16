@@ -284,6 +284,16 @@
       "title": "Why we should stop talking performance metrics to Business Leaders | Web Performance Calendar",
       "link": "https://calendar.perfplanet.com/2025/why-we-should-stop-talking-performance-metrics-to-business-leaders/",
       "category": "jsts"
+    },
+    {
+      "title": "fix(cli): respect `devServer` config",
+      "link": "https://github.com/nitrojs/nitro/pull/3881",
+      "category": "unjs"
+    },
+    {
+      "title": "FUNSTACK Router: Navigation APIを用いたルーターライブラリ",
+      "link": "https://zenn.dev/uhyo/articles/funstack-router-poc",
+      "category": "famous"
     }
   ]
 }
