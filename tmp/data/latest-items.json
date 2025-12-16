@@ -169,6 +169,26 @@
       "title": "Customization of generated CSS classname",
       "link": "https://github.com/honojs/hono/issues/4577",
       "category": "hono"
+    },
+    {
+      "title": "新しく強化された AWS サポートプランでは、専門家によるガイダンスに AI 機能が追加されました",
+      "link": "https://aws.amazon.com/jp/blogs/news/new-and-enhanced-aws-support-plans-add-ai-capabilities-to-expert-guidance/",
+      "category": "cloud"
+    },
+    {
+      "title": "fix(node-ws): fix WebSocket not working with app.route()",
+      "link": "https://github.com/honojs/middleware/pull/1623",
+      "category": "hono"
+    },
+    {
+      "title": "feat(request): Improve hono request output",
+      "link": "https://github.com/honojs/cli/pull/58",
+      "category": "hono"
+    },
+    {
+      "title": "feat(cloudflare): add durable.bindingName config",
+      "link": "https://github.com/nitrojs/nitro/pull/3875",
+      "category": "unjs"
     }
   ]
 }
