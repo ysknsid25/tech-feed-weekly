@@ -124,6 +124,11 @@
       "title": "chore(ua-blocker): update robots.json from upstream",
       "link": "https://github.com/honojs/middleware/pull/1631",
       "category": "hono"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3874",
+      "category": "unjs"
     }
   ]
 }
