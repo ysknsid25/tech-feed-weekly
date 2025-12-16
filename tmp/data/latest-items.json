@@ -39,6 +39,46 @@
       "title": "【アドベントカレンダー2025】【NotebookLM × Gemini】仕様書からテスト項目書を自動生成する「専門家AI」の育て方 -ぐるなび組織間連携の事例- - ぐるなびをちょっと良くするエンジニアブログ",
       "link": "https://developers.gnavi.co.jp/entry/adventcalendar-251215-1/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "日本人プログラマ向け、プログラミングに適した「フォント」まとめ。2025年版",
+      "link": "https://www.publickey1.jp/blog/25/2025_1.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AIエージェント/MCPサーバー実装ガイドを作成しました | SIOS Tech Lab",
+      "link": "https://tech-lab.sios.jp/archives/50769",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ミズノ、睡眠中の呼吸量が28%上昇する枕",
+      "link": "https://www.watch.impress.co.jp/docs/news/2071261.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "副作用とロジックの分離。Railway Oriented Programming と Result 型で 「テストしやすい」バリデーションの設計 | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design",
+      "category": "jsts"
+    },
+    {
+      "title": "ClickHouseを導入する前に知っておきたかったこと：SaaSのネットワーク制約とセルフホストの勘所",
+      "link": "https://developers.freee.co.jp/entry/clickhouse-hosting-options-on-aws",
+      "category": "company"
+    },
+    {
+      "title": "AWSでIPv6🎄クリスマスツリー🎄をつくろう",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60948/",
+      "category": "company"
+    },
+    {
+      "title": "Pull request intervention for infrastructure-as-code risks with Bitbucket custom merge checks",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/pull-request-intervention-for-infrastructure-as-code-risks-with-bitbucket-custom-merge-checks",
+      "category": "company"
+    },
+    {
+      "title": "@hono/zod-openapiを使ってスキーマ駆動開発をやってみる",
+      "link": "https://zenn.dev/kmkkiii/articles/6f352563f22275",
+      "category": "hono"
     }
   ]
 }
