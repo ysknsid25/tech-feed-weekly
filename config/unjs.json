@@ -10,7 +10,7 @@
       "name": "nitro Issues",
       "type": "github-issues",
       "feedUrl": "nitrojs/nitro",
-      "latestLink": "https://github.com/nitrojs/nitro/pull/3876"
+      "latestLink": "https://github.com/nitrojs/nitro/issues/3880"
     },
     {
       "name": "ofetch Issues",
@@ -22,7 +22,7 @@
       "name": "c12 Issues",
       "type": "github-issues",
       "feedUrl": "unjs/c12",
-      "latestLink": "https://github.com/unjs/c12/issues/287"
+      "latestLink": "https://github.com/unjs/c12/issues/282"
     },
     {
       "name": "citty Issues",
