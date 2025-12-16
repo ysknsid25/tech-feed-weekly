@@ -109,6 +109,21 @@
       "title": "AIに正しく分析してもらうためのテーブル設計戦略",
       "link": "https://www.m3tech.blog/entry/table-design-for-ai-analysis",
       "category": "company"
+    },
+    {
+      "title": "Build smarter workflows with Notion and v0",
+      "link": "https://vercel.com/blog/build-smarter-workflows-with-notion-and-v0",
+      "category": "cloud"
+    },
+    {
+      "title": "社内SSoTツールを破壊してしまった話",
+      "link": "https://developersblog.dmm.com/entry/2025/12/16/113000",
+      "category": "company"
+    },
+    {
+      "title": "chore(ua-blocker): update robots.json from upstream",
+      "link": "https://github.com/honojs/middleware/pull/1631",
+      "category": "hono"
     }
   ]
 }

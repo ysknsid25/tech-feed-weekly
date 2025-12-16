@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/add-cache-tags-from-function-responses-regardless-of-framework"
+      "latestLink": "https://vercel.com/blog/build-smarter-workflows-with-notion-and-v0"
     },
     {
       "name": "GitHub Actions Blog",
