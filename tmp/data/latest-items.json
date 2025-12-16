@@ -249,6 +249,16 @@
       "title": "Google Workspace Studio のテンプレートを使ってみる - ミーティングの支援",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-templates-meeting",
       "category": "cloud"
+    },
+    {
+      "title": "2025-12-16のJS: Node.js v24.12.0、Deno 2.6、Firefox 146、pnpmのセキュリティ機能",
+      "link": "https://jser.info/2025/12/16/node.js-v24.12.0-deno-2.6-firefox-146-pnpm/",
+      "category": "jsts"
+    },
+    {
+      "title": "Google Workspace Studio で Google Sheets の変更内容を通知し、ナレッジシェアを最大化する",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-sheets-notify",
+      "category": "cloud"
     }
   ]
 }
