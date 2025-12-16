@@ -22,7 +22,7 @@
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2025-12-12-better-diagnostics-for-vnet-injected-runners-and-required-self-hosted-runner-upgrades"
+      "latestLink": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions"
     },
     {
       "name": "VSCode Tech Blog",

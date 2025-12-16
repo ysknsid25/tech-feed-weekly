@@ -294,6 +294,16 @@
       "title": "FUNSTACK Router: Navigation APIを用いたルーターライブラリ",
       "link": "https://zenn.dev/uhyo/articles/funstack-router-poc",
       "category": "famous"
+    },
+    {
+      "title": "Kotlin 2.3.0 Released",
+      "link": "https://blog.jetbrains.com/kotlin/2025/12/kotlin-2-3-0-released/",
+      "category": "kotlin"
+    },
+    {
+      "title": "Coming soon: Simpler pricing and a better experience for GitHub Actions",
+      "link": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions",
+      "category": "cloud"
     }
   ]
 }
