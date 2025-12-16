@@ -189,6 +189,26 @@
       "title": "feat(cloudflare): add durable.bindingName config",
       "link": "https://github.com/nitrojs/nitro/pull/3875",
       "category": "unjs"
+    },
+    {
+      "title": "言語化が下手な人は5つのタイプに分けられる｜すてぃお",
+      "link": "https://note.com/suthio/n/n2555d51f8f1b",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "アマゾン、Kindle本の内容を「ネタバレなし」でAIに質問可能に　作家は拒否できず",
+      "link": "https://japan.cnet.com/article/35241670/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "TROCCO の CDC 機能をつかった RDB と Apache Iceberg on AWS の連携",
+      "link": "https://aws.amazon.com/jp/blogs/news/trocco-cdc-icebergonaws/",
+      "category": "cloud"
+    },
+    {
+      "title": "feat(cloudflare-durable): add durable.bindingName config",
+      "link": "https://github.com/nitrojs/nitro/pull/3876",
+      "category": "unjs"
     }
   ]
 }
