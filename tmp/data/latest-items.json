@@ -314,6 +314,11 @@
       "title": "refactor(presets/zeabur): match our current zbpack",
       "link": "https://github.com/nitrojs/nitro/pull/3882",
       "category": "unjs"
+    },
+    {
+      "title": "Cline now runs on Vercel AI Gateway",
+      "link": "https://vercel.com/blog/cline-on-ai-gateway",
+      "category": "cloud"
     }
   ]
 }
