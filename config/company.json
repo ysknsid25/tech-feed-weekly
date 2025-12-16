@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/clickhouse-hosting-options-on-aws"
+      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day16"
     },
     {
       "name": "Cyber Agent Tech Blog",
@@ -58,7 +58,7 @@
       "name": "m3 Tech Blog",
       "type": "hatena",
       "feedUrl": "https://www.m3tech.blog",
-      "latestLink": "https://www.m3tech.blog/entry/2025/12/15/090000"
+      "latestLink": "https://www.m3tech.blog/entry/table-design-for-ai-analysis"
     },
     {
       "name": "食べログ Tech Blog",

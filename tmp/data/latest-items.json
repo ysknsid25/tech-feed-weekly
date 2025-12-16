@@ -79,6 +79,36 @@
       "title": "@hono/zod-openapiを使ってスキーマ駆動開発をやってみる",
       "link": "https://zenn.dev/kmkkiii/articles/6f352563f22275",
       "category": "hono"
+    },
+    {
+      "title": "クラウド環境におけるランサムウェア対策の考え方 — HACK The Nikkei",
+      "link": "https://hack.nikkei.com/blog/advent20251214/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "無料で「Linuxカーネル開発」が学べるオンライン講座、日本語版で提供開始",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/15/news044.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Hello LT world『2026年これやる宣言！書き初め LT Night』",
+      "link": "https://findy.connpass.com/event/377744/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "HonoでConnect RPCを動かす",
+      "link": "https://zenn.dev/king/articles/2f894872ec6e0e",
+      "category": "hono"
+    },
+    {
+      "title": "転職1年目のQA活動記 - 経験を活かし、新たに学んだこと",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day16",
+      "category": "company"
+    },
+    {
+      "title": "AIに正しく分析してもらうためのテーブル設計戦略",
+      "link": "https://www.m3tech.blog/entry/table-design-for-ai-analysis",
+      "category": "company"
     }
   ]
 }
