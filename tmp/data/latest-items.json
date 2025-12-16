@@ -209,6 +209,26 @@
       "title": "feat(cloudflare-durable): add durable.bindingName config",
       "link": "https://github.com/nitrojs/nitro/pull/3876",
       "category": "unjs"
+    },
+    {
+      "title": "ソフトメーターを考える | newmo 技術ブログ",
+      "link": "https://tech.newmo.me/entry/2025/12/16/160000",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon S3 クライアントを使用した ML トレーニングにおけるデータ読み込みベストプラクティスの適用",
+      "link": "https://aws.amazon.com/jp/blogs/news/applying-data-loading-best-practices-for-ml-training-with-amazon-s3-clients/",
+      "category": "cloud"
+    },
+    {
+      "title": "Notion × Astro × Honoで、Lighthouse 100点の爆速ブログ基盤を作った話【完全OSS】",
+      "link": "https://zenn.dev/mymt22/articles/43b570bd992635",
+      "category": "hono"
+    },
+    {
+      "title": "docs: fix gammar in readme",
+      "link": "https://github.com/honojs/honox/pull/345",
+      "category": "hono"
     }
   ]
 }

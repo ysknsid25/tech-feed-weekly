@@ -4,7 +4,7 @@
       "name": "Hono Zenn Latest",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/topics/hono/feed",
-      "latestLink": "https://zenn.dev/king/articles/2f894872ec6e0e"
+      "latestLink": "https://zenn.dev/mymt22/articles/43b570bd992635"
     },
     {
       "name": "Hono Advent Calendar 2025",
@@ -40,7 +40,7 @@
       "name": "HonoX Issues",
       "type": "github-issues",
       "feedUrl": "honojs/honox",
-      "latestLink": "https://github.com/honojs/honox/issues/344"
+      "latestLink": "https://github.com/honojs/honox/pull/345"
     },
     {
       "name": "Hono Node Server Issues",

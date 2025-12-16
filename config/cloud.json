@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/trocco-cdc-icebergonaws/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/applying-data-loading-best-practices-for-ml-training-with-amazon-s3-clients/"
     },
     {
       "name": "SRE Weekly",
