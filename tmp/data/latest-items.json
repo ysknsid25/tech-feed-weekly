@@ -309,6 +309,11 @@
       "title": "Vercel Knowledge Base",
       "link": "https://vercel.com/changelog/vercel-knowledge-base",
       "category": "cloud"
+    },
+    {
+      "title": "refactor(presets/zeabur): match our current zbpack",
+      "link": "https://github.com/nitrojs/nitro/pull/3882",
+      "category": "unjs"
     }
   ]
 }
