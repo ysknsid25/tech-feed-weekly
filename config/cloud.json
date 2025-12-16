@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-guardduty-adds-extended-threat-detection-for-amazon-ec2-and-amazon-ecs/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-nova-forge-build-your-own-frontier-models-using-nova/"
     },
     {
       "name": "SRE Weekly",
