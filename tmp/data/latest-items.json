@@ -144,6 +144,11 @@
       "title": "Cloud Runのメモリが3日で枯渇！犯人は10万のGoroutineとgRPCクライアントだった話 | STORES Product Blog",
       "link": "https://product.st.inc/entry/2025/12/17/150539",
       "category": "jsts"
+    },
+    {
+      "title": "New to the web platform in December",
+      "link": "https://web.dev/blog/web-platform-12-2025?hl=en",
+      "category": "web"
     }
   ]
 }
