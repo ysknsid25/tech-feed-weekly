@@ -209,6 +209,16 @@
       "title": "Google Workspace Studio で Cloud Run のアップデート情報をキャッチアップする",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-catchup-cloudrun",
       "category": "cloud"
+    },
+    {
+      "title": "食べログカスタマーサービスの責任者が語る、食べログ「口コミ」20年の歴史",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251218",
+      "category": "company"
+    },
+    {
+      "title": "コンテナ化したVarnish Cache(Vinyl Cache)のメトリックをMackerelで可視化する",
+      "link": "https://developer.hatenastaff.com/entry/2025/12/18/000000",
+      "category": "company"
     }
   ]
 }
