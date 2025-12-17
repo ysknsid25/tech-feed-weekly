@@ -254,6 +254,16 @@
       "title": "Cloudflare Workers で API の入口を守る",
       "link": "https://zenn.dev/bysontech/articles/ed0138b0b3d1bf",
       "category": "hono"
+    },
+    {
+      "title": "using `.optional()` on query param schema using zodValidator resolves enums to strings",
+      "link": "https://github.com/honojs/hono/issues/4584",
+      "category": "hono"
+    },
+    {
+      "title": "refactor(presets/zeabur): match our current zbpack",
+      "link": "https://github.com/nitrojs/nitro/pull/3882",
+      "category": "unjs"
     }
   ]
 }
