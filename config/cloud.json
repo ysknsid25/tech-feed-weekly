@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/applying-data-loading-best-practices-for-ml-training-with-amazon-s3-clients/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/reinvent2025-digitalagency-cop349/"
     },
     {
       "name": "SRE Weekly",
