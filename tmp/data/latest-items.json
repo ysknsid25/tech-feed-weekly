@@ -149,6 +149,26 @@
       "title": "New to the web platform in December",
       "link": "https://web.dev/blog/web-platform-12-2025?hl=en",
       "category": "web"
+    },
+    {
+      "title": "AntigravityとGemini 3でアプリ開発したら、めちゃくちゃ効率的だった話",
+      "link": "https://blog.usize-tech.com/antigravity-gemini3-app-development/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Honoにvue-jsx-vaporを載せてみる",
+      "link": "https://zenn.dev/hayatosc/articles/vue-jsx-vapor-on-hono",
+      "category": "hono"
+    },
+    {
+      "title": "fix(validator): preserve literal union types in input type inference",
+      "link": "https://github.com/honojs/hono/pull/4583",
+      "category": "hono"
+    },
+    {
+      "title": "タクシーの給与計算のDX | newmo 技術ブログ",
+      "link": "https://tech.newmo.me/entry/2025/12/17/163000",
+      "category": "jsts"
     }
   ]
 }
