@@ -79,6 +79,26 @@
       "title": "Beyond Cypress Comfort: A switch to Playwright for Modern E2E Testing",
       "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day17",
       "category": "company"
+    },
+    {
+      "title": "2025年、一休のコーポレートIT 振り返りとこれから",
+      "link": "https://user-first.ikyu.co.jp/entry/corprate-it-2025",
+      "category": "company"
+    },
+    {
+      "title": "静的解析ツールを活用した、チームでのコードベース健全化戦略",
+      "link": "https://developersblog.dmm.com/entry/2025/12/17/113000",
+      "category": "company"
+    },
+    {
+      "title": "Kubernetes Controller Sharding を用いた、3世代以上にわたるカスタムコントローラーの水平スケールを実現（インターンレポート）",
+      "link": "https://techblog.lycorp.co.jp/ja/20251217a",
+      "category": "company"
+    },
+    {
+      "title": "わたしのLanguage Serverにはパーサーが２種類あんねん",
+      "link": "https://www.m3tech.blog/entry/ai/bqls-tree-sitter",
+      "category": "company"
     }
   ]
 }
