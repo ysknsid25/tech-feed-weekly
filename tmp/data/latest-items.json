@@ -224,6 +224,11 @@
       "title": "Responsive List of Avatars Using Modern CSS (Part 2) | CSS-Tricks",
       "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
       "category": "jsts"
+    },
+    {
+      "title": "個人開発アプリをEdge構成で構築した技術スタック - Cloudflare/Hono/Expo",
+      "link": "https://zenn.dev/pav/articles/modern-edge-tech-stack",
+      "category": "hono"
     }
   ]
 }
