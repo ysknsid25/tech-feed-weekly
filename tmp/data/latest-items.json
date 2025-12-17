@@ -229,6 +229,16 @@
       "title": "個人開発アプリをEdge構成で構築した技術スタック - Cloudflare/Hono/Expo",
       "link": "https://zenn.dev/pav/articles/modern-edge-tech-stack",
       "category": "hono"
+    },
+    {
+      "title": "サイゼリヤ店員が作るサイゼリヤメニューTier表 - 京音Advent Calendar企画用ブログ",
+      "link": "https://keionkakimasen.hatenablog.com/entry/2025/12/17/065121",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Gemini 3 Flash is now available on the Vercel AI Gateway",
+      "link": "https://vercel.com/changelog/gemini-3-flash-is-now-available-on-the-vercel-ai-gateway",
+      "category": "cloud"
     }
   ]
 }
