@@ -199,6 +199,16 @@
       "title": "The Index: Issue #151 | Piccalilli - Everything",
       "link": "https://piccalil.li/the-index/151/",
       "category": "jsts"
+    },
+    {
+      "title": "feat: allow custom ignore patterns for public assets",
+      "link": "https://github.com/nitrojs/nitro/pull/3883",
+      "category": "unjs"
+    },
+    {
+      "title": "Google Workspace Studio で Cloud Run のアップデート情報をキャッチアップする",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-catchup-cloudrun",
+      "category": "cloud"
     }
   ]
 }
