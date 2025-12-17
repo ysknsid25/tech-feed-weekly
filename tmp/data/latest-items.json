@@ -54,6 +54,31 @@
       "title": "デジタル庁様がAWS re:Invent 2025 で登壇「ガバメントクラウドで実現した俊敏性とコンプライアンスのバランス」",
       "link": "https://aws.amazon.com/jp/blogs/news/reinvent2025-digitalagency-cop349/",
       "category": "cloud"
+    },
+    {
+      "title": "GitHub Japanに入社しました | おそらくはそれさえも平凡な日々",
+      "link": "https://songmu.jp/riji/entry/2025-12-16-joining-github.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Obsidianを「ChatGPTのナレッジ保管庫」にしよう｜ひつじ",
+      "link": "https://note.com/hituji1234/n/nf82e2fa55f28",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【寄稿】障害原因分析AIエージェントの開発とガバメントクラウド運用業務への導入",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-agent-for-system-operation-on-gov-cloud/",
+      "category": "cloud"
+    },
+    {
+      "title": "Notion × Astro × Honoで、Lighthouse 100点の爆速ブログ基盤を作った話【完全OSS】",
+      "link": "https://zenn.dev/mymt22/articles/43b570bd992635",
+      "category": "hono"
+    },
+    {
+      "title": "Beyond Cypress Comfort: A switch to Playwright for Modern E2E Testing",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day17",
+      "category": "company"
     }
   ]
 }
