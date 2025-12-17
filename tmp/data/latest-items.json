@@ -239,6 +239,11 @@
       "title": "Gemini 3 Flash is now available on the Vercel AI Gateway",
       "link": "https://vercel.com/changelog/gemini-3-flash-is-now-available-on-the-vercel-ai-gateway",
       "category": "cloud"
+    },
+    {
+      "title": "AWS databases now available on the Vercel Marketplace",
+      "link": "https://vercel.com/changelog/aws-databases-now-available-on-the-vercel-marketplace",
+      "category": "cloud"
     }
   ]
 }
