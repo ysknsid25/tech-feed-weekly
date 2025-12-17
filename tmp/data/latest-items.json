@@ -104,6 +104,26 @@
       "title": "chore(deps): update all non-major dependencies",
       "link": "https://github.com/unjs/c12/pull/288",
       "category": "unjs"
+    },
+    {
+      "title": "高木浩光＠自宅の日記 - 知財検討会にまで及ぶAI規制の混迷──処遇AIと生成AIを混ぜると、全部壊れる",
+      "link": "http://takagi-hiromitsu.jp/diary/20251216.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "サーマルプリンタを子育てに活用してみた - m1104m Blog",
+      "link": "https://m1104m.hatenablog.com/entry/2025/12/15/132956",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "中国発の詐欺広告に甘いMeta、数千億円規模の収入優先か　ザッカーバーグCEO関与の疑いも",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/16/news119.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "`useRequestContext` not working when using `await` and the `html` helper together",
+      "link": "https://github.com/honojs/hono/issues/4582",
+      "category": "hono"
     }
   ]
 }
