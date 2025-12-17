@@ -99,6 +99,11 @@
       "title": "わたしのLanguage Serverにはパーサーが２種類あんねん",
       "link": "https://www.m3tech.blog/entry/ai/bqls-tree-sitter",
       "category": "company"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/unjs/c12/pull/288",
+      "category": "unjs"
     }
   ]
 }
