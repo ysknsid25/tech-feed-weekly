@@ -254,6 +254,11 @@
       "title": "Feature request: HTTP Range support for serveStatic",
       "link": "https://github.com/h3js/h3/issues/1267",
       "category": "unjs"
+    },
+    {
+      "title": "feat: rolldownConfig",
+      "link": "https://github.com/nitrojs/nitro/pull/3887",
+      "category": "unjs"
     }
   ]
 }
