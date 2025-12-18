@@ -219,6 +219,26 @@
       "title": "Your job is to deliver code you have proven to work | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "Gemini 3のおかげで論文が爆速で書けます - 矢原の日記",
+      "link": "https://tet-yahara.hatenablog.com/entry/2025/12/17/205449",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AI エージェント開発で半年間成果が出なかった私が、前に進めるようになるまで - Speee DEVELOPER BLOG",
+      "link": "https://tech.speee.jp/entry/ai-agent-rd-milestone-driven",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "When using z.coerce.number() and InferRequestType it resolves it to a string | string[] instead of a number",
+      "link": "https://github.com/honojs/middleware/issues/1636",
+      "category": "hono"
+    },
+    {
+      "title": "The Ultimate Guide to Successfully Adopting Kotlin in a Java-Dominated Environment",
+      "link": "https://blog.jetbrains.com/kotlin/2025/12/the-ultimate-guide-to-successfully-adopting-kotlin-in-a-java-dominated-environment/",
+      "category": "kotlin"
     }
   ]
 }
