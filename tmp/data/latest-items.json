@@ -119,6 +119,16 @@
       "title": "高性能な日本語マルチモーダル基盤モデル「clip-japanese-base-v2」の公開",
       "link": "https://techblog.lycorp.co.jp/ja/20251218a",
       "category": "company"
+    },
+    {
+      "title": "ABEMA の信頼性を支える Dark Canary リリースの導入",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/60906/",
+      "category": "company"
+    },
+    {
+      "title": "Google Cloud コンテナイメージの脆弱性スキャンを自作 OSS で運用する",
+      "link": "https://www.m3tech.blog/entry/drydock",
+      "category": "company"
     }
   ]
 }
