@@ -239,6 +239,11 @@
       "title": "The Ultimate Guide to Successfully Adopting Kotlin in a Java-Dominated Environment",
       "link": "https://blog.jetbrains.com/kotlin/2025/12/the-ultimate-guide-to-successfully-adopting-kotlin-in-a-java-dominated-environment/",
       "category": "kotlin"
+    },
+    {
+      "title": "個人開発で「やりすぎない」APIセキュリティ設計の考え方",
+      "link": "https://zenn.dev/bysontech/articles/ff6a046a6a3af2",
+      "category": "hono"
     }
   ]
 }
