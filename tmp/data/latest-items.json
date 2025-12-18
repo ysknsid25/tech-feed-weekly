@@ -129,6 +129,21 @@
       "title": "Google Cloud コンテナイメージの脆弱性スキャンを自作 OSS で運用する",
       "link": "https://www.m3tech.blog/entry/drydock",
       "category": "company"
+    },
+    {
+      "title": "Claude CodeからPull Requestのレビュー操作を便利に行うClaude Skillsを作った - $shibayu36-\u003eblog;",
+      "link": "https://blog.shibayu36.org/entry/2025/12/17/173000",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Cloudflare Workers + Turso で動画広告配信システムを作ってみた - VAST準拠、エッジで動くOSS",
+      "link": "https://zenn.dev/coji/articles/video-ad-network-cloudflare-turso",
+      "category": "hono"
+    },
+    {
+      "title": "CLion 2025.3 がリリースされました：言語エンジンの高速化、独自の Constexpr デバッガー、DAP のサポートなどの大規模な更新が含まれています",
+      "link": "https://blog.jetbrains.com/ja/clion/2025/12/2025-3-release/",
+      "category": "kotlin"
     }
   ]
 }
