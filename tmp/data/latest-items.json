@@ -89,6 +89,21 @@
       "title": "Symbol.iterator Is Pretty Neat, Actually | kettanaito.com",
       "link": "https://kettanaito.com/blog/symbol-iterator-is-pretty-neat-actually",
       "category": "jsts"
+    },
+    {
+      "title": "Findyユーザー感謝祭2025〜今年の\"しくじり\"を供養しよう〜",
+      "link": "https://findy.connpass.com/event/376680/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "社内イベントを撮影する技術 | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/18/105851",
+      "category": "jsts"
+    },
+    {
+      "title": "Cloudflare Workers で API の入口を守る",
+      "link": "https://zenn.dev/bysontech/articles/ed0138b0b3d1bf",
+      "category": "hono"
     }
   ]
 }
