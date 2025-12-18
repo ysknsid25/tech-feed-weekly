@@ -244,6 +244,11 @@
       "title": "個人開発で「やりすぎない」APIセキュリティ設計の考え方",
       "link": "https://zenn.dev/bysontech/articles/ff6a046a6a3af2",
       "category": "hono"
+    },
+    {
+      "title": "Reduced prices for TLDs .site, .space, .website, .fun, .online, .store, .tech",
+      "link": "https://vercel.com/changelog/reduced-prices-for-tlds-site-space-website-fun-online-store-tech",
+      "category": "cloud"
     }
   ]
 }
