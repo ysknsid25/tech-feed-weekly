@@ -74,6 +74,21 @@
       "title": "個人開発アプリをEdge構成で構築した技術スタック - Cloudflare/Hono/Expo",
       "link": "https://zenn.dev/pav/articles/modern-edge-tech-stack",
       "category": "hono"
+    },
+    {
+      "title": "ドキュメントでは教えてくれないNext.js Cache handlerの挙動",
+      "link": "https://developersblog.dmm.com/entry/2025/12/18/113000",
+      "category": "company"
+    },
+    {
+      "title": "hc instance is of unknown type when using @hono/zod-openapi",
+      "link": "https://github.com/honojs/middleware/issues/1633",
+      "category": "hono"
+    },
+    {
+      "title": "Symbol.iterator Is Pretty Neat, Actually | kettanaito.com",
+      "link": "https://kettanaito.com/blog/symbol-iterator-is-pretty-neat-actually",
+      "category": "jsts"
     }
   ]
 }
