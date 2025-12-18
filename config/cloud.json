@@ -10,13 +10,13 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-catchup-cloudrun"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/42b25fcd8f8d5b"
     },
     {
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/reduced-prices-for-tlds-site-space-website-fun-online-store-tech"
+      "latestLink": "https://vercel.com/changelog/chat-with-vercel-marketplace-integrations-using-vercel-agent"
     },
     {
       "name": "GitHub Actions Blog",

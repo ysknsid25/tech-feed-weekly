@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "『夜の』をつけてもまったく興奮できない言葉ある？→「システム障害」という答えでテンションがだだ下がりしてしまう人たち「言っていいことと悪いことがある」",
+      "link": "https://togetter.com/li/2640189",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ピカール金属磨きが販売終了？製造中止の理由と、今後どうすればいいのか徹底解説",
+      "link": "https://matsukawabutsudan.jp/blog/detail/20251203174811/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Gemini 3のおかげで論文が爆速で書けます - 矢原の日記",
+      "link": "https://tet-yahara.hatenablog.com/entry/2025/12/17/205449",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Apple、日本でのiOSにおける変更を発表",
+      "link": "https://www.apple.com/jp/newsroom/2025/12/apple-announces-changes-to-ios-in-japan/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "生成AIに知識を垂れ流すラジオ番組を作ってもらう｜Kohya S.",
+      "link": "https://note.com/kohya_ss/n/n613b44bb15a5",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AI エージェント開発で半年間成果が出なかった私が、前に進めるようになるまで - Speee DEVELOPER BLOG",
+      "link": "https://tech.speee.jp/entry/ai-agent-rd-milestone-driven",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "夜を制する者が “AI Agent 大民主化時代” を制する",
+      "link": "https://speakerdeck.com/icoxfog417/generative-ai-agent-should-work-in-night",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "BigQuery のマネージド AI 関数で非構造化データを自由に処理しよう",
+      "link": "https://zenn.dev/google_cloud_jp/articles/42b25fcd8f8d5b",
+      "category": "cloud"
+    },
+    {
+      "title": "Chat with Vercel Marketplace integrations using Vercel Agent",
+      "link": "https://vercel.com/changelog/chat-with-vercel-marketplace-integrations-using-vercel-agent",
+      "category": "cloud"
+    },
+    {
+      "title": "Cloudflare Workers + Turso で動画広告配信システムを作ってみた - VAST準拠、エッジで動くOSS",
+      "link": "https://zenn.dev/coji/articles/video-ad-network-cloudflare-turso",
+      "category": "hono"
+    }
+  ]
+}
