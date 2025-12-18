@@ -144,6 +144,36 @@
       "title": "CLion 2025.3 がリリースされました：言語エンジンの高速化、独自の Constexpr デバッガー、DAP のサポートなどの大規模な更新が含まれています",
       "link": "https://blog.jetbrains.com/ja/clion/2025/12/2025-3-release/",
       "category": "kotlin"
+    },
+    {
+      "title": "ピカール金属磨きが販売終了？製造中止の理由と、今後どうすればいいのか徹底解説",
+      "link": "https://matsukawabutsudan.jp/blog/detail/20251203174811/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "『一見さんお断り』ってどういうシステムで潰れてないんですか？「金持ちが新しい金持ちを連れて来るんやで…」「あれ理論上最初無理じゃないかと思ってる」",
+      "link": "https://togetter.com/li/2640050",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【朝開催】Kyoto.go remote #64 年末もくもく会",
+      "link": "https://kyotogo.connpass.com/event/379243/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "BigQuery のマネージド AI 関数で非構造化データを自由に処理しよう",
+      "link": "https://zenn.dev/google_cloud_jp/articles/42b25fcd8f8d5b",
+      "category": "cloud"
+    },
+    {
+      "title": "`useRequestContext` not working when using `await` and the `html` helper together",
+      "link": "https://github.com/honojs/hono/issues/4582",
+      "category": "hono"
+    },
+    {
+      "title": "feat(edgeone): Added preset setting for edgeone;",
+      "link": "https://github.com/nitrojs/nitro/pull/3884",
+      "category": "unjs"
     }
   ]
 }
