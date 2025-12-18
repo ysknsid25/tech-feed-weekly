@@ -59,6 +59,21 @@
       "title": "EKS移行でSRE支援体制を強化したfreeeサインの事例",
       "link": "https://developers.freee.co.jp/entry/freee-sign-eks-migration",
       "category": "company"
+    },
+    {
+      "title": "株式会社 Nint 様の AWS 開発事例「TikTok Shop 対応データ分析 SaaS を 2 か月で開発、運用工数 70% 削減を実現」のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/case-study-nint/",
+      "category": "cloud"
+    },
+    {
+      "title": "「感想戦」で終わらせない振り返りへ。品質指標を持つQAがプロジェクト振り返りを主導する価値",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day18",
+      "category": "company"
+    },
+    {
+      "title": "個人開発アプリをEdge構成で構築した技術スタック - Cloudflare/Hono/Expo",
+      "link": "https://zenn.dev/pav/articles/modern-edge-tech-stack",
+      "category": "hono"
     }
   ]
 }
