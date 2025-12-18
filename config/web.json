@@ -16,7 +16,7 @@
       "name": "web.dev: Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://web.dev/static/blog/feed.xml",
-      "latestLink": "https://web.dev/blog/web-platform-12-2025?hl=en"
+      "latestLink": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available?hl=en"
     }
   ]
 }
