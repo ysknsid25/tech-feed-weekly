@@ -249,6 +249,11 @@
       "title": "Reduced prices for TLDs .site, .space, .website, .fun, .online, .store, .tech",
       "link": "https://vercel.com/changelog/reduced-prices-for-tlds-site-space-website-fun-online-store-tech",
       "category": "cloud"
+    },
+    {
+      "title": "Feature request: HTTP Range support for serveStatic",
+      "link": "https://github.com/h3js/h3/issues/1267",
+      "category": "unjs"
     }
   ]
 }
