@@ -149,6 +149,21 @@
       "title": "Hard refresh leading to 404 error when using vite --host with Vite + Hono + Cloudflare Worker template",
       "link": "https://github.com/honojs/hono/issues/4585",
       "category": "hono"
+    },
+    {
+      "title": "Windows 11のバックアップを、OneDriveから低コスト・大容量のUSB外付けストレージに移行する方法　フリーソフト「BunBackup」を利用した手順を解説",
+      "link": "https://internet.watch.impress.co.jp/docs/special/2071190.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Veo でできることを整理して、スッキリした気分で新年を迎えよう",
+      "link": "https://zenn.dev/google_cloud_jp/articles/16840274dd71b2",
+      "category": "cloud"
+    },
+    {
+      "title": "Amazon FSx for NetApp ONTAP が Amazon S3 と統合され、シームレスなデータアクセスが可能になりました",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-fsx-for-netapp-ontap-now-integrates-with-amazon-s3-for-seamless-data-access/",
+      "category": "cloud"
     }
   ]
 }

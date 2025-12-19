@@ -10,7 +10,7 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/4d04c72142b8f1"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/16840274dd71b2"
     },
     {
       "name": "Vercel",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/edtech-meetup-nov-11-2025/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-fsx-for-netapp-ontap-now-integrates-with-amazon-s3-for-seamless-data-access/"
     },
     {
       "name": "SRE Weekly",
