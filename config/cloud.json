@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-fsx-for-netapp-ontap-now-integrates-with-amazon-s3-for-seamless-data-access/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/"
     },
     {
       "name": "SRE Weekly",

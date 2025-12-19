@@ -164,6 +164,21 @@
       "title": "Amazon FSx for NetApp ONTAP が Amazon S3 と統合され、シームレスなデータアクセスが可能になりました",
       "link": "https://aws.amazon.com/jp/blogs/news/amazon-fsx-for-netapp-ontap-now-integrates-with-amazon-s3-for-seamless-data-access/",
       "category": "cloud"
+    },
+    {
+      "title": "プロダクトマネージャーに商売センスが必要な理由と磨き方",
+      "link": "https://www.m3tech.blog/entry/2025/12/19/173954",
+      "category": "company"
+    },
+    {
+      "title": "A Short History of Performance Engineering | Web Performance Calendar",
+      "link": "https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering/",
+      "category": "jsts"
+    },
+    {
+      "title": "AWS Weekly Roundup: Amazon ECS、Amazon CloudWatch、Amazon Cognito など (2025 年 12 月 15 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/",
+      "category": "cloud"
     }
   ]
 }
