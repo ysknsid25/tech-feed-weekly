@@ -199,6 +199,21 @@
       "title": "PyCharm 2025.3 – IDE の統合、リモート環境の Jupyter ノートブック、uv のデフォルト化など",
       "link": "https://blog.jetbrains.com/ja/pycharm/2025/12/pycharm-2025-3-unified-ide-jupyter-notebooks-in-remote-development-uv-as-default-and-more/",
       "category": "kotlin"
+    },
+    {
+      "title": "fix: optionally track activerequests",
+      "link": "https://github.com/honojs/middleware/pull/1640",
+      "category": "hono"
+    },
+    {
+      "title": "【正社員とフリーランスの違い】2025年に働き方を変えた意思決定の裏側",
+      "link": "https://findy.connpass.com/event/376028/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "ビルドプロセスを見直して Next.js 製アプリケーションのビルド時間を 10 分短縮 | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/19/190601",
+      "category": "jsts"
     }
   ]
 }
