@@ -69,6 +69,16 @@
       "title": "個人開発で「やりすぎない」APIセキュリティ設計の考え方",
       "link": "https://zenn.dev/bysontech/articles/ff6a046a6a3af2",
       "category": "hono"
+    },
+    {
+      "title": "Windows 11、リソースを大量消費するサービスが自動起動に",
+      "link": "https://news.mynavi.jp/techplus/article/20251218-3829186/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "99 回の成功と 1 回の失敗は同じ仕組みから生まれる ―障害に対する視座の転換",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day19",
+      "category": "company"
     }
   ]
 }
