@@ -219,6 +219,16 @@
       "title": "STORES におけるセキュリティエンジニアの仕事 - 検討、推進および執行 | STORES Product Blog",
       "link": "https://product.st.inc/entry/security-engineers-in-stores-2025",
       "category": "jsts"
+    },
+    {
+      "title": "20年目の食べログを、若手はどう見ている？大規模開発の裏側から未来の構想まで語る、エンジニア座談会",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251220",
+      "category": "company"
+    },
+    {
+      "title": "Vertex AI Agent Engine Memory Bank が GA！AI エージェントに「長期記憶」を授ける方法",
+      "link": "https://zenn.dev/google_cloud_jp/articles/a1f593ad690d7e",
+      "category": "cloud"
     }
   ]
 }
