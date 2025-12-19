@@ -179,6 +179,26 @@
       "title": "AWS Weekly Roundup: Amazon ECS、Amazon CloudWatch、Amazon Cognito など (2025 年 12 月 15 日)",
       "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/",
       "category": "cloud"
+    },
+    {
+      "title": "マクドナルドの例のCMで思い出す、格ゲー界の「公然の秘密」",
+      "link": "https://anond.hatelabo.jp/20251219123643",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "飛行機の隣席にオードリー・タンさんがいた話 - Sway",
+      "link": "https://blog.kocoronoblue.com/archives/2025/12/18/004547",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix: cache rou3 compilation by options hash",
+      "link": "https://github.com/nitrojs/nitro/pull/3890",
+      "category": "unjs"
+    },
+    {
+      "title": "PyCharm 2025.3 – IDE の統合、リモート環境の Jupyter ノートブック、uv のデフォルト化など",
+      "link": "https://blog.jetbrains.com/ja/pycharm/2025/12/pycharm-2025-3-unified-ide-jupyter-notebooks-in-remote-development-uv-as-default-and-more/",
+      "category": "kotlin"
     }
   ]
 }
