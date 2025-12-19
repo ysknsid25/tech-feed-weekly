@@ -49,6 +49,26 @@
       "title": "Cloudflare Workers + Turso で動画広告配信システムを作ってみた - VAST準拠、エッジで動くOSS",
       "link": "https://zenn.dev/coji/articles/video-ad-network-cloudflare-turso",
       "category": "hono"
+    },
+    {
+      "title": "ブロックストレージとしての Amazon FSx for NetApp ONTAP",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-fsx-for-netapp-ontap-as-block-storage/",
+      "category": "cloud"
+    },
+    {
+      "title": "BFCM 2025: What teams built when infrastructure stopped being the problem | Sanity.io",
+      "link": "https://www.sanity.io/blog/bfcm-2025",
+      "category": "jsts"
+    },
+    {
+      "title": "Cloudflare Tunnel で内部公開の Cloud Run にアクセスしてみる",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61112/",
+      "category": "company"
+    },
+    {
+      "title": "個人開発で「やりすぎない」APIセキュリティ設計の考え方",
+      "link": "https://zenn.dev/bysontech/articles/ff6a046a6a3af2",
+      "category": "hono"
     }
   ]
 }

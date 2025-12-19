@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/case-study-nint/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-fsx-for-netapp-ontap-as-block-storage/"
     },
     {
       "name": "SRE Weekly",
