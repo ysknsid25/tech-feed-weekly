@@ -109,6 +109,16 @@
       "title": "Vertex AI PipelinesによるMLバッチ基盤の運用",
       "link": "https://developersblog.dmm.com/entry/2025/12/19/113000",
       "category": "company"
+    },
+    {
+      "title": "feat(zod-openapi): introduce `HonoToOpenAPIHono` type",
+      "link": "https://github.com/honojs/middleware/pull/1639",
+      "category": "hono"
+    },
+    {
+      "title": "freee 技術の日 2025の折紙創作について",
+      "link": "https://developers.freee.co.jp/entry/sweee-origami",
+      "category": "company"
     }
   ]
 }
