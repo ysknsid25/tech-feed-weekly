@@ -134,6 +134,11 @@
       "title": "【EdTech Meetup】AI 時代の EdTech ~プロダクト・開発・運用の変革と EdTech の未来~【開催報告】",
       "link": "https://aws.amazon.com/jp/blogs/news/edtech-meetup-nov-11-2025/",
       "category": "cloud"
+    },
+    {
+      "title": "Interactions API × Deep Research Agent 入門：Google が描く「自律型エージェント」の未来",
+      "link": "https://zenn.dev/google_cloud_jp/articles/4d04c72142b8f1",
+      "category": "cloud"
     }
   ]
 }
