@@ -254,6 +254,11 @@
       "title": "Our $1 million hacker challenge for React2Shell",
       "link": "https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell",
       "category": "cloud"
+    },
+    {
+      "title": "A Small Year for tsc, a Giant Year for TypeScript",
+      "link": "https://effectivetypescript.com/2025/12/19/ts-2025/",
+      "category": "jsts"
     }
   ]
 }
