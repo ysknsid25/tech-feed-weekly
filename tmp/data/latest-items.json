@@ -34,6 +34,21 @@
       "title": "Quoting Andrej Karpathy | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "Security advisory",
+      "link": "https://storybook.js.org/blog/security-advisory/",
+      "category": "web"
+    },
+    {
+      "title": "Exploratory Testing: A journey of effective testing",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day20",
+      "category": "company"
+    },
+    {
+      "title": "Pixel Portraits: AI generated trading cards",
+      "link": "https://vercel.com/blog/pixel-portraits-ai-generated-trading-cards",
+      "category": "cloud"
     }
   ]
 }

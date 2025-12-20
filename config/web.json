@@ -22,7 +22,7 @@
       "name": "StoryBook Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://storybook.js.org/blog/rss/",
-      "latestLink": ""
+      "latestLink": "https://storybook.js.org/blog/security-advisory/"
     }
   ]
 }
