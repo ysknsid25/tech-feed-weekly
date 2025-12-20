@@ -104,6 +104,16 @@
       "title": "fix: optionally track activerequests",
       "link": "https://github.com/honojs/middleware/pull/1640",
       "category": "hono"
+    },
+    {
+      "title": "祝・実験終了 🎉 Linux カーネルの Rust 採用が正式化！ C から Rust へ ─ AI コードエージェントが Linux カーネルコードを書き換えるとどうなるか？ - Qiita",
+      "link": "https://qiita.com/hisaho/items/09362b9efdc5f21ab1f2",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Optimizing CLS for Infinite Scroll and Load More | Web Performance Calendar",
+      "link": "https://calendar.perfplanet.com/2025/optimizing-cls-for-infinite-scroll-and-load-more/",
+      "category": "jsts"
     }
   ]
 }
