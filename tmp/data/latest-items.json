@@ -94,6 +94,16 @@
       "title": "Version Packages",
       "link": "https://github.com/honojs/middleware/pull/1641",
       "category": "hono"
+    },
+    {
+      "title": "ウィンドウズが擬人化したらXPが一番いい女だと思う",
+      "link": "https://anond.hatelabo.jp/20251218230935",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix: optionally track activerequests",
+      "link": "https://github.com/honojs/middleware/pull/1640",
+      "category": "hono"
     }
   ]
 }
