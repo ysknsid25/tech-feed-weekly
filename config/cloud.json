@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-apache-iceberg-materialized-views-in-aws-glue-data-catalog-2/"
     },
     {
       "name": "SRE Weekly",

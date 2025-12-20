@@ -129,6 +129,21 @@
       "title": "Bug with `InferOutput` and `nullish`, `optional`, `exactOptional`, `nullable`",
       "link": "https://github.com/open-circle/valibot/issues/1376",
       "category": "valibot"
+    },
+    {
+      "title": "Unable to get message on undifined",
+      "link": "https://github.com/open-circle/valibot/issues/1377",
+      "category": "valibot"
+    },
+    {
+      "title": "GraphQL の力で AI Agent を最大 47% 速くする",
+      "link": "https://zenn.dev/mixi/articles/graphql-as-agent-tool",
+      "category": "company"
+    },
+    {
+      "title": "AWS Glue Data Catalog での Apache Iceberg マテリアライズドビューのご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-apache-iceberg-materialized-views-in-aws-glue-data-catalog-2/",
+      "category": "cloud"
     }
   ]
 }
