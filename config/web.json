@@ -17,6 +17,12 @@
       "type": "categoryIsUrl",
       "feedUrl": "https://web.dev/static/blog/feed.xml",
       "latestLink": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available?hl=en"
+    },
+    {
+      "name": "StoryBook Blog",
+      "type": "categoryIsUrl",
+      "feedUrl": "https://storybook.js.org/blog/rss/",
+      "latestLink": ""
     }
   ]
 }
