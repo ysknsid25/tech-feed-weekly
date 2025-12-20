@@ -119,6 +119,16 @@
       "title": "AIにスナック自販機の経営を任せたらPlayStationの無償配布や魚の入荷を始めて大赤字",
       "link": "https://gigazine.net/news/20251219-anthropic-project-vend-phase-two/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "飲食店に寄り添い、困難に立ち向かい、誰かに届ける。社員に聞いた「食べログで一番印象に残ったこと」",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251221",
+      "category": "company"
+    },
+    {
+      "title": "Bug with `InferOutput` and `nullish`, `optional`, `exactOptional`, `nullable`",
+      "link": "https://github.com/open-circle/valibot/issues/1376",
+      "category": "valibot"
     }
   ]
 }
