@@ -89,6 +89,11 @@
       "title": "Snowflake MCPサーバーを使ったAI分析基盤の構築",
       "link": "https://developers.cyberagent.co.jp/blog/archives/61134/",
       "category": "company"
+    },
+    {
+      "title": "Version Packages",
+      "link": "https://github.com/honojs/middleware/pull/1641",
+      "category": "hono"
     }
   ]
 }
