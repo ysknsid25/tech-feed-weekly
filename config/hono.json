@@ -4,7 +4,7 @@
       "name": "Hono Zenn Latest",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/topics/hono/feed",
-      "latestLink": "https://zenn.dev/bysontech/articles/ff6a046a6a3af2"
+      "latestLink": "https://zenn.dev/ambr_inc/articles/82eaf852861b77"
     },
     {
       "name": "Hono Advent Calendar 2025",
@@ -28,7 +28,7 @@
       "name": "Hono Issues",
       "type": "github-issues",
       "feedUrl": "honojs/hono",
-      "latestLink": "https://github.com/honojs/hono/issues/4585"
+      "latestLink": "https://github.com/honojs/hono/pull/4586"
     },
     {
       "name": "Hono CLI Issues",

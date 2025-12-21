@@ -54,6 +54,16 @@
       "title": "個人開発で「やりすぎない」APIセキュリティ設計の考え方",
       "link": "https://zenn.dev/bysontech/articles/ff6a046a6a3af2",
       "category": "hono"
+    },
+    {
+      "title": "Hono + OpenAPI + Orvalを使った型安全な開発",
+      "link": "https://zenn.dev/ambr_inc/articles/82eaf852861b77",
+      "category": "valibot"
+    },
+    {
+      "title": "chore: bump typescript-go preview for accurate benchmarking",
+      "link": "https://github.com/honojs/hono/pull/4586",
+      "category": "hono"
     }
   ]
 }
