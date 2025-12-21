@@ -49,6 +49,11 @@
       "title": "もはやセキュリティに「社内」と「社外」の境界はない。CSIRTとPSIRTを統合してひとつのチームへ",
       "link": "https://developers.freee.co.jp/entry/merge_csirt_and_psirt",
       "category": "company"
+    },
+    {
+      "title": "個人開発で「やりすぎない」APIセキュリティ設計の考え方",
+      "link": "https://zenn.dev/bysontech/articles/ff6a046a6a3af2",
+      "category": "hono"
     }
   ]
 }
