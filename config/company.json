@@ -83,6 +83,12 @@
       "type": "hatena",
       "feedUrl": "https://developer.hatenastaff.com",
       "latestLink": "https://developer.hatenastaff.com/entry/2025/12/18/000000"
+    },
+    {
+      "name": "newmo",
+      "type": "hatena",
+      "feedUrl": "https://tech.newmo.me",
+      "latestLink": ""
     }
   ]
 }
