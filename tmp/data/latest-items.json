@@ -114,6 +114,11 @@
       "title": "Jetpack Compose で CSS のような線形グラデーションを実装する",
       "link": "https://zenn.dev/mixi/articles/c58b384e679596",
       "category": "company"
+    },
+    {
+      "title": "GraphQL の力で AI Agent を最大 47% 速くする",
+      "link": "https://zenn.dev/mixi/articles/graphql-as-agent-tool",
+      "category": "company"
     }
   ]
 }
