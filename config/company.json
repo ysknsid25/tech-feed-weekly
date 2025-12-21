@@ -28,7 +28,7 @@
       "name": "MIXI Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/mixi/feed",
-      "latestLink": "https://zenn.dev/mixi/articles/graphql-as-agent-tool"
+      "latestLink": "https://zenn.dev/mixi/articles/c58b384e679596"
     },
     {
       "name": "LINE Yahoo Tech Blog",
@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/merge_csirt_and_psirt"
+      "latestLink": "https://developers.freee.co.jp/entry/control-ai-browsers"
     },
     {
       "name": "Cyber Agent Tech Blog",

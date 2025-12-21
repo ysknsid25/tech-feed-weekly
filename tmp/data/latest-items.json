@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "おい、休め - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/21/092456",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "9割が「12時間以内に応答」を要求　OSSを“商用製品扱い”する日本企業の幻想",
+      "link": "https://techtarget.itmedia.co.jp/tt/news/2512/19/news04.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "生成AI時代に\"読書すること\"の価値を考える。 - 世界のねじを巻くブログ",
+      "link": "https://www.nejimakiblog.com/entry/ai-era-book-reading-meaning-dokusho",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Hono + OpenAPI + Orvalを使った型安全な開発",
+      "link": "https://zenn.dev/ambr_inc/articles/82eaf852861b77",
+      "category": "valibot"
+    },
+    {
+      "title": "Jetpack Compose で CSS のような線形グラデーションを実装する",
+      "link": "https://zenn.dev/mixi/articles/c58b384e679596",
+      "category": "company"
+    },
+    {
+      "title": "世はAIブラウザ時代、数多のブラウザをどう制御する？",
+      "link": "https://developers.freee.co.jp/entry/control-ai-browsers",
+      "category": "company"
+    }
+  ]
+}
