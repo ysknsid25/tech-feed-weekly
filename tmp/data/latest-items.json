@@ -89,6 +89,11 @@
       "title": "FFmpeg の progress を可視化する GraphQL と Satori",
       "link": "https://zenn.dev/oymk/articles/083f92432649f7",
       "category": "hono"
+    },
+    {
+      "title": "Android 16でBluetoothチャネルサウンディングを試す",
+      "link": "https://tech.newmo.me/entry/2025/12/21/090000",
+      "category": "company"
     }
   ]
 }
