@@ -64,6 +64,11 @@
       "title": "chore: bump typescript-go preview for accurate benchmarking",
       "link": "https://github.com/honojs/hono/pull/4586",
       "category": "hono"
+    },
+    {
+      "title": "Hono + Next.js に RPC と hono-openapi と valibot を付けて快適に開発する",
+      "link": "https://zenn.dev/reyura/articles/660efff6ce6786",
+      "category": "valibot"
     }
   ]
 }
