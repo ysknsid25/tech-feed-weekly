@@ -29,6 +29,21 @@
       "title": "kubernetes/kubernetes の CI 基盤に deep dive！",
       "link": "https://developers.cyberagent.co.jp/blog/archives/61143/",
       "category": "company"
+    },
+    {
+      "title": "Honoと出会い、学び、OSSを公開する🔥",
+      "link": "https://zenn.dev/mini_bg_pro_n/articles/ae03a626482089",
+      "category": "hono"
+    },
+    {
+      "title": "簡単なところから始めてみるAI活用",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day21",
+      "category": "company"
+    },
+    {
+      "title": "LLMによって非定形の会話ログを価値あるFAQデータにする話",
+      "link": "https://www.m3tech.blog/entry/2025/12/21/100000",
+      "category": "company"
     }
   ]
 }
