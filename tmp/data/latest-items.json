@@ -79,6 +79,16 @@
       "title": "Claude Code の LSP サポート",
       "link": "https://azukiazusa.dev/blog/claude-code-lsp-support/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "生成AI時代に\"読書すること\"の価値を考える。 - 世界のねじを巻くブログ",
+      "link": "https://www.nejimakiblog.com/entry/ai-era-book-reading-meaning-dokusho",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "FFmpeg の progress を可視化する GraphQL と Satori",
+      "link": "https://zenn.dev/oymk/articles/083f92432649f7",
+      "category": "hono"
     }
   ]
 }
