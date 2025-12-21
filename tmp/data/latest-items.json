@@ -104,6 +104,11 @@
       "title": "Insights from 100 site speed reviews in 2025 | Web Performance Calendar",
       "link": "https://calendar.perfplanet.com/2025/insights-from-100-site-speed-reviews-in-2025/",
       "category": "jsts"
+    },
+    {
+      "title": "Google Workspace Studio でメールの感情分析結果をチャットで通知する",
+      "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-email-sentiment",
+      "category": "cloud"
     }
   ]
 }
