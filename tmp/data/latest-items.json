@@ -169,6 +169,21 @@
       "title": "[Bug]: High failure rate (~95%) with `useDatabase` and Cloudflare Hyperdrive compared to manual connection",
       "link": "https://github.com/nitrojs/nitro/issues/3893",
       "category": "unjs"
+    },
+    {
+      "title": "【TypeScript Only】Bun × Hono × Next.js で作るWebアプリ with E2E",
+      "link": "https://zenn.dev/moneyforward/articles/bc1798ff9b47c9",
+      "category": "hono"
+    },
+    {
+      "title": "fix: optionally track activerequests",
+      "link": "https://github.com/honojs/middleware/pull/1640",
+      "category": "hono"
+    },
+    {
+      "title": "PartyRock の保護：AWS WAF を利用した Amazon Bedrock エンドポイントを保護する方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/securing-partyrock-how-we-protect-amazon-bedrock-endpoints-using-aws-waf/",
+      "category": "cloud"
     }
   ]
 }
