@@ -44,6 +44,31 @@
       "title": "AI駆動QA基盤の紹介",
       "link": "https://developers.freee.co.jp/entry/ai-driven-qa-infrastructure",
       "category": "company"
+    },
+    {
+      "title": "“忘れられた技術”―P2Pファイル共有ソフト「BitTorrent」で今、何が起きているのか？　著作権侵害による開示請求急増の背景　今知っておくべきP2Pファイル共有ソフトの特徴と注意点",
+      "link": "https://internet.watch.impress.co.jp/docs/special/2069262.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "もはやセキュリティに「社内」と「社外」の境界はない。CSIRTとPSIRTを統合してひとつのチームへ - freee Developers Hub",
+      "link": "https://developers.freee.co.jp/entry/merge_csirt_and_psirt",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Kubernetes Operator と SwitchBot API で部屋の温度調節を自動化する",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61183/",
+      "category": "company"
+    },
+    {
+      "title": "The Tabelog Award：レストランの国民栄誉賞を目指して",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251222",
+      "category": "company"
+    },
+    {
+      "title": "Amazon GameLift Serversでプレイヤーレイテンシーを最適化する",
+      "link": "https://aws.amazon.com/jp/blogs/news/fine-tuning-player-latency-with-amazon-gamelift-servers/",
+      "category": "cloud"
     }
   ]
 }
