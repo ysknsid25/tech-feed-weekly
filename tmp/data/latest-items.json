@@ -184,6 +184,16 @@
       "title": "PartyRock の保護：AWS WAF を利用した Amazon Bedrock エンドポイントを保護する方法",
       "link": "https://aws.amazon.com/jp/blogs/news/securing-partyrock-how-we-protect-amazon-bedrock-endpoints-using-aws-waf/",
       "category": "cloud"
+    },
+    {
+      "title": "日本の会社員が発見、数学界を賑わせた「新図形」とは？　論文も5日間で執筆、arXivにも掲載",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/22/news034.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Hard refresh leading to 404 error when using vite --host with Vite + Hono + Cloudflare Worker template",
+      "link": "https://github.com/honojs/hono/issues/4585",
+      "category": "hono"
     }
   ]
 }
