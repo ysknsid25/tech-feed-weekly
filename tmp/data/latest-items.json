@@ -149,6 +149,26 @@
       "title": "Datadog DASH NYC 登壇と自動運転 Waymo 視察",
       "link": "https://tech.newmo.me/entry/2025/12/22/140000",
       "category": "company"
+    },
+    {
+      "title": "Japan Dashboard（経済・財政・人口と暮らしに関するダッシュボード）とデータカタログ（2025年7月公開）",
+      "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/mieruka/jd_top/index.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "週刊AWS – 2025/12/15週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20251215/",
+      "category": "cloud"
+    },
+    {
+      "title": "最後の砦から越境するQAエンジニアとは",
+      "link": "https://findy.connpass.com/event/376692/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "[Bug]: High failure rate (~95%) with `useDatabase` and Cloudflare Hyperdrive compared to manual connection",
+      "link": "https://github.com/nitrojs/nitro/issues/3893",
+      "category": "unjs"
     }
   ]
 }
