@@ -284,6 +284,16 @@
       "title": "AI SDK 6",
       "link": "https://vercel.com/blog/ai-sdk-6",
       "category": "cloud"
+    },
+    {
+      "title": "`buildSSG` is not applying Vite `resolve.alias`",
+      "link": "https://github.com/honojs/hono/issues/4589",
+      "category": "hono"
+    },
+    {
+      "title": "Fix ambiguous negation in objects guide",
+      "link": "https://github.com/open-circle/valibot/pull/1378",
+      "category": "valibot"
     }
   ]
 }
