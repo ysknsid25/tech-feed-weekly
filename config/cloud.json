@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/fine-tuning-player-latency-with-amazon-gamelift-servers/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/"
     },
     {
       "name": "SRE Weekly",

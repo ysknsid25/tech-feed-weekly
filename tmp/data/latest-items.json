@@ -69,6 +69,26 @@
       "title": "Amazon GameLift Serversでプレイヤーレイテンシーを最適化する",
       "link": "https://aws.amazon.com/jp/blogs/news/fine-tuning-player-latency-with-amazon-gamelift-servers/",
       "category": "cloud"
+    },
+    {
+      "title": "Mermaid x AST x go:generate = コードとドキュメントの完全同期への道（完結編）",
+      "link": "https://developersblog.dmm.com/entry/2025/12/22/110000",
+      "category": "company"
+    },
+    {
+      "title": "インターン生によるレポート記事一覧（2025年度）",
+      "link": "https://techblog.lycorp.co.jp/ja/20251222b",
+      "category": "company"
+    },
+    {
+      "title": "chore(ua-blocker): update robots.json from upstream",
+      "link": "https://github.com/honojs/middleware/pull/1643",
+      "category": "hono"
+    },
+    {
+      "title": "Amazon S3 Tables のレプリケーションサポートと Intelligent-Tiering の発表",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/",
+      "category": "cloud"
     }
   ]
 }
