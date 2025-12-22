@@ -89,6 +89,26 @@
       "title": "Amazon S3 Tables のレプリケーションサポートと Intelligent-Tiering の発表",
       "link": "https://aws.amazon.com/jp/blogs/news/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/",
       "category": "cloud"
+    },
+    {
+      "title": "SRE Weekly Issue #502",
+      "link": "https://sreweekly.com/sre-weekly-issue-502/",
+      "category": "cloud"
+    },
+    {
+      "title": "TSKaigi 2026 スポンサー募集開始のお知らせ",
+      "link": "https://tskaigi.hatenablog.com/entry/2025/12/22/121350",
+      "category": "jsts"
+    },
+    {
+      "title": "GitHub Actionsにおけるrunnerのパフォーマンス比較(Disk I/O編) - 2026年GitHub Actions料金改定を見据えた最適解を添えて -",
+      "link": "https://developer.hatenastaff.com/entry/2025/12/22/123543",
+      "category": "company"
+    },
+    {
+      "title": "`defineRouteMeta` excludes falsy enum values ​​from OpenAPI definition",
+      "link": "https://github.com/nitrojs/nitro/issues/3892",
+      "category": "unjs"
     }
   ]
 }
