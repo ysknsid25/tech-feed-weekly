@@ -294,6 +294,11 @@
       "title": "Fix ambiguous negation in objects guide",
       "link": "https://github.com/open-circle/valibot/pull/1378",
       "category": "valibot"
+    },
+    {
+      "title": "fix: Add missing export for isbn action",
+      "link": "https://github.com/open-circle/valibot/pull/1379",
+      "category": "valibot"
     }
   ]
 }
