@@ -214,6 +214,26 @@
       "title": "始まりは「組織長の号令」？それとも「社内チャットでの募集」？ 10X導入の入り口は違っても、目指す場所は同じだった話",
       "link": "https://zenn.dev/google_cloud_jp/articles/71e6bc60ac9c39",
       "category": "cloud"
+    },
+    {
+      "title": "Wrapping Up 2025 | Nx Blog",
+      "link": "https://nx.dev/blog/wrapping-up-2025",
+      "category": "jsts"
+    },
+    {
+      "title": "工場自動化のモダナイゼーションへの挑戦 ～ソフトウェアエンジニアがつくる製造DXの未来～",
+      "link": "https://findy.connpass.com/event/378347/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Function start type now available in Runtime Logs",
+      "link": "https://vercel.com/changelog/function-start-type-now-available-in-runtime-logs",
+      "category": "cloud"
+    },
+    {
+      "title": "NVFP4: 4ビットの浮動小数点でLLMを学習する仕組み",
+      "link": "https://www.m3tech.blog/entry/4bit_float_llm",
+      "category": "company"
     }
   ]
 }
