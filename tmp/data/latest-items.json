@@ -109,6 +109,26 @@
       "title": "`defineRouteMeta` excludes falsy enum values ​​from OpenAPI definition",
       "link": "https://github.com/nitrojs/nitro/issues/3892",
       "category": "unjs"
+    },
+    {
+      "title": "Nano Banana Pro で ストーリー漫画の作成を試す｜npaka",
+      "link": "https://note.com/npaka/n/n5e7f167c9bf8",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AIを活用したドキュメント執筆技術｜michiomochi",
+      "link": "https://note.com/michiomochi/n/nffa93191b5e9",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "今年使ってみて良かった AWS のモニタリング、オブザーバビリティ機能ベスト3 | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/aws-observability-my-best3",
+      "category": "jsts"
+    },
+    {
+      "title": "自然言語でクエリもできる AlloyDB AI の機能の紹介",
+      "link": "https://zenn.dev/google_cloud_jp/articles/991e53fdef628f",
+      "category": "cloud"
     }
   ]
 }
