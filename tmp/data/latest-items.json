@@ -279,6 +279,11 @@
       "title": "docs: provide ai agent guide",
       "link": "https://github.com/nitrojs/nitro/pull/3896",
       "category": "unjs"
+    },
+    {
+      "title": "AI SDK 6",
+      "link": "https://vercel.com/blog/ai-sdk-6",
+      "category": "cloud"
     }
   ]
 }
