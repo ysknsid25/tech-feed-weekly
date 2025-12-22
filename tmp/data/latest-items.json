@@ -254,6 +254,21 @@
       "title": "Google Workspace Studio でチャットのログを Google Docs に記録する",
       "link": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-chat-log",
       "category": "cloud"
+    },
+    {
+      "title": "「バザールでござーる」あと1年でサヨナラでござーる　35周年の節目に引退へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/22/news121.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Build a dinosaur runner game with Deno, pt. 3 | Deno",
+      "link": "https://deno.com/blog/build-a-game-with-deno-3",
+      "category": "jsts"
+    },
+    {
+      "title": "fix(openapi): only filter `undefined` from array nodes",
+      "link": "https://github.com/nitrojs/nitro/pull/3895",
+      "category": "unjs"
     }
   ]
 }

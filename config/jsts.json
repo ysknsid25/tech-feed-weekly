@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://nx.dev/blog/wrapping-up-2025"
+      "latestLink": "https://deno.com/blog/build-a-game-with-deno-3"
     },
     {
       "name": "TSKaigi",
