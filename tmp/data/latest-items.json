@@ -194,6 +194,26 @@
       "title": "Hard refresh leading to 404 error when using vite --host with Vite + Hono + Cloudflare Worker template",
       "link": "https://github.com/honojs/hono/issues/4585",
       "category": "hono"
+    },
+    {
+      "title": "Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート",
+      "link": "https://www.publickey1.jp/blog/25/anthropicaiagent_skillsvs_codecursor.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Windows 11、更新プログラムの影響でメモリリークの不具合か",
+      "link": "https://news.mynavi.jp/techplus/article/20251219-3839527/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "React未経験者がチャレンジするHono + htmx + Cloudflare ①",
+      "link": "https://zenn.dev/noknk/articles/4ab39063ea6045",
+      "category": "hono"
+    },
+    {
+      "title": "始まりは「組織長の号令」？それとも「社内チャットでの募集」？ 10X導入の入り口は違っても、目指す場所は同じだった話",
+      "link": "https://zenn.dev/google_cloud_jp/articles/71e6bc60ac9c39",
+      "category": "cloud"
     }
   ]
 }
