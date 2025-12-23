@@ -89,6 +89,21 @@
       "title": "LLMはバンディット問題を解けるか",
       "link": "https://developers.cyberagent.co.jp/blog/archives/61239/",
       "category": "company"
+    },
+    {
+      "title": "Amazon RDS for MySQL と Amazon Aurora MySQL で高速な InnoDB パージを実現する",
+      "link": "https://aws.amazon.com/jp/blogs/news/achieve-a-high-speed-innodb-purge-on-amazon-rds-for-mysql-and-amazon-aurora-mysql/",
+      "category": "cloud"
+    },
+    {
+      "title": "Spec Kitを用いた仕様駆動開発（SDD）での開発フローの紹介",
+      "link": "https://zenn.dev/mixi/articles/b4b62dc5cc7a1d",
+      "category": "company"
+    },
+    {
+      "title": "最後の砦から越境するQAエンジニアとは",
+      "link": "https://findy.connpass.com/event/376692/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }

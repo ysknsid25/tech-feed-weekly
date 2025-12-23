@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/securing-partyrock-how-we-protect-amazon-bedrock-endpoints-using-aws-waf/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/achieve-a-high-speed-innodb-purge-on-amazon-rds-for-mysql-and-amazon-aurora-mysql/"
     },
     {
       "name": "SRE Weekly",
