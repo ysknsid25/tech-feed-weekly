@@ -169,6 +169,21 @@
       "title": "パスワードはとにかく長ければ良い　「新常識」をNISTガイドラインで確認する",
       "link": "https://www.watch.impress.co.jp/docs/topic/2071110.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ストーマ（人工肛門）とわたくし（出会い編）",
+      "link": "https://blog.tinect.jp/?p=90585",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore: upgrade vitest to v4",
+      "link": "https://github.com/honojs/middleware/pull/1651",
+      "category": "hono"
+    },
+    {
+      "title": "Java 開発者向け Kotlin 入門ガイド",
+      "link": "https://blog.jetbrains.com/ja/kotlin/2025/12/getting-started-with-kotlin-for-java-developers/",
+      "category": "kotlin"
     }
   ]
 }
