@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "title": "AI活用100本ノック（DeNA）",
+      "link": "https://downloads.ctfassets.net/7mrdlclm9xss/m7XsAz2M3bT8WoDrfmYn3/8ee77c25f48de5dab3b792b428df5495/AI_100tips_slide.pdf",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "勝手に輝いていた増田ブコメ大賞2025 - 誰かの肩の上",
+      "link": "https://daydollarbotch.hatenablog.com/entry/2025/12/23/194714",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~ - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/blockly",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「周囲の女性が買おうとしてたらぜひ止めてあげてほしい」スリコの16500円タブレットを買ってみた人のレビューが出始めたが、予想通り特級呪物という厳しい評価となる",
+      "link": "https://togetter.com/li/2641953",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「PCが買えない年末」現実に。マウス、全PC製品の販売停止と初売り中止を発表",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2073586.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "GPT-1 から GPT-5.2 まで: LLM の特殊トークン徹底解説【2025年12月最新】",
+      "link": "https://blog.asial.co.jp/6429/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "パスワードはとにかく長ければ良い　「新常識」をNISTガイドラインで確認する",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2071110.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「戦略・作戦・戦術」について ──戦略を語れと言われた気がするから、戦略を語ってみるぞ - フジイユウジ::ドットネット",
+      "link": "https://fujii-yuji.net/2025/12/23/002922",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ストーマ（人工肛門）とわたくし（出会い編）",
+      "link": "https://blog.tinect.jp/?p=90585",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MG-DXにおけるノーコードE2EテストツールMabl導入の取り組み",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61210/",
+      "category": "company"
+    },
+    {
+      "title": "Since PR #4393, success response types can no longer be resolved without explicit status/ok checks",
+      "link": "https://github.com/honojs/hono/issues/4590",
+      "category": "hono"
+    }
+  ]
+}
