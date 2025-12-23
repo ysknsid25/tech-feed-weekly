@@ -134,6 +134,21 @@
       "title": "Amazon Bedrock は、新しい Mistral Large 3 モデルと Ministral 3 モデルを含む 18 のフルマネージドオープンウェイトモデルを追加します",
       "link": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-adds-fully-managed-open-weight-models/",
       "category": "cloud"
+    },
+    {
+      "title": "AI で日本語の長文を校正する - 山下泰平の趣味の方法",
+      "link": "https://cocolog-nifty.hatenablog.com/entry/2025/12/22/124436",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "In server side, the timeout setting is invalid, and the request cannot be aborted after the timeout.",
+      "link": "https://github.com/unjs/ofetch/issues/532",
+      "category": "unjs"
+    },
+    {
+      "title": "Version Packages",
+      "link": "https://github.com/honojs/middleware/pull/1650",
+      "category": "hono"
     }
   ]
 }
