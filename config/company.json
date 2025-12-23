@@ -40,7 +40,7 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/ai-driven-qa-infrastructure"
+      "latestLink": "https://developers.freee.co.jp/entry/understanding-complex-domain-with-diagrams"
     },
     {
       "name": "Cyber Agent Tech Blog",
@@ -88,7 +88,7 @@
       "name": "newmo",
       "type": "hatena",
       "feedUrl": "https://tech.newmo.me",
-      "latestLink": "https://tech.newmo.me/entry/2025/12/22/140000"
+      "latestLink": "https://tech.newmo.me/entry/2025/12/23/090000"
     }
   ]
 }

@@ -39,6 +39,21 @@
       "title": "【TypeScript Only】Bun × Hono × Next.js で作るWebアプリ with E2E",
       "link": "https://zenn.dev/moneyforward/articles/bc1798ff9b47c9",
       "category": "hono"
+    },
+    {
+      "title": "新卒がfreee会計の開発で学んだ「図解」という武器",
+      "link": "https://developers.freee.co.jp/entry/understanding-complex-domain-with-diagrams",
+      "category": "company"
+    },
+    {
+      "title": "あなたが支払ったタクシー料金は、どうやって乗務員の給料になるのか",
+      "link": "https://tech.newmo.me/entry/2025/12/23/090000",
+      "category": "company"
+    },
+    {
+      "title": "Malicious Chrome Extensions “Phantom Shuttle” Masquerade as a VPN to Intercept Traffic and Exfiltrate Credentials | Socket",
+      "link": "https://socket.dev/blog/malicious-chrome-extensions-phantom-shuttle",
+      "category": "jsts"
     }
   ]
 }
