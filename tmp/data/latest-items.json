@@ -64,6 +64,31 @@
       "title": "画像生成AI「Nano Banana Pro」で判明した“ストーリーボード革命” (1/5)",
       "link": "https://ascii.jp/elem/000/004/361/4361720/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Vertex AI Vector Search 2.0 登場 ―― ANN 特化から「データストア統合型」の包括的な検索基盤へ",
+      "link": "https://zenn.dev/google_cloud_jp/articles/vector-search-2-0-intro",
+      "category": "cloud"
+    },
+    {
+      "title": "iOS 26 で SwiftUI の ナビゲーションが壊れた - 非推奨 API が抱えていたリスク -  | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/23/100000",
+      "category": "jsts"
+    },
+    {
+      "title": "1ヶ月インターンのロードマップ設計 〜メンターとしての工夫〜",
+      "link": "https://developersblog.dmm.com/entry/2025/12/23/110000",
+      "category": "company"
+    },
+    {
+      "title": "フロントエンドに新たな灯がともる一日！フロントエンドカンファレンス関西2025協賛レポート＆AI利活用サーベイ紹介",
+      "link": "https://techblog.lycorp.co.jp/ja/20251223b",
+      "category": "company"
+    },
+    {
+      "title": "LLMはバンディット問題を解けるか",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61239/",
+      "category": "company"
     }
   ]
 }
