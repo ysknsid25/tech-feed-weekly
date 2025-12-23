@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-adds-fully-managed-open-weight-models/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/from-2d-to-3d-building-a-scalable-human-mesh-recovery-pipeline-with-amazon-sagemaker-ai/"
     },
     {
       "name": "SRE Weekly",
