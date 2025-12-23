@@ -184,6 +184,11 @@
       "title": "Java 開発者向け Kotlin 入門ガイド",
       "link": "https://blog.jetbrains.com/ja/kotlin/2025/12/getting-started-with-kotlin-for-java-developers/",
       "category": "kotlin"
+    },
+    {
+      "title": "コロナとともに入社した私が体験した、「営業現場のリアル」",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251223",
+      "category": "company"
     }
   ]
 }
