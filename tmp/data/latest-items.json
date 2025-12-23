@@ -204,6 +204,16 @@
       "title": "「周囲の女性が買おうとしてたらぜひ止めてあげてほしい」スリコの16500円タブレットを買ってみた人のレビューが出始めたが、予想通り特級呪物という厳しい評価となる",
       "link": "https://togetter.com/li/2641953",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Fixing the URL params performance penalty | Web Performance Calendar",
+      "link": "https://calendar.perfplanet.com/2025/fixing-the-url-params-performance-penalty/",
+      "category": "jsts"
+    },
+    {
+      "title": "Fix ambiguous negation in objects guide",
+      "link": "https://github.com/open-circle/valibot/pull/1378",
+      "category": "valibot"
     }
   ]
 }
