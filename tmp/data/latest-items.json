@@ -164,6 +164,11 @@
       "title": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~",
       "link": "https://www.m3tech.blog/entry/blockly",
       "category": "company"
+    },
+    {
+      "title": "パスワードはとにかく長ければ良い　「新常識」をNISTガイドラインで確認する",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2071110.html",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
