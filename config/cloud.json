@@ -10,7 +10,7 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/vector-search-2-0-intro"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/google-workspace-studio-daily-schedule"
     },
     {
       "name": "Vercel",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/achieve-a-high-speed-innodb-purge-on-amazon-rds-for-mysql-and-amazon-aurora-mysql/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-adds-fully-managed-open-weight-models/"
     },
     {
       "name": "SRE Weekly",
