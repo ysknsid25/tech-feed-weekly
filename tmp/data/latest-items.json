@@ -224,6 +224,16 @@
       "title": "TTFB doesn’t mean what you think it means | Web Performance Calendar",
       "link": "https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means/",
       "category": "jsts"
+    },
+    {
+      "title": "LangGraphを使って障害対応を自動化したい",
+      "link": "https://zenn.dev/mixi/articles/36fafce414f053",
+      "category": "company"
+    },
+    {
+      "title": "Toggle `position: sticky` to `position: fixed` on Scroll | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/toggle-position-sticky-to-position-fixed-on-scroll/",
+      "category": "jsts"
     }
   ]
 }
