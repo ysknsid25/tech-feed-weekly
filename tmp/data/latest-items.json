@@ -234,6 +234,16 @@
       "title": "Toggle `position: sticky` to `position: fixed` on Scroll | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/toggle-position-sticky-to-position-fixed-on-scroll/",
       "category": "jsts"
+    },
+    {
+      "title": "これからメールサーバをつくるならStalwart - Tomohisa Oda",
+      "link": "https://tomohisaoda.com/blog/building-a-modern-mail-server-with-stalwart",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "React周りの色々なメタフレームワーク等を触った浅い感想2024, 2025",
+      "link": "https://zenn.dev/curry_battle/articles/81deda01d2e37e",
+      "category": "hono"
     }
   ]
 }
