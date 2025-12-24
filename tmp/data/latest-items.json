@@ -64,6 +64,16 @@
       "title": "Quoting Salvatore Sanfilippo | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2025/Dec/23/salvatore-sanfilippo/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "Rivian と Volkswagen Technology Group が Amazon Kinesis Video Streams で構築したリアルタイム車両セキュリティ",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-rivian-and-volkswagen-technology-group-built-real-time-vehicle-security-with-amazon-kinesis-video-streams/",
+      "category": "cloud"
+    },
+    {
+      "title": "温故知新。未来を創る、QAエンジニアの軌跡。",
+      "link": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day24",
+      "category": "company"
     }
   ]
 }

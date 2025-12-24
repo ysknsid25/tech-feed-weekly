@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/from-2d-to-3d-building-a-scalable-human-mesh-recovery-pipeline-with-amazon-sagemaker-ai/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/how-rivian-and-volkswagen-technology-group-built-real-time-vehicle-security-with-amazon-kinesis-video-streams/"
     },
     {
       "name": "SRE Weekly",
