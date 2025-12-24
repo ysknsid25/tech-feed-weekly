@@ -179,6 +179,16 @@
       "title": "テキストエディタで愛用しているカスタムショートカットたち",
       "link": "https://tech.newmo.me/entry/text-editor-daisuki",
       "category": "company"
+    },
+    {
+      "title": "ビジュアル正規表現エディタ",
+      "link": "https://hi-king.github.io/visual_regexp_web/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(dependabot): group react dependencies",
+      "link": "https://github.com/honojs/middleware/pull/1653",
+      "category": "hono"
     }
   ]
 }
