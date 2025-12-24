@@ -99,6 +99,16 @@
       "title": "変わらないサービスから、変えていけるサービスへ ──「そのままにしない」を続けてきた4年半 | PR TIMES 開発者ブログ",
       "link": "https://developers.prtimes.jp/2025/12/24/cto_activities_2025/",
       "category": "jsts"
+    },
+    {
+      "title": "SFA環境を1つのSalesforceに統合する際のデータ移行時に考慮したこと | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2025/12/24/110535",
+      "category": "jsts"
+    },
+    {
+      "title": "人に依存しないCRMによりEC事業者のLTV最大化を実現  Amazon Bedrock AgentCoreを活用したAIオートパイロット型CRM開発事例",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-dma/",
+      "category": "cloud"
     }
   ]
 }

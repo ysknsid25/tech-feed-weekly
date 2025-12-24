@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/how-rivian-and-volkswagen-technology-group-built-real-time-vehicle-security-with-amazon-kinesis-video-streams/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/genai-case-study-dma/"
     },
     {
       "name": "SRE Weekly",
