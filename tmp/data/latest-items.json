@@ -204,6 +204,26 @@
       "title": "JetBrains AI の 2025 年を振り返る",
       "link": "https://blog.jetbrains.com/ja/blog/2025/12/24/jetbrains-ai-2025/",
       "category": "kotlin"
+    },
+    {
+      "title": "アップルが警告、Macでの「Chrome使用をやめよ」──その理由は？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/87899",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ToGの発想のもとに。AI時代に20周年の食べログが指し示す未来",
+      "link": "https://tech-blog.tabelog.com/entry/advent-calendar-20251225",
+      "category": "company"
+    },
+    {
+      "title": "Not able to use @hono/mcp with @modelcontextprotocol/sdk@latest",
+      "link": "https://github.com/honojs/middleware/issues/1658",
+      "category": "hono"
+    },
+    {
+      "title": "TTFB doesn’t mean what you think it means | Web Performance Calendar",
+      "link": "https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means/",
+      "category": "jsts"
     }
   ]
 }
