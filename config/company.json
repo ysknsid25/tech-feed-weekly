@@ -58,7 +58,7 @@
       "name": "m3 Tech Blog",
       "type": "hatena",
       "feedUrl": "https://www.m3tech.blog",
-      "latestLink": "https://www.m3tech.blog/entry/blockly"
+      "latestLink": "https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective"
     },
     {
       "name": "食べログ Tech Blog",
@@ -88,7 +88,7 @@
       "name": "newmo",
       "type": "hatena",
       "feedUrl": "https://tech.newmo.me",
-      "latestLink": "https://tech.newmo.me/entry/2025/12/23/090000"
+      "latestLink": "https://tech.newmo.me/entry/text-editor-daisuki"
     }
   ]
 }
