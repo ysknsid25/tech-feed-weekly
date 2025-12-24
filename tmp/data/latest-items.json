@@ -189,6 +189,16 @@
       "title": "chore(dependabot): group react dependencies",
       "link": "https://github.com/honojs/middleware/pull/1653",
       "category": "hono"
+    },
+    {
+      "title": "ChatGPT派だった私が、Google Workspace版Geminiに「降参」した理由｜近藤敏矢",
+      "link": "https://note.com/kondo_toshiya/n/n6c14c7eef4b4",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(deps-dev): bump capnweb from 0.2.0 to 0.3.0",
+      "link": "https://github.com/honojs/middleware/pull/1657",
+      "category": "hono"
     }
   ]
 }
