@@ -244,6 +244,11 @@
       "title": "React周りの色々なメタフレームワーク等を触った浅い感想2024, 2025",
       "link": "https://zenn.dev/curry_battle/articles/81deda01d2e37e",
       "category": "hono"
+    },
+    {
+      "title": "【TypeScript Only】Bun × Hono × Next.js で作るWebアプリ with E2E",
+      "link": "https://zenn.dev/moneyforward/articles/bc1798ff9b47c9",
+      "category": "hono"
     }
   ]
 }
