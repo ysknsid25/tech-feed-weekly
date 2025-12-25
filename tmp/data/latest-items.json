@@ -234,6 +234,21 @@
       "title": "feat(ssg): add redirect plugin",
       "link": "https://github.com/honojs/hono/pull/4599",
       "category": "hono"
+    },
+    {
+      "title": "職場でのAI活用事例を100個まとめたスライド、DeNAが無料公開で絶賛の声多数【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2074241.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "JetBrains Console  – AI の活用を支援する新しい法人向け管理ポータル",
+      "link": "https://blog.jetbrains.com/ja/blog/2025/12/25/jetbrains-console-ai/",
+      "category": "kotlin"
+    },
+    {
+      "title": "はてなブログのAndroidアプリのスムーズな無限スクロールを支える技術",
+      "link": "https://developer.hatenastaff.com/entry/2025/12/26/000000",
+      "category": "company"
     }
   ]
 }
