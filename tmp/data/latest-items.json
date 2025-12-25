@@ -254,6 +254,11 @@
       "title": "Middleware response type no longer merged with endpoint response type",
       "link": "https://github.com/honojs/hono/issues/4600",
       "category": "hono"
+    },
+    {
+      "title": "書籍『DNSがよくわかる教科書』が「よくわかる」のはなぜ？ あれから7年。DNSの来し方行く末を思う【Internet Week 2025】",
+      "link": "https://internet.watch.impress.co.jp/docs/event/2074303.html",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
