@@ -224,6 +224,11 @@
       "title": "perf(types): check `JSONPrimitive` first in `JSONParsed`",
       "link": "https://github.com/honojs/hono/pull/4596",
       "category": "hono"
+    },
+    {
+      "title": "2025年「はてなブックマーク年間ランキング」トップ100 - はてなニュース",
+      "link": "https://hatenanews.com/articles/hatenabookmark2025",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
