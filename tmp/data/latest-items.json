@@ -249,6 +249,11 @@
       "title": "はてなブログのAndroidアプリのスムーズな無限スクロールを支える技術",
       "link": "https://developer.hatenastaff.com/entry/2025/12/26/000000",
       "category": "company"
+    },
+    {
+      "title": "Middleware response type no longer merged with endpoint response type",
+      "link": "https://github.com/honojs/hono/issues/4600",
+      "category": "hono"
     }
   ]
 }
