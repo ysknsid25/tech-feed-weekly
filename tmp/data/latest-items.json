@@ -109,6 +109,31 @@
       "title": "Version Packages",
       "link": "https://github.com/honojs/middleware/pull/1660",
       "category": "hono"
+    },
+    {
+      "title": "某A省K重事案の真相をお前らに教える",
+      "link": "https://anond.hatelabo.jp/20251224215205",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat: Add MCP Proxy and Client in hono/mcp",
+      "link": "https://github.com/honojs/middleware/pull/1661",
+      "category": "hono"
+    },
+    {
+      "title": "refactor(types): don't use recursion in `IntersectNonAnyTypes`",
+      "link": "https://github.com/honojs/hono/pull/4593",
+      "category": "hono"
+    },
+    {
+      "title": "【初学者向け】「入門！生成 AI を使った検索システム」のハンズオンを改めて実施してみよう",
+      "link": "https://zenn.dev/google_cloud_jp/articles/56680c3694ef44",
+      "category": "cloud"
+    },
+    {
+      "title": "紅白vsプログラミング！？年末年始はプログラミングクイズで過ごしませんか",
+      "link": "https://www.m3tech.blog/entry/crazy-programming",
+      "category": "company"
     }
   ]
 }
