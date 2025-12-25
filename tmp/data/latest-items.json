@@ -154,6 +154,21 @@
       "title": "BigQueryで毎月数十TB増えるセキュリティログのストレージコストを60％削減した方法",
       "link": "https://developersblog.dmm.com/entry/2025/12/25/140000",
       "category": "company"
+    },
+    {
+      "title": "はてな民、逆張りが過ぎないかって話。 高市叩きが当たり前みたいになって..",
+      "link": "https://anond.hatelabo.jp/20251225072754",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore: update url",
+      "link": "https://github.com/nitrojs/nitro/pull/3898",
+      "category": "unjs"
+    },
+    {
+      "title": "Precisely を用いた Data Replication 構成例",
+      "link": "https://aws.amazon.com/jp/blogs/news/data-replication-sample-using-precisely/",
+      "category": "cloud"
     }
   ]
 }

@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-connect-enhances-flow-modules-with-3-powerful-new-capabilities/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/data-replication-sample-using-precisely/"
     },
     {
       "name": "SRE Weekly",
