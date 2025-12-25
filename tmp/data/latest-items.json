@@ -219,6 +219,11 @@
       "title": "perf(types): reduce `Simplify` in `ToSchema`",
       "link": "https://github.com/honojs/hono/pull/4597",
       "category": "hono"
+    },
+    {
+      "title": "perf(types): check `JSONPrimitive` first in `JSONParsed`",
+      "link": "https://github.com/honojs/hono/pull/4596",
+      "category": "hono"
     }
   ]
 }
