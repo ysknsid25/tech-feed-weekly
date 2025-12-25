@@ -16,7 +16,7 @@
       "name": "一休.com Developers Blog",
       "type": "hatena",
       "feedUrl": "https://user-first.ikyu.co.jp",
-      "latestLink": "https://user-first.ikyu.co.jp/entry/corprate-it-2025"
+      "latestLink": "https://user-first.ikyu.co.jp/entry/2025/12/25/083605"
     },
     {
       "name": "DMM Tech Blog",
@@ -40,13 +40,13 @@
       "name": "freee Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.freee.co.jp/rss",
-      "latestLink": "https://developers.freee.co.jp/entry/ai-driven-development-2025-report"
+      "latestLink": "https://developers.freee.co.jp/entry/freee-qa-advent-calendar2025-day25"
     },
     {
       "name": "Cyber Agent Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://developers.cyberagent.co.jp/blog/feed/",
-      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/61210/"
+      "latestLink": "https://developers.cyberagent.co.jp/blog/archives/60672/"
     },
     {
       "name": "メルカリ Tech Blog",
