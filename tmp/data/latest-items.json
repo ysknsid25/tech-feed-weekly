@@ -134,6 +134,16 @@
       "title": "紅白vsプログラミング！？年末年始はプログラミングクイズで過ごしませんか",
       "link": "https://www.m3tech.blog/entry/crazy-programming",
       "category": "company"
+    },
+    {
+      "title": "RDS の CPU 使用率上昇に対する原因調査と改善対応 | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2025/12/25/rds-cpu-usage-investigation-and-optimization/",
+      "category": "jsts"
+    },
+    {
+      "title": "Bitcoin MCPとStrands Agentを使ってBitcoin AIエージェントを作ろう！",
+      "link": "https://zenn.dev/mashharuki/articles/bitcoin_agent-1",
+      "category": "hono"
     }
   ]
 }
