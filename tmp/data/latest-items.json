@@ -189,6 +189,36 @@
       "title": "refactor(types): optimize `MergePath`",
       "link": "https://github.com/honojs/hono/pull/4595",
       "category": "hono"
+    },
+    {
+      "title": "25年愛するお絵かき掲示板のために、54歳でコードを書き始めた。Javaアプレット廃止に抗って【フォーカス】 レバテックラボ（レバテックLAB）",
+      "link": "https://levtech.jp/media/article/focus/detail_776/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "NotebookLMで60ページ超の登壇スライド作成してみた - Qiita",
+      "link": "https://qiita.com/simdroid/items/236886451b6aef7162b5",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "みのもんたさん AIで元日番組に - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6563601",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ABEMA 広告配信プラットフォーム強化における移設戦略とハイライト",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61355/",
+      "category": "company"
+    },
+    {
+      "title": "東京海上HD、DeNAのAIガバナンス戦略「AI Security Conference」",
+      "link": "https://findy.connpass.com/event/379829/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "perf(types): reduce `Simplify` in `ToSchema`",
+      "link": "https://github.com/honojs/hono/pull/4597",
+      "category": "hono"
     }
   ]
 }
