@@ -229,6 +229,11 @@
       "title": "2025年「はてなブックマーク年間ランキング」トップ100 - はてなニュース",
       "link": "https://hatenanews.com/articles/hatenabookmark2025",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat(ssg): add redirect plugin",
+      "link": "https://github.com/honojs/hono/pull/4599",
+      "category": "hono"
     }
   ]
 }
