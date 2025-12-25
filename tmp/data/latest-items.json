@@ -169,6 +169,16 @@
       "title": "Precisely を用いた Data Replication 構成例",
       "link": "https://aws.amazon.com/jp/blogs/news/data-replication-sample-using-precisely/",
       "category": "cloud"
+    },
+    {
+      "title": "【高校生が奮闘】デジタル推進委員の取組に密着 | デジタル庁ニュース一覧",
+      "link": "https://digital-agency-news.digital.go.jp/articles/2025-12-25",
+      "category": "jsts"
+    },
+    {
+      "title": "AWS AI League: モデルカスタマイゼーションとエージェント対決",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-ai-league-model-customization-and-agentic-showdown/",
+      "category": "cloud"
     }
   ]
 }
