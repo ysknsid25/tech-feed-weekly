@@ -184,6 +184,11 @@
       "title": "マイクロソフトの新しい日本語入力ソフト「Copilot Keyboard」はキュートで賢い／ベータ版として提供中【レビュー】",
       "link": "https://forest.watch.impress.co.jp/docs/review/2073660.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "refactor(types): optimize `MergePath`",
+      "link": "https://github.com/honojs/hono/pull/4595",
+      "category": "hono"
     }
   ]
 }
