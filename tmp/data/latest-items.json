@@ -189,6 +189,11 @@
       "title": "Revisiting HTML streaming for modern web performance | Web Performance Calendar",
       "link": "https://calendar.perfplanet.com/2025/revisiting-html-streaming-for-modern-web-performance/",
       "category": "jsts"
+    },
+    {
+      "title": "Custom fetch server 404 responses are discarded",
+      "link": "https://github.com/nitrojs/nitro/issues/3900",
+      "category": "unjs"
     }
   ]
 }
