@@ -169,6 +169,16 @@
       "title": "大規模サービスのマイクロサービス移行を SRE 視点で振り返ってみる",
       "link": "https://developers.cyberagent.co.jp/blog/archives/61461/",
       "category": "company"
+    },
+    {
+      "title": "FF14の便利ツールを開発したので語ってみる",
+      "link": "https://zenn.dev/phantoml4rd/articles/ae466c16e44cf8",
+      "category": "hono"
+    },
+    {
+      "title": "VPoE1年目の挑戦と2025年の開発部の変化を振り返る | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2025/12/26/vpoe2025/",
+      "category": "jsts"
     }
   ]
 }
