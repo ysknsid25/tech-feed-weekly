@@ -84,6 +84,11 @@
       "title": "【ElysiaJS】Honoからの移行でハマった！Middlewareとスコープレベルの重要性",
       "link": "https://zenn.dev/sc30gsw/articles/50e7bd7fe774b7",
       "category": "hono"
+    },
+    {
+      "title": "Bitcoin MCPとStrands Agentを使ってBitcoin AIエージェントを作ろう！",
+      "link": "https://zenn.dev/mashharuki/articles/bitcoin_agent-1",
+      "category": "hono"
     }
   ]
 }
