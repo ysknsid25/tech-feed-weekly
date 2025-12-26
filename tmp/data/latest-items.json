@@ -94,6 +94,21 @@
       "title": "QA部の生成AI活用実態調査～2025年秋期～",
       "link": "https://developersblog.dmm.com/entry/2025/12/26/140000",
       "category": "company"
+    },
+    {
+      "title": "自分の中で「録音」の意味が変わった1年 by西田 宗千佳",
+      "link": "https://av.watch.impress.co.jp/docs/topic/pb2025/2073370.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Autify上のE2EテストをPlaywrightに移行しました | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2025/12/26/autify-to-playwright/",
+      "category": "jsts"
+    },
+    {
+      "title": "feat(clerk): Add machine auth support",
+      "link": "https://github.com/honojs/middleware/pull/1664",
+      "category": "hono"
     }
   ]
 }
