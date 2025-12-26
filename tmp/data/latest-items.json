@@ -64,6 +64,16 @@
       "title": "フロントエンドの技術選定〜ピクシブ×findの事例に学ぶ〜",
       "link": "https://findy.connpass.com/event/379759/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "bug: fetchError and CSP",
+      "link": "https://github.com/honojs/hono/issues/4601",
+      "category": "hono"
+    },
+    {
+      "title": "「手作り RAG システム」で RAG の仕組みを学び直す",
+      "link": "https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6",
+      "category": "cloud"
     }
   ]
 }
