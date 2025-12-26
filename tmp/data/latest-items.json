@@ -109,6 +109,21 @@
       "title": "feat(clerk): Add machine auth support",
       "link": "https://github.com/honojs/middleware/pull/1664",
       "category": "hono"
+    },
+    {
+      "title": "Amazon CloudWatch RUM がモバイルアプリケーションモニタリングをサポート",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-cloudwatch-rum-supports-mobile-application-monitoring/",
+      "category": "cloud"
+    },
+    {
+      "title": "defineRouteMeta is ignored in nitro@fb6b85d (OpenAPI meta missing)",
+      "link": "https://github.com/nitrojs/nitro/issues/3899",
+      "category": "unjs"
+    },
+    {
+      "title": "AI・機械学習チーム Best Pull Request決定戦 2025",
+      "link": "https://www.m3tech.blog/entry/2025/12/26/170000",
+      "category": "company"
     }
   ]
 }
