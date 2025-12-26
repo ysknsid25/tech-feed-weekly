@@ -74,6 +74,16 @@
       "title": "「手作り RAG システム」で RAG の仕組みを学び直す",
       "link": "https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6",
       "category": "cloud"
+    },
+    {
+      "title": "お客様事例をベースとした金融アーキテクチャ解説を公開（金融リファレンスアーキテクチャ日本版 2025）",
+      "link": "https://aws.amazon.com/jp/blogs/news/fin-reference-arch-v1-6-case-study/",
+      "category": "cloud"
+    },
+    {
+      "title": "【ElysiaJS】Honoからの移行でハマった！Middlewareとスコープレベルの重要性",
+      "link": "https://zenn.dev/sc30gsw/articles/50e7bd7fe774b7",
+      "category": "hono"
     }
   ]
 }
