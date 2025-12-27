@@ -109,6 +109,16 @@
       "title": "Chrome DevTools for Debugging Web Performance | Web Performance Calendar",
       "link": "https://calendar.perfplanet.com/2025/chrome-devtools-for-debugging-web-performance/",
       "category": "jsts"
+    },
+    {
+      "title": "システムプログラミング入門としてのRust製スレッドスケジューラー - lapla.dev",
+      "link": "https://lapla.dev/posts/thread_sched_rust/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "FF14の便利ツールを開発したので語ってみる",
+      "link": "https://zenn.dev/phantoml4rd/articles/ae466c16e44cf8",
+      "category": "hono"
     }
   ]
 }
