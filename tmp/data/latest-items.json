@@ -124,6 +124,16 @@
       "title": "「OAuthは認可、OIDCは認証」という説明が人によりブレる理由とより理解を深めるために必要な考え方 - r-weblife",
       "link": "https://ritou.hatenablog.com/entry/2025/12/26/221852",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "2025年、AI時代の要件定義について考える - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/27/140231",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "to-json-schema: does not support transformations",
+      "link": "https://github.com/open-circle/valibot/issues/1381",
+      "category": "valibot"
     }
   ]
 }
