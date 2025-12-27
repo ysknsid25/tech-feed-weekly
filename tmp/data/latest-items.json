@@ -49,6 +49,11 @@
       "title": "textarea.my on GitHub | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "chore: add community-maintained extension package explanation",
+      "link": "https://github.com/honojs/middleware/pull/1665",
+      "category": "hono"
     }
   ]
 }
