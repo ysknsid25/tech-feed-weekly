@@ -54,6 +54,11 @@
       "title": "chore: add community-maintained extension package explanation",
       "link": "https://github.com/honojs/middleware/pull/1665",
       "category": "hono"
+    },
+    {
+      "title": "性別的に中立な代名詞示す新たな漢字、近くキーボードで入力可能になる見込み",
+      "link": "https://www.cnn.co.jp/world/35242138.html",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
