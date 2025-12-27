@@ -64,6 +64,21 @@
       "title": "2025年後半の振り返り | Memory ice cubes",
       "link": "https://leaysgur.github.io/posts/2025/12/27/155849/",
       "category": "jsts"
+    },
+    {
+      "title": "法廷のあの「高い場所」にいる奴ら、全員AIに変えてくれ",
+      "link": "https://anond.hatelabo.jp/20251226210222",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(eslint): suppress existing violations",
+      "link": "https://github.com/honojs/middleware/pull/1666",
+      "category": "hono"
+    },
+    {
+      "title": "Suspected memory leak issue",
+      "link": "https://github.com/honojs/hono/issues/4604",
+      "category": "hono"
     }
   ]
 }

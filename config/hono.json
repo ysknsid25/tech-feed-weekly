@@ -16,7 +16,7 @@
       "name": "Hono Middleware Issues",
       "type": "github-issues",
       "feedUrl": "honojs/middleware",
-      "latestLink": "https://github.com/honojs/middleware/pull/1665"
+      "latestLink": "https://github.com/honojs/middleware/pull/1666"
     },
     {
       "name": "Hono Starter Issues",
@@ -28,7 +28,7 @@
       "name": "Hono Issues",
       "type": "github-issues",
       "feedUrl": "honojs/hono",
-      "latestLink": "https://github.com/honojs/hono/issues/4601"
+      "latestLink": "https://github.com/honojs/hono/issues/4604"
     },
     {
       "name": "Hono CLI Issues",
