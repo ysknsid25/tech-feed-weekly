@@ -89,6 +89,16 @@
       "title": "All routes missing from production build in Vite 8 \u0026 rolldown-vite",
       "link": "https://github.com/honojs/honox/issues/349",
       "category": "hono"
+    },
+    {
+      "title": "エクセルのキモさ",
+      "link": "https://anond.hatelabo.jp/20251227182316",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「バイブコーディング」は崩壊する？　CursorのCEOが“AI丸投げ開発”に警告",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/27/news041.html",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
