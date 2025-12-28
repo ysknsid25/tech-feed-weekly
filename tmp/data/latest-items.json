@@ -64,6 +64,11 @@
       "title": "chore: upgrade hono to 4.11.3",
       "link": "https://github.com/honojs/middleware/pull/1668",
       "category": "hono"
+    },
+    {
+      "title": "2025 年に読んでよかった本",
+      "link": "https://azukiazusa.dev/blog/books-i-liked-in-2025/",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
