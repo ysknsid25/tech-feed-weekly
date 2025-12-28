@@ -109,6 +109,16 @@
       "title": "全人類に告ぐ！Chrome拡張を作れ！｜けいすけ",
       "link": "https://note.com/konho/n/nc338642fbcd8",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "エキスパートとしてのキャリア「技術に取り残される」 不安への処方箋",
+      "link": "https://findy.connpass.com/event/379263/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "honox createApp() vitest throws TypeError: (intermediate value).glob is not a function",
+      "link": "https://github.com/honojs/honox/issues/350",
+      "category": "hono"
     }
   ]
 }
