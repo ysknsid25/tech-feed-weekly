@@ -54,6 +54,16 @@
       "title": "chore(turbo): more build caching",
       "link": "https://github.com/honojs/middleware/pull/1667",
       "category": "hono"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3902",
+      "category": "unjs"
+    },
+    {
+      "title": "chore: upgrade hono to 4.11.3",
+      "link": "https://github.com/honojs/middleware/pull/1668",
+      "category": "hono"
     }
   ]
 }
