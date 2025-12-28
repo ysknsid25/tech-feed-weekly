@@ -84,6 +84,11 @@
       "title": "Substack Network error = security content they don't allow to be sent | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "Make to-json-schema tree-shakable",
+      "link": "https://github.com/open-circle/valibot/pull/1382",
+      "category": "valibot"
     }
   ]
 }
