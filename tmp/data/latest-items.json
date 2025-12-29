@@ -104,6 +104,11 @@
       "title": "ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話",
       "link": "https://www.gizmodo.jp/2025/12/clean-my-scattered-room-using-chatgpt-loi.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Broken types when I combining param and query or body",
+      "link": "https://github.com/honojs/hono/issues/4605",
+      "category": "hono"
     }
   ]
 }
