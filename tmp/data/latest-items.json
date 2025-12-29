@@ -34,6 +34,11 @@
       "title": "AWS Lambda から GKE への移行で遭遇した\"見えないボトルネック\"の正体と解決策 | LegalOn Technologies Engineering Blog",
       "link": "https://tech.legalforce.co.jp/entry/aws-lambda-to-gke",
       "category": "jsts"
+    },
+    {
+      "title": "SRE Weekly Issue #503",
+      "link": "https://sreweekly.com/sre-weekly-issue-503/",
+      "category": "cloud"
     }
   ]
 }
