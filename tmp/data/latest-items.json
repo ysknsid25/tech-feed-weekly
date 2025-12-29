@@ -94,6 +94,11 @@
       "title": "How I Write Custom Elements with lit-html | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/custom-elements-with-lit-html/",
       "category": "jsts"
+    },
+    {
+      "title": "Third Parties and Single Points of Failure | Web Performance Calendar",
+      "link": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/",
+      "category": "jsts"
     }
   ]
 }
