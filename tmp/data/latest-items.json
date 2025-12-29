@@ -59,6 +59,21 @@
       "title": "年末年始に「生成AI初心者」から一気に「上級者」に駆け上がりたい人のための記事ガイド｜KAJI | 梶谷健人",
       "link": "https://note.com/kajiken0630/n/n48db7c5ed54d",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MCP Server Update: AI Agents Can Now Access Semaphore Docs | Semaphore",
+      "link": "https://semaphore.io/blog/mcp-server-docs",
+      "category": "jsts"
+    },
+    {
+      "title": "Can't use optional dynamic import with Cloudflare presets",
+      "link": "https://github.com/nitrojs/nitro/issues/3903",
+      "category": "unjs"
+    },
+    {
+      "title": "「持ち運べる」ライセンスをどう活かす？ 今後のインフラ戦略と Google Cloud VMware Engine (GCVE) 選定の勘所",
+      "link": "https://zenn.dev/google_cloud_jp/articles/f72d420ac5b776",
+      "category": "cloud"
     }
   ]
 }
