@@ -149,6 +149,11 @@
       "title": "この一言だけでも、ギャルゲー世代の心に直撃するほどの破壊力がある",
       "link": "https://posfie.com/@xay6609025327/p/0N3wZUP",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "process static assets in parallel",
+      "link": "https://github.com/nitrojs/nitro/issues/3909",
+      "category": "unjs"
     }
   ]
 }
