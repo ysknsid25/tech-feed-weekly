@@ -109,6 +109,11 @@
       "title": "feat: ISO 4217 Currency Code",
       "link": "https://github.com/open-circle/valibot/pull/1383",
       "category": "valibot"
+    },
+    {
+      "title": "feat: ISO3166-1 Country Code",
+      "link": "https://github.com/open-circle/valibot/pull/1384",
+      "category": "valibot"
     }
   ]
 }
