@@ -54,6 +54,21 @@
       "title": "学園祭でDX部署を作ってこれまた死にかけた話",
       "link": "https://zenn.dev/soshosai_tech/articles/b157d8133d4d7e",
       "category": "hono"
+    },
+    {
+      "title": "格安VPS GreenCloud ミニレビュー",
+      "link": "https://portablecode.info/2025/12/27/vps-greencloud-review/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "2025-12-30のJS: Next.js 16.1、Vue 3.6.0 beta 1、CSS Wrapped 2025",
+      "link": "https://jser.info/2025/12/30/next.js-16.1-vue-3.6.0-beta-1-css-wrapped-2025/",
+      "category": "jsts"
+    },
+    {
+      "title": "自作AIエージェントに追加したAgent Skills その2",
+      "link": "https://zenn.dev/tkithrta/articles/0eb30b93408f0e",
+      "category": "hono"
     }
   ]
 }
