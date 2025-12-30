@@ -154,6 +154,16 @@
       "title": "process static assets in parallel",
       "link": "https://github.com/nitrojs/nitro/issues/3909",
       "category": "unjs"
+    },
+    {
+      "title": "chore(deps-dev): bump @conform-to/valibot from 1.14.1 to 1.15.1",
+      "link": "https://github.com/honojs/middleware/pull/1673",
+      "category": "hono"
+    },
+    {
+      "title": "fix: v2 process static assets in parallel #3909",
+      "link": "https://github.com/nitrojs/nitro/pull/3910",
+      "category": "unjs"
     }
   ]
 }
