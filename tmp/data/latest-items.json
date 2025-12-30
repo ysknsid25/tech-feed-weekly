@@ -164,6 +164,16 @@
       "title": "fix: v2 process static assets in parallel #3909",
       "link": "https://github.com/nitrojs/nitro/pull/3910",
       "category": "unjs"
+    },
+    {
+      "title": "最古の「プログラマ不要論」とAI時代の「プログラマ不要論」の共通点 - きしだのHatena",
+      "link": "https://nowokay.hatenablog.com/entry/2025/12/30/095337",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "perf: process static assets in parallel",
+      "link": "https://github.com/nitrojs/nitro/pull/3911",
+      "category": "unjs"
     }
   ]
 }
