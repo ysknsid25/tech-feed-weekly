@@ -34,6 +34,21 @@
       "title": "shot-scraper 1.9 | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2025/Dec/29/shot-scraper/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "2025年に使い始めて良かったツール10選 - Qiita",
+      "link": "https://qiita.com/takumi3488/items/3e398ae230e94144a20e",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "外見はロレックス、裏返すとApple Watch--異色の時計バンドが登場　富裕層に訴求",
+      "link": "https://japan.cnet.com/article/35242165/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix: pass cloudflare env \u0026 context in websocket context",
+      "link": "https://github.com/nitrojs/nitro/pull/3904",
+      "category": "unjs"
     }
   ]
 }
