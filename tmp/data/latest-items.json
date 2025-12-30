@@ -49,6 +49,11 @@
       "title": "fix: pass cloudflare env \u0026 context in websocket context",
       "link": "https://github.com/nitrojs/nitro/pull/3904",
       "category": "unjs"
+    },
+    {
+      "title": "学園祭でDX部署を作ってこれまた死にかけた話",
+      "link": "https://zenn.dev/soshosai_tech/articles/b157d8133d4d7e",
+      "category": "hono"
     }
   ]
 }
