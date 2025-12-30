@@ -94,6 +94,21 @@
       "title": "Suspected memory leak issue",
       "link": "https://github.com/honojs/hono/issues/4604",
       "category": "hono"
+    },
+    {
+      "title": "クラウドに依存しないミニAIチャットを作ってみた",
+      "link": "https://zenn.dev/shota_web305/articles/336f27a5ff5785",
+      "category": "hono"
+    },
+    {
+      "title": "Claude Code のツール検索ツールを有効にして MCP のトークン使用量を削減する | azukiazusa のテックブログ2",
+      "link": "https://azukiazusa.dev/blog/enable-claude-code-tool-search-to-reduce-mcp-token-usage",
+      "category": "jsts"
+    },
+    {
+      "title": "feat: ISO 4217 Currency Code",
+      "link": "https://github.com/open-circle/valibot/pull/1383",
+      "category": "valibot"
     }
   ]
 }
