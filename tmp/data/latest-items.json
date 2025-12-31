@@ -84,6 +84,11 @@
       "title": "css-modules-kit の内部設計: CSS Modules のパースについて | mizdra's blog",
       "link": "https://www.mizdra.net/entry/2025/12/31/144753",
       "category": "jsts"
+    },
+    {
+      "title": "test: add missing algorithm types in jwa.test.ts",
+      "link": "https://github.com/honojs/hono/pull/4607",
+      "category": "hono"
     }
   ]
 }
