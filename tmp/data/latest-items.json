@@ -104,6 +104,21 @@
       "title": "2025年のはてなスタッフのアウトプットまとめ",
       "link": "https://developer.hatenastaff.com/entry/2025/12/31/235900",
       "category": "company"
+    },
+    {
+      "title": "生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【備忘録】Windows11をオフライン環境でセットアップするときのおまじない - Qiita",
+      "link": "https://qiita.com/Blaster36/items/baa5f2eb92bffa735c55",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Hono SSG製のモンハンNowのTAサイトをLLMと共にリニューアル！ビルド時間は1/5、テストは整備され、デザインも良い感じに！",
+      "link": "https://zenn.dev/razokulover/articles/592fa88496c881",
+      "category": "hono"
     }
   ]
 }
