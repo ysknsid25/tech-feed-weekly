@@ -49,6 +49,16 @@
       "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 | The GitHub Blog",
       "link": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
       "category": "jsts"
+    },
+    {
+      "title": "Google Antigravityで作る初めての暗号資産bot",
+      "link": "https://zenn.dev/mashharuki/articles/antigravity-simple-bot_1",
+      "category": "hono"
+    },
+    {
+      "title": "Quoting Armin Ronacher | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2025/Dec/30/armin-ronacher/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
