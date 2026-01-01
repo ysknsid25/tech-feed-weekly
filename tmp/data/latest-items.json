@@ -59,6 +59,16 @@
       "title": "run task from command line",
       "link": "https://github.com/nitrojs/nitro/issues/3913",
       "category": "unjs"
+    },
+    {
+      "title": "fix(eslint-config): use correct export type",
+      "link": "https://github.com/honojs/middleware/pull/1675",
+      "category": "hono"
+    },
+    {
+      "title": "Suspected memory leak issue",
+      "link": "https://github.com/honojs/hono/issues/4604",
+      "category": "hono"
     }
   ]
 }
