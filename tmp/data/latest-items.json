@@ -79,6 +79,16 @@
       "title": "Obsidian+GPT: 抑うつ症状を前提としたタスク管理【2025-12-31】 - 二千三百五十五年",
       "link": "https://obsolete.hatenadiary.com/entry/2025/12/31/141424",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Register middleware after routing, routePath(c, -1) are error",
+      "link": "https://github.com/honojs/hono/issues/4609",
+      "category": "hono"
+    },
+    {
+      "title": "mubook-hon v2: EPUBビューアーをfoliate-jsに移行、Cloudflare Workersへ移行 | Web Scratch",
+      "link": "https://efcl.info/2026/01/01/mubook-hon-v2/",
+      "category": "jsts"
     }
   ]
 }
