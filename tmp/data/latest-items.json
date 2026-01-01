@@ -54,6 +54,11 @@
       "title": "What’s new in Svelte: January 2026 | Svelte blog",
       "link": "https://svelte.dev/blog/whats-new-in-svelte-january-2026",
       "category": "jsts"
+    },
+    {
+      "title": "run task from command line",
+      "link": "https://github.com/nitrojs/nitro/issues/3913",
+      "category": "unjs"
     }
   ]
 }
