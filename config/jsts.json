@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://frontendmasters.com/blog/preserve-state-while-moving-elements-in-the-dom/"
+      "latestLink": "https://svelte.dev/blog/whats-new-in-svelte-january-2026"
     },
     {
       "name": "TSKaigi",
