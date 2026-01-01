@@ -34,6 +34,21 @@
       "title": "シニアソフトウェアエンジニアになるためには",
       "link": "https://speakerdeck.com/kworkdev/to_be_a_senior_software_engineer",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "MacのJISキーボードで¥が\\に化けない問題を、今度こそ忘れないために書く - 理系学生日記",
+      "link": "https://kiririmode.hatenablog.jp/entry/20251230/17179246901338412328",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Preserve State While Moving Elements in the DOM | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/preserve-state-while-moving-elements-in-the-dom/",
+      "category": "jsts"
+    },
+    {
+      "title": "Build output should use the vite config server port by default",
+      "link": "https://github.com/nitrojs/nitro/issues/3912",
+      "category": "unjs"
     }
   ]
 }
