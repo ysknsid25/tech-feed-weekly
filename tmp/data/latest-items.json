@@ -109,6 +109,16 @@
       "title": "When setting this route meta, it prints \"undefined\" in the middleware",
       "link": "https://github.com/h3js/h3/issues/1270",
       "category": "unjs"
+    },
+    {
+      "title": "Geminiの「Gem」機能のTips集(2/3)：応用編（知識機能、ハルシネーション抑制、自己点検、引用マーカー排除）｜榎本大貴 / LITALICO研究所所長",
+      "link": "https://note.com/enomotod/n/n478915d143dd",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Cloudflare Workers AI × Hono × htmx で作るAIチャット【サンプルあり】",
+      "link": "https://zenn.dev/ao_4_ma/articles/7974e1fbe5ac4b",
+      "category": "hono"
     }
   ]
 }
