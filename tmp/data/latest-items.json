@@ -84,6 +84,16 @@
       "title": "Hono SSG製のモンハンNowのTAサイトをLLMと共にリニューアル！ビルド時間は1/5、テストは整備され、デザインも良い感じに！",
       "link": "https://zenn.dev/razokulover/articles/592fa88496c881",
       "category": "hono"
+    },
+    {
+      "title": "【Java】大量リクエスト処理をするために必要な技術 - Qiita",
+      "link": "https://qiita.com/SKY-HaYaTo/items/49fc74c0b99d4a911d36",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "honox createApp() vitest throws TypeError: (intermediate value).glob is not a function",
+      "link": "https://github.com/honojs/honox/issues/350",
+      "category": "hono"
     }
   ]
 }
