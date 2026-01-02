@@ -119,6 +119,11 @@
       "title": "Cloudflare Workers AI × Hono × htmx で作るAIチャット【サンプルあり】",
       "link": "https://zenn.dev/ao_4_ma/articles/7974e1fbe5ac4b",
       "category": "hono"
+    },
+    {
+      "title": "use same development server port for production",
+      "link": "https://github.com/nitrojs/nitro/issues/3912",
+      "category": "unjs"
     }
   ]
 }
