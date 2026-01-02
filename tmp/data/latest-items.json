@@ -104,6 +104,11 @@
       "title": "feat(client): avoid character classes in glob patterns for rolldown-vite",
       "link": "https://github.com/honojs/honox/pull/352",
       "category": "hono"
+    },
+    {
+      "title": "When setting this route meta, it prints \"undefined\" in the middleware",
+      "link": "https://github.com/h3js/h3/issues/1270",
+      "category": "unjs"
     }
   ]
 }
