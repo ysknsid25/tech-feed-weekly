@@ -16,7 +16,7 @@
       "name": "Hono Middleware Issues",
       "type": "github-issues",
       "feedUrl": "honojs/middleware",
-      "latestLink": "https://github.com/honojs/middleware/pull/1675"
+      "latestLink": "https://github.com/honojs/middleware/pull/1676"
     },
     {
       "name": "Hono Starter Issues",
@@ -40,7 +40,7 @@
       "name": "HonoX Issues",
       "type": "github-issues",
       "feedUrl": "honojs/honox",
-      "latestLink": "https://github.com/honojs/honox/issues/350"
+      "latestLink": "https://github.com/honojs/honox/pull/351"
     },
     {
       "name": "Hono Node Server Issues",

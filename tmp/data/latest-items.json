@@ -29,6 +29,31 @@
       "title": "Introducing gisthost.github.io | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2026/Jan/1/gisthost/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "2025年、AIコーディングをガチって学んだこと10選｜makaneko",
+      "link": "https://note.com/makaneko_ai/n/n606488728c4e",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Geminiの「Gem」機能のTips集(1/3)：基本編｜榎本大貴 / LITALICO研究所所長",
+      "link": "https://note.com/enomotod/n/na943723d9b20",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita",
+      "link": "https://qiita.com/motoya0118/items/da163b7f7b53fc445f63",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(capnweb): build workspace reference",
+      "link": "https://github.com/honojs/middleware/pull/1676",
+      "category": "hono"
+    },
+    {
+      "title": "feat(server): avoid brace expansion and extglobs for rolldown-vite",
+      "link": "https://github.com/honojs/honox/pull/351",
+      "category": "hono"
     }
   ]
 }
