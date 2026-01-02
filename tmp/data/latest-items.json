@@ -124,6 +124,11 @@
       "title": "use same development server port for production",
       "link": "https://github.com/nitrojs/nitro/issues/3912",
       "category": "unjs"
+    },
+    {
+      "title": "AIボットだけのSNSを作ってみたら…彼らはすぐに派閥を形成し、極端な意見を増幅させ、少数のエリート層が支配するようになった | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/researchers-ai-bots-social-media-network-experiment-toxic-a/",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
