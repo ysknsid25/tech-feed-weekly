@@ -94,6 +94,16 @@
       "title": "honox createApp() vitest throws TypeError: (intermediate value).glob is not a function",
       "link": "https://github.com/honojs/honox/issues/350",
       "category": "hono"
+    },
+    {
+      "title": "feat: added support for yarn catalogs",
+      "link": "https://github.com/honojs/middleware/pull/1674",
+      "category": "hono"
+    },
+    {
+      "title": "feat(client): avoid character classes in glob patterns for rolldown-vite",
+      "link": "https://github.com/honojs/honox/pull/352",
+      "category": "hono"
     }
   ]
 }
