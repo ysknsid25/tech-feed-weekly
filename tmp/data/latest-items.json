@@ -74,6 +74,16 @@
       "title": "Hono + Firebase FunctionsでRESTful APIを構築する",
       "link": "https://zenn.dev/t_kanazawa/articles/hono-functions-api",
       "category": "hono"
+    },
+    {
+      "title": "田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？",
+      "link": "https://www.gizmodo.jp/2026/01/rice-factory-0gi.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Hono SSG製のモンハンNowのTAサイトをLLMと共にリニューアル！ビルド時間は1/5、テストは整備され、デザインも良い感じに！",
+      "link": "https://zenn.dev/razokulover/articles/592fa88496c881",
+      "category": "hono"
     }
   ]
 }
