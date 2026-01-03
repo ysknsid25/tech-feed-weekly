@@ -114,6 +114,16 @@
       "title": "Gemini の参照ファイルに NotebookLM を指定する - Tbpgr Blog",
       "link": "https://tbpgr.hatenablog.com/entry/2025/12/20/025353",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Cloudflare Workers AI × Hono × htmx で作るAIチャット【サンプルあり】",
+      "link": "https://zenn.dev/ao_4_ma/articles/7974e1fbe5ac4b",
+      "category": "hono"
+    },
+    {
+      "title": "jotaiによるReact再入門",
+      "link": "https://zenn.dev/uhyo/books/learn-react-with-jotai",
+      "category": "famous"
     }
   ]
 }
