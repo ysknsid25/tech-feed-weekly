@@ -39,6 +39,11 @@
       "title": "【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita",
       "link": "https://qiita.com/motoya0118/items/da163b7f7b53fc445f63",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "nitro-nightly build crashes Start app in Bun monorepo",
+      "link": "https://github.com/nitrojs/nitro/issues/3915",
+      "category": "unjs"
     }
   ]
 }
