@@ -64,6 +64,11 @@
       "title": "chore(eslint): update suppressions",
       "link": "https://github.com/honojs/middleware/pull/1678",
       "category": "hono"
+    },
+    {
+      "title": "AIっぽくない実写風画像を作れる画像生成AI「Qwen-Image-2512」が登場、無料で使えて日本語での指示も可能",
+      "link": "https://gigazine.net/news/20260102-qwen-image-2512/",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
