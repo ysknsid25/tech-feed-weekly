@@ -129,6 +129,11 @@
       "title": "Island async component with Suspense causes fetch error on server side",
       "link": "https://github.com/honojs/honox/issues/353",
       "category": "hono"
+    },
+    {
+      "title": "serverFetch causes infinite loop (Maximum call stack size exceeded) when route doesn't exist",
+      "link": "https://github.com/nitrojs/nitro/issues/3916",
+      "category": "unjs"
     }
   ]
 }
