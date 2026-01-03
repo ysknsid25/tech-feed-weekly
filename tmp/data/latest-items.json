@@ -134,6 +134,11 @@
       "title": "serverFetch causes infinite loop (Maximum call stack size exceeded) when route doesn't exist",
       "link": "https://github.com/nitrojs/nitro/issues/3916",
       "category": "unjs"
+    },
+    {
+      "title": "Bug(optimize): Request body API removal affects outside of the handler",
+      "link": "https://github.com/honojs/cli/issues/64",
+      "category": "hono"
     }
   ]
 }
