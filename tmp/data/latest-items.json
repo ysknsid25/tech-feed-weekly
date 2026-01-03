@@ -44,6 +44,16 @@
       "title": "nitro-nightly build crashes Start app in Bun monorepo",
       "link": "https://github.com/nitrojs/nitro/issues/3915",
       "category": "unjs"
+    },
+    {
+      "title": "NotebookLM をソースとした Gemini の Gem で問題定義サポーターというツールを作った - Tbpgr Blog",
+      "link": "https://tbpgr.hatenablog.com/entry/2026/01/02/151033",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat: ISO3166 Country Code",
+      "link": "https://github.com/open-circle/valibot/pull/1384",
+      "category": "valibot"
     }
   ]
 }
