@@ -124,6 +124,11 @@
       "title": "jotaiによるReact再入門",
       "link": "https://zenn.dev/uhyo/books/learn-react-with-jotai",
       "category": "famous"
+    },
+    {
+      "title": "Island async component with Suspense causes fetch error on server side",
+      "link": "https://github.com/honojs/honox/issues/353",
+      "category": "hono"
     }
   ]
 }
