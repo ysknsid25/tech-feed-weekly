@@ -59,6 +59,21 @@
       "title": "chore(typescript): add `@tsconfig/strictest`",
       "link": "https://github.com/honojs/middleware/pull/1679",
       "category": "hono"
+    },
+    {
+      "title": "Ｘの生成ＡＩでビキニ姿に、女性や未成年の性的画像が新年に急増",
+      "link": "https://jp.reuters.com/business/technology/WMWMQIEIH5KLTEM6BYHRIDZEZY-2026-01-03/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "nitro not working with tanstack start monorepo",
+      "link": "https://github.com/nitrojs/nitro/issues/3917",
+      "category": "unjs"
+    },
+    {
+      "title": "Quoting Jaana Dogan | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
