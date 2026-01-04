@@ -54,6 +54,11 @@
       "title": "Ability for custom i18n language module",
       "link": "https://github.com/open-circle/valibot/issues/1386",
       "category": "valibot"
+    },
+    {
+      "title": "chore(typescript): add `@tsconfig/strictest`",
+      "link": "https://github.com/honojs/middleware/pull/1679",
+      "category": "hono"
     }
   ]
 }
