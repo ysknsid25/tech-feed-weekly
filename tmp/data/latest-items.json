@@ -44,6 +44,36 @@
       "title": "Quoting Addy Osmani | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2026/Jan/4/addy-osmani/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "Apple、単一画像から高品質な3DGSを生成する技術「SHARP」公開！ 一般的GPU環境で高速3Dシーン構築可能",
+      "link": "https://cgworld.jp/flashnews/01-202601-SHARP.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "SRE Weekly Issue #504",
+      "link": "https://sreweekly.com/sre-weekly-issue-504/",
+      "category": "cloud"
+    },
+    {
+      "title": "TSKaigi Mashup #4 CfP勉強会",
+      "link": "https://typescript-jpc.connpass.com/event/379927/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "New Year, New Website | StyleX Blog",
+      "link": "https://stylexjs.com/blog/a-new-year-2026",
+      "category": "jsts"
+    },
+    {
+      "title": "fix(client): exclude $all from ClientRequest type",
+      "link": "https://github.com/honojs/hono/pull/4611",
+      "category": "hono"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3918",
+      "category": "unjs"
     }
   ]
 }
