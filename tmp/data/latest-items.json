@@ -124,6 +124,11 @@
       "title": "2026年 OpenSSH(.ssh/config) の書き方を見直す",
       "link": "https://blog.naa0yama.com/p/00w04-v6tazj38/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix(eslint-config): enable curly rule explicitly",
+      "link": "https://github.com/honojs/middleware/pull/1680",
+      "category": "hono"
     }
   ]
 }
