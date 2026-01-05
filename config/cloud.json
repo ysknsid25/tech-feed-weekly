@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/jcmi-45th-2025-report/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/telco-oss-ai-agent-workshop/"
     },
     {
       "name": "SRE Weekly",
