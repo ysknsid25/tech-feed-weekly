@@ -104,6 +104,16 @@
       "title": "東京海上HD、DeNAのAIガバナンス戦略「AI Security Conference」",
       "link": "https://findy.connpass.com/event/379829/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Release 0.8.0 | StyleX Blog",
+      "link": "https://stylexjs.com/blog/v0.8.0",
+      "category": "jsts"
+    },
+    {
+      "title": "feat(vite): support rsc plugin",
+      "link": "https://github.com/nitrojs/nitro/pull/3919",
+      "category": "unjs"
     }
   ]
 }
