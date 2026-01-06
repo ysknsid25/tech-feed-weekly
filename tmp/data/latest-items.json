@@ -84,6 +84,11 @@
       "title": "Cloudflare Stack で SPA + API 構成を作る2026",
       "link": "https://zenn.dev/kimuson/articles/clouflare_spa_api_2026",
       "category": "hono"
+    },
+    {
+      "title": "株式会社アド・ダイセンが生成 AI で実現した現場主導の業務効率化：非技術者による生成 AI 活用の実践",
+      "link": "https://aws.amazon.com/jp/blogs/news/ad-daisen-ai-work-efficiency/",
+      "category": "cloud"
     }
   ]
 }
