@@ -69,6 +69,21 @@
       "title": "chore(vite): update rsc example",
       "link": "https://github.com/nitrojs/nitro/pull/3922",
       "category": "unjs"
+    },
+    {
+      "title": "マイナンバーカードを健康保険証として利用する方法 | デジタル庁ニュース一覧",
+      "link": "https://digital-agency-news.digital.go.jp/articles/2024-07-09",
+      "category": "jsts"
+    },
+    {
+      "title": "smart EuropeがAmazon Bedrockでカスタマーサポート業務を変革した方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-smart-europe-revolutionized-automotive-customer-support-with-amazon-bedrock/",
+      "category": "cloud"
+    },
+    {
+      "title": "Cloudflare Stack で SPA + API 構成を作る2026",
+      "link": "https://zenn.dev/kimuson/articles/clouflare_spa_api_2026",
+      "category": "hono"
     }
   ]
 }
