@@ -49,6 +49,16 @@
       "title": "Landing Zone Accelerator on AWS の Universal Configuration と LZA Compliance Workbook のご紹介",
       "link": "https://aws.amazon.com/jp/blogs/news/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/",
       "category": "cloud"
+    },
+    {
+      "title": "New Year, New Website | StyleX Blog",
+      "link": "https://stylexjs.com/blog/a-new-year-2026",
+      "category": "jsts"
+    },
+    {
+      "title": "`res.statusCode` ignored when piping `Readable.fromWeb()` to Node response + `fromNodeHandler`",
+      "link": "https://github.com/h3js/h3/issues/1272",
+      "category": "unjs"
     }
   ]
 }
