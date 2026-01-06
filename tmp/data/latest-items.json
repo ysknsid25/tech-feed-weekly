@@ -59,6 +59,16 @@
       "title": "`res.statusCode` ignored when piping `Readable.fromWeb()` to Node response + `fromNodeHandler`",
       "link": "https://github.com/h3js/h3/issues/1272",
       "category": "unjs"
+    },
+    {
+      "title": "NotebookLM×Gemini【Gem】でデザイン性のある編集可能スライドを作る！｜尾辻和孝",
+      "link": "https://note.com/kazu_note_1987/n/n40b80ba85ace",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(vite): update rsc example",
+      "link": "https://github.com/nitrojs/nitro/pull/3922",
+      "category": "unjs"
     }
   ]
 }
