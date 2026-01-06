@@ -29,6 +29,16 @@
       "title": "LLMは「同じ質問を2回」入力すると精度が上がる──Google研究者ら、プロンプト反復の効果を短報で報告 | Ledge.ai",
       "link": "https://ledge.ai/articles/prompt_repetition_improves_llm_accuracy",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon 脅威インテリジェンスがロシアのサイバー脅威グループによる西側諸国重要インフラへの標的型攻撃を特定",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-threat-intelligence-identifies-russian-cyber-threat-group-targeting-western-critical-infrastructure/",
+      "category": "cloud"
+    },
+    {
+      "title": "ただNext.jsを使う | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/01/06/just-use-next",
+      "category": "jsts"
     }
   ]
 }
