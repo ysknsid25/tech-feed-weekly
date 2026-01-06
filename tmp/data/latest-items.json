@@ -129,6 +129,31 @@
       "title": "fix: less strict template expressions",
       "link": "https://github.com/honojs/middleware/pull/1681",
       "category": "hono"
+    },
+    {
+      "title": "生成AI「Grok」の悪用を断罪へ　Xが厳格な新指針、法執行機関などと連携",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2601/06/news083.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "やりたいことがたくさんあるあなたへ、人生の“やらないこと”リストを考える - Findy Media",
+      "link": "https://findy-code.io/media/articles/list-nwiizo",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "スキマ時間にスマホで開発できる時代が来た。Claude Code + Opus 4.5で年末年始に旅行しながら初めてのゲーム開発をした話 - 科学と非科学の迷宮",
+      "link": "https://shiumachi.hatenablog.com/entry/claude-code-opus-45-game-development-report",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "setCookie is not set for status error",
+      "link": "https://github.com/h3js/h3/issues/1269",
+      "category": "unjs"
+    },
+    {
+      "title": "nitro not working with tanstack start monorepo",
+      "link": "https://github.com/nitrojs/nitro/issues/3917",
+      "category": "unjs"
     }
   ]
 }
