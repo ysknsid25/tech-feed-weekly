@@ -99,6 +99,21 @@
       "title": "フロントエンドの技術選定〜ピクシブ×findの事例に学ぶ〜",
       "link": "https://findy.connpass.com/event/379759/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "GmailでPOP3によるメールの集約機能が終了、対策としてFastmailを採用。さくらインターネットのドメイン設定を変更など",
+      "link": "https://www.publickey1.jp/blog/26/gmailpop3fastmail.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【作業ログ】Hono + Workers + D1 + Drizzle を構築してみた",
+      "link": "https://zenn.dev/hiroto_ohira/articles/4162f75831194b",
+      "category": "hono"
+    },
+    {
+      "title": "うちのフロントエンド進化のツボ -コード長持ちのための技術- 実践Tips",
+      "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
