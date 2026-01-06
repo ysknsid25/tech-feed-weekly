@@ -114,6 +114,21 @@
       "title": "うちのフロントエンド進化のツボ -コード長持ちのための技術- 実践Tips",
       "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "NVIDIA、従来比性能5倍のAI GPU「Rubin」正式発表。2026年後半に登場",
+      "link": "https://pc.watch.impress.co.jp/docs/news/event/2075697.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "確定申告がラクになる「マイナポータル連携」とは？ | デジタル庁ニュース一覧",
+      "link": "https://digital-agency-news.digital.go.jp/articles/2025-02-10",
+      "category": "jsts"
+    },
+    {
+      "title": "fix: less strict template expressions",
+      "link": "https://github.com/honojs/middleware/pull/1681",
+      "category": "hono"
     }
   ]
 }
