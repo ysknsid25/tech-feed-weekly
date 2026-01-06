@@ -169,6 +169,21 @@
       "title": "chore(deps-dev): bump @trpc/server from 11.7.1 to 11.8.1",
       "link": "https://github.com/honojs/middleware/pull/1683",
       "category": "hono"
+    },
+    {
+      "title": "娘がインスタで時々顔出ししてるらしく『親しい友達限定だから大丈夫』って言うけど、その親しい友達が流出させるんだぞと何度伝えても通じない→様々な意見が挙がる",
+      "link": "https://togetter.com/li/2648320",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Vercel Agent code reviews now follow your code guidelines",
+      "link": "https://vercel.com/changelog/vercel-agent-code-reviews-now-follow-your-code-guidelines",
+      "category": "cloud"
+    },
+    {
+      "title": "chore(deps-dev): bump @standard-schema/spec from 1.0.0 to 1.1.0",
+      "link": "https://github.com/honojs/middleware/pull/1685",
+      "category": "hono"
     }
   ]
 }
