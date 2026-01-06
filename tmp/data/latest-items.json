@@ -164,6 +164,11 @@
       "title": "ABEMAの広告配信システム負荷試験環境を1ヶ月で構築した話",
       "link": "https://developers.cyberagent.co.jp/blog/archives/60666/",
       "category": "company"
+    },
+    {
+      "title": "chore(deps-dev): bump @trpc/server from 11.7.1 to 11.8.1",
+      "link": "https://github.com/honojs/middleware/pull/1683",
+      "category": "hono"
     }
   ]
 }
