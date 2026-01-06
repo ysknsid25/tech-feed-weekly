@@ -39,6 +39,16 @@
       "title": "ただNext.jsを使う | カミナシ エンジニアブログ",
       "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/01/06/just-use-next",
       "category": "jsts"
+    },
+    {
+      "title": "docs: add documentation for custom fetch implementation",
+      "link": "https://github.com/unjs/ofetch/pull/534",
+      "category": "unjs"
+    },
+    {
+      "title": "Landing Zone Accelerator on AWS の Universal Configuration と LZA Compliance Workbook のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/",
+      "category": "cloud"
     }
   ]
 }

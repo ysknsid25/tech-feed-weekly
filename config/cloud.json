@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-threat-intelligence-identifies-russian-cyber-threat-group-targeting-western-critical-infrastructure/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/"
     },
     {
       "name": "SRE Weekly",
