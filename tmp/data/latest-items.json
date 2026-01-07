@@ -224,6 +224,11 @@
       "title": "Introducing bash-tool for filesystem-based context retrieval",
       "link": "https://vercel.com/changelog/introducing-bash-tool-for-filesystem-based-context-retrieval",
       "category": "cloud"
+    },
+    {
+      "title": "chore(deps-dev): bump @builder.io/qwik-city from 1.17.1 to 1.18.0",
+      "link": "https://github.com/honojs/middleware/pull/1692",
+      "category": "hono"
     }
   ]
 }
