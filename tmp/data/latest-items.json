@@ -159,6 +159,11 @@
       "title": "refactor(types): move `@types/*` dependencies into individual workspaces",
       "link": "https://github.com/honojs/middleware/pull/1688",
       "category": "hono"
+    },
+    {
+      "title": "feat: expose WebSocket serverOptions for crossws adapter",
+      "link": "https://github.com/nitrojs/nitro/issues/3925",
+      "category": "unjs"
     }
   ]
 }
