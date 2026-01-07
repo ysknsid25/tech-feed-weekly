@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/secure-compute-is-now-self-serve"
+      "latestLink": "https://vercel.com/changelog/introducing-bash-tool-for-filesystem-based-context-retrieval"
     },
     {
       "name": "GitHub Actions Blog",

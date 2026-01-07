@@ -219,6 +219,11 @@
       "title": "Future CSS: :drag (and Maybe ::dragged-image?) | CSS-Tricks",
       "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
       "category": "jsts"
+    },
+    {
+      "title": "Introducing bash-tool for filesystem-based context retrieval",
+      "link": "https://vercel.com/changelog/introducing-bash-tool-for-filesystem-based-context-retrieval",
+      "category": "cloud"
     }
   ]
 }
