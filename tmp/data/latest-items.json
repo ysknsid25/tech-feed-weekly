@@ -234,6 +234,16 @@
       "title": "How we made v0 an effective coding agent",
       "link": "https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent",
       "category": "cloud"
+    },
+    {
+      "title": "fix(vercel): avoid adding o11y links for prerendered paths",
+      "link": "https://github.com/nitrojs/nitro/pull/3927",
+      "category": "unjs"
+    },
+    {
+      "title": "zValidator type error with zod v4 classic API - ZodSchema union doesn't resolve correctly",
+      "link": "https://github.com/honojs/middleware/issues/1693",
+      "category": "hono"
     }
   ]
 }
