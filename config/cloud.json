@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/introducing-bash-tool-for-filesystem-based-context-retrieval"
+      "latestLink": "https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent"
     },
     {
       "name": "GitHub Actions Blog",

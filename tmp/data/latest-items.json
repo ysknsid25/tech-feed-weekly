@@ -229,6 +229,11 @@
       "title": "chore(deps-dev): bump @builder.io/qwik-city from 1.17.1 to 1.18.0",
       "link": "https://github.com/honojs/middleware/pull/1692",
       "category": "hono"
+    },
+    {
+      "title": "How we made v0 an effective coding agent",
+      "link": "https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent",
+      "category": "cloud"
     }
   ]
 }
