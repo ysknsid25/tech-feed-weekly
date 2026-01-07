@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/building-a-blockchain-indexer-on-aws/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/optimize-long-term-video-storage-costs-with-amazon-kinesis-video-streams-warm-storage-tier/"
     },
     {
       "name": "SRE Weekly",

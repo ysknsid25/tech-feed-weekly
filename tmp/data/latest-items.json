@@ -124,6 +124,11 @@
       "title": "フロントエンドの技術選定〜ピクシブ×Findyの事例に学ぶ〜",
       "link": "https://findy.connpass.com/event/379759/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Amazon Kinesis Video Streams の warm ストレージ階層で長期動画保存コストを最適化",
+      "link": "https://aws.amazon.com/jp/blogs/news/optimize-long-term-video-storage-costs-with-amazon-kinesis-video-streams-warm-storage-tier/",
+      "category": "cloud"
     }
   ]
 }
