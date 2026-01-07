@@ -54,6 +54,21 @@
       "title": "【Go特集】バックエンドGo開発の裏側 直面する課題と今後の展望とは？",
       "link": "https://findy.connpass.com/event/378623/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "「分かりやすい文章」を言語化してみた - NRIネットコムBlog",
+      "link": "https://tech.nri-net.com/entry/verbalization_of_text",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS IoT Greengrass と Strands Agents を使用した Small Language Model の大規模デプロイ",
+      "link": "https://aws.amazon.com/jp/blogs/news/deploying-small-language-models-at-scale-with-aws-iot-greengrass-and-strands-agents/",
+      "category": "cloud"
+    },
+    {
+      "title": "うちのフロントエンド進化のツボ -コード長持ちのための技術- 実践Tips",
+      "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }

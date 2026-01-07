@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/ad-daisen-ai-work-efficiency/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/deploying-small-language-models-at-scale-with-aws-iot-greengrass-and-strands-agents/"
     },
     {
       "name": "SRE Weekly",
