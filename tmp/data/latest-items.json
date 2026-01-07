@@ -199,6 +199,11 @@
       "title": "fix(validator): make query params always return string[] for consistency",
       "link": "https://github.com/honojs/hono/pull/4615",
       "category": "hono"
+    },
+    {
+      "title": "Why We Use Separate Tech Stacks for Personalization and Experimentation",
+      "link": "https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/",
+      "category": "company"
     }
   ]
 }
