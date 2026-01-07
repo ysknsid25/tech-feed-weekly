@@ -244,6 +244,11 @@
       "title": "zValidator type error with zod v4 classic API - ZodSchema union doesn't resolve correctly",
       "link": "https://github.com/honojs/middleware/issues/1693",
       "category": "hono"
+    },
+    {
+      "title": "MCP Server Integration for Hono",
+      "link": "https://github.com/honojs/hono/issues/4616",
+      "category": "hono"
     }
   ]
 }
