@@ -204,6 +204,21 @@
       "title": "Why We Use Separate Tech Stacks for Personalization and Experimentation",
       "link": "https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/",
       "category": "company"
+    },
+    {
+      "title": "AIがバイナリを直接吐くようにはならない - きしだのHatena",
+      "link": "https://nowokay.hatenablog.com/entry/2026/01/07/111410",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Secure Compute is now self-serve",
+      "link": "https://vercel.com/changelog/secure-compute-is-now-self-serve",
+      "category": "cloud"
+    },
+    {
+      "title": "Future CSS: :drag (and Maybe ::dragged-image?) | CSS-Tricks",
+      "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
+      "category": "jsts"
     }
   ]
 }
