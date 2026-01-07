@@ -149,6 +149,16 @@
       "title": "「とほほのWWW入門」作者・杜甫々さん “10年先を見据えた”プロジェクト管理術を語る (1/2)",
       "link": "https://ascii.jp/elem/000/004/364/4364476/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「ポケモンスリープ」が暴く8万人の睡眠と生産性の関係　経済損失は年1兆円　筑波大がNature系列誌で発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/07/news025.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "refactor(types): move `@types/*` dependencies into individual workspaces",
+      "link": "https://github.com/honojs/middleware/pull/1688",
+      "category": "hono"
     }
   ]
 }
