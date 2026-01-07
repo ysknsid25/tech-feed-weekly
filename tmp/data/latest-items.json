@@ -69,6 +69,21 @@
       "title": "うちのフロントエンド進化のツボ -コード長持ちのための技術- 実践Tips",
       "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "育てるほど楽になる AI 開発体制を作っている話 | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/01/ai-driven-develop/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ソフトウェアロードバランサにおけるWeighted Load Balancingの実装と動的負荷分散への応用（インターンレポート）",
+      "link": "https://techblog.lycorp.co.jp/ja/20260107a",
+      "category": "company"
+    },
+    {
+      "title": "PR TIMESがPHPを使い続ける判断軸 | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2026/01/07/prtimes-php-technology-choice/",
+      "category": "jsts"
     }
   ]
 }
