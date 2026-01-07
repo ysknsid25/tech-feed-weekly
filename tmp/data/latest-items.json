@@ -104,6 +104,11 @@
       "title": "Platform as a Product：プロダクト開発基盤の2025年 | LegalOn Technologies Engineering Blog",
       "link": "https://tech.legalforce.co.jp/entry/platform-as-a-Product",
       "category": "jsts"
+    },
+    {
+      "title": "AWS で Solana ノードのパフォーマンスを向上させコストを削減する",
+      "link": "https://aws.amazon.com/jp/blogs/news/improve-solana-node-performance-and-reduce-costs-on-aws/",
+      "category": "cloud"
     }
   ]
 }
