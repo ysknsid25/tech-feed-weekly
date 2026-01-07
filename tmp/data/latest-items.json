@@ -189,6 +189,16 @@
       "title": "The Index: Issue #153 | Piccalilli - Everything",
       "link": "https://piccalil.li/the-index/153/",
       "category": "jsts"
+    },
+    {
+      "title": "fix(dev): apply headers from route rules for static assets",
+      "link": "https://github.com/nitrojs/nitro/pull/3926",
+      "category": "unjs"
+    },
+    {
+      "title": "fix(validator): make query params always return string[] for consistency",
+      "link": "https://github.com/honojs/hono/pull/4615",
+      "category": "hono"
     }
   ]
 }
