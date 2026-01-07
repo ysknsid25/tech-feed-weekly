@@ -109,6 +109,21 @@
       "title": "AWS で Solana ノードのパフォーマンスを向上させコストを削減する",
       "link": "https://aws.amazon.com/jp/blogs/news/improve-solana-node-performance-and-reduce-costs-on-aws/",
       "category": "cloud"
+    },
+    {
+      "title": "「iPhoneの日付を2030年に設定して数分放置したら空き容量がめちゃくちゃ増えた」→試したユーザーからiPhoneが起動しなくなったという報告が相次ぐ",
+      "link": "https://togetter.com/li/2648678",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS でのブロックチェーンインデクサーの構築",
+      "link": "https://aws.amazon.com/jp/blogs/news/building-a-blockchain-indexer-on-aws/",
+      "category": "cloud"
+    },
+    {
+      "title": "フロントエンドの技術選定〜ピクシブ×Findyの事例に学ぶ〜",
+      "link": "https://findy.connpass.com/event/379759/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
