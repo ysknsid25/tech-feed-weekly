@@ -239,6 +239,11 @@
       "title": "December 2025 (version 1.108)",
       "link": "https://code.visualstudio.com/assets/updates/1_108/release-highlights.webp",
       "category": "cloud"
+    },
+    {
+      "title": "Bookmark domains on Vercel Domains",
+      "link": "https://vercel.com/changelog/bookmark-domains-on-vercel-domains",
+      "category": "cloud"
     }
   ]
 }
