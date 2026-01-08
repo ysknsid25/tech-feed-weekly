@@ -149,6 +149,11 @@
       "title": "Introducing TRAE SOLO integration with Supabase | Supabase Blog",
       "link": "https://supabase.com/blog/introducing-trae-solo-integration",
       "category": "jsts"
+    },
+    {
+      "title": "fromWebHandler: request.signal shouln't abort when cancel body stream",
+      "link": "https://github.com/h3js/h3/issues/1275",
+      "category": "unjs"
     }
   ]
 }
