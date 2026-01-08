@@ -194,6 +194,16 @@
       "title": "[v1] remove defineHandler warn",
       "link": "https://github.com/h3js/h3/issues/1276",
       "category": "unjs"
+    },
+    {
+      "title": "クレジットカード番号の混入を防ぐ技術 - inSmartBank",
+      "link": "https://blog.smartbank.co.jp/entry/2026/01/08/100000",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Support _FILE environment variables for loading secrets from files",
+      "link": "https://github.com/unjs/c12/issues/289",
+      "category": "unjs"
     }
   ]
 }
