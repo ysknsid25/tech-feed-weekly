@@ -234,6 +234,11 @@
       "title": "fix: collect errors in utils/parallel #3932",
       "link": "https://github.com/nitrojs/nitro/pull/3933",
       "category": "unjs"
+    },
+    {
+      "title": "December 2025 (version 1.108)",
+      "link": "https://code.visualstudio.com/assets/updates/1_108/release-highlights.webp",
+      "category": "cloud"
     }
   ]
 }
