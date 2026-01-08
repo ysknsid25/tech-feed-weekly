@@ -154,6 +154,26 @@
       "title": "fromWebHandler: request.signal shouln't abort when cancel body stream",
       "link": "https://github.com/h3js/h3/issues/1275",
       "category": "unjs"
+    },
+    {
+      "title": "Fixed a typo in hono/bun deprecation message and updated test.",
+      "link": "https://github.com/honojs/hono/pull/4618",
+      "category": "hono"
+    },
+    {
+      "title": "feat: expose WebSocket serverOptions for crossws adapter",
+      "link": "https://github.com/nitrojs/nitro/issues/3925",
+      "category": "unjs"
+    },
+    {
+      "title": "docs: add documentation for custom fetch implementation",
+      "link": "https://github.com/unjs/ofetch/pull/534",
+      "category": "unjs"
+    },
+    {
+      "title": "AI時代にあわせたQA組織戦略",
+      "link": "https://findy.connpass.com/event/380428/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }

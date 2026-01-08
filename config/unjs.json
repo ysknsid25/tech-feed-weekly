@@ -10,13 +10,13 @@
       "name": "nitro Issues",
       "type": "github-issues",
       "feedUrl": "nitrojs/nitro",
-      "latestLink": "https://github.com/nitrojs/nitro/issues/3930"
+      "latestLink": "https://github.com/nitrojs/nitro/issues/3925"
     },
     {
       "name": "ofetch Issues",
       "type": "github-issues",
       "feedUrl": "unjs/ofetch",
-      "latestLink": "https://github.com/unjs/ofetch/issues/535"
+      "latestLink": "https://github.com/unjs/ofetch/pull/534"
     },
     {
       "name": "c12 Issues",
