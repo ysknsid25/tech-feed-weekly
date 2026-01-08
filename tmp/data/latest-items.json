@@ -204,6 +204,21 @@
       "title": "Support _FILE environment variables for loading secrets from files",
       "link": "https://github.com/unjs/c12/issues/289",
       "category": "unjs"
+    },
+    {
+      "title": "PCメーカーDell、“AI機能の宣伝控えめ”に方針転換へ。「ユーザーはAI機能に興味ない」と気づいたから - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/dell-20260108-400891/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "2026-01-08のJS: zod v4.3.0、Flint、pnpm in 2025",
+      "link": "https://jser.info/2026/01/08/zod-v4.3.0-flint-pnpm-in-2025/",
+      "category": "jsts"
+    },
+    {
+      "title": "fix(cloudflare-durable): expose env bindings in WebSocket handlers",
+      "link": "https://github.com/nitrojs/nitro/pull/3931",
+      "category": "unjs"
     }
   ]
 }
