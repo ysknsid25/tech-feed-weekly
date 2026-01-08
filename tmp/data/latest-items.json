@@ -99,6 +99,11 @@
       "title": "How We Cut Our ETL Costs by 37% and Runtime by 44%: A dbt Optimization Story | Calm Blog | Engineering Blog",
       "link": "https://blog.calm.com/engineering/how-we-cut-our-etl-costs",
       "category": "jsts"
+    },
+    {
+      "title": "Amazon GuardDuty 拡張脅威検出が Amazon EC2 と Amazon ECS を標的とした暗号通貨マイニングキャンペーンを検出",
+      "link": "https://aws.amazon.com/jp/blogs/news/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/",
+      "category": "cloud"
     }
   ]
 }
