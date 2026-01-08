@@ -59,6 +59,46 @@
       "title": "chore(deps-dev): bump @builder.io/qwik-city from 1.17.1 to 1.18.0",
       "link": "https://github.com/honojs/middleware/pull/1692",
       "category": "hono"
+    },
+    {
+      "title": "ChatGPTに絶対に共有してはいけない5つの情報を、専門家が警告。すでにしてしまった場合の対処法も紹介",
+      "link": "https://www.huffingtonpost.jp/entry/story_jp_693fbd8ee4b0775c5077e079",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "[Feature Request] MCP Server for AI-Powered Edge Computing",
+      "link": "https://github.com/h3js/h3/issues/1274",
+      "category": "unjs"
+    },
+    {
+      "title": "[Feature Request] MCP Server for AI-Powered HTTP Operations",
+      "link": "https://github.com/nitrojs/nitro/issues/3930",
+      "category": "unjs"
+    },
+    {
+      "title": "[Feature Request] MCP Server for AI-Powered HTTP Operations",
+      "link": "https://github.com/unjs/ofetch/issues/535",
+      "category": "unjs"
+    },
+    {
+      "title": "Fastly VCL から Fastly Compute へ — WINTICKET Web での安全な段階移行の工夫",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61556/",
+      "category": "company"
+    },
+    {
+      "title": "山下さん、増田さんと学ぶ！ドメイン駆動設計 実践入門",
+      "link": "https://findy.connpass.com/event/380472/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "[Feature Request] MCP Server for AI-Powered API Development",
+      "link": "https://github.com/honojs/hono/issues/4619",
+      "category": "hono"
+    },
+    {
+      "title": "How We Cut Our ETL Costs by 37% and Runtime by 44%: A dbt Optimization Story | Calm Blog | Engineering Blog",
+      "link": "https://blog.calm.com/engineering/how-we-cut-our-etl-costs",
+      "category": "jsts"
     }
   ]
 }
