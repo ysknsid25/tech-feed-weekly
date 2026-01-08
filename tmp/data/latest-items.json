@@ -119,6 +119,11 @@
       "title": "axe-coreの検出レベルを全深刻度に引き上げ、a11yを継続的に担保できるようにしました | PR TIMES 開発者ブログ",
       "link": "https://developers.prtimes.jp/2026/01/08/a11y-storybook/",
       "category": "jsts"
+    },
+    {
+      "title": "Amazon RDS for SQL Server の CPU 最適化機能の探索",
+      "link": "https://aws.amazon.com/jp/blogs/news/exploring-optimize-cpu-feature-on-amazon-rds-for-sql-server/",
+      "category": "cloud"
     }
   ]
 }
