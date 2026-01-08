@@ -219,6 +219,11 @@
       "title": "fix(cloudflare-durable): expose env bindings in WebSocket handlers",
       "link": "https://github.com/nitrojs/nitro/pull/3931",
       "category": "unjs"
+    },
+    {
+      "title": "Comparison page shows a runnable code editor, but the Zod examples are not executable",
+      "link": "https://github.com/open-circle/valibot/issues/1390",
+      "category": "valibot"
     }
   ]
 }
