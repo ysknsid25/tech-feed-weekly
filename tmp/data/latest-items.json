@@ -104,6 +104,21 @@
       "title": "Amazon GuardDuty 拡張脅威検出が Amazon EC2 と Amazon ECS を標的とした暗号通貨マイニングキャンペーンを検出",
       "link": "https://aws.amazon.com/jp/blogs/news/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/",
       "category": "cloud"
+    },
+    {
+      "title": "Amazon RDS for SQL Server で Developer Edition のインスタンスを作成する",
+      "link": "https://aws.amazon.com/jp/blogs/news/create-a-sql-server-developer-edition-instance-on-amazon-rds-for-sql-server/",
+      "category": "cloud"
+    },
+    {
+      "title": "MCPサーバーの安全な利活用を社内に広める：MCPサーバー連携による開発効率化の実践講座",
+      "link": "https://techblog.lycorp.co.jp/ja/20260108a",
+      "category": "company"
+    },
+    {
+      "title": "axe-coreの検出レベルを全深刻度に引き上げ、a11yを継続的に担保できるようにしました | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2026/01/08/a11y-storybook/",
+      "category": "jsts"
     }
   ]
 }

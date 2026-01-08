@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/create-a-sql-server-developer-edition-instance-on-amazon-rds-for-sql-server/"
     },
     {
       "name": "SRE Weekly",
