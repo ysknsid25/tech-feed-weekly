@@ -229,6 +229,11 @@
       "title": "App Hosting adds support for Turborepo",
       "link": "https://firebase.blog/posts/2026/01/apphosting-turborepo",
       "category": "cloud"
+    },
+    {
+      "title": "fix: collect errors in utils/parallel #3932",
+      "link": "https://github.com/nitrojs/nitro/pull/3933",
+      "category": "unjs"
     }
   ]
 }
