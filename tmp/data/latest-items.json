@@ -174,6 +174,26 @@
       "title": "AI時代にあわせたQA組織戦略",
       "link": "https://findy.connpass.com/event/380428/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Googleで14年間働いたエンジニアが語る「活躍する人がコード以外で意識している21の教訓」とは？",
+      "link": "https://gigazine.net/news/20260108-google-14-years-21-lessons/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon Connect アップデートまとめ – 2025年11・12月合併号",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-connect-update-20251112/",
+      "category": "cloud"
+    },
+    {
+      "title": "Batteries-included frameworks in the era of AI | AdonisJS Framework Blog",
+      "link": "https://adonisjs.com/blog/frameworks-in-the-era-of-ai",
+      "category": "jsts"
+    },
+    {
+      "title": "[v1] remove defineHandler warn",
+      "link": "https://github.com/h3js/h3/issues/1276",
+      "category": "unjs"
     }
   ]
 }
