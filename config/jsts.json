@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://adonisjs.com/blog/frameworks-in-the-era-of-ai"
+      "latestLink": "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/"
     },
     {
       "name": "TSKaigi",

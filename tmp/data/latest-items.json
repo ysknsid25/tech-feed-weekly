@@ -39,6 +39,21 @@
       "title": "feat: expose WebSocket serverOptions for crossws adapter",
       "link": "https://github.com/nitrojs/nitro/issues/3925",
       "category": "unjs"
+    },
+    {
+      "title": "Why AI is pushing developers toward typed languages | The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/",
+      "category": "jsts"
+    },
+    {
+      "title": "【AI特集】3社が語るAI駆動開発 開発組織の取り組みと課題とは？",
+      "link": "https://findy.connpass.com/event/378622/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "IAM Policy Autopilot: ビルダーと AI コーディングアシスタントに IAM ポリシーの専門知識を提供するオープンソースツール",
+      "link": "https://aws.amazon.com/jp/blogs/news/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/",
+      "category": "cloud"
     }
   ]
 }
