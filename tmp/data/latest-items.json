@@ -134,6 +134,16 @@
       "title": "エンジニアの年収はどう変わる？2026年の転職トレンドと変化の時代を生き抜く「キャリア戦略」",
       "link": "https://findy.connpass.com/event/380582/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "chore(deps-dev): bump typescript from 5.8.2 to 5.9.3",
+      "link": "https://github.com/honojs/middleware/pull/1691",
+      "category": "hono"
+    },
+    {
+      "title": "Error uploading Chinese files to node-server with Postman",
+      "link": "https://github.com/honojs/node-server/issues/287",
+      "category": "hono"
     }
   ]
 }
