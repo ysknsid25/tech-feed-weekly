@@ -189,6 +189,11 @@
       "title": "Beyond the Mouse: Animating with Mobile Accelerometers | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/beyond-the-mouse-animating-with-mobile-accelerometers/",
       "category": "jsts"
+    },
+    {
+      "title": "The most popular Go dependency is...",
+      "link": "https://golangweekly.com/issues/584",
+      "category": "go"
     }
   ]
 }
