@@ -154,6 +154,21 @@
       "title": "feat: support zstd for compressPublicAssets",
       "link": "https://github.com/nitrojs/nitro/pull/3934",
       "category": "unjs"
+    },
+    {
+      "title": "Tailwind CSSの騒動から考える、生成AIがOSSビジネスを壊す瞬間 - Sweet Escape",
+      "link": "https://www.keisuke69.net/entry/2026/01/09/113951",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "イランがインターネット完全遮断か。トラフィック「ゼロ」に、Cloudflareが報告",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2076813.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Add easy cache invalidation helper to defineCachedFunction/defineCachedHandler",
+      "link": "https://github.com/nitrojs/nitro/issues/3935",
+      "category": "unjs"
     }
   ]
 }
