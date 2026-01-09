@@ -204,6 +204,11 @@
       "title": "Limit on-demand concurrent builds to one build per branch",
       "link": "https://vercel.com/changelog/limit-on-demand-concurrent-builds-to-one-build-per-branch",
       "category": "cloud"
+    },
+    {
+      "title": "How to build agents with filesystems and bash",
+      "link": "https://vercel.com/blog/how-to-build-agents-with-filesystems-and-bash",
+      "category": "cloud"
     }
   ]
 }
