@@ -94,6 +94,21 @@
       "title": "実際のプロジェクトにおける Kotlin の評価手法",
       "link": "https://blog.jetbrains.com/ja/kotlin/2026/01/evaluating-kotlin-in-real-projects/",
       "category": "kotlin"
+    },
+    {
+      "title": "シヤチハタ、宅配ラベルなど感熱紙の文字を消せるペン - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2076135.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "企業における Kotlin 導入・活用の推進",
+      "link": "https://blog.jetbrains.com/ja/kotlin/2026/01/growing-kotlin-adoption-in-your-company/",
+      "category": "kotlin"
+    },
+    {
+      "title": "Amazon Aurora DSQL のマルチリージョンエンドポイントルーティングを実装する",
+      "link": "https://aws.amazon.com/jp/blogs/news/implement-multi-region-endpoint-routing-for-amazon-aurora-dsql/",
+      "category": "cloud"
     }
   ]
 }
