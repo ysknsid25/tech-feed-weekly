@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/bookmark-domains-on-vercel-domains"
+      "latestLink": "https://vercel.com/changelog/limit-on-demand-concurrent-builds-to-one-build-per-branch"
     },
     {
       "name": "GitHub Actions Blog",

@@ -194,6 +194,16 @@
       "title": "The most popular Go dependency is...",
       "link": "https://golangweekly.com/issues/584",
       "category": "go"
+    },
+    {
+      "title": "Documentation of routing API untested, doesn't align with reality",
+      "link": "https://github.com/nitrojs/nitro/issues/3936",
+      "category": "unjs"
+    },
+    {
+      "title": "Limit on-demand concurrent builds to one build per branch",
+      "link": "https://vercel.com/changelog/limit-on-demand-concurrent-builds-to-one-build-per-branch",
+      "category": "cloud"
     }
   ]
 }
