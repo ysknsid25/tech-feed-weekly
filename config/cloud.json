@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/implement-multi-region-endpoint-routing-for-amazon-aurora-dsql/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-ismap/"
     },
     {
       "name": "SRE Weekly",

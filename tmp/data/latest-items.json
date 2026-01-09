@@ -144,6 +144,16 @@
       "title": "Error uploading Chinese files to node-server with Postman",
       "link": "https://github.com/honojs/node-server/issues/287",
       "category": "hono"
+    },
+    {
+      "title": "Amazon Bedrock は ISMAP の言明対象であることについての考え方",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-bedrock-ismap/",
+      "category": "cloud"
+    },
+    {
+      "title": "feat: support zstd for compressPublicAssets",
+      "link": "https://github.com/nitrojs/nitro/pull/3934",
+      "category": "unjs"
     }
   ]
 }
