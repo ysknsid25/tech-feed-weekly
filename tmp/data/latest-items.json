@@ -179,6 +179,11 @@
       "title": "プロパティベーステストが見つけた、私が決して発見できなかったセキュリティバグ",
       "link": "https://aws.amazon.com/jp/blogs/news/property-based-testing-fixed-security-bug/",
       "category": "cloud"
+    },
+    {
+      "title": "IT開発者向けの質疑応答（QA）サイト「Stack Overflow」で投稿数が激減、ユーザー戦慄／最盛期20万件超えの月間投稿数がわずか4,000～3,000件のレベルに……【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2076551.html",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
