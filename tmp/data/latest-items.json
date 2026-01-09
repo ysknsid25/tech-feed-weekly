@@ -169,6 +169,16 @@
       "title": "Add easy cache invalidation helper to defineCachedFunction/defineCachedHandler",
       "link": "https://github.com/nitrojs/nitro/issues/3935",
       "category": "unjs"
+    },
+    {
+      "title": "【西川和久の不定期コラム】 Sora 2級の映像がもうローカルPCで？生成AI動画の急進化を追う",
+      "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2076696.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "プロパティベーステストが見つけた、私が決して発見できなかったセキュリティバグ",
+      "link": "https://aws.amazon.com/jp/blogs/news/property-based-testing-fixed-security-bug/",
+      "category": "cloud"
     }
   ]
 }
