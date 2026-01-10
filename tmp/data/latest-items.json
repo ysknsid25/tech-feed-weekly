@@ -29,6 +29,11 @@
       "title": "サーバー転送量ゼロ：Hono + CloudflareでP2Pファイル共有を作る",
       "link": "https://zenn.dev/kiyo2023/articles/hono-cloudflare-p2p-file-sharing",
       "category": "hono"
+    },
+    {
+      "title": "The Missing Multiplier for AI Agent Productivity | Nx Blog",
+      "link": "https://nx.dev/blog/the-missing-multiplier-for-ai-agent-productivity",
+      "category": "jsts"
     }
   ]
 }
