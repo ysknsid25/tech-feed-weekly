@@ -54,6 +54,16 @@
       "title": "Obsidian の個人的に便利だと思う使い方 - Qiita",
       "link": "https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "月刊AWS製造 2026年1月号",
+      "link": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202601/",
+      "category": "cloud"
+    },
+    {
+      "title": "Migrate from Supabase Auth to Better Auth + PlanetScale PostgreSQL | Better Auth Blog",
+      "link": "https://better-auth-docs-j0euhzc6v-better-auth.vercel.app/blog/0-supabase-auth-to-planetscale-migration",
+      "category": "jsts"
     }
   ]
 }
