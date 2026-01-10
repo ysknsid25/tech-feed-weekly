@@ -84,6 +84,16 @@
       "title": "feat(serve): build and serve with sourcemap for debugging",
       "link": "https://github.com/honojs/cli/pull/65",
       "category": "hono"
+    },
+    {
+      "title": "「Googleでの14年間で学んだ21の教訓」を 個人的な解釈でまとめてみた - Qiita",
+      "link": "https://qiita.com/Sakai_path/items/8ae1e34e012a53aa8d1b",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Enhance test coverage of library",
+      "link": "https://github.com/open-circle/valibot/pull/1392",
+      "category": "valibot"
     }
   ]
 }
