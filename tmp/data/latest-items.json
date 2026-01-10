@@ -39,6 +39,11 @@
       "title": "fix(validator): make query params always return string[] for consistency",
       "link": "https://github.com/honojs/hono/pull/4615",
       "category": "hono"
+    },
+    {
+      "title": "pnpm 10.28 | pnpm Blog",
+      "link": "https://pnpm.io/blog/releases/10.28",
+      "category": "jsts"
     }
   ]
 }
