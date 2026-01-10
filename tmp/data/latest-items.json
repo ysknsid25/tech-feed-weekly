@@ -34,6 +34,11 @@
       "title": "The Missing Multiplier for AI Agent Productivity | Nx Blog",
       "link": "https://nx.dev/blog/the-missing-multiplier-for-ai-agent-productivity",
       "category": "jsts"
+    },
+    {
+      "title": "fix(validator): make query params always return string[] for consistency",
+      "link": "https://github.com/honojs/hono/pull/4615",
+      "category": "hono"
     }
   ]
 }
