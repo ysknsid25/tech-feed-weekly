@@ -74,6 +74,11 @@
       "title": "New Year, New Website | StyleX Blog",
       "link": "https://stylexjs.com/blog/a-new-year-2026",
       "category": "jsts"
+    },
+    {
+      "title": "docs: correct routing example code",
+      "link": "https://github.com/nitrojs/nitro/pull/3937",
+      "category": "unjs"
     }
   ]
 }
