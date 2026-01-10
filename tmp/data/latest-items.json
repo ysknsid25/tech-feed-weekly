@@ -79,6 +79,11 @@
       "title": "docs: correct routing example code",
       "link": "https://github.com/nitrojs/nitro/pull/3937",
       "category": "unjs"
+    },
+    {
+      "title": "feat(serve): build and serve with sourcemap for debugging",
+      "link": "https://github.com/honojs/cli/pull/65",
+      "category": "hono"
     }
   ]
 }
