@@ -99,6 +99,16 @@
       "title": "fix(prerender): skip writing redirect responses to disk",
       "link": "https://github.com/nitrojs/nitro/pull/3940",
       "category": "unjs"
+    },
+    {
+      "title": "なぜ誰も手を付けなかったのか？ ― Vibeコーディングが解いた15年の沈黙 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/mp3gain-resuscitation-mp3rgain/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "例外処理とどう使い分ける？Result型を使ったエラー設計 #burikaigi",
+      "link": "https://speakerdeck.com/kajitack/exception-or-result-type",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
