@@ -44,6 +44,11 @@
       "title": "Quoting Linus Torvalds | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "fix(cloudflare): Filter inherited values from Cloudflare preset _headers file",
+      "link": "https://github.com/nitrojs/nitro/pull/3938",
+      "category": "unjs"
     }
   ]
 }
