@@ -49,6 +49,11 @@
       "title": "fix(cloudflare): Filter inherited values from Cloudflare preset _headers file",
       "link": "https://github.com/nitrojs/nitro/pull/3938",
       "category": "unjs"
+    },
+    {
+      "title": "React 19でつくる「気持ちいいUI」- 楽観的UIのすすめ",
+      "link": "https://speakerdeck.com/himorishige/react-19detukuru-qi-chi-tiiiui-le-guan-de-uinosusume",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
