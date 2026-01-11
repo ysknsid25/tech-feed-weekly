@@ -89,6 +89,11 @@
       "title": "GhosttyをVSCodeみたいにしよう！｜Naoki |電電猫猫",
       "link": "https://note.com/electrical_cat/n/n7a3b634a2b51",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Inconsistent behavior of /** syntax in TrieRouter vs other routers",
+      "link": "https://github.com/honojs/hono/issues/4623",
+      "category": "hono"
     }
   ]
 }
