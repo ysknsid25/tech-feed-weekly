@@ -94,6 +94,11 @@
       "title": "Inconsistent behavior of /** syntax in TrieRouter vs other routers",
       "link": "https://github.com/honojs/hono/issues/4623",
       "category": "hono"
+    },
+    {
+      "title": "fix(prerender): skip writing redirect responses to disk",
+      "link": "https://github.com/nitrojs/nitro/pull/3940",
+      "category": "unjs"
     }
   ]
 }
