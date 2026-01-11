@@ -69,6 +69,11 @@
       "title": "Use csstype in hono/jsx to enable CSS type inference",
       "link": "https://github.com/honojs/hono/issues/4622",
       "category": "hono"
+    },
+    {
+      "title": "Geminiの勢いが止まらない。ChatGPTが圧倒されるのも仕方ない",
+      "link": "https://www.gizmodo.jp/2026/01/similarweb_global_ai_tracker_2026_jan_1_gemini_got_share.html",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
