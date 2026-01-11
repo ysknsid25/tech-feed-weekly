@@ -59,6 +59,16 @@
       "title": "アメリカでITエンジニアからテロリストになった兄の話",
       "link": "https://anond.hatelabo.jp/20260111115301",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Websocket does not work in vite dev mode with bun runtime",
+      "link": "https://github.com/nitrojs/nitro/issues/3939",
+      "category": "unjs"
+    },
+    {
+      "title": "Use csstype in hono/jsx to enable CSS type inference",
+      "link": "https://github.com/honojs/hono/issues/4622",
+      "category": "hono"
     }
   ]
 }
