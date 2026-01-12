@@ -144,6 +144,11 @@
       "title": "January 2026 Insiders (version 1.109)",
       "link": "https://code.visualstudio.com/assets/updates/1_109/vscode-insiders-header.webp",
       "category": "cloud"
+    },
+    {
+      "title": "Streamdown v2: Smaller bundle, CDN loading, and new Remend options",
+      "link": "https://vercel.com/changelog/streamdown-v2",
+      "category": "cloud"
     }
   ]
 }
