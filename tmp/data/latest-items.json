@@ -109,6 +109,11 @@
       "title": "バンドルサイズ1.5KBのValibotで型安全なフルスタック開発 - モノレポAPIスキーマ共有パターン",
       "link": "https://zenn.dev/pav/articles/valibot-fullstack-type-safety",
       "category": "valibot"
+    },
+    {
+      "title": "[...slug] route matches but c.req.param('slug') is undefined",
+      "link": "https://github.com/honojs/honox/issues/354",
+      "category": "hono"
     }
   ]
 }
