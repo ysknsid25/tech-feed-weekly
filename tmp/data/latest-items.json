@@ -114,6 +114,16 @@
       "title": "[...slug] route matches but c.req.param('slug') is undefined",
       "link": "https://github.com/honojs/honox/issues/354",
       "category": "hono"
+    },
+    {
+      "title": "おい、辞めないなら頑張れ - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/12/003013",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "イラン、史上初の衛星インターネット遮断　スターリンクに「キルスイッチ」発動 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/89252",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
