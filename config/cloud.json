@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/streamdown-v2"
+      "latestLink": "https://vercel.com/blog/how-mux-shipped-durable-video-workflows-with-their-mux-ai-sdk"
     },
     {
       "name": "GitHub Actions Blog",

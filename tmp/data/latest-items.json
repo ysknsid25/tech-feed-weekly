@@ -149,6 +149,21 @@
       "title": "Streamdown v2: Smaller bundle, CDN loading, and new Remend options",
       "link": "https://vercel.com/changelog/streamdown-v2",
       "category": "cloud"
+    },
+    {
+      "title": "How Mux shipped durable video workflows with their @mux/ai SDK",
+      "link": "https://vercel.com/blog/how-mux-shipped-durable-video-workflows-with-their-mux-ai-sdk",
+      "category": "cloud"
+    },
+    {
+      "title": "Library is overriding global.fetch on import",
+      "link": "https://github.com/honojs/node-server/issues/294",
+      "category": "hono"
+    },
+    {
+      "title": "Advent of Code 2025 in Kotlin: Puzzles, Prizes, and Community",
+      "link": "https://blog.jetbrains.com/kotlin/2026/01/advent-of-code-2025-in-kotlin/",
+      "category": "kotlin"
     }
   ]
 }
