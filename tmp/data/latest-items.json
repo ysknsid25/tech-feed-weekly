@@ -89,6 +89,11 @@
       "title": "Hono + OpenAPI + Orvalを使った型安全な開発",
       "link": "https://zenn.dev/ambr_inc/articles/82eaf852861b77",
       "category": "valibot"
+    },
+    {
+      "title": "AI エージェントのために CLI でブラウザを操作する agent-browser | azukiazusa のテックブログ2",
+      "link": "https://azukiazusa.dev/blog/agent-browser-for-ai-agents",
+      "category": "jsts"
     }
   ]
 }
