@@ -164,6 +164,11 @@
       "title": "Advent of Code 2025 in Kotlin: Puzzles, Prizes, and Community",
       "link": "https://blog.jetbrains.com/kotlin/2026/01/advent-of-code-2025-in-kotlin/",
       "category": "kotlin"
+    },
+    {
+      "title": "feat(types): speed up typed routes",
+      "link": "https://github.com/nitrojs/nitro/pull/3941",
+      "category": "unjs"
     }
   ]
 }
