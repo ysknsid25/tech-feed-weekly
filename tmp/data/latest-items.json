@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "おい、辞めないなら頑張れ - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/12/003013",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "イラン、史上初の衛星インターネット遮断　スターリンクに「キルスイッチ」発動 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/89252",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AIフェイクはここまで来た　自分の顔で試して分かった“違和感”と恐怖 (1/5)",
+      "link": "https://ascii.jp/elem/000/004/365/4365434/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Seleniumの作者によるAIと人間のためのブラウザ自動化「Vibium」",
+      "link": "https://gigazine.net/news/20260111-vibium/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "React未経験者がチャレンジするHono + htmx + Cloudflare ②",
+      "link": "https://zenn.dev/noknk/articles/a5388266cfa15f",
+      "category": "hono"
+    },
+    {
+      "title": "Hono + OpenAPI + Orvalを使った型安全な開発",
+      "link": "https://zenn.dev/ambr_inc/articles/82eaf852861b77",
+      "category": "valibot"
+    }
+  ]
+}
