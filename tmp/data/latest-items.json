@@ -169,6 +169,11 @@
       "title": "New fine-grained permission for artifact metadata is now generally available",
       "link": "https://github.blog/changelog/2026-01-13-new-fine-grained-permission-for-artifact-metadata-is-now-generally-available",
       "category": "cloud"
+    },
+    {
+      "title": "Node.js 22.22.0 (LTS)",
+      "link": "https://nodejs.org/en/blog/release/v22.22.0",
+      "category": "jsts"
     }
   ]
 }
