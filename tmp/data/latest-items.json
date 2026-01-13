@@ -109,6 +109,11 @@
       "title": "「全員で何回クリックした？」を実装するのって案外難しい",
       "link": "https://zenn.dev/daiius/articles/count-how-many-times-user-clicks-sacapis",
       "category": "hono"
+    },
+    {
+      "title": "株式会社 Sumarch 様の AWS WAF 活用事例「段階的導入によるセキュリティ強化とレスポンスタイム 30% 改善の実現」",
+      "link": "https://aws.amazon.com/jp/blogs/news/case-study-sumarch/",
+      "category": "cloud"
     }
   ]
 }
