@@ -179,6 +179,26 @@
       "title": "Improve AI output with continuous improvement",
       "link": "https://firebase.blog/posts/2026/01/continuous-improvement",
       "category": "cloud"
+    },
+    {
+      "title": "chore(deps-dev): bump @types/react from 19.2.7 to 19.2.8",
+      "link": "https://github.com/honojs/middleware/pull/1701",
+      "category": "hono"
+    },
+    {
+      "title": "Compose Multiplatform 1.10.0: Unified @Preview, Navigation 3, and Stable Compose Hot Reload",
+      "link": "https://blog.jetbrains.com/kotlin/2026/01/compose-multiplatform-1-10-0/",
+      "category": "kotlin"
+    },
+    {
+      "title": "Add `Link: rel:preload` header for `writeEarlyHints`",
+      "link": "https://github.com/h3js/h3/issues/1279",
+      "category": "unjs"
+    },
+    {
+      "title": "chore: add `vite-better-auth` example",
+      "link": "https://github.com/nitrojs/nitro/pull/3942",
+      "category": "unjs"
     }
   ]
 }
