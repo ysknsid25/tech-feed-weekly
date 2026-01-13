@@ -224,6 +224,16 @@
       "title": "Nick Bogaty joins Vercel as Chief Revenue Officer",
       "link": "https://vercel.com/blog/nick-bogaty-joins-vercel-as-chief-revenue-officer",
       "category": "cloud"
+    },
+    {
+      "title": "chore(deps-dev): bump typescript from 5.8.2 to 5.9.3",
+      "link": "https://github.com/honojs/middleware/pull/1691",
+      "category": "hono"
+    },
+    {
+      "title": "Error uploading Chinese files to node-server with Postman",
+      "link": "https://github.com/honojs/node-server/issues/287",
+      "category": "hono"
     }
   ]
 }
