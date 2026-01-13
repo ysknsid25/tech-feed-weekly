@@ -64,6 +64,21 @@
       "title": "New Year, New Website | StyleX Blog",
       "link": "https://stylexjs.com/blog/a-new-year-2026",
       "category": "jsts"
+    },
+    {
+      "title": "週刊AWS – 2026/1/5週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260105/",
+      "category": "cloud"
+    },
+    {
+      "title": "LINE iOSアプリにおけるローカルビルドメトリクス基盤の構築と活用",
+      "link": "https://techblog.lycorp.co.jp/ja/20260113a",
+      "category": "company"
+    },
+    {
+      "title": "TECH BATON in 東京 〜うちのフロントエンド進化のツボ ！コード長持ちのための技術〜",
+      "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
