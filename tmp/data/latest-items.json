@@ -29,6 +29,31 @@
       "title": "Hono + OpenAPI + Orvalを使った型安全な開発",
       "link": "https://zenn.dev/ambr_inc/articles/82eaf852861b77",
       "category": "valibot"
+    },
+    {
+      "title": "Nano Banana Pro Prompts - 高品質AIプロンプトと画像生成 - YouMind",
+      "link": "https://youmind.com/ja-JP/nano-banana-pro-prompts",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "通信速度がやけに遅いので色々調べた上でLANケーブルを新しくしたら爆速になった話「見落としがちなので要確認」「カテゴリはケーブルに印字されてる」",
+      "link": "https://togetter.com/li/2650946",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "自分らしく続けるアウトプットの始め方と継続のヒント",
+      "link": "https://findy.connpass.com/event/379880/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Superhuman AI Exfiltrates Emails | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything",
+      "category": "jsts"
+    },
+    {
+      "title": "refactor(globals): Stop overwriting global.fetch",
+      "link": "https://github.com/honojs/node-server/pull/295",
+      "category": "hono"
     }
   ]
 }
