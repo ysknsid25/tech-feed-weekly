@@ -199,6 +199,21 @@
       "title": "chore: add `vite-better-auth` example",
       "link": "https://github.com/nitrojs/nitro/pull/3942",
       "category": "unjs"
+    },
+    {
+      "title": "fix(url): ignore fragment identifiers in getPath()",
+      "link": "https://github.com/honojs/hono/pull/4627",
+      "category": "hono"
+    },
+    {
+      "title": "Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users",
+      "link": "https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks",
+      "category": "jsts"
+    },
+    {
+      "title": "chore: add `update-deps` skill",
+      "link": "https://github.com/nitrojs/nitro/pull/3943",
+      "category": "unjs"
     }
   ]
 }
