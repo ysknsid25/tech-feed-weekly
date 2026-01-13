@@ -89,6 +89,26 @@
       "title": "週刊生成AI with AWS – 2026/1/5 週",
       "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260105/",
       "category": "cloud"
+    },
+    {
+      "title": "ChatGPTとの会話を丸ごと盗むChrome拡張機能、90万人以上がダウンロードする大規模被害（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/01/12/4814.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【解説】確定申告は「マイナポータル連携」でもっと簡単に。年末調整対象者も医療費控除が可能 | デジタル庁ニュース一覧",
+      "link": "https://digital-agency-news.digital.go.jp/articles/2026-01-13",
+      "category": "jsts"
+    },
+    {
+      "title": "登壇前夜 「技術に取り残される」 不安への処方箋 -エキスパートとしてのキャリア-",
+      "link": "https://findy.connpass.com/event/379263/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "「全員で何回クリックした？」を実装するのって案外難しい",
+      "link": "https://zenn.dev/daiius/articles/count-how-many-times-user-clicks-sacapis",
+      "category": "hono"
     }
   ]
 }
