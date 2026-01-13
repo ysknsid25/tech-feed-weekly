@@ -84,6 +84,11 @@
       "title": "`document.currentScript` is more useful than I thought. | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/document-currentscript-is-more-useful-than-i-thought/",
       "category": "jsts"
+    },
+    {
+      "title": "週刊生成AI with AWS – 2026/1/5 週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260105/",
+      "category": "cloud"
     }
   ]
 }
