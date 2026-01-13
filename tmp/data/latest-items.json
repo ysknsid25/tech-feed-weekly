@@ -129,6 +129,16 @@
       "title": "Amazon Q Business と Amazon Bedrock によるSAP データ価値の最大化 – パート 2",
       "link": "https://aws.amazon.com/jp/blogs/news/maximize-the-value-of-your-sap-data-using-with-amazon-q-business-and-amazon-bedrock-generative-ai-part-2/",
       "category": "cloud"
+    },
+    {
+      "title": "Building AI Agents in Kotlin – Part 4: Delegation and Sub-Agents",
+      "link": "https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-4-delegation-and-sub-agents/",
+      "category": "kotlin"
+    },
+    {
+      "title": "TSKaigi 2026",
+      "link": "https://typescript-jpc.connpass.com/event/379564/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }

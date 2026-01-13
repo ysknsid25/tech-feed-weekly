@@ -10,7 +10,7 @@
       "name": "JetBrains Kotlin Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://blog.jetbrains.com/kotlin/feed/",
-      "latestLink": "https://blog.jetbrains.com/kotlin/2026/01/advent-of-code-2025-in-kotlin/"
+      "latestLink": "https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-4-delegation-and-sub-agents/"
     },
     {
       "name": "JetBrains Ktor Blog",
