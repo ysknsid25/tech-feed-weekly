@@ -114,6 +114,21 @@
       "title": "株式会社 Sumarch 様の AWS WAF 活用事例「段階的導入によるセキュリティ強化とレスポンスタイム 30% 改善の実現」",
       "link": "https://aws.amazon.com/jp/blogs/news/case-study-sumarch/",
       "category": "cloud"
+    },
+    {
+      "title": "Anthropic、自律型AI「Cowork」発表　デスクトップ作業を丸投げ可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news051.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "[node] stream doesn't get sent if response is cloned",
+      "link": "https://github.com/h3js/h3/issues/1278",
+      "category": "unjs"
+    },
+    {
+      "title": "Amazon Q Business と Amazon Bedrock によるSAP データ価値の最大化 – パート 2",
+      "link": "https://aws.amazon.com/jp/blogs/news/maximize-the-value-of-your-sap-data-using-with-amazon-q-business-and-amazon-bedrock-generative-ai-part-2/",
+      "category": "cloud"
     }
   ]
 }
