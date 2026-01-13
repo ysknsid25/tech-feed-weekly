@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "サラリーマンソフトウェアエンジニアのキャリア",
+      "link": "https://speakerdeck.com/yuheinakasaka/sararimansohutoueaenzinianokiyaria",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Anthropic、自律型AI「Cowork」発表　デスクトップ作業を丸投げ可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news051.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Codex MCPを活用したAI Coding開発 ~Codex利用率 社内3位の活用術~",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61630/",
+      "category": "company"
+    },
+    {
+      "title": "Memory leak",
+      "link": "https://github.com/honojs/middleware/issues/1703",
+      "category": "hono"
+    },
+    {
+      "title": "Node.js 22.22.0 (LTS) | Node.js Blog",
+      "link": "https://nodejs.org/en/blog/release/v22.22.0",
+      "category": "jsts"
+    },
+    {
+      "title": "chore: add `vite-better-auth` example",
+      "link": "https://github.com/nitrojs/nitro/pull/3942",
+      "category": "unjs"
+    }
+  ]
+}
