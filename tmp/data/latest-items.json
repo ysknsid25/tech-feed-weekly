@@ -79,6 +79,11 @@
       "title": "TECH BATON in 東京 〜うちのフロントエンド進化のツボ ！コード長持ちのための技術〜",
       "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "`document.currentScript` is more useful than I thought. | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/document-currentscript-is-more-useful-than-i-thought/",
+      "category": "jsts"
     }
   ]
 }
