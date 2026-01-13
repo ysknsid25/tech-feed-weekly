@@ -139,6 +139,16 @@
       "title": "TSKaigi 2026",
       "link": "https://typescript-jpc.connpass.com/event/379564/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "fix(standard-validator): use unpinned `@standard-schema/spec`",
+      "link": "https://github.com/honojs/middleware/pull/1698",
+      "category": "hono"
+    },
+    {
+      "title": "In version 4.11.4, the `verify` method in JWT changed so that the third parameter, which was previously optional, is now required.",
+      "link": "https://github.com/honojs/hono/issues/4625",
+      "category": "hono"
     }
   ]
 }
