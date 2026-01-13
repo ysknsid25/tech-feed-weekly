@@ -164,6 +164,11 @@
       "title": "feat(bun): export getBunServer",
       "link": "https://github.com/honojs/hono/pull/4626",
       "category": "hono"
+    },
+    {
+      "title": "New fine-grained permission for artifact metadata is now generally available",
+      "link": "https://github.blog/changelog/2026-01-13-new-fine-grained-permission-for-artifact-metadata-is-now-generally-available",
+      "category": "cloud"
     }
   ]
 }

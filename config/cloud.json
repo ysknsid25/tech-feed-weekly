@@ -22,7 +22,7 @@
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2026-01-01-reduced-pricing-for-github-hosted-runners-usage"
+      "latestLink": "https://github.blog/changelog/2026-01-13-new-fine-grained-permission-for-artifact-metadata-is-now-generally-available"
     },
     {
       "name": "VSCode Tech Blog",
