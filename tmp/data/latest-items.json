@@ -54,6 +54,11 @@
       "title": "refactor(globals): Stop overwriting global.fetch",
       "link": "https://github.com/honojs/node-server/pull/295",
       "category": "hono"
+    },
+    {
+      "title": "Appleの次世代AIはGoogle Geminiベースに　「数年にわたる協力関係」を開始",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news044.html",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
