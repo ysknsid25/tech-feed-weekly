@@ -39,6 +39,16 @@
       "title": "開発にどう組み込む？AIエージェント選定ガイド",
       "link": "https://findy.connpass.com/event/380747/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Google Cloud の Billing Account の監査ログを設定する",
+      "link": "https://zenn.dev/google_cloud_jp/articles/e102d57c12fc85",
+      "category": "cloud"
+    },
+    {
+      "title": "最近の npm サプライチェーン攻撃への対応から AWS Security が学んだこと",
+      "link": "https://aws.amazon.com/jp/blogs/news/what-aws-security-learned-from-responding-to-recent-npm-supply-chain-threat-campaigns/",
+      "category": "cloud"
     }
   ]
 }

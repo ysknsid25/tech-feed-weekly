@@ -10,7 +10,7 @@
       "name": "Google Cloud Japan",
       "type": "categoryIsUrl",
       "feedUrl": "https://zenn.dev/p/google_cloud_jp/feed",
-      "latestLink": "https://zenn.dev/google_cloud_jp/articles/d660e277740c41"
+      "latestLink": "https://zenn.dev/google_cloud_jp/articles/e102d57c12fc85"
     },
     {
       "name": "Vercel",
@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/maximize-the-value-of-your-sap-data-using-with-amazon-q-business-and-amazon-bedrock-generative-ai-part-2/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/what-aws-security-learned-from-responding-to-recent-npm-supply-chain-threat-campaigns/"
     },
     {
       "name": "SRE Weekly",
