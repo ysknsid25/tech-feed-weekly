@@ -169,6 +169,16 @@
       "title": "Configure Tailwind v4 with Angular in an Nx Monorepo | Nx Blog",
       "link": "https://nx.dev/blog/setup-tailwind-4-angular-nx-workspace",
       "category": "jsts"
+    },
+    {
+      "title": "fix: memory leak zod openapi",
+      "link": "https://github.com/honojs/middleware/pull/1704",
+      "category": "hono"
+    },
+    {
+      "title": "The Index: Issue #155 | Piccalilli - Everything",
+      "link": "https://piccalil.li/the-index/155/",
+      "category": "jsts"
     }
   ]
 }
