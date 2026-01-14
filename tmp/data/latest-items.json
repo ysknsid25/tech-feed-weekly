@@ -194,6 +194,11 @@
       "title": "Implement load secrets from files.",
       "link": "https://github.com/unjs/c12/pull/290",
       "category": "unjs"
+    },
+    {
+      "title": "Playing With CodePen slideVars | CSS-Tricks",
+      "link": "https://css-tricks.com/playing-with-codepen-slidevars/",
+      "category": "jsts"
     }
   ]
 }
