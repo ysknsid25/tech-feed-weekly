@@ -84,6 +84,31 @@
       "title": "docs: align CODE_OF_CONDUCT.md wording with Contributor Covenant",
       "link": "https://github.com/honojs/hono/pull/4630",
       "category": "hono"
+    },
+    {
+      "title": "2026年版「基本的なウェブアプリケーションを構築する」のチュートリアル手順作ってみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/2026-build-web-app-s3-lambda-api-gateway-dynamodb/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Claude Code Customization Guide: Rules vs Skills vs Subagents vs MCPs",
+      "link": "https://marioottmann.com/articles/claude-code-customization-guide",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "refactor(middleware/logger): add return type annotations",
+      "link": "https://github.com/honojs/hono/pull/4631",
+      "category": "hono"
+    },
+    {
+      "title": "New Year, New Website | StyleX Blog",
+      "link": "https://stylexjs.com/blog/a-new-year-2026",
+      "category": "jsts"
+    },
+    {
+      "title": "TECH BATON in 東京 〜うちのフロントエンド進化のツボ ！コード長持ちのための技術〜",
+      "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
