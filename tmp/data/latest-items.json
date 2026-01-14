@@ -159,6 +159,16 @@
       "title": "Notion APIのレスポンスを安全に扱うライブラリを作った",
       "link": "https://zenn.dev/line_ec_lea/articles/45b8f190493c1e",
       "category": "valibot"
+    },
+    {
+      "title": "【開催報告】企業の生成 AI 活用を加速する Dify Enterprise on AWS 〜セキュアなデータの活用とパートナー導入事例〜",
+      "link": "https://aws.amazon.com/jp/blogs/news/dify-enterprise-on-aws-event-20251121-report/",
+      "category": "cloud"
+    },
+    {
+      "title": "Configure Tailwind v4 with Angular in an Nx Monorepo | Nx Blog",
+      "link": "https://nx.dev/blog/setup-tailwind-4-angular-nx-workspace",
+      "category": "jsts"
     }
   ]
 }
