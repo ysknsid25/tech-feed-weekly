@@ -154,6 +154,11 @@
       "title": "`generateTsConfig` produces alternating results due to incorrect tsconfig merging",
       "link": "https://github.com/nitrojs/nitro/issues/3945",
       "category": "unjs"
+    },
+    {
+      "title": "Notion APIのレスポンスを安全に扱うライブラリを作った",
+      "link": "https://zenn.dev/line_ec_lea/articles/45b8f190493c1e",
+      "category": "valibot"
     }
   ]
 }
