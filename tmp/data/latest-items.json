@@ -144,6 +144,11 @@
       "title": "The default behavior on 404 in handle() and fire() seems inconsistent and not documented",
       "link": "https://github.com/honojs/hono/issues/4632",
       "category": "hono"
+    },
+    {
+      "title": "VMware マイグレーションの加速: AWS Transform の新しいエクスペリエンス",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerating-vmware-migration-aws-transforms-new-experience/",
+      "category": "cloud"
     }
   ]
 }
