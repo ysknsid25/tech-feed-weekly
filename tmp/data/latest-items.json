@@ -204,6 +204,11 @@
       "title": "Return `405 Method Not Allowed` when a path exists but the HTTP method is unsupported",
       "link": "https://github.com/honojs/hono/issues/4633",
       "category": "hono"
+    },
+    {
+      "title": "マウスの戻るボタンでページ遷移してしまう原因を追ったら Google Tag Manager に行き着いた - ドワンゴ教育サービス開発者ブログ",
+      "link": "https://blog.nnn.dev/entry/2026/01/14/110000",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
