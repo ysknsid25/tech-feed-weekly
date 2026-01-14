@@ -214,6 +214,11 @@
       "title": "GPT 5.2 Codex now available on Vercel AI Gateway",
       "link": "https://vercel.com/changelog/gpt-5-2-codex-now-available-on-vercel-ai-gateway",
       "category": "cloud"
+    },
+    {
+      "title": "Tanstack Start + Inngest",
+      "link": "https://github.com/nitrojs/nitro/issues/3948",
+      "category": "unjs"
     }
   ]
 }
