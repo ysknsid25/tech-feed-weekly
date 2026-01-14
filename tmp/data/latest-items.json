@@ -219,6 +219,11 @@
       "title": "Tanstack Start + Inngest",
       "link": "https://github.com/nitrojs/nitro/issues/3948",
       "category": "unjs"
+    },
+    {
+      "title": "Introducing: React Best Practices",
+      "link": "https://vercel.com/blog/introducing-react-best-practices",
+      "category": "cloud"
     }
   ]
 }
