@@ -199,6 +199,11 @@
       "title": "Playing With CodePen slideVars | CSS-Tricks",
       "link": "https://css-tricks.com/playing-with-codepen-slidevars/",
       "category": "jsts"
+    },
+    {
+      "title": "Return `405 Method Not Allowed` when a path exists but the HTTP method is unsupported",
+      "link": "https://github.com/honojs/hono/issues/4633",
+      "category": "hono"
     }
   ]
 }
