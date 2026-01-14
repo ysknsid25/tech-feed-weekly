@@ -189,6 +189,11 @@
       "title": "add cloudflare ip support",
       "link": "https://github.com/nitrojs/nitro/pull/3947",
       "category": "unjs"
+    },
+    {
+      "title": "Implement load secrets from files.",
+      "link": "https://github.com/unjs/c12/pull/290",
+      "category": "unjs"
     }
   ]
 }
