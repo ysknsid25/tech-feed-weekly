@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/what-aws-security-learned-from-responding-to-recent-npm-supply-chain-threat-campaigns/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/yayoi-ai-dlc/"
     },
     {
       "name": "SRE Weekly",

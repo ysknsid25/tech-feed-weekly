@@ -34,7 +34,7 @@
       "name": "LINE Yahoo Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://techblog.lycorp.co.jp/ja/feed/index.xml",
-      "latestLink": "https://techblog.lycorp.co.jp/ja/20260113a"
+      "latestLink": "https://techblog.lycorp.co.jp/ja/20260114a"
     },
     {
       "name": "freee Tech Blog",
@@ -82,7 +82,7 @@
       "name": "はてな開発者ブログ",
       "type": "hatena",
       "feedUrl": "https://developer.hatenastaff.com",
-      "latestLink": "https://developer.hatenastaff.com/entry/2025/12/31/235900"
+      "latestLink": "https://developer.hatenastaff.com/entry/2026/01/14/110000"
     },
     {
       "name": "newmo",
