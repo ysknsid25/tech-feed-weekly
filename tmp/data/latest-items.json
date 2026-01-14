@@ -149,6 +149,11 @@
       "title": "VMware マイグレーションの加速: AWS Transform の新しいエクスペリエンス",
       "link": "https://aws.amazon.com/jp/blogs/news/accelerating-vmware-migration-aws-transforms-new-experience/",
       "category": "cloud"
+    },
+    {
+      "title": "`generateTsConfig` produces alternating results due to incorrect tsconfig merging",
+      "link": "https://github.com/nitrojs/nitro/issues/3945",
+      "category": "unjs"
     }
   ]
 }
