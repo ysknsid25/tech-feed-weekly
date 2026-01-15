@@ -99,6 +99,11 @@
       "title": "1/21（水） に CRE Camp #4 が はてな東京オフィスで開催されます",
       "link": "https://developer.hatenastaff.com/entry/2026/01/15/120000",
       "category": "company"
+    },
+    {
+      "title": "feat(jsx/dom): Extend the render function to accept strings as containers",
+      "link": "https://github.com/honojs/hono/pull/4634",
+      "category": "hono"
     }
   ]
 }
