@@ -194,6 +194,16 @@
       "title": "開発環境現状確認 2026 - k0kubun's blog",
       "link": "https://k0kubun.hatenablog.com/entry/development-environment-2026",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "OpenResponses API now supported on Vercel AI Gateway",
+      "link": "https://vercel.com/changelog/openresponses-api-now-supported-on-vercel-ai-gateway",
+      "category": "cloud"
+    },
+    {
+      "title": "feat(oidc-auth): Fixes issue related to https://github.com/honojs/hono/issues/4625 and add support for optional JWT algorithm",
+      "link": "https://github.com/honojs/middleware/pull/1705",
+      "category": "hono"
     }
   ]
 }
