@@ -59,6 +59,21 @@
       "title": "TECH BATON in 東京 〜うちのフロントエンド進化のツボ ！コード長持ちのための技術〜",
       "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies (v1)",
+      "link": "https://github.com/h3js/h3/pull/1282",
+      "category": "unjs"
+    },
+    {
+      "title": "Use Perplexity Web Search with Vercel AI Gateway",
+      "link": "https://vercel.com/blog/use-perplexity-web-search-with-vercel-ai-gateway",
+      "category": "cloud"
+    },
+    {
+      "title": "Quoting Boaz Barak, Gabriel Wu, Jeremy Chen and Manas Joglekar | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/15/boaz-barak-gabriel-wu-jeremy-chen-and-manas-joglekar/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
