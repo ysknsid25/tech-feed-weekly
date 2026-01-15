@@ -104,6 +104,11 @@
       "title": "feat(jsx/dom): Extend the render function to accept strings as containers",
       "link": "https://github.com/honojs/hono/pull/4634",
       "category": "hono"
+    },
+    {
+      "title": "feat(jsx/dom): Extend the render function to accept strings as containers",
+      "link": "https://github.com/honojs/hono/pull/4635",
+      "category": "hono"
     }
   ]
 }
