@@ -179,6 +179,16 @@
       "title": "「嫌な仕事を始められない」脳回路を解明　“やる気ブレーキ”を発見　京大など",
       "link": "https://www.itmedia.co.jp/news/articles/2601/15/news123.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "On-demand Vercel Agent code reviews",
+      "link": "https://vercel.com/changelog/on-demand-vercel-agent-code-reviews",
+      "category": "cloud"
+    },
+    {
+      "title": "add netlify \u0026 vercel ip support",
+      "link": "https://github.com/nitrojs/nitro/pull/3952",
+      "category": "unjs"
     }
   ]
 }
