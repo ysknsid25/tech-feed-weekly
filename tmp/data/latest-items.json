@@ -109,6 +109,21 @@
       "title": "feat(jsx/dom): Extend the render function to accept strings as containers",
       "link": "https://github.com/honojs/hono/pull/4635",
       "category": "hono"
+    },
+    {
+      "title": "自治体業務をAIで改善。実践と実装拡大のコツを先進事例から学ぶ【共創PFキャンプ】 | デジタル庁ニュース一覧",
+      "link": "https://digital-agency-news.digital.go.jp/articles/2026-01-15",
+      "category": "jsts"
+    },
+    {
+      "title": "Amazon Multi-Channel Fulfillment and Buy with Prime Accelerators for SAP S/4HANA が利用可能に",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-multi-channel-fulfillment-and-buy-with-prime-accelerators-for-sap-s-4hana-now-available/",
+      "category": "cloud"
+    },
+    {
+      "title": "軽量で型安全なAPIを実現する技術比較（tRPC / Hono / Elysia）",
+      "link": "https://zenn.dev/m_noto/articles/92168c3fa006ed",
+      "category": "hono"
     }
   ]
 }
