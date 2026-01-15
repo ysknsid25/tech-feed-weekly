@@ -139,6 +139,16 @@
       "title": "AI要約サービスで robots.txt を尊重する実装パターン",
       "link": "https://zenn.dev/pav/articles/3d9c92395ee44c",
       "category": "hono"
+    },
+    {
+      "title": "EKS + Karpenter で GPUノードを構築した話",
+      "link": "https://developer.hatenastaff.com/entry/2026/01/15/182143",
+      "category": "company"
+    },
+    {
+      "title": "エンジニアの登壇資料を大解剖！",
+      "link": "https://findy.connpass.com/event/380968/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
