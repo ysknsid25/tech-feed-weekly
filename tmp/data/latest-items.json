@@ -124,6 +124,11 @@
       "title": "軽量で型安全なAPIを実現する技術比較（tRPC / Hono / Elysia）",
       "link": "https://zenn.dev/m_noto/articles/92168c3fa006ed",
       "category": "hono"
+    },
+    {
+      "title": "「全員で何回クリックした？」を実装するのって案外難しい",
+      "link": "https://zenn.dev/daiius/articles/count-how-many-times-user-clicks-sacapis",
+      "category": "hono"
     }
   ]
 }
