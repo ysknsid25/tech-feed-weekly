@@ -204,6 +204,11 @@
       "title": "feat(oidc-auth): Fixes issue related to https://github.com/honojs/hono/issues/4625 and add support for optional JWT algorithm",
       "link": "https://github.com/honojs/middleware/pull/1705",
       "category": "hono"
+    },
+    {
+      "title": "Unveiling Firestore Pipeline operations",
+      "link": "https://firebase.blog/posts/2026/01/firestore-enterprise-pipeline-operations",
+      "category": "cloud"
     }
   ]
 }

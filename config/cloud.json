@@ -4,7 +4,7 @@
       "name": "Firebase Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://firebase.blog/rss.xml",
-      "latestLink": "https://firebase.blog/posts/2026/01/continuous-improvement"
+      "latestLink": "https://firebase.blog/posts/2026/01/firestore-enterprise-pipeline-operations"
     },
     {
       "name": "Google Cloud Japan",
