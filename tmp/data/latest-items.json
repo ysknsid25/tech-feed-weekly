@@ -169,6 +169,11 @@
       "title": "feat(): $path",
       "link": "https://github.com/honojs/hono/pull/4636",
       "category": "hono"
+    },
+    {
+      "title": "Introducing: React Best Practices - Vercel",
+      "link": "https://vercel.com/blog/introducing-react-best-practices",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
