@@ -209,6 +209,16 @@
       "title": "Unveiling Firestore Pipeline operations",
       "link": "https://firebase.blog/posts/2026/01/firestore-enterprise-pipeline-operations",
       "category": "cloud"
+    },
+    {
+      "title": "タイポグラフィCSS",
+      "link": "https://gist.github.com/tak-dcxi/0f8b924d6dd81aaeb58dc2e287f2ab3a",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Enhanced Observability for Hono and Express projects",
+      "link": "https://vercel.com/changelog/enhanced-observability-for-hono-and-express-projects",
+      "category": "cloud"
     }
   ]
 }
