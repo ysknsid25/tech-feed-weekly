@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/dify-enterprise-on-aws-event-20251121-report/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/accelerate-investigations-with-aws-security-incident-response-ai-powered-capabilities/"
     },
     {
       "name": "SRE Weekly",

@@ -74,6 +74,31 @@
       "title": "Quoting Boaz Barak, Gabriel Wu, Jeremy Chen and Manas Joglekar | Simon Willison's Weblog",
       "link": "https://simonwillison.net/2026/Jan/15/boaz-barak-gabriel-wu-jeremy-chen-and-manas-joglekar/#atom-everything",
       "category": "jsts"
+    },
+    {
+      "title": "iD払いって何が良いの？と聞かれたけど分からなくて答えられなかった...iD払いのメリットって何ですか？",
+      "link": "https://togetter.com/li/2651858",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AWS Security Incident Response の AI 調査機能でインシデント対応を迅速化",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-investigations-with-aws-security-incident-response-ai-powered-capabilities/",
+      "category": "cloud"
+    },
+    {
+      "title": "フロントエンドの技術選定〜ピクシブ×Findyの事例に学ぶ〜",
+      "link": "https://findy.connpass.com/event/379759/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3950",
+      "category": "unjs"
+    },
+    {
+      "title": "1/21（水） に CRE Camp #4 が はてな東京オフィスで開催されます",
+      "link": "https://developer.hatenastaff.com/entry/2026/01/15/120000",
+      "category": "company"
     }
   ]
 }
