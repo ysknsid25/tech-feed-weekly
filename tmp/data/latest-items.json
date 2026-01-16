@@ -64,6 +64,36 @@
       "title": "JSer.info 15周年: 15年間のJavaScriptを振り返る",
       "link": "https://jser.info/2026/01/16/jser-info-15th/",
       "category": "jsts"
+    },
+    {
+      "title": "なぜ日本人は｢10万円超え｣でもiPhoneが大好きなのか…世界で圧倒的シェアを誇るAndroidとの決定的な差",
+      "link": "https://president.jp/articles/-/107520",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "話題のAIツール、グーグル「NotebookLM」をもっと活用する方法 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/89389",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "[資料公開 \u0026 開催報告] Amazon Q Developer \u0026 Kiro Meetup #5 を開催しました",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiro-meetup-5-report/",
+      "category": "cloud"
+    },
+    {
+      "title": "機能テストだけでは足りない。「ユーザー視点」の回帰テストをAIで再構築した話。",
+      "link": "https://developersblog.dmm.com/entry/2026/01/16/110000",
+      "category": "company"
+    },
+    {
+      "title": "fix: memory leak zod openapi",
+      "link": "https://github.com/honojs/middleware/pull/1704",
+      "category": "hono"
+    },
+    {
+      "title": "Why SaaS license waste is a cost and security problem | Blog on 1Password Blog",
+      "link": "https://1password.com/blog/why-saas-license-waste-is-a-cost-and-security-problem",
+      "category": "jsts"
     }
   ]
 }
