@@ -169,6 +169,16 @@
       "title": "The Index: Issue #156 | Piccalilli - Everything",
       "link": "https://piccalil.li/the-index/156/",
       "category": "jsts"
+    },
+    {
+      "title": "“I Heart CSS” DailyDev Squad | CSS-Tricks",
+      "link": "https://css-tricks.com/i-heart-css-dailydev-squad/",
+      "category": "jsts"
+    },
+    {
+      "title": "Improved environment variables UI",
+      "link": "https://vercel.com/changelog/improved-environment-variables-ui",
+      "category": "cloud"
     }
   ]
 }

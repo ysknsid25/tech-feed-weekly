@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/blog/aws-databases-are-now-live-on-the-vercel-marketplace-and-v0"
+      "latestLink": "https://vercel.com/changelog/improved-environment-variables-ui"
     },
     {
       "name": "GitHub Actions Blog",
