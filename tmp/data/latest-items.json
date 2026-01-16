@@ -54,6 +54,16 @@
       "title": "feat: add 'methodNotAllowed' handler for '405 Method Not Allowed' responses",
       "link": "https://github.com/honojs/hono/pull/4637",
       "category": "hono"
+    },
+    {
+      "title": "TECH BATON in 東京 〜うちのフロントエンド進化のツボ ！コード長持ちのための技術〜",
+      "link": "https://findy.connpass.com/event/380541/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "JSer.info 15周年: 15年間のJavaScriptを振り返る",
+      "link": "https://jser.info/2026/01/16/jser-info-15th/",
+      "category": "jsts"
     }
   ]
 }
