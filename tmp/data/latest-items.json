@@ -129,6 +129,11 @@
       "title": "LINEグループ作成を要求されるCEO詐欺メールについてまとめてみた",
       "link": "https://piyolog.hatenadiary.jp/entry/2026/01/16/155626",
       "category": "famous"
+    },
+    {
+      "title": "ニフティ株式会社、Amazon RDS for Oracle への移行によりシステム環境のランニングコストを77%削減",
+      "link": "https://aws.amazon.com/jp/blogs/news/nifty-group-migrating-to-amazon-rds-for-oracle/",
+      "category": "cloud"
     }
   ]
 }

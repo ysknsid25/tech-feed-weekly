@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/kiro-meetup-5-report/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/nifty-group-migrating-to-amazon-rds-for-oracle/"
     },
     {
       "name": "SRE Weekly",
