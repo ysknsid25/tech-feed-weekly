@@ -144,6 +144,11 @@
       "title": "Chrome 145 adds Experimental Support for Vertical Tabs | Bram.us",
       "link": "https://www.bram.us/2026/01/16/chrome-145-adds-experimental-support-for-vertical-tabs/",
       "category": "jsts"
+    },
+    {
+      "title": "Update your Kotlin projects for Android Gradle Plugin 9.0",
+      "link": "https://blog.jetbrains.com/kotlin/2026/01/update-your-projects-for-agp9/",
+      "category": "kotlin"
     }
   ]
 }
