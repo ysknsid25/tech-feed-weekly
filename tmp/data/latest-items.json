@@ -179,6 +179,11 @@
       "title": "Improved environment variables UI",
       "link": "https://vercel.com/changelog/improved-environment-variables-ui",
       "category": "cloud"
+    },
+    {
+      "title": "「パフォーマンスチューニングのために普段からできること」〜なぜ突然システムが遅くなるのか？ISUCON優勝者が語る計測と推測のリアリティ 〜 - KAKEHASHI Tech Blog",
+      "link": "https://kakehashi-dev.hatenablog.com/entry/2026/01/16/110121",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
