@@ -184,6 +184,16 @@
       "title": "「パフォーマンスチューニングのために普段からできること」〜なぜ突然システムが遅くなるのか？ISUCON優勝者が語る計測と推測のリアリティ 〜 - KAKEHASHI Tech Blog",
       "link": "https://kakehashi-dev.hatenablog.com/entry/2026/01/16/110121",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Honoの型推論は好きだけどRPCの書き方が苦手な人のための、RESTな型安全クライアント「hono-typed-rest」を作った",
+      "link": "https://zenn.dev/andyyyy64/articles/d8ffe5f26d4a56",
+      "category": "hono"
+    },
+    {
+      "title": "Rate limiting for actions cache entries",
+      "link": "https://github.blog/changelog/2026-01-16-rate-limiting-for-actions-cache-entries",
+      "category": "cloud"
     }
   ]
 }

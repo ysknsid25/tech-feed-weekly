@@ -22,7 +22,7 @@
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2026-01-13-new-fine-grained-permission-for-artifact-metadata-is-now-generally-available"
+      "latestLink": "https://github.blog/changelog/2026-01-16-rate-limiting-for-actions-cache-entries"
     },
     {
       "name": "VSCode Tech Blog",
