@@ -79,6 +79,11 @@
       "title": "Add `Link: rel:preload` header for `writeEarlyHints`",
       "link": "https://github.com/h3js/h3/issues/1279",
       "category": "unjs"
+    },
+    {
+      "title": "TypeError: fetch failed - Invalid connection header in Nitro dev middleware",
+      "link": "https://github.com/nitrojs/nitro/issues/3955",
+      "category": "unjs"
     }
   ]
 }
