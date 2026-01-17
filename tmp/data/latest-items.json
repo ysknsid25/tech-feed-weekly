@@ -74,6 +74,11 @@
       "title": "chore: separate import types",
       "link": "https://github.com/h3js/h3/pull/1280",
       "category": "unjs"
+    },
+    {
+      "title": "Add `Link: rel:preload` header for `writeEarlyHints`",
+      "link": "https://github.com/h3js/h3/issues/1279",
+      "category": "unjs"
     }
   ]
 }
