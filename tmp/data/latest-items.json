@@ -84,6 +84,11 @@
       "title": "TypeError: fetch failed - Invalid connection header in Nitro dev middleware",
       "link": "https://github.com/nitrojs/nitro/issues/3955",
       "category": "unjs"
+    },
+    {
+      "title": "2026-01-17のJS: Node.js のセキュリティアップデート、Chrome 144、Firefox 147、Electron 40",
+      "link": "https://jser.info/2026/01/17/node.js-chrome-144-firefox-147-electron-40/",
+      "category": "jsts"
     }
   ]
 }
