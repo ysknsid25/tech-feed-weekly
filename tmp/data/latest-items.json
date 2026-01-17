@@ -94,6 +94,11 @@
       "title": "fix netlify caching based on pathname instead of pathname + search",
       "link": "https://github.com/nitrojs/nitro/pull/3956",
       "category": "unjs"
+    },
+    {
+      "title": "生成AIで起きたのは｢研究の低年齢化｣ではない／民主化ではなく､｢最初から本質を持っているか｣が問われる残酷かつ公平な時代に",
+      "link": "https://toyokeizai.net/articles/-/928669?display=b",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
