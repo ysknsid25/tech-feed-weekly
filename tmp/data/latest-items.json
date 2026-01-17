@@ -104,6 +104,11 @@
       "title": "ぴよたそおみくじの技術構成",
       "link": "https://zenn.dev/qtaro/articles/eb6881fc0851dc",
       "category": "hono"
+    },
+    {
+      "title": "Honoの型推論は好きだけどRPCの書き方が苦手な人のための、RESTな型安全クライアント「hono-typed-rest」を作った",
+      "link": "https://zenn.dev/andyyyy64/articles/d8ffe5f26d4a56",
+      "category": "hono"
     }
   ]
 }
