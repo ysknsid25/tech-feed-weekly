@@ -54,6 +54,26 @@
       "title": "KDDI系が仕様駆動開発を採用、AIで業務は「設計8割・開発2割」に",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11413/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話 - Qiita",
+      "link": "https://qiita.com/shiozaki/items/9d7aeac0dd6733a6e2fb",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "検閲のゆるいAIランキング",
+      "link": "https://gigazine.net/news/20260116-uncensored-ai/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering | Blog | Alex Harri",
+      "link": "https://alexharri.com/blog/ascii-rendering",
+      "category": "jsts"
+    },
+    {
+      "title": "chore: separate import types",
+      "link": "https://github.com/h3js/h3/pull/1280",
+      "category": "unjs"
     }
   ]
 }
