@@ -79,6 +79,11 @@
       "title": "About bash/zsh completions",
       "link": "https://github.com/unjs/citty/issues/217",
       "category": "unjs"
+    },
+    {
+      "title": "TUI を構築するための Typescript ライブラリ OpenTUI | azukiazusa のテックブログ2",
+      "link": "https://azukiazusa.dev/blog/build-tui-with-opentui",
+      "category": "jsts"
     }
   ]
 }
