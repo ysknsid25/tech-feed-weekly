@@ -89,6 +89,21 @@
       "title": "AIは魔法ではない。マイクロソフトが背負い始めた「AI公害」という現実｜川崎 裕一 / マネタイズおじさん",
       "link": "https://comemo.nikkei.com/n/nbfac079229d6",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "なぜJavaScriptのfetchはawaitを2回しないとレスポンスを取れないのか | maguro​.dev",
+      "link": "https://maguro.dev/blog/fetch-double-await-explained/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "店に食事会の予約をしたら、その予約方法が『直前キャンセル対策』として素晴らしいシステムだった「これは普及して欲しい」「海外ではわりと普通」",
+      "link": "https://togetter.com/li/2653142",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "TypeError: fetch failed - Invalid connection header in Nitro dev middleware",
+      "link": "https://github.com/nitrojs/nitro/issues/3955",
+      "category": "unjs"
     }
   ]
 }
