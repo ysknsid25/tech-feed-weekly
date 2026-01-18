@@ -119,6 +119,11 @@
       "title": "AI時代になぜ人が学ぶのか - そーだいなるらくがき帳",
       "link": "https://soudai.hatenablog.com/entry/2026/01/18/133044",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Cloudflare Durable Objects + Alarms で実装する自己回復型バックグラウンド処理",
+      "link": "https://zenn.dev/pav/articles/f462d007130cf1",
+      "category": "hono"
     }
   ]
 }
