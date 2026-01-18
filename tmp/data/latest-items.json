@@ -124,6 +124,11 @@
       "title": "Cloudflare Durable Objects + Alarms で実装する自己回復型バックグラウンド処理",
       "link": "https://zenn.dev/pav/articles/f462d007130cf1",
       "category": "hono"
+    },
+    {
+      "title": "Orvalのメンテナーとして2025年の活動と2026年やりたいこと",
+      "link": "https://zenn.dev/soartec_lab/articles/444be40483b2dc",
+      "category": "hono"
     }
   ]
 }
