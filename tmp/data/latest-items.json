@@ -119,6 +119,11 @@
       "title": "Add blog post introducing Open Circle",
       "link": "https://github.com/open-circle/valibot/pull/1395",
       "category": "valibot"
+    },
+    {
+      "title": "週刊生成AI with AWS – 2026/1/12 週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260112/",
+      "category": "cloud"
     }
   ]
 }

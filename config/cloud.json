@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260112/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260112/"
     },
     {
       "name": "SRE Weekly",
