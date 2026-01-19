@@ -194,6 +194,11 @@
       "title": "RPC client type inference fails in turborepo workspace with Hono v4.11.0+, works in v4.10.8*",
       "link": "https://github.com/honojs/hono/issues/4638",
       "category": "hono"
+    },
+    {
+      "title": "GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+      "link": "https://github.com/affaan-m/everything-claude-code",
+      "category": "hatena-bookmark-tech"
     }
   ]
 }
