@@ -124,6 +124,16 @@
       "title": "週刊生成AI with AWS – 2026/1/12 週",
       "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260112/",
       "category": "cloud"
+    },
+    {
+      "title": "株式会社デジナーレが Strands Agents と AgentCore で実現した脆弱性情報収集の完全自動化",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-designare/",
+      "category": "cloud"
+    },
+    {
+      "title": "ISMSの文書管理をGitHubに移行したお話 | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/01/19/isms-docs-to-github",
+      "category": "jsts"
     }
   ]
 }
