@@ -144,6 +144,21 @@
       "title": "登壇前夜 技術の最前線は本当に追い続けなければならないのか？-エキスパートとしてのキャリア-",
       "link": "https://findy.connpass.com/event/381655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "「買ったのに使われなかったもの」の原因は、「システムが定着しない原因」と大体同じだった",
+      "link": "https://blog.tinect.jp/?p=90670",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Allow configuring OpenAPI Swagger UI",
+      "link": "https://github.com/nitrojs/nitro/issues/3959",
+      "category": "unjs"
+    },
+    {
+      "title": "TSKaigi Mashup #3 Type Challenges ハンズオン",
+      "link": "https://typescript-jpc.connpass.com/event/377810/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
