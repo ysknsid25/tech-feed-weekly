@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/autoscaling-%E3%82%92%E9%81%A9%E7%94%A8%E3%81%97%E3%81%9F-amazon-ecs-service-%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E3%80%81%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA-amazon-ecs-native-blue-green-%E3%81%AE/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/ecs-auto-scaling-bg-combination/"
     },
     {
       "name": "SRE Weekly",

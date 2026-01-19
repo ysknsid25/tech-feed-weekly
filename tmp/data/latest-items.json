@@ -59,6 +59,16 @@
       "title": "個人開発における成長を支える技術選定",
       "link": "https://findy.connpass.com/event/381349/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Fix/arktype match zod",
+      "link": "https://github.com/honojs/middleware/pull/1708",
+      "category": "hono"
+    },
+    {
+      "title": "AutoScaling を適用した Amazon ECS Service に対する効果的な Amazon ECS built-in Blue/Green の活用方法について",
+      "link": "https://aws.amazon.com/jp/blogs/news/ecs-auto-scaling-bg-combination/",
+      "category": "cloud"
     }
   ]
 }
