@@ -109,6 +109,16 @@
       "title": "エンジニアの年収はどう変わる？2026年の転職トレンドと変化の時代を生き抜く「キャリア戦略」",
       "link": "https://findy.connpass.com/event/380582/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "Scaling long-running autonomous coding | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/#atom-everything",
+      "category": "jsts"
+    },
+    {
+      "title": "Add blog post introducing Open Circle",
+      "link": "https://github.com/open-circle/valibot/pull/1395",
+      "category": "valibot"
     }
   ]
 }
