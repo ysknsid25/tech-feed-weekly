@@ -69,6 +69,16 @@
       "title": "AutoScaling を適用した Amazon ECS Service に対する効果的な Amazon ECS built-in Blue/Green の活用方法について",
       "link": "https://aws.amazon.com/jp/blogs/news/ecs-auto-scaling-bg-combination/",
       "category": "cloud"
+    },
+    {
+      "title": "Cursor × GitHub MCPによる開発生産性向上の実践知",
+      "link": "https://developersblog.dmm.com/entry/2026/01/19/110000",
+      "category": "company"
+    },
+    {
+      "title": "FLUX.2-klein-4B Pure C Implementation | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/18/flux2-klein-4b/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
