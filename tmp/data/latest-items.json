@@ -159,6 +159,16 @@
       "title": "Rethinking “Pixel Perfect” Web Design | Articles on Smashing Magazine — For Web Designers And Developers",
       "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
       "category": "jsts"
+    },
+    {
+      "title": "chore(deps): update dependency giget to v3",
+      "link": "https://github.com/unjs/c12/pull/291",
+      "category": "unjs"
+    },
+    {
+      "title": "Boost accuracy with the prompt optimizer",
+      "link": "https://firebase.blog/posts/2026/01/boost-accuracy-with-the-prompt-optimizer",
+      "category": "cloud"
     }
   ]
 }
