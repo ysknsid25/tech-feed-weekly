@@ -149,6 +149,11 @@
       "title": "IDE 診断機能による Kiro の進化",
       "link": "https://aws.amazon.com/jp/blogs/news/empowering-kiro-with-ide-diagnostics/",
       "category": "cloud"
+    },
+    {
+      "title": "Allow configuring OpenAPI Swagger UI",
+      "link": "https://github.com/nitrojs/nitro/issues/3959",
+      "category": "unjs"
     }
   ]
 }
