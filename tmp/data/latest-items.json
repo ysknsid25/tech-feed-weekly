@@ -194,6 +194,11 @@
       "title": "GitHub - dnobori/DN_SuperBook_PDF_Converter: DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール",
       "link": "https://github.com/dnobori/DN_SuperBook_PDF_Converter",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix(response): prevent propagating sensitive headers",
+      "link": "https://github.com/h3js/h3/pull/1284",
+      "category": "unjs"
     }
   ]
 }
