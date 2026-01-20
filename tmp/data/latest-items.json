@@ -154,6 +154,11 @@
       "title": "Allow configuring OpenAPI Swagger UI",
       "link": "https://github.com/nitrojs/nitro/issues/3959",
       "category": "unjs"
+    },
+    {
+      "title": "Rethinking “Pixel Perfect” Web Design | Articles on Smashing Magazine — For Web Designers And Developers",
+      "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+      "category": "jsts"
     }
   ]
 }
