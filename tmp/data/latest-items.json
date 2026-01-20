@@ -109,6 +109,11 @@
       "title": "コードレビューどうしてる？各社のTips共有会",
       "link": "https://findy.connpass.com/event/381956/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "refactor!: use `node:util.parseArgs` for arg parsing",
+      "link": "https://github.com/unjs/citty/pull/218",
+      "category": "unjs"
     }
   ]
 }
