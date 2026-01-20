@@ -114,6 +114,21 @@
       "title": "refactor!: use `node:util.parseArgs` for arg parsing",
       "link": "https://github.com/unjs/citty/pull/218",
       "category": "unjs"
+    },
+    {
+      "title": "スシローの呼び出し番号を表示するディスプレイ、あまりにも分かりづらい「こんなに沢山矢印やら数字やらアイコン書いてあるのに全く理解できないUI」",
+      "link": "https://togetter.com/li/2653868",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "これはかなり便利！ 1クリックであらゆるWebサイトのデザインやアセットを抽出できるChromeの拡張機能 -MiroMiro",
+      "link": "https://coliss.com/articles/build-websites/architectonics/copy-sites-design-assets.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "About bash/zsh completions",
+      "link": "https://github.com/unjs/citty/issues/217",
+      "category": "unjs"
     }
   ]
 }
