@@ -99,6 +99,11 @@
       "title": "メモリを大量に消費するワークロードに適したカスタムの Intel Xeon 6 プロセッサ搭載の Amazon EC2 X8i インスタンスの一般提供を開始",
       "link": "https://aws.amazon.com/jp/blogs/news/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
       "category": "cloud"
+    },
+    {
+      "title": "feat: add 'methodNotAllowed' handler for '405 Method Not Allowed' responses",
+      "link": "https://github.com/honojs/hono/pull/4637",
+      "category": "hono"
     }
   ]
 }
