@@ -10,7 +10,7 @@
       "name": "JetBrains Kotlin Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://blog.jetbrains.com/kotlin/feed/",
-      "latestLink": "https://blog.jetbrains.com/kotlin/2026/01/update-your-projects-for-agp9/"
+      "latestLink": "https://blog.jetbrains.com/idea/2026/01/how-to-avoid-common-pitfalls-with-jpa-and-kotlin/"
     },
     {
       "name": "JetBrains Ktor Blog",

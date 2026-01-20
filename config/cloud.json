@@ -16,13 +16,13 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/recraft-image-models-now-on-ai-gateway"
+      "latestLink": "https://vercel.com/changelog/introducing-skills-the-open-agent-skills-ecosystem"
     },
     {
       "name": "GitHub Actions Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://github.blog/changelog/label/actions/feed/",
-      "latestLink": "https://github.blog/changelog/2026-01-16-rate-limiting-for-actions-cache-entries"
+      "latestLink": "https://github.blog/changelog/2026-01-20-strengthen-your-supply-chain-with-code-to-cloud-traceability-and-slsa-build-level-3-security"
     },
     {
       "name": "VSCode Tech Blog",
