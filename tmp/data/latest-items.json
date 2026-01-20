@@ -104,6 +104,11 @@
       "title": "feat: add 'methodNotAllowed' handler for '405 Method Not Allowed' responses",
       "link": "https://github.com/honojs/hono/pull/4637",
       "category": "hono"
+    },
+    {
+      "title": "コードレビューどうしてる？各社のTips共有会",
+      "link": "https://findy.connpass.com/event/381956/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
