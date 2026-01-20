@@ -129,6 +129,26 @@
       "title": "About bash/zsh completions",
       "link": "https://github.com/unjs/citty/issues/217",
       "category": "unjs"
+    },
+    {
+      "title": "コードは「読めるけど書けない」でいい時代になった｜すてぃお",
+      "link": "https://note.com/suthio/n/n3f88afe28dbd",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Otonami（おとなみ）｜大人のための非日常体験",
+      "link": "https://otonami.jp/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "jQuery 4.0正式版が公開。10年振りのメジャーバージョンアップ。IE10以前がサポート外、XSS防止など",
+      "link": "https://www.publickey1.jp/blog/26/jquery_4010ie10xss.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "IDE 診断機能による Kiro の進化",
+      "link": "https://aws.amazon.com/jp/blogs/news/empowering-kiro-with-ide-diagnostics/",
+      "category": "cloud"
     }
   ]
 }
