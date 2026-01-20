@@ -54,6 +54,26 @@
       "title": "AWS Weekly Roundup: AWS Lambda for .NET 10、AWS Client VPN クイックスタート、Best of AWS re:Invent など (2026 年 1 月 12 日)",
       "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/",
       "category": "cloud"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3961",
+      "category": "unjs"
+    },
+    {
+      "title": "ポジティブ？ネガティブ？ツイートの感情分析にBERTを活用した事例紹介 〜 学習データのラベル偏りに対する取り組み",
+      "link": "https://techblog.lycorp.co.jp/ja/20260120a",
+      "category": "company"
+    },
+    {
+      "title": "DMM.go #12",
+      "link": "https://dmm.connpass.com/event/375845/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "jordanhubbard/nanolang | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/19/nanolang/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
