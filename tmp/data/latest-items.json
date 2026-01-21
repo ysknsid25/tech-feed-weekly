@@ -154,6 +154,21 @@
       "title": "MIT license file missing",
       "link": "https://github.com/honojs/node-server/issues/296",
       "category": "hono"
+    },
+    {
+      "title": "Mermaidでアーキテクチャ図を作成する - Qiita",
+      "link": "https://qiita.com/mistylady/items/bfa00a849f08d7dc7b47",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "refactor(jwks): mark allowedAlgorithms, so the user can pass a `const…",
+      "link": "https://github.com/honojs/hono/pull/4641",
+      "category": "hono"
+    },
+    {
+      "title": "Adding LICENSE file with MIT license referenced in README.md",
+      "link": "https://github.com/honojs/node-server/pull/297",
+      "category": "hono"
     }
   ]
 }
