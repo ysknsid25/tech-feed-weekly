@@ -139,6 +139,21 @@
       "title": "PyPI Package Impersonates SymPy to Deliver Cryptomining Malware | Socket",
       "link": "https://socket.dev/blog/pypi-package-impersonates-sympy-to-deliver-cryptomining-malware",
       "category": "jsts"
+    },
+    {
+      "title": "AI Code Elements",
+      "link": "https://vercel.com/changelog/ai-code-elements",
+      "category": "cloud"
+    },
+    {
+      "title": "バイブコーディング大会 No.1",
+      "link": "https://428lab.connpass.com/event/382139/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "MIT license file missing",
+      "link": "https://github.com/honojs/node-server/issues/296",
+      "category": "hono"
     }
   ]
 }
