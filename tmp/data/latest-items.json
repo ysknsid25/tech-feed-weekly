@@ -179,6 +179,11 @@
       "title": "Nitro Builds and Serves on Node.js 22.x Despite Vercel Project Setting Configured to 24.x",
       "link": "https://github.com/nitrojs/nitro/issues/3965",
       "category": "unjs"
+    },
+    {
+      "title": "New HackerOne Signal Requirement for Vulnerability Reports",
+      "link": "https://nodejs.org/en/blog/announcements/hackerone-signal-requirement",
+      "category": "jsts"
     }
   ]
 }
