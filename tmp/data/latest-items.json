@@ -134,6 +134,11 @@
       "title": "The Index: Issue #157 | Piccalilli - Everything",
       "link": "https://piccalil.li/the-index/157/",
       "category": "jsts"
+    },
+    {
+      "title": "PyPI Package Impersonates SymPy to Deliver Cryptomining Malware | Socket",
+      "link": "https://socket.dev/blog/pypi-package-impersonates-sympy-to-deliver-cryptomining-malware",
+      "category": "jsts"
     }
   ]
 }
