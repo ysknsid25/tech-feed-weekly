@@ -94,6 +94,11 @@
       "title": "登壇前夜 技術の最前線は本当に追い続けなければならないのか？-エキスパートとしてのキャリア-",
       "link": "https://findy.connpass.com/event/381655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "chore(lockfile): fix the checksum of @cloudflare/vitest-pool-workers",
+      "link": "https://github.com/honojs/middleware/pull/1713",
+      "category": "hono"
     }
   ]
 }
