@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/ai-code-elements"
+      "latestLink": "https://vercel.com/changelog/cron-jobs-now-visible-in-deployment-summary"
     },
     {
       "name": "GitHub Actions Blog",
