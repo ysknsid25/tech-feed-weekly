@@ -79,6 +79,21 @@
       "title": "レガシー Monorepo を安全かつ素早く pnpm workspace に移行する方法 | PLAID Engineer Blog - 株式会社プレイド",
       "link": "https://tech.plaid.co.jp/monorepo-pnpm-workspace-migration",
       "category": "jsts"
+    },
+    {
+      "title": "STORES 予約 i18n 翻訳対応 powered by GitHub Copilot | STORES Product Blog",
+      "link": "https://product.st.inc/entry/2026/01/21/150000",
+      "category": "jsts"
+    },
+    {
+      "title": "AWS Weekly Roundup: Kiro CLI の最新機能、AWS European Sovereign Cloud、EC2 X8i インスタンスなど (2026 年 1 月 19 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/",
+      "category": "cloud"
+    },
+    {
+      "title": "登壇前夜 技術の最前線は本当に追い続けなければならないのか？-エキスパートとしてのキャリア-",
+      "link": "https://findy.connpass.com/event/381655/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
