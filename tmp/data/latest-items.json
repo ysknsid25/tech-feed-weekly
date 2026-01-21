@@ -59,6 +59,21 @@
       "title": "Hope I'm following directions",
       "link": "https://github.com/open-circle/valibot/issues/1397",
       "category": "valibot"
+    },
+    {
+      "title": "「ジェミニ」か「ジェミナイ」──Geminiの正しい読み方は？　Google Japanが正解発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2601/21/news052.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "HuBERTで音声言語モデルの性能を改善",
+      "link": "https://techblog.lycorp.co.jp/ja/20260121c",
+      "category": "company"
+    },
+    {
+      "title": "fastlane match リポジトリを開発者証明書ダッシュボードに変える | STORES Product Blog",
+      "link": "https://product.st.inc/entry/fastlane-match-dashboard",
+      "category": "jsts"
     }
   ]
 }
