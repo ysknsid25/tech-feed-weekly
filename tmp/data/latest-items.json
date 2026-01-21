@@ -169,6 +169,16 @@
       "title": "Adding LICENSE file with MIT license referenced in README.md",
       "link": "https://github.com/honojs/node-server/pull/297",
       "category": "hono"
+    },
+    {
+      "title": "「スマートロックで死にかけた」──SNSでの訴えにSwitchBotが不備を認め謝罪　サポート体制見直しへ",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/21/news114.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Nitro Builds and Serves on Node.js 22.x Despite Vercel Project Setting Configured to 24.x",
+      "link": "https://github.com/nitrojs/nitro/issues/3965",
+      "category": "unjs"
     }
   ]
 }
