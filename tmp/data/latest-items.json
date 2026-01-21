@@ -74,6 +74,11 @@
       "title": "fastlane match リポジトリを開発者証明書ダッシュボードに変える | STORES Product Blog",
       "link": "https://product.st.inc/entry/fastlane-match-dashboard",
       "category": "jsts"
+    },
+    {
+      "title": "レガシー Monorepo を安全かつ素早く pnpm workspace に移行する方法 | PLAID Engineer Blog - 株式会社プレイド",
+      "link": "https://tech.plaid.co.jp/monorepo-pnpm-workspace-migration",
+      "category": "jsts"
     }
   ]
 }
