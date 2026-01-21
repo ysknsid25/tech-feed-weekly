@@ -99,6 +99,16 @@
       "title": "chore(lockfile): fix the checksum of @cloudflare/vitest-pool-workers",
       "link": "https://github.com/honojs/middleware/pull/1713",
       "category": "hono"
+    },
+    {
+      "title": "chore(deps-dev): bump @types/bun from 1.2.12 to 1.3.6",
+      "link": "https://github.com/honojs/middleware/pull/1712",
+      "category": "hono"
+    },
+    {
+      "title": "2026年1月21日 デザインデータ（Figma）v2.10.1を公開しました。 | デジタル庁デザインシステムβ版",
+      "link": "https://design.digital.go.jp/dads/",
+      "category": "jsts"
     }
   ]
 }
