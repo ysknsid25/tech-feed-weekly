@@ -124,6 +124,16 @@
       "title": "Node.js作者の発言「人間がコードを書く時代は終わった」について思うこと | maguro​.dev",
       "link": "https://maguro.dev/blog/the-era-of-humans-writing-code-is-over/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Build failure when included in TS project",
+      "link": "https://github.com/honojs/hono/issues/4640",
+      "category": "hono"
+    },
+    {
+      "title": "The Index: Issue #157 | Piccalilli - Everything",
+      "link": "https://piccalil.li/the-index/157/",
+      "category": "jsts"
     }
   ]
 }
