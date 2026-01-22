@@ -69,6 +69,26 @@
       "title": "WINLIVE リアルタイム⾵映像 – LoRaWAN で計測値を⻑距離伝送する",
       "link": "https://developers.cyberagent.co.jp/blog/archives/61871/",
       "category": "company"
+    },
+    {
+      "title": "AWS 初学者向けイベント「AWS JumpStart 2026」開催のお知らせ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-jumpstart-2026/",
+      "category": "cloud"
+    },
+    {
+      "title": "AIツール導入時のポイントを抑え、安心して取り組むAI駆動開発",
+      "link": "https://findy.connpass.com/event/381399/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Claude's new constitution | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/#atom-everything",
+      "category": "jsts"
+    },
+    {
+      "title": "安全は基本、コスト削減はおまけ：AIサービスに独立したガードレールが必要な理由",
+      "link": "https://techblog.lycorp.co.jp/ja/20260122c",
+      "category": "company"
     }
   ]
 }
