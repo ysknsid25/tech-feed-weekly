@@ -194,6 +194,21 @@
       "title": "Some advice on managing your design career upwards | Piccalilli - Everything",
       "link": "https://piccalil.li/blog/some-advice-on-managing-your-design-career-upwards/",
       "category": "jsts"
+    },
+    {
+      "title": "紙書籍を「自炊」している人に福音？　スキャンデータを徹底的に読みやすくする最強ツール／作者は「SoftEther VPN」などで知られる登大遊氏【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2079829.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "【特集】 「ラズパイでIP-KVM自作して」の依頼を華麗にスルーして「NanoKVM Pro」を推したい理由",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2079506.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "fix(utils): prevent multiple reader.cancel() calls on client disconnect",
+      "link": "https://github.com/honojs/node-server/pull/298",
+      "category": "hono"
     }
   ]
 }
