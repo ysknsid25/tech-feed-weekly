@@ -219,6 +219,16 @@
       "title": "Congratulations to the recipients of the 2025 Spotify FOSS Fund",
       "link": "https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/",
       "category": "company"
+    },
+    {
+      "title": "いま押さえるべき最新AI用語まとめ ～LLM、RAG、オーケストレーション、MCP、バイブコーディング……って何のこと？【開発者と読み解くAIの世界】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aidev/2078521.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Build an agent into any app with the GitHub Copilot SDK | The GitHub Blog",
+      "link": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+      "category": "jsts"
     }
   ]
 }
