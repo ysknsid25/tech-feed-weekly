@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-jumpstart-2026/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/kiro-cli-v1-21-0-to-v1-23-0/"
     },
     {
       "name": "SRE Weekly",
