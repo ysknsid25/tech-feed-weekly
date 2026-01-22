@@ -54,6 +54,21 @@
       "title": "Firefox Goes CSS Modules | Frontend Masters Boost RSS Feed",
       "link": "https://frontendmasters.com/blog/firefox-goes-css-modules/",
       "category": "jsts"
+    },
+    {
+      "title": "Build failure when included in TS project",
+      "link": "https://github.com/honojs/hono/issues/4640",
+      "category": "hono"
+    },
+    {
+      "title": "AWS Certificate Manager がパブリック証明書のエクスポートをサポート",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-certificate-manager-now-supports-exporting-public-certificates/",
+      "category": "cloud"
+    },
+    {
+      "title": "WINLIVE リアルタイム⾵映像 – LoRaWAN で計測値を⻑距離伝送する",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/61871/",
+      "category": "company"
     }
   ]
 }
