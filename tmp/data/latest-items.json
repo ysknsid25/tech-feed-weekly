@@ -209,6 +209,16 @@
       "title": "fix(utils): prevent multiple reader.cancel() calls on client disconnect",
       "link": "https://github.com/honojs/node-server/pull/298",
       "category": "hono"
+    },
+    {
+      "title": "「iPhoneを使ってる人が多いのは日本だけ」というのは間違い",
+      "link": "https://anond.hatelabo.jp/20260122120224",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Congratulations to the recipients of the 2025 Spotify FOSS Fund",
+      "link": "https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/",
+      "category": "company"
     }
   ]
 }
