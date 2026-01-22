@@ -159,6 +159,21 @@
       "title": "Add --external flag to hono request command for marking packages as external",
       "link": "https://github.com/honojs/cli/issues/69",
       "category": "hono"
+    },
+    {
+      "title": "キングジム、本を開いたまま固定できてページもめくれるブッククリップ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2077360.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "エンジニアが自宅野菜サーバーを運用して得られた、IoTの「収穫」 - Findy Media",
+      "link": "https://findy-code.io/media/articles/chotto-wakaru-iot",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Add suport to  node 24",
+      "link": "https://github.com/nitrojs/nitro/pull/3967",
+      "category": "unjs"
     }
   ]
 }
