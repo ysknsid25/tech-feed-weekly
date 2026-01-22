@@ -34,6 +34,26 @@
       "title": "【技術選定を突き詰める】Online Conferenc​​e 2026",
       "link": "https://findy.connpass.com/event/380974/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "スキャン書籍のPDFファイルを電子書籍並みにクリアで読みやすくするAI・高品質化・各種調整ツール「DN_SuperBook_PDF_Converter」",
+      "link": "https://gigazine.net/news/20260121-dn-superbook-pdf-converter/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ChatGPTに対して「これまで私があなたをどう扱ってきたのかを画像にしてください」とプロンプトを投げてみると普段自分がAIをどう扱っているかが明らかに",
+      "link": "https://togetter.com/li/2654471",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore を使った業務支援 AI Agent 開発",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-agent-development-with-amazon-bedrock-agentcore/",
+      "category": "cloud"
+    },
+    {
+      "title": "Firefox Goes CSS Modules | Frontend Masters Boost RSS Feed",
+      "link": "https://frontendmasters.com/blog/firefox-goes-css-modules/",
+      "category": "jsts"
     }
   ]
 }
