@@ -99,6 +99,11 @@
       "title": "chore(deps): update all non-major dependencies",
       "link": "https://github.com/unjs/citty/pull/220",
       "category": "unjs"
+    },
+    {
+      "title": "入社4か月の私が感じた PR TIMES の開発組織 | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.jp/2026/01/22/four-months-in-prtimes-engineering/",
+      "category": "jsts"
     }
   ]
 }
