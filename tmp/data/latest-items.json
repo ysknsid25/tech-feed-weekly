@@ -124,6 +124,11 @@
       "title": "Claude Code × MCPで実現するPRレビュー準備の自動化 ——週6時間のレビュー工数を削減した実践例——",
       "link": "https://techblog.lycorp.co.jp/ja/20260122a",
       "category": "company"
+    },
+    {
+      "title": "コードが欠けても動くアニメーション Quine を Ruby で作ってみる",
+      "link": "https://www.m3tech.blog/entry/ruby-m3-quine",
+      "category": "company"
     }
   ]
 }
