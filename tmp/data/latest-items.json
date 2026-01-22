@@ -154,6 +154,11 @@
       "title": "物流現場で頭上を通るコンベアを内製して、作業時間を300秒から17秒に削減した話 - MonotaRO Tech Blog",
       "link": "https://tech-blog.monotaro.com/entry/2026/01/22/090000",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Add --external flag to hono request command for marking packages as external",
+      "link": "https://github.com/honojs/cli/issues/69",
+      "category": "hono"
     }
   ]
 }
