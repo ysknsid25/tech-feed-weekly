@@ -129,6 +129,26 @@
       "title": "コードが欠けても動くアニメーション Quine を Ruby で作ってみる",
       "link": "https://www.m3tech.blog/entry/ruby-m3-quine",
       "category": "company"
+    },
+    {
+      "title": "Tanstack Start with server-only package (pub-sub-api-node-client)",
+      "link": "https://github.com/nitrojs/nitro/issues/3966",
+      "category": "unjs"
+    },
+    {
+      "title": "chore(deps-dev): upgrade `@cloudflare/vitest-pool-workers` and `vitest`",
+      "link": "https://github.com/honojs/middleware/pull/1714",
+      "category": "hono"
+    },
+    {
+      "title": "2026年1月22日 コンポーネント/ファイルアップロード／ドロップエリアページ更新情報 | デジタル庁デザインシステムβ版",
+      "link": "https://design.digital.go.jp/dads/components/file-upload/",
+      "category": "jsts"
+    },
+    {
+      "title": "When data is all you need: クラウドと IoT 通信の概要",
+      "link": "https://aws.amazon.com/jp/blogs/news/https-aws-amazon-com-blogs-iot-when-data-is-all-you-need-an-overview-of-iot-communication-with-the-cloud/",
+      "category": "cloud"
     }
   ]
 }
