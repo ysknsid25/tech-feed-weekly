@@ -109,6 +109,11 @@
       "title": "Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0",
       "link": "https://aws.amazon.com/jp/blogs/news/kiro-cli-v1-21-0-to-v1-23-0/",
       "category": "cloud"
+    },
+    {
+      "title": "リクルート『ホットペッパーグルメ』が Amazon OpenSearch Service で Hybrid Search を実現し検索体験を革新",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-opensearch-service-recruit-hpg/",
+      "category": "cloud"
     }
   ]
 }
