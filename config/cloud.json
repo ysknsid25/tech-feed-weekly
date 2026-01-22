@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/filesystem-snapshots-supported-on-vercel-sandboxes"
+      "latestLink": "https://vercel.com/blog/testing-if-bash-is-all-you-need"
     },
     {
       "name": "GitHub Actions Blog",
