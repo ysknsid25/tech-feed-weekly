@@ -229,6 +229,11 @@
       "title": "Build an agent into any app with the GitHub Copilot SDK | The GitHub Blog",
       "link": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
       "category": "jsts"
+    },
+    {
+      "title": "1 vCPU Linux runner now generally available in GitHub Actions",
+      "link": "https://github.blog/changelog/2026-01-22-1-vcpu-linux-runner-now-generally-available-in-github-actions",
+      "category": "cloud"
     }
   ]
 }
