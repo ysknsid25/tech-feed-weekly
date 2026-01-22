@@ -234,6 +234,11 @@
       "title": "1 vCPU Linux runner now generally available in GitHub Actions",
       "link": "https://github.blog/changelog/2026-01-22-1-vcpu-linux-runner-now-generally-available-in-github-actions",
       "category": "cloud"
+    },
+    {
+      "title": "Filesystem snapshots supported on Vercel Sandboxes",
+      "link": "https://vercel.com/changelog/filesystem-snapshots-supported-on-vercel-sandboxes",
+      "category": "cloud"
     }
   ]
 }

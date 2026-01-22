@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/cron-jobs-now-visible-in-deployment-summary"
+      "latestLink": "https://vercel.com/changelog/filesystem-snapshots-supported-on-vercel-sandboxes"
     },
     {
       "name": "GitHub Actions Blog",
