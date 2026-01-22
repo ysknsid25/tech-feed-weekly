@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "非公式7-Zip Webサイトにて公開されているインストーラによる不審なファイルの展開",
+      "link": "https://wizsafe.iij.ad.jp/2026/01/2075/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "NotebookLMを取り入れた新・知的生産術｜Shin",
+      "link": "https://note.com/iam_shin/n/n7de3b47cbbe5",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "「iPhoneを使ってる人が多いのは日本だけ」というのは間違い",
+      "link": "https://anond.hatelabo.jp/20260122120224",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "キングジム、本を開いたまま固定できてページもめくれるブッククリップ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2077360.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "削除されています",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2079681.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "いま押さえるべき最新AI用語まとめ ～LLM、RAG、オーケストレーション、MCP、バイブコーディング……って何のこと？【開発者と読み解くAIの世界】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aidev/2078521.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "紙書籍を「自炊」している人に福音？　スキャンデータを徹底的に読みやすくする最強ツール／作者は「SoftEther VPN」などで知られる登大遊氏【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2079829.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat(request,serve): add --external flag for marking packages as external",
+      "link": "https://github.com/honojs/cli/pull/70",
+      "category": "hono"
+    },
+    {
+      "title": "Nitro + Tanstack Start | cannot use server-only package pub-sub-api-node-client in production",
+      "link": "https://github.com/nitrojs/nitro/issues/3966",
+      "category": "unjs"
+    }
+  ]
+}
