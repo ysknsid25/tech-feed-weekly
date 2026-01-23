@@ -229,6 +229,11 @@
       "title": "Configure build machine settings across all projects",
       "link": "https://vercel.com/changelog/configure-build-machine-settings-across-all-projects",
       "category": "cloud"
+    },
+    {
+      "title": "chore: migrate to oxlint and oxfmt",
+      "link": "https://github.com/h3js/h3/pull/1286",
+      "category": "unjs"
     }
   ]
 }
