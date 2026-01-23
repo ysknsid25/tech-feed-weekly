@@ -154,6 +154,16 @@
       "title": "fix(listener): handle uncaught ReadableStream errors from undici",
       "link": "https://github.com/honojs/node-server/pull/299",
       "category": "hono"
+    },
+    {
+      "title": "Quoting Theia Vogel | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/23/theia-vogel/#atom-everything",
+      "category": "jsts"
+    },
+    {
+      "title": "fix(eslint-config): less strict no base to string",
+      "link": "https://github.com/honojs/middleware/pull/1715",
+      "category": "hono"
     }
   ]
 }
