@@ -104,6 +104,11 @@
       "title": "【コラボイベント】AI Ops Community Vol.3 ~社内AI推進、みんなどうしてる？~",
       "link": "https://aiau.connpass.com/event/382234/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン」対応 – 調達チェックシート要件へのAWSサンプル回答",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-genai-gov-guidelines-checklist/",
+      "category": "cloud"
     }
   ]
 }
