@@ -239,6 +239,16 @@
       "title": "refactor: allow better debugging `headers are frozen`",
       "link": "https://github.com/h3js/h3/pull/1287",
       "category": "unjs"
+    },
+    {
+      "title": "Best Practices for Claude Code - Claude Code Docs",
+      "link": "https://code.claude.com/docs/en/best-practices",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Nitro v3 alpha 2 breaks CommonJS packages with Bare runtime detection (end-of-stream, duplexify)",
+      "link": "https://github.com/nitrojs/nitro/issues/3972",
+      "category": "unjs"
     }
   ]
 }
