@@ -234,6 +234,11 @@
       "title": "chore: migrate to oxlint and oxfmt",
       "link": "https://github.com/h3js/h3/pull/1286",
       "category": "unjs"
+    },
+    {
+      "title": "refactor: allow better debugging `headers are frozen`",
+      "link": "https://github.com/h3js/h3/pull/1287",
+      "category": "unjs"
     }
   ]
 }
