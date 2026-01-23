@@ -94,6 +94,16 @@
       "title": "Add rc format support to updateConfig",
       "link": "https://github.com/unjs/c12/issues/292",
       "category": "unjs"
+    },
+    {
+      "title": "人用のテストケースも実行できる汎用テスト実行エージェントを開発した話",
+      "link": "https://zenn.dev/mixi/articles/7cab5eef970f39",
+      "category": "company"
+    },
+    {
+      "title": "【コラボイベント】AI Ops Community Vol.3 ~社内AI推進、みんなどうしてる？~",
+      "link": "https://aiau.connpass.com/event/382234/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
