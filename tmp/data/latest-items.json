@@ -44,6 +44,21 @@
       "title": "Nitro + Tanstack Start | cannot use server-only package pub-sub-api-node-client in production",
       "link": "https://github.com/nitrojs/nitro/issues/3966",
       "category": "unjs"
+    },
+    {
+      "title": "GitHub 31kスターは伊達じゃない。Claude Code最強の相棒『Superpowers』徹底レビュー - Qiita",
+      "link": "https://qiita.com/kazuya828/items/beb1b93e8600fa5818d3",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "New Year, New Website | StyleX Blog",
+      "link": "https://stylexjs.com/blog/a-new-year-2026",
+      "category": "jsts"
+    },
+    {
+      "title": "feat(arktype-validator): Fix/arktype match zod",
+      "link": "https://github.com/honojs/middleware/pull/1708",
+      "category": "hono"
     }
   ]
 }
