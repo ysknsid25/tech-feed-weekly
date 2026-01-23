@@ -164,6 +164,11 @@
       "title": "fix(eslint-config): less strict no base to string",
       "link": "https://github.com/honojs/middleware/pull/1715",
       "category": "hono"
+    },
+    {
+      "title": "The Index: Issue #158 | Piccalilli - Everything",
+      "link": "https://piccalil.li/the-index/158/",
+      "category": "jsts"
     }
   ]
 }
