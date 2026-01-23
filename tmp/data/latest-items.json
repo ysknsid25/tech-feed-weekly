@@ -59,6 +59,11 @@
       "title": "feat(arktype-validator): Fix/arktype match zod",
       "link": "https://github.com/honojs/middleware/pull/1708",
       "category": "hono"
+    },
+    {
+      "title": "Amazon EKS のゼロオペレーターアクセス設計を独立した第三者機関が裏付け",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-elastic-kubernetes-service-gets-independent-affirmation-of-its-zero-operator-access-design/",
+      "category": "cloud"
     }
   ]
 }

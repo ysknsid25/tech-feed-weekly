@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/https-aws-amazon-com-blogs-iot-when-data-is-all-you-need-an-overview-of-iot-communication-with-the-cloud/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/amazon-elastic-kubernetes-service-gets-independent-affirmation-of-its-zero-operator-access-design/"
     },
     {
       "name": "SRE Weekly",
