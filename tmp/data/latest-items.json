@@ -139,6 +139,21 @@
       "title": "LangGraph と Amazon DynamoDB で耐久性のある AI エージェントを構築する",
       "link": "https://aws.amazon.com/jp/blogs/news/uild-durable-ai-agents-with-langgraph-and-amazon-dynamodb/",
       "category": "cloud"
+    },
+    {
+      "title": "KDDIの「大阪堺データセンター」稼働開始、1年足らずでシャープ跡地を“居抜き”できた理由とは",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2080020.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Add RC format support to updateConfig",
+      "link": "https://github.com/unjs/c12/pull/293",
+      "category": "unjs"
+    },
+    {
+      "title": "fix(listener): handle uncaught ReadableStream errors from undici",
+      "link": "https://github.com/honojs/node-server/pull/299",
+      "category": "hono"
     }
   ]
 }
