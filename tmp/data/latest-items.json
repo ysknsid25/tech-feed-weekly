@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "git-wtを導入した - koicの日記",
+      "link": "https://koic.hatenablog.com/entry/introduce-git-wt",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Best Practices for Claude Code - Claude Code Docs",
+      "link": "https://code.claude.com/docs/en/best-practices",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "“躁”と“鬱”を繰り返す「双極症」、原因の脳部位を特定　41人の死後脳から　順天堂大がNature系列誌で発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/23/news029.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "OSSの公式Webサイトを見分けるのは難しい (PuTTYを例に) | IIJ Engineers Blog",
+      "link": "https://eng-blog.iij.ad.jp/archives/34968",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "KDDIの「大阪堺データセンター」稼働開始、1年足らずでシャープ跡地を“居抜き”できた理由とは",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2080020.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Vercel now supports customizing platform error pages",
+      "link": "https://vercel.com/changelog/vercel-now-supports-customizing-platform-error-pages",
+      "category": "cloud"
+    },
+    {
+      "title": "Ktor 3.4.0 Is Now Available!",
+      "link": "https://blog.jetbrains.com/kotlin/2026/01/ktor-3-4-0-is-now-available/",
+      "category": "kotlin"
+    }
+  ]
+}

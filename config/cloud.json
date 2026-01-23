@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/configure-build-machine-settings-across-all-projects"
+      "latestLink": "https://vercel.com/changelog/vercel-now-supports-customizing-platform-error-pages"
     },
     {
       "name": "GitHub Actions Blog",
