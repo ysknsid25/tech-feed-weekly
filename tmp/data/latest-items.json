@@ -64,6 +64,21 @@
       "title": "Amazon EKS のゼロオペレーターアクセス設計を独立した第三者機関が裏付け",
       "link": "https://aws.amazon.com/jp/blogs/news/amazon-elastic-kubernetes-service-gets-independent-affirmation-of-its-zero-operator-access-design/",
       "category": "cloud"
+    },
+    {
+      "title": "エンジニアじゃない人でもAIを使えば開発貢献できるんじゃないの？イベントを開催してみた | カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/ai-driven-dev-event",
+      "category": "jsts"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies (v1)",
+      "link": "https://github.com/h3js/h3/pull/1285",
+      "category": "unjs"
+    },
+    {
+      "title": "Add blog post introducing Open Circle",
+      "link": "https://github.com/open-circle/valibot/pull/1395",
+      "category": "valibot"
     }
   ]
 }
