@@ -179,6 +179,21 @@
       "title": "Ktor 3.4.0 Is Now Available!",
       "link": "https://blog.jetbrains.com/kotlin/2026/01/ktor-3-4-0-is-now-available/",
       "category": "kotlin"
+    },
+    {
+      "title": "OSSの公式Webサイトを見分けるのは難しい (PuTTYを例に) | IIJ Engineers Blog",
+      "link": "https://eng-blog.iij.ad.jp/archives/34968",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Introducing Immutable Scans | Socket",
+      "link": "https://socket.dev/blog/introducing-immutable-scans",
+      "category": "jsts"
+    },
+    {
+      "title": "Programmatic cache invalidation online",
+      "link": "https://github.com/nitrojs/nitro/issues/3969",
+      "category": "unjs"
     }
   ]
 }
