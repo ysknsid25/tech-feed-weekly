@@ -209,6 +209,11 @@
       "title": "Add FetchRetry to FetchContext",
       "link": "https://github.com/unjs/ofetch/pull/537",
       "category": "unjs"
+    },
+    {
+      "title": "A future for generic methods in Go?",
+      "link": "https://golangweekly.com/issues/586",
+      "category": "go"
     }
   ]
 }
