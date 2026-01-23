@@ -214,6 +214,16 @@
       "title": "A future for generic methods in Go?",
       "link": "https://golangweekly.com/issues/586",
       "category": "go"
+    },
+    {
+      "title": "Faster deploys with improved function caching",
+      "link": "https://vercel.com/changelog/faster-deploys-with-improved-function-caching",
+      "category": "cloud"
+    },
+    {
+      "title": "Web 技術年末試験 2025 講評 #web_exam2025",
+      "link": "https://blog.jxck.io/entries/2026-01-24/web-exam-2025.html",
+      "category": "famous"
     }
   ]
 }
