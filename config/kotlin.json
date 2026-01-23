@@ -10,13 +10,13 @@
       "name": "JetBrains Kotlin Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://blog.jetbrains.com/kotlin/feed/",
-      "latestLink": "https://blog.jetbrains.com/idea/2026/01/how-to-avoid-common-pitfalls-with-jpa-and-kotlin/"
+      "latestLink": "https://blog.jetbrains.com/kotlin/2026/01/exposed-1-0-is-now-available/"
     },
     {
       "name": "JetBrains Ktor Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://blog.jetbrains.com/ktor/feed/",
-      "latestLink": "https://blog.jetbrains.com/kotlin/2025/09/ktor-roadmap-2025/"
+      "latestLink": "https://blog.jetbrains.com/kotlin/2026/01/ktor-3-4-0-is-now-available/"
     },
     {
       "name": "Koin Developers",
