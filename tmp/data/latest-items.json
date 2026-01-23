@@ -134,6 +134,11 @@
       "title": "Hatena Engineer Seminar  #36「プロダクトを支えるAI編」をオンラインで開催しました #hatenatech",
       "link": "https://developer.hatenastaff.com/entry/engineer-seminar-36-report",
       "category": "company"
+    },
+    {
+      "title": "LangGraph と Amazon DynamoDB で耐久性のある AI エージェントを構築する",
+      "link": "https://aws.amazon.com/jp/blogs/news/uild-durable-ai-agents-with-langgraph-and-amazon-dynamodb/",
+      "category": "cloud"
     }
   ]
 }
