@@ -79,6 +79,21 @@
       "title": "Add blog post introducing Open Circle",
       "link": "https://github.com/open-circle/valibot/pull/1395",
       "category": "valibot"
+    },
+    {
+      "title": "Claude Code × MCPで実現するPRレビュー準備の自動化 ——週6時間のレビュー工数を削減した実践例——",
+      "link": "https://techblog.lycorp.co.jp/ja/20260122a",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Google Fontsで使うLINE Seed JP（最速表示のためのベストプラクティス）",
+      "link": "https://techblog.lycorp.co.jp/ja/20260123a",
+      "category": "company"
+    },
+    {
+      "title": "Add rc format support to updateConfig",
+      "link": "https://github.com/unjs/c12/issues/292",
+      "category": "unjs"
     }
   ]
 }
