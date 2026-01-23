@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/faster-deploys-with-improved-function-caching"
+      "latestLink": "https://vercel.com/changelog/configure-build-machine-settings-across-all-projects"
     },
     {
       "name": "GitHub Actions Blog",
