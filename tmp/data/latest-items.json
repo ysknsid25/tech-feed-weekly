@@ -194,6 +194,21 @@
       "title": "Programmatic cache invalidation online",
       "link": "https://github.com/nitrojs/nitro/issues/3969",
       "category": "unjs"
+    },
+    {
+      "title": "Responsive Hexagon Grid Using Modern CSS | CSS-Tricks",
+      "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
+      "category": "jsts"
+    },
+    {
+      "title": "feat: Add Scaleway serverless function preset",
+      "link": "https://github.com/nitrojs/nitro/pull/3970",
+      "category": "unjs"
+    },
+    {
+      "title": "Add FetchRetry to FetchContext",
+      "link": "https://github.com/unjs/ofetch/pull/537",
+      "category": "unjs"
     }
   ]
 }
