@@ -124,6 +124,16 @@
       "title": "feat(arktype-validator): Fix/arktype match zod",
       "link": "https://github.com/honojs/middleware/pull/1708",
       "category": "hono"
+    },
+    {
+      "title": "Geminiの「Gem」で自分専用のAWS認定講師を作ってみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "🌈📊 ティアリスト編集アプリ TierSpectrum",
+      "link": "https://zenn.dev/numekudi/articles/a6b9ba37fb01f8",
+      "category": "hono"
     }
   ]
 }
