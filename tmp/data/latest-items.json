@@ -44,6 +44,16 @@
       "title": "5秒の声から良質ボイスクローンを生成できるCPU動作の軽量ローカルAI「Pocket TTS」、AIにゲームで遊ばせたら別ジャンルでも能力が向上した研究など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
       "link": "https://www.techno-edge.net/article/2026/01/23/4832.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Claude Codeがわずか30分でCUDAをROCmへ移植：崩れ去る「CUDAの掘」とAIが書き換える半導体業界の勢力図 | XenoSpectrum",
+      "link": "https://xenospectrum.com/claude-code-ports-cuda-to-rocm-nvidia-moat-analysis/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3973",
+      "category": "unjs"
     }
   ]
 }
