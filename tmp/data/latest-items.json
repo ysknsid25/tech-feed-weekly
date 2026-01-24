@@ -34,6 +34,11 @@
       "title": "Ktor 3.4.0 Is Now Available!",
       "link": "https://blog.jetbrains.com/kotlin/2026/01/ktor-3-4-0-is-now-available/",
       "category": "kotlin"
+    },
+    {
+      "title": "Wilson Lin on FastRender: a browser built by thousands of parallel agents | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
