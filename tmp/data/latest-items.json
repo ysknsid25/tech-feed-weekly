@@ -69,6 +69,11 @@
       "title": "Kiro CLI 1.24.0：スキル、カスタム Diff ツール、改善されたコードインテリジェンス、会話の圧縮",
       "link": "https://aws.amazon.com/jp/blogs/news/kiro-cli-1-24-0/",
       "category": "cloud"
+    },
+    {
+      "title": "feat(basic-auth): add context key and callback options",
+      "link": "https://github.com/honojs/hono/pull/4645",
+      "category": "hono"
     }
   ]
 }
