@@ -134,6 +134,21 @@
       "title": "🌈📊 ティアリスト編集アプリ TierSpectrum",
       "link": "https://zenn.dev/numekudi/articles/a6b9ba37fb01f8",
       "category": "hono"
+    },
+    {
+      "title": "要件定義に不安があった実務3年目エンジニア、国際規格に救われる - Qiita",
+      "link": "https://qiita.com/howanpin5525/items/dda01037624623a8e7ca",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "複雑な要件を1クエリで完結させる、PostgreSQL活用術 - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/01/23/083000",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "test(netlify): add handler tests",
+      "link": "https://github.com/honojs/hono/pull/4647",
+      "category": "hono"
     }
   ]
 }
