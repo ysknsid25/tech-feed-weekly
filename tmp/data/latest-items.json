@@ -99,6 +99,26 @@
       "title": "refactor(request): replace private symbol with static method",
       "link": "https://github.com/honojs/hono/pull/4646",
       "category": "hono"
+    },
+    {
+      "title": "Claude Codeベストプラクティスまとめ",
+      "link": "https://speakerdeck.com/minorun365/claude-codebesutopurakuteisumatome",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "全身に反射材をつけたゲーミング雪かき、視認性抜群だと話題に「クソコラみたいな反射の仕方するのなｗ」「テクスチャバグかよ」",
+      "link": "https://togetter.com/li/2655307",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "個人で静的型付け言語のコンパイラをフルスクラッチで作れる時代が来た！ - Islands in the byte stream",
+      "link": "https://gfx.hatenablog.com/entry/2026/01/23/212644",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "新しいデザインツール Pencil を試してみた | azukiazusa のテックブログ2",
+      "link": "https://azukiazusa.dev/blog/new-design-tool-pencil",
+      "category": "jsts"
     }
   ]
 }
