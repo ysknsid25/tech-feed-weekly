@@ -119,6 +119,11 @@
       "title": "新しいデザインツール Pencil を試してみた | azukiazusa のテックブログ2",
       "link": "https://azukiazusa.dev/blog/new-design-tool-pencil",
       "category": "jsts"
+    },
+    {
+      "title": "feat(arktype-validator): Fix/arktype match zod",
+      "link": "https://github.com/honojs/middleware/pull/1708",
+      "category": "hono"
     }
   ]
 }
