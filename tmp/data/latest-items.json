@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Claude Codeベストプラクティスまとめ",
+      "link": "https://speakerdeck.com/minorun365/claude-codebesutopurakuteisumatome",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "要件定義に不安があった実務3年目エンジニア、国際規格に救われる - Qiita",
+      "link": "https://qiita.com/howanpin5525/items/dda01037624623a8e7ca",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "原稿の確認依頼を行ったところ先方から「Geminiはこう言っています」とAIのコピペ修正案が送られてきて衝撃を受けた→「世に出てない原稿をAIに食わせたって事だよな...」",
+      "link": "https://togetter.com/li/2655455",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Geminiの「Gem」で自分専用のAWS認定講師を作ってみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "引き渡しから半月で家中がカビまみれ、独自の基礎断熱と換気方法が裏目に",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03443/121600003/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "『メダリスト』最新14巻のレビューが大荒れ！電子版巻末の別作品試し読み掲載に賛否両論",
+      "link": "https://posfie.com/@kndl_fanfun/p/eRqmUD1",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Qwen-TTSに自分の声でしゃべらせる - きしだのHatena",
+      "link": "https://nowokay.hatenablog.com/entry/2026/01/23/145128",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "複雑な要件を1クエリで完結させる、PostgreSQL活用術 - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/01/23/083000",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "全身に反射材をつけたゲーミング雪かき、視認性抜群だと話題に「クソコラみたいな反射の仕方するのなｗ」「テクスチャバグかよ」",
+      "link": "https://togetter.com/li/2655307",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "link": "https://github.com/nitrojs/nitro/pull/3973",
+      "category": "unjs"
+    }
+  ]
+}
