@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/uild-durable-ai-agents-with-langgraph-and-amazon-dynamodb/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/kiro-cli-1-24-0/"
     },
     {
       "name": "SRE Weekly",
