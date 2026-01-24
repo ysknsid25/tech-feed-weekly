@@ -89,6 +89,16 @@
       "title": "presets(aws-lambda): avoid modifying response headers in streaming mode",
       "link": "https://github.com/nitrojs/nitro/pull/3974",
       "category": "unjs"
+    },
+    {
+      "title": "Version Packages",
+      "link": "https://github.com/honojs/middleware/pull/1718",
+      "category": "hono"
+    },
+    {
+      "title": "refactor(request): replace private symbol with static method",
+      "link": "https://github.com/honojs/hono/pull/4646",
+      "category": "hono"
     }
   ]
 }
