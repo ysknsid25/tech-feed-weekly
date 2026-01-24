@@ -74,6 +74,21 @@
       "title": "feat(basic-auth): add context key and callback options",
       "link": "https://github.com/honojs/hono/pull/4645",
       "category": "hono"
+    },
+    {
+      "title": "Qwen-TTSに自分の声でしゃべらせる - きしだのHatena",
+      "link": "https://nowokay.hatenablog.com/entry/2026/01/23/145128",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "refactor(cloudflare-access): decode token types",
+      "link": "https://github.com/honojs/middleware/pull/1717",
+      "category": "hono"
+    },
+    {
+      "title": "presets(aws-lambda): avoid modifying response headers in streaming mode",
+      "link": "https://github.com/nitrojs/nitro/pull/3974",
+      "category": "unjs"
     }
   ]
 }
