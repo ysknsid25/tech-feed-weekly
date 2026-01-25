@@ -109,6 +109,11 @@
       "title": "新しいデザインツール Pencil を試してみた",
       "link": "https://azukiazusa.dev/blog/new-design-tool-pencil/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat(writeEarlyHints): add `Link: rel:preload` headers as fallback",
+      "link": "https://github.com/h3js/h3/pull/1288",
+      "category": "unjs"
     }
   ]
 }
