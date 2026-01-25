@@ -69,6 +69,16 @@
       "title": "【10ギガ回線化顛末記】10ギガ回線がやってきた！ 速度を最大限に引き出すために宅内LANやPCを10GbE化する",
       "link": "https://internet.watch.impress.co.jp/docs/special/2076445.html",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Use AI Gateway with Clawdbot",
+      "link": "https://vercel.com/changelog/use-ai-gateway-with-clawdbot",
+      "category": "cloud"
+    },
+    {
+      "title": "Don't \"Trust the Process\" | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
