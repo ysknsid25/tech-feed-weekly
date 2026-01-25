@@ -134,6 +134,11 @@
       "title": "Fix HTTPError.body forwarding in error handlers",
       "link": "https://github.com/nitrojs/nitro/pull/3977",
       "category": "unjs"
+    },
+    {
+      "title": "feat(adapter): add getConnInfo for AWS Lambda, Cloudflare Pages, and Netlify",
+      "link": "https://github.com/honojs/hono/pull/4649",
+      "category": "hono"
     }
   ]
 }
