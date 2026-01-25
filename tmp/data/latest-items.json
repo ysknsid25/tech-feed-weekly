@@ -49,6 +49,16 @@
       "title": "chore(deps): update all non-major dependencies",
       "link": "https://github.com/nitrojs/nitro/pull/3973",
       "category": "unjs"
+    },
+    {
+      "title": "Quoting Jasmine Sun | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/24/jasmine-sun/#atom-everything",
+      "category": "jsts"
+    },
+    {
+      "title": "How I Use Clawdbot",
+      "link": "https://kristianfreeman.com/how-i-use-clawdbot/",
+      "category": "famous"
     }
   ]
 }
