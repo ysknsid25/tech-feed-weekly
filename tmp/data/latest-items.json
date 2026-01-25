@@ -144,6 +144,16 @@
       "title": "docs(cloudflare): remove invalid docs and add note about wrangler env…",
       "link": "https://github.com/nitrojs/nitro/pull/3978",
       "category": "unjs"
+    },
+    {
+      "title": "【元経理】実務で本当に使えたExcelの小技５選【ミス防止】 - Qiita",
+      "link": "https://qiita.com/2000na/items/e41062344f0b86049a68",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "feat: add Copilot instructions for repository",
+      "link": "https://github.com/nitrojs/nitro/pull/3980",
+      "category": "unjs"
     }
   ]
 }
