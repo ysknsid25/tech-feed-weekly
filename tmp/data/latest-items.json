@@ -124,6 +124,11 @@
       "title": "Nitro v3 does not forward H3 HTTPError.body to client",
       "link": "https://github.com/nitrojs/nitro/issues/3976",
       "category": "unjs"
+    },
+    {
+      "title": "secondary \u003ctitle\u003e elements should override a default \u003ctitle\u003e element",
+      "link": "https://github.com/honojs/hono/issues/4648",
+      "category": "hono"
     }
   ]
 }
