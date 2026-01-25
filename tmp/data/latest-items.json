@@ -139,6 +139,11 @@
       "title": "feat(adapter): add getConnInfo for AWS Lambda, Cloudflare Pages, and Netlify",
       "link": "https://github.com/honojs/hono/pull/4649",
       "category": "hono"
+    },
+    {
+      "title": "docs(cloudflare): remove invalid docs and add note about wrangler env…",
+      "link": "https://github.com/nitrojs/nitro/pull/3978",
+      "category": "unjs"
     }
   ]
 }
