@@ -114,6 +114,16 @@
       "title": "feat(writeEarlyHints): add `Link: rel:preload` headers as fallback",
       "link": "https://github.com/h3js/h3/pull/1288",
       "category": "unjs"
+    },
+    {
+      "title": "How I estimate work as a staff software engineer",
+      "link": "https://www.seangoedecke.com/how-i-estimate-work/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Nitro v3 does not forward H3 HTTPError.body to client",
+      "link": "https://github.com/nitrojs/nitro/issues/3976",
+      "category": "unjs"
     }
   ]
 }
