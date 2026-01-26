@@ -164,6 +164,11 @@
       "title": "AIエージェントにお金を払えば、誰でもゲームを作れてしまうという衝撃の事実　開発者の仕事はどうなる？ (1/5)",
       "link": "https://ascii.jp/elem/000/004/368/4368590/",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Building AI Agents in Kotlin – Part 5: Teaching Agents to Forget",
+      "link": "https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-5-teaching-agents-to-forget/",
+      "category": "kotlin"
     }
   ]
 }
