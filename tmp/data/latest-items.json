@@ -94,6 +94,16 @@
       "title": "🌈📊 AIとつくるティアリスト  TierSpectrum",
       "link": "https://zenn.dev/numekudi/articles/a6b9ba37fb01f8",
       "category": "hono"
+    },
+    {
+      "title": "YESODの人事・組織情報をSlack Atlasに反映した話",
+      "link": "https://zenn.dev/mixi/articles/58e0486b68071b",
+      "category": "company"
+    },
+    {
+      "title": "Fix typos (`begining`)",
+      "link": "https://github.com/open-circle/valibot/pull/1399",
+      "category": "valibot"
     }
   ]
 }
