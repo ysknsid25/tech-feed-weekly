@@ -24,6 +24,16 @@
       "title": "refactor: use `unique symbol` for more accurate typing.",
       "link": "https://github.com/honojs/hono/pull/4651",
       "category": "hono"
+    },
+    {
+      "title": "ChordCraft - コード進行作成アプリ | 無料で使える作曲支援ツール",
+      "link": "https://chord.iru-yo.com/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month | Vjeux",
+      "link": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "category": "jsts"
     }
   ]
 }
