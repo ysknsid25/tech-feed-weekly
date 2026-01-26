@@ -89,6 +89,11 @@
       "title": "Next.jsとDrizzleで構築する自動のGraphQLとSSR環境",
       "link": "https://zenn.dev/sora_kumo/articles/next-drizzle",
       "category": "hono"
+    },
+    {
+      "title": "🌈📊 AIとつくるティアリスト  TierSpectrum",
+      "link": "https://zenn.dev/numekudi/articles/a6b9ba37fb01f8",
+      "category": "hono"
     }
   ]
 }
