@@ -10,7 +10,7 @@
       "name": "Node.js Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://nodejs.org/en/feed/blog.xml",
-      "latestLink": "https://nodejs.org/en/blog/announcements/hackerone-signal-requirement"
+      "latestLink": "https://nodejs.org/en/blog/release/v25.5.0"
     },
     {
       "name": "Effective TypeScript",

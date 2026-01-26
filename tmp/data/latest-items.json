@@ -179,6 +179,21 @@
       "title": "VanishChat - DBなし・完全ステートレスなメッセンジャーをCloudflare Workersで作った",
       "link": "https://zenn.dev/kiyo2023/articles/vanishchat-db-free-messenger",
       "category": "hono"
+    },
+    {
+      "title": "7文字で住所を伝える「デジタルアドレス」　普及へ業界横断の新団体",
+      "link": "https://www.watch.impress.co.jp/docs/news/2080638.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Node.js 25.5.0 (Current)",
+      "link": "https://nodejs.org/en/blog/release/v25.5.0",
+      "category": "jsts"
+    },
+    {
+      "title": "fix: replace globby with tinyglobby",
+      "link": "https://github.com/nitrojs/nitro/pull/3981",
+      "category": "unjs"
     }
   ]
 }
