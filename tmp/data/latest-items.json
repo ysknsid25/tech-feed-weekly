@@ -79,6 +79,16 @@
       "title": "週刊生成AI with AWS – 2026/1/19週",
       "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260119/",
       "category": "cloud"
+    },
+    {
+      "title": "まつもとゆきひろが危惧する、ジュニア不要論の先に広がるIT業界「焼け野原」",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/26/news002.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Next.jsとDrizzleで構築する自動のGraphQLとSSR環境",
+      "link": "https://zenn.dev/sora_kumo/articles/next-drizzle",
+      "category": "hono"
     }
   ]
 }
