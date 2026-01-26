@@ -169,6 +169,16 @@
       "title": "Building AI Agents in Kotlin – Part 5: Teaching Agents to Forget",
       "link": "https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-5-teaching-agents-to-forget/",
       "category": "kotlin"
+    },
+    {
+      "title": "Skills v1.1.1: Interactive discovery, open source release, and agent support",
+      "link": "https://vercel.com/changelog/skills-v1-1-1-interactive-discovery-open-source-release-and-agent-support",
+      "category": "cloud"
+    },
+    {
+      "title": "VanishChat - DBなし・完全ステートレスなメッセンジャーをCloudflare Workersで作った",
+      "link": "https://zenn.dev/kiyo2023/articles/vanishchat-db-free-messenger",
+      "category": "hono"
     }
   ]
 }
