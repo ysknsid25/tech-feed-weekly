@@ -144,6 +144,16 @@
       "title": "How Web Performance Impacts User Experience | DebugBear Blog",
       "link": "https://www.debugbear.com/blog/web-performance-user-experience",
       "category": "jsts"
+    },
+    {
+      "title": "Cable cuts, storms, and DNS: a look at Internet disruptions in Q4 2025 |  The Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/q4-2025-internet-disruption-summary/",
+      "category": "jsts"
+    },
+    {
+      "title": "feat(adapter): add getConnInfo for AWS Lambda, Cloudflare Pages, and Netlify",
+      "link": "https://github.com/honojs/hono/pull/4649",
+      "category": "hono"
     }
   ]
 }
