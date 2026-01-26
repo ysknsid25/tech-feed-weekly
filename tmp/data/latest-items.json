@@ -109,6 +109,16 @@
       "title": "docs: update example to use `event.res.headers.set`",
       "link": "https://github.com/h3js/h3/pull/1289",
       "category": "unjs"
+    },
+    {
+      "title": "2026-01-26のJS: jQuery 4.0.0、Rolldown 1.0 RC、Styelelint 17",
+      "link": "https://jser.info/2026/01/26/jquery-4.0.0-rolldown-1.0-rc-styelelint-17/",
+      "category": "jsts"
+    },
+    {
+      "title": "SUBARU、三菱電機、JR西日本など大手13社が語る「内製開発Summit 2026」",
+      "link": "https://findy.connpass.com/event/382329/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
     }
   ]
 }
