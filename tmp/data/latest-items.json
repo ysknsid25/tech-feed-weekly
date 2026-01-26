@@ -154,6 +154,11 @@
       "title": "feat(adapter): add getConnInfo for AWS Lambda, Cloudflare Pages, and Netlify",
       "link": "https://github.com/honojs/hono/pull/4649",
       "category": "hono"
+    },
+    {
+      "title": "There is No Need to Trap Focus on a Dialog Element | CSS-Tricks",
+      "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
+      "category": "jsts"
     }
   ]
 }
