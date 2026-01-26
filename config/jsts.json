@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html"
+      "latestLink": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/#atom-everything"
     },
     {
       "name": "TSKaigi",

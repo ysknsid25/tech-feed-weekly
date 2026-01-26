@@ -44,6 +44,26 @@
       "title": "新レポート: 欧州の国家安全保障と防衛にとってクラウドは「基盤」",
       "link": "https://aws.amazon.com/jp/blogs/news/new-report-cloud-fundamental-for-european-national-security-and-defense/",
       "category": "cloud"
+    },
+    {
+      "title": "chore: trigger deploy",
+      "link": "https://github.com/honojs/hono/pull/4652",
+      "category": "hono"
+    },
+    {
+      "title": "SRE Weekly Issue #507",
+      "link": "https://sreweekly.com/sre-weekly-issue-507/",
+      "category": "cloud"
+    },
+    {
+      "title": "LINEヤフーのクラウド基盤刷新：巨大な2つのクラウドを統合する次世代基盤「Flava」のアーキテクチャ",
+      "link": "https://techblog.lycorp.co.jp/ja/20260126b",
+      "category": "company"
+    },
+    {
+      "title": "the browser is the sandbox | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/#atom-everything",
+      "category": "jsts"
     }
   ]
 }
