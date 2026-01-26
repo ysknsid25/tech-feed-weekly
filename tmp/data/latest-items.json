@@ -104,6 +104,11 @@
       "title": "Fix typos (`begining`)",
       "link": "https://github.com/open-circle/valibot/pull/1399",
       "category": "valibot"
+    },
+    {
+      "title": "docs: update example to use `event.res.headers.set`",
+      "link": "https://github.com/h3js/h3/pull/1289",
+      "category": "unjs"
     }
   ]
 }
