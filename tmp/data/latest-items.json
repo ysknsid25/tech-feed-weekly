@@ -149,6 +149,11 @@
       "title": "Bug(optimize): Request body API removal affects outside of the handler",
       "link": "https://github.com/honojs/cli/issues/64",
       "category": "hono"
+    },
+    {
+      "title": "feat: add Copilot instructions for repository",
+      "link": "https://github.com/nitrojs/nitro/pull/3980",
+      "category": "unjs"
     }
   ]
 }
