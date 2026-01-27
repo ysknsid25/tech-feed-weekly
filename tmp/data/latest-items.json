@@ -79,6 +79,16 @@
       "title": "Amazon SageMaker Unified Studio と Tableau、Power BI などの統合で分析を強化",
       "link": "https://aws.amazon.com/jp/blogs/news/power-up-your-analytics-with-amazon-sagemaker-unified-studio-integration-with-tableau-power-bi-and-more/",
       "category": "cloud"
+    },
+    {
+      "title": "LLMの能力の「穴」 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+      "link": "https://joisino.hatenablog.com/entry/zeh",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "SAP JouleでAmazon Bedrock上のAnthropic Claudeモデルを使いSAPコンサルティングプロジェクトを加速",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerating-sap-consulting-projects-with-sap-joule-using-anthropic-claude-models-on-amazon-bedrock/",
+      "category": "cloud"
     }
   ]
 }

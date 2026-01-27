@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/power-up-your-analytics-with-amazon-sagemaker-unified-studio-integration-with-tableau-power-bi-and-more/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/accelerating-sap-consulting-projects-with-sap-joule-using-anthropic-claude-models-on-amazon-bedrock/"
     },
     {
       "name": "SRE Weekly",
