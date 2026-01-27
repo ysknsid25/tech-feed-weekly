@@ -64,6 +64,21 @@
       "title": "AWS-LC FIPS 3.0: ポスト量子暗号アルゴリズム ML-KEM を FIPS 140-3 検証に含めた初の暗号ライブラリ",
       "link": "https://aws.amazon.com/jp/blogs/news/aws-lc-fips-3-0-first-cryptographic-library-to-include-ml-kem-in-fips-140-3-validation/",
       "category": "cloud"
+    },
+    {
+      "title": "トヨタ系基金、ネコ型ロボットの実証実験　ドライバーの「運転を評価されたくない」和らげ交通安全促せるか",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/26/news103.html",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Consider changing input type of object schemas with Valibot v2",
+      "link": "https://github.com/open-circle/valibot/issues/1389",
+      "category": "valibot"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio と Tableau、Power BI などの統合で分析を強化",
+      "link": "https://aws.amazon.com/jp/blogs/news/power-up-your-analytics-with-amazon-sagemaker-unified-studio-integration-with-tableau-power-bi-and-more/",
+      "category": "cloud"
     }
   ]
 }
