@@ -194,6 +194,16 @@
       "title": "Claude Code Max via AI Gateway, available now for Claude Code",
       "link": "https://vercel.com/changelog/claude-code-max-via-ai-gateway-available-now-for-claude-code",
       "category": "cloud"
+    },
+    {
+      "title": "Agent skills explained: An FAQ",
+      "link": "https://vercel.com/blog/agent-skills-explained-an-faq",
+      "category": "cloud"
+    },
+    {
+      "title": "Help shape the future of open source in Europe | The GitHub Blog",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/",
+      "category": "jsts"
     }
   ]
 }
