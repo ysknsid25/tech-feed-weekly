@@ -44,6 +44,26 @@
       "title": "λ kansai in Winter 2026 で運営をしてきました",
       "link": "https://www.m3tech.blog/entry/2026/01/27/100000",
       "category": "company"
+    },
+    {
+      "title": "アクセシビリティカンファレンス福岡 2025 参加・協賛レポート",
+      "link": "https://techblog.lycorp.co.jp/ja/20260127a",
+      "category": "company"
+    },
+    {
+      "title": "AAAI2026が開催中なので、エムスリー AI・機械学習チームの推し論文を勝手に紹介するぜ！",
+      "link": "https://www.m3tech.blog/entry/2026/01/27/110000",
+      "category": "company"
+    },
+    {
+      "title": "自分らしく続けるアウトプットの始め方と継続のヒント",
+      "link": "https://findy.connpass.com/event/379880/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "AWS-LC FIPS 3.0: ポスト量子暗号アルゴリズム ML-KEM を FIPS 140-3 検証に含めた初の暗号ライブラリ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-lc-fips-3-0-first-cryptographic-library-to-include-ml-kem-in-fips-140-3-validation/",
+      "category": "cloud"
     }
   ]
 }
