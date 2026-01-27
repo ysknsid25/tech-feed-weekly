@@ -70,7 +70,7 @@
       "name": "Atlassian Tech Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://atlassianblog.wpengine.com/atlassian-engineering/feed",
-      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/pull-request-intervention-for-infrastructure-as-code-risks-with-bitbucket-custom-merge-checks"
+      "latestLink": "https://www.atlassian.com/blog/atlassian-engineering/how-we-unlocked-performance-at-scale-with-jira-platform"
     },
     {
       "name": "Slack Tech Blog",

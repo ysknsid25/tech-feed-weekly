@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "title": "新サービス「ぴよ日記」をリリースしました - はてラボ 開発者ブログ",
+      "link": "https://labo.hatenastaff.com/entry/2026/01/27/151712",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AIで出世した無能だけど、バレたら終わりだと毎日思ってる",
+      "link": "https://anond.hatelabo.jp/20260127123435",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "ぴよ日記",
+      "link": "https://piyo.hatelabo.jp/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "知っているようで知らないCLAUDE.mdを深掘りする | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/01/get-started-claude-code-06",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "アップル「iPhone 5s」などにアップデート提供　13年前のモデルが異例の延命",
+      "link": "https://ascii.jp/elem/000/004/369/4369154/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "アメリカのインターネット事情 | IIJ Engineers Blog",
+      "link": "https://eng-blog.iij.ad.jp/archives/34855",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Gmail歴10年、もっと早く知りたかった。未読の山と容量不足を「一瞬で解決」する最強ハック | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/2601-matome-gmail/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "人工肛門の一時造設で休戦できたと思ったのは浅はかだった",
+      "link": "https://blog.tinect.jp/?p=90709",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "AGENTS.md outperforms skills in our agent evals",
+      "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+      "category": "cloud"
+    },
+    {
+      "title": "How We Unlocked Performance at Scale with Jira Platform",
+      "link": "https://www.atlassian.com/blog/atlassian-engineering/how-we-unlocked-performance-at-scale-with-jira-platform",
+      "category": "company"
+    },
+    {
+      "title": "discord-honoで発生したValidation Errorsを修正する",
+      "link": "https://zenn.dev/f1w3/articles/7b0c93d76bcfeb",
+      "category": "hono"
+    }
+  ]
+}
