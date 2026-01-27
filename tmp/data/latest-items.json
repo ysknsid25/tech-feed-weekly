@@ -154,6 +154,16 @@
       "title": "feat: add Copilot instructions for repository",
       "link": "https://github.com/nitrojs/nitro/pull/3980",
       "category": "unjs"
+    },
+    {
+      "title": "新サービス「ぴよ日記」をリリースしました - はてラボ 開発者ブログ",
+      "link": "https://labo.hatenastaff.com/entry/2026/01/27/151712",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "A Year of Creator Wins: Highlights from the JetBrains Content Creators Program 2025 | Company | The JetBrains Blog",
+      "link": "https://blog.jetbrains.com/blog/2026/01/27/content-creators-wins/",
+      "category": "jsts"
     }
   ]
 }
