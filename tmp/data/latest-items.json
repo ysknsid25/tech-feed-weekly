@@ -234,6 +234,16 @@
       "title": "Remove redundant check and function (call) in `defineLazyEventHandler`",
       "link": "https://github.com/h3js/h3/issues/1290",
       "category": "unjs"
+    },
+    {
+      "title": "chore(deps-dev): bump vitest from 4.1.0-beta.1 to 4.1.0-beta.2",
+      "link": "https://github.com/honojs/middleware/pull/1722",
+      "category": "hono"
+    },
+    {
+      "title": "Add `esnext` to `tsconfig.json`'s `lib` option",
+      "link": "https://github.com/h3js/h3/issues/1291",
+      "category": "unjs"
     }
   ]
 }
