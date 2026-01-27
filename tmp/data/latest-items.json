@@ -229,6 +229,11 @@
       "title": "chore(deps-dev): bump pkg-pr-new from 0.0.54 to 0.0.62",
       "link": "https://github.com/honojs/middleware/pull/1723",
       "category": "hono"
+    },
+    {
+      "title": "Remove redundant check and function (call) in `defineLazyEventHandler`",
+      "link": "https://github.com/h3js/h3/issues/1290",
+      "category": "unjs"
     }
   ]
 }
