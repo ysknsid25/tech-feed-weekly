@@ -139,6 +139,16 @@
       "title": "Feature Request: Cloudflare Workers specific middleware (rate-limit, country-block, asn-block, maintenance)",
       "link": "https://github.com/honojs/hono/issues/4653",
       "category": "hono"
+    },
+    {
+      "title": "Bun v1.3.7 | bun.com",
+      "link": "https://bun.com/blog/bun-v1.3.7",
+      "category": "jsts"
+    },
+    {
+      "title": "Bug(optimize): Request body API removal affects outside of the handler",
+      "link": "https://github.com/honojs/cli/issues/64",
+      "category": "hono"
     }
   ]
 }
