@@ -224,6 +224,11 @@
       "title": "Introducing the vercel api CLI command",
       "link": "https://vercel.com/changelog/introducing-the-vercel-api-cli-command",
       "category": "cloud"
+    },
+    {
+      "title": "chore(deps-dev): bump pkg-pr-new from 0.0.54 to 0.0.62",
+      "link": "https://github.com/honojs/middleware/pull/1723",
+      "category": "hono"
     }
   ]
 }
