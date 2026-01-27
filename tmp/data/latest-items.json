@@ -204,6 +204,26 @@
       "title": "Help shape the future of open source in Europe | The GitHub Blog",
       "link": "https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/",
       "category": "jsts"
+    },
+    {
+      "title": "AIで出世した無能だけど、バレたら終わりだと毎日思ってる",
+      "link": "https://anond.hatelabo.jp/20260127123435",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "VanishChat - DBなし・完全ステートレスなメッセンジャーをCloudflare Workersで作った",
+      "link": "https://zenn.dev/kiyo2023/articles/vanishchat-db-free-messenger",
+      "category": "hono"
+    },
+    {
+      "title": "Kimi K2.5: Visual Agentic Intelligence | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/27/kimi-k25/#atom-everything",
+      "category": "jsts"
+    },
+    {
+      "title": "Introducing the vercel api CLI command",
+      "link": "https://vercel.com/changelog/introducing-the-vercel-api-cli-command",
+      "category": "cloud"
     }
   ]
 }
