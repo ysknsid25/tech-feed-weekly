@@ -129,6 +129,16 @@
       "title": "STORES はRubyKaigi 2026に参加したい学生さんを支援します | STORES Product Blog",
       "link": "https://product.st.inc/entry/rubykaigi2026_scholarship",
       "category": "jsts"
+    },
+    {
+      "title": "Gmail歴10年、もっと早く知りたかった。未読の山と容量不足を「一瞬で解決」する最強ハック | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/2601-matome-gmail/",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Feature Request: Cloudflare Workers specific middleware (rate-limit, country-block, asn-block, maintenance)",
+      "link": "https://github.com/honojs/hono/issues/4653",
+      "category": "hono"
     }
   ]
 }
