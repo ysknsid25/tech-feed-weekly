@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/accelerating-vmware-cloud-migration-with-aws-transform-and-powercli/"
     },
     {
       "name": "SRE Weekly",
