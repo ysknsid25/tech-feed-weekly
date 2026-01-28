@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://frontendmasters.com/blog/streaming-json-in-just-200-lines-of-javascript/"
+      "latestLink": "https://blog.flatt.tech/entry/client_side_path_traversal"
     },
     {
       "name": "TSKaigi",
