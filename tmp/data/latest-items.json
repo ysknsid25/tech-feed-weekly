@@ -134,6 +134,11 @@
       "title": "ゲーム業界駆け出しエンジニアがCodexを使いUnityゲームをソフトローンチした話",
       "link": "https://developers.cyberagent.co.jp/blog/archives/61930/",
       "category": "company"
+    },
+    {
+      "title": "Building a Slack Bot That Converts Music Links Across Platforms",
+      "link": "https://zenn.dev/flp/articles/music-link-converter-slack-bot",
+      "category": "hono"
     }
   ]
 }
