@@ -28,7 +28,7 @@
       "name": "JSer Info",
       "type": "categoryIsUrl",
       "feedUrl": "https://jser.info/watch-list-rss/feeds/rss.xml",
-      "latestLink": "https://simonwillison.net/2026/Jan/27/kimi-k25/#atom-everything"
+      "latestLink": "https://frontendmasters.com/blog/streaming-json-in-just-200-lines-of-javascript/"
     },
     {
       "name": "TSKaigi",
