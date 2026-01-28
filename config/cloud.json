@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/accelerating-vmware-cloud-migration-with-aws-transform-and-powercli/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/agentic-workflow%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9Famazon-nova-premier%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E7%A7%BB%E8%A1%8C%E3%81%AE%E5%8A%B9%E7%8E%87%E5%8C%96/"
     },
     {
       "name": "SRE Weekly",
