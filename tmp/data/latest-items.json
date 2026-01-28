@@ -179,6 +179,11 @@
       "title": "How to Style the New ::search-text and Other Highlight-y Pseudo-Elements | CSS-Tricks",
       "link": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
       "category": "jsts"
+    },
+    {
+      "title": "Tag-based cache invalidation now available for all responses",
+      "link": "https://vercel.com/changelog/tag-based-cache-invalidation-now-available-for-all-responses",
+      "category": "cloud"
     }
   ]
 }

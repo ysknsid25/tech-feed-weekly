@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/blog/how-sensay-went-from-zero-to-product-in-six-weeks"
+      "latestLink": "https://vercel.com/changelog/tag-based-cache-invalidation-now-available-for-all-responses"
     },
     {
       "name": "GitHub Actions Blog",
