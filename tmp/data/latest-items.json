@@ -194,6 +194,11 @@
       "title": "docs: add examples",
       "link": "https://github.com/nitrojs/nitro/pull/3984",
       "category": "unjs"
+    },
+    {
+      "title": "Ghost Dependency Issue found in yarn pnp",
+      "link": "https://github.com/nitrojs/nitro/issues/3985",
+      "category": "unjs"
     }
   ]
 }
