@@ -109,6 +109,11 @@
       "title": "専用アプリを作ってリレーマラソンの大会に参加してきました",
       "link": "https://developer.hatenastaff.com/entry/2026/01/28/130000",
       "category": "company"
+    },
+    {
+      "title": "RDS for Db2 でトラブルシューティングに必要な情報を収集する",
+      "link": "https://aws.amazon.com/jp/blogs/news/rds-for-db2-get-info/",
+      "category": "cloud"
     }
   ]
 }
