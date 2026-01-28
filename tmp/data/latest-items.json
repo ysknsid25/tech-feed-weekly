@@ -184,6 +184,16 @@
       "title": "Tag-based cache invalidation now available for all responses",
       "link": "https://vercel.com/changelog/tag-based-cache-invalidation-now-available-for-all-responses",
       "category": "cloud"
+    },
+    {
+      "title": "Vercel Agent investigations now available in Slack",
+      "link": "https://vercel.com/changelog/vercel-agent-investigations-now-available-in-slack",
+      "category": "cloud"
+    },
+    {
+      "title": "docs: add examples",
+      "link": "https://github.com/nitrojs/nitro/pull/3984",
+      "category": "unjs"
     }
   ]
 }

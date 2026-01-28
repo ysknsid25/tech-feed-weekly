@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/tag-based-cache-invalidation-now-available-for-all-responses"
+      "latestLink": "https://vercel.com/changelog/vercel-agent-investigations-now-available-in-slack"
     },
     {
       "name": "GitHub Actions Blog",
