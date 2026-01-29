@@ -14,6 +14,21 @@
       "title": "みんなAI使って何やってるの？",
       "link": "https://anond.hatelabo.jp/20260127205647",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Adding dynamic features to an aggressively cached website | Simon Willison's Weblog",
+      "link": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/#atom-everything",
+      "category": "jsts"
+    },
+    {
+      "title": "技術選定を突き詰める Online Conferenc​​e ――逆境を乗り越える意思決定プロセス",
+      "link": "https://findy.connpass.com/event/380974/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "feat(adapter): add getConnInfo for AWS Lambda, Cloudflare Pages, and Netlify",
+      "link": "https://github.com/honojs/hono/pull/4649",
+      "category": "hono"
     }
   ]
 }
