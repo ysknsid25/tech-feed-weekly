@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/inside-amazon-connect-the-evolution-of-a-disrupter/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/unlock-granular-resource-control-with-queue-based-qmr-in-amazon-redshift-serverless/"
     },
     {
       "name": "SRE Weekly",

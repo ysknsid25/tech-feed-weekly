@@ -89,6 +89,11 @@
       "title": "iPhoneの調子が悪いです。",
       "link": "https://www.aiphone-faq.jp/faq/show/4684?site_domain=default",
       "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "Amazon Redshift Serverless のキューベース QMR できめ細かなリソース制御を実現する",
+      "link": "https://aws.amazon.com/jp/blogs/news/unlock-granular-resource-control-with-queue-based-qmr-in-amazon-redshift-serverless/",
+      "category": "cloud"
     }
   ]
 }
