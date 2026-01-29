@@ -39,6 +39,26 @@
       "title": "TSKaigi Mashup #4 プロポーザルの書き方とコツを学ぼう",
       "link": "https://typescript-jpc.connpass.com/event/379927/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
       "category": "events"
+    },
+    {
+      "title": "2026年のBluesky予測 - Bluesky",
+      "link": "https://bsky.social/about/blog/01-28-2026-bluesky-2026-predictions-jp",
+      "category": "hatena-bookmark-tech"
+    },
+    {
+      "title": "コードレビューどうしてる？各社のTips共有会",
+      "link": "https://findy.connpass.com/event/381956/?utm_campaign=series_events\u0026utm_source=feed\u0026utm_medium=atom",
+      "category": "events"
+    },
+    {
+      "title": "Skew Protection now supports prebuilt deployments",
+      "link": "https://vercel.com/changelog/skew-protection-now-supports-prebuilt-deployments",
+      "category": "cloud"
+    },
+    {
+      "title": "CopilotからPilotへ：Agentic Codingで実装〜PRを自動化",
+      "link": "https://techblog.lycorp.co.jp/ja/20260129a",
+      "category": "company"
     }
   ]
 }

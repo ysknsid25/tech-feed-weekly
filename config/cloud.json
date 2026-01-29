@@ -16,7 +16,7 @@
       "name": "Vercel",
       "type": "categoryIsAtomUrl",
       "feedUrl": "https://vercel.com/atom",
-      "latestLink": "https://vercel.com/changelog/vercel-agent-investigations-now-available-in-slack"
+      "latestLink": "https://vercel.com/changelog/skew-protection-now-supports-prebuilt-deployments"
     },
     {
       "name": "GitHub Actions Blog",
