@@ -34,7 +34,7 @@
       "name": "AWS Japan Blog",
       "type": "categoryIsUrl",
       "feedUrl": "https://aws.amazon.com/jp/blogs/news/feed/",
-      "latestLink": "https://aws.amazon.com/jp/blogs/news/rds-for-db2-get-info/"
+      "latestLink": "https://aws.amazon.com/jp/blogs/news/inside-amazon-connect-the-evolution-of-a-disrupter/"
     },
     {
       "name": "SRE Weekly",
